@@ -1,4 +1,5 @@
-# DMI 2024
+# RAGtime
 
-Repo for the streamlit app for DMI2024
+
+RAG backend for the RAG over the AI-act
 
