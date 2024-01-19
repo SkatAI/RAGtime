@@ -1,0 +1,2421 @@
+1.FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1. Title of the proposal/initiative
+
+1.2. Policy area(s) concerned
+
+1.3. The proposal/initiative relates to:
+
+1.4. Objective(s)
+
+1.4.1. General objective(s)
+
+1.4.2. Specific objective(s)
+
+1.4.3. Expected result(s) and impact
+
+1.4.4. Indicators of performance
+
+1.5. Grounds for the proposal/initiative
+
+1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative
+
+1.5.2. Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone
+
+1.5.3. Lessons learned from similar experiences in the past
+
+1.5.4. Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments
+
+1.5.5 Assessment of the different available financing options, including scope for redeployment
+
+1.6. Duration and financial impact of the proposal/initiative
+
+1.7. Management mode(s) planned
+
+2.MANAGEMENT MEASURES
+
+2.1. Monitoring and reporting rules
+
+2.2. Management and control system
+
+2.2.1. Justification of the management mode(s) , the funding implementation mechanism(s) , the payment modalities and the control strategy proposed
+
+2.2.2. Information concerning the risks identified and the internal control system(s) set up to mitigate them
+
+2.2.3. Estimation and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed") , and assessment of the expected levels of risk of error (at payment & at closure)
+
+2.3.Measures to prevent fraud and irregularities
+
+3.ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+3.2.Estimated financial impact of the proposal on appropriations
+
+3.2.1.Summary of estimated impact on operational appropriations
+
+3.2.2.Estimated output funded with operational appropriations
+
+3.2.3. Summary of estimated impact on administrative appropriations
+
+3.2.4.Compatibility with the current multiannual financial framework
+
+3.2.5.Third-party contributions
+
+3.3.Estimated impact on revenue
+
+LEGISLATIVE FINANCIAL STATEMENT
+
+1.FRAMEWORK OF THE PROPOSAL/INITIATIVE
+
+1.1.Title of the proposal/initiative
+
+Regulation of the European Parliament and of the Council Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts
+
+1.2.Policy area(s) concerned
+
+Communications Networks, Content and Technology;
+
+Internal Market, Industry, Entrepreneurship and SMEs;
+
+The budgetary impact concerns the new tasks entrusted with the Commission, including the support to the EU AI Board;
+
+Activity: Shaping Europe's digital future.
+
+1.3.The proposal/initiative relates to:
+
+X a new action
+
+- a new action following a pilot project/preparatory action 64
+
+- the extension of an existing action
+
+- an action redirected towards a new action
+
+1.4.Objective(s)
+
+1.4.1.General objective(s)
+
+The general objective of the intervention is to ensure the proper functioning of the single market by creating the conditions for the development and use of trustworthy artificial intelligence in the Union.
+
+1.4.2.Specific objective(s)
+
+Specific objective No 1
+
+To set requirements specific to AI systems and obligations on all value chain participants in order to ensure that AI systems placed on the market and used are safe and respect existing law on fundamental rights and Union values;
+
+Specific objective No 2
+
+To ensure legal certainty to facilitate investment and innovation in AI by making it clear what essential requirements, obligations, as well as conformity and compliance procedures must be followed to place or use an AI system in the Union market;
+
+Specific objective No 3
+
+To enhance governance and effective enforcement of existing law on fundamental rights and safety requirements applicable to AI systems by providing new powers, resources and clear rules for relevant authorities on conformity assessment and ex post monitoring procedures and the division of governance and supervision tasks between national and EU levels;
+
+Specific objective No 4
+
+To facilitate the development of a single market for lawful, safe and trustworthy AI applications and prevent market fragmentation by taking EU action to set minimum requirement for AI systems to be placed and used in the Union market in compliance with existing law on fundamental rights and safety.
+
+1.4.3.Expected result(s) and impact
+
+Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted.
+
+AI suppliers should benefit from a minimal but clear set of requirements, creating legal certainty and ensuring access to the entire single market.
+
+AI users should benefit from legal certainty that the high-risk AI systems they buy comply with European laws and values.
+
+Consumers should benefit by reducing the risk of violations of their safety or fundamental rights.
+
+1.4.4.Indicators of performance
+
+Specify the indicators for monitoring implementation of the proposal/initiative.
+
+Indicator 1
+
+Number of serious incidents or AI performances which constitute a serious incident or a breach of fundamental rights obligations (semi-annual) by fields of applications and calculated a) in absolute terms, b) as share of applications deployed and c) as share of citizens concerned.
+
+Indicator 2
+
+a) Total AI investment in the EU (annual)
+
+b) Total AI investment by Member State (annual)
+
+c) Share of companies using AI (annual)
+
+d) Share of SMEs using AI (annual)
+
+a) and b) will be calculated based on official sources and benchmarked against private estimates
+
+c) and d) will be collected by regular company surveys
+
+1.5.Grounds for the proposal/initiative
+
+1.5.1.Requirement(s) to be met in the short or long term including a detailed timeline for roll-out of the implementation of the initiative
+
+The Regulation should be fully applicable one year and a half after its adoption. However, elements of the governance structure should be in place before then. In particular, Member States shall have appointed existing authorities and/or established new authorities performing the tasks set out in the legislation earlier, and the EU AI Board should be set-up and effective. By the time of applicability, the European database of AI systems should be fully operative. In parallel to the adoption process, it is therefore necessary to develop the database, so that its development has come to an end when the regulation enters into force.
+
+1.5.2.Added value of Union involvement (it may result from different factors, e.g. coordination gains, legal certainty, greater effectiveness or complementarities). For the purposes of this point 'added value of Union involvement' is the value resulting from Union intervention which is additional to the value that would have been otherwise created by Member States alone.
+
+An emerging patchy framework of potentially divergent national rules will hamper the seamless provision of AI systems across the EU and is ineffective in ensuring the safety and protection of fundamental rights and Union values across the different Member States. A common EU legislative action on AI could boost the internal market and has great potential to provide European industry with a competitive edge at the global scene and economies of scale that cannot be achieved by individual Member States alone.
+
+1.5.3.Lessons learned from similar experiences in the past
+
+The E-commerce Directive 2000/31/EC provides the core framework for the functioning of the single market and the supervision of digital services and sets a basic structure for a general cooperation mechanism among Member States, covering in principle all requirements applicable to digital services. The evaluation of the Directive pointed to shortcomings in several aspects of this cooperation mechanism, including important procedural aspects such as the lack of clear timeframes for response from Member States coupled with a general lack of responsiveness to requests from their counterparts. This has led over the years to a lack of trust between Member States in addressing concerns about providers offering digital services cross-border. The evaluation of the Directive showed the need to define a differentiated set of rules and requirements at European level. For this reason, the implementation of the specific obligations laid down in this Regulation would require a specific cooperation mechanism at EU level, with a governance structure ensuring coordination of specific responsible bodies at EU level.
+
+1.5.4.Compatibility with the Multiannual Financial Framework and possible synergies with other appropriate instruments
+
+The Regulation Laying Down Harmonised Rules on Artificial Intelligence and Amending Certain Union Legislative Acts defines a new common framework of requirements applicable to AI systems, which goes well beyond the framework provided by existing legislation. For this reason, a new national and European regulatory and coordination function needs to be established with this proposal.
+
+As regards possible synergies with other appropriate instruments, the role of notifying authorities at national level can be performed by national authorities fulfilling similar functions sunder other EU regulations.
+
+Moreover, by increasing trust in AI and thus encouraging investment in development and adoption of AI, it complements Digital Europe, for which promoting the diffusion of AI is one of five priorities.
+
+1.5.5.Assessment of the different available financing options, including scope for redeployment
+
+The staff will be redeployed. The other costs will be supported from the DEP. envelope, given that the objective of this regulation – ensuring trustworthy AI – contributes directly to one key objective of Digital Europe – accelerating AI development and deployment in Europe.
+
+1.6.Duration and financial impact of the proposal/initiative
+
+- limited duration
+
+    - in effect from [DD/MM]YYYY to [DD/MM]YYYY
+
+    - Financial impact from YYYY to YYYY for commitment appropriations and from YYYY to YYYY for payment appropriations.
+
+X unlimited duration
+
+–Implementation with a start-up period from one/two (tbc) year,
+
+–followed by full-scale operation.
+
+1.7.Management mode(s) planned 65
+
+X Direct management by the Commission
+
+    - by its departments, including by its staff in the Union delegations;
+
+    - by the executive agencies
+
+- Shared management with the Member States
+
+- Indirect management by entrusting budget implementation tasks to:
+
+    - third countries or the bodies they have designated;
+
+    - international organisations and their agencies (to be specified) ;
+
+    - the EIB and the European Investment Fund;
+
+    - bodies referred to in Articles 70 and 71 of the Financial Regulation;
+
+    - public law bodies;
+
+    - bodies governed by private law with a public service mission to the extent that they provide adequate financial guarantees;
+
+    - bodies governed by the private law of a Member State that are entrusted with the implementation of a public-private partnership and that provide adequate financial guarantees;
+
+    - persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU, and identified in the relevant basic act.
+
+–If more than one management mode is indicated, please provide details in the 'Comments' section.
+
+Comments
+
+2.MANAGEMENT MEASURES
+
+2.1.Monitoring and reporting rules
+
+Specify frequency and conditions.
+
+The Regulation will be reviewed and evaluated five years from the entry into force of the regulation. The Commission will report on the findings of the evaluation to the European Parliament, the Council and the European Economic and Social Committee.
+
+2.2.Management and control system(s)
+
+2.2.1.Justification of the management mode(s) , the funding implementation mechanism(s) , the payment modalities and the control strategy proposed
+
+The Regulation establishes a new policy with regard to harmonised rules for the provision of artificial intelligence systems in the internal market while ensuring the respect of safety and fundamental rights. These new rules require a consistency mechanism for the cross-border application of the obligations under this Regulation in the form of a new advisory group coordinating the activities of national authorities.
+
+In order to face these new tasks, it is necessary to appropriately resource the Commission's services. The enforcement of the new Regulation is estimated to require 10 FTE à regime (5 FTE for the support to the activities of the Board and 5 FTE for the European Data Protection Supervisor acting as a notifying body for AI systems deployed by a body of the European Union).
+
+2.2.2.Information concerning the risks identified and the internal control system(s) set up to mitigate them
+
+In order to ensure that the members of the Board have the possibility to make informed analysis on the basis of factual evidence, it is foreseen that the Board should be supported by the administrative structure of the Commission and that an expert group be created to provide additional expertise where required.
+
+2.2.3.Estimate and justification of the cost-effectiveness of the controls (ratio of "control costs ÷ value of the related funds managed") , and assessment of the expected levels of risk of error (at payment & at closure)
+
+For the meeting expenditure, given the low value per transaction (e.g. refunding travel costs for a delegate for a meeting) , standard control procedures seem sufficient. Regarding the development of the database, contract attribution has a strong internal control system in place in DG CNECT through centralised procurement activities.
+
+2.3.Measures to prevent fraud and irregularities
+
+Specify existing or envisaged prevention and protection measures, e.g. from the Anti-Fraud Strategy.
+
+The existing fraud prevention measures applicable to the Commission will cover the additional appropriations necessary for this Regulation.
+
+3.ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE
+
+3.1.Heading(s) of the multiannual financial framework and expenditure budget line(s) affected
+
+- Existing budget lines
+
+In order of multiannual financial framework headings and budget lines.
+
+Heading of multiannual financial framework
+
+
+Budget line
+
+
+Type of
+expenditure
+
+
+Contribution
+
+
+
+Number
+
+
+Diff./Non-diff. 66
+
+
+from EFTA countries 67
+
+
+
+from candidate countries 68
+
+
+
+from third countries
+
+
+within the meaning of Article 21(2) (b) of the Financial Regulation
+
+7
+
+
+20 02 06 Administrative expenditure
+
+
+Non-diff.
+
+
+NO
+
+
+NO
+
+
+NO
+
+
+NO
+
+1
+
+
+02 04 03 DEP Artificial Intelligence
+
+
+Diff.
+
+
+YES
+
+
+NO
+
+
+NO
+
+
+NO
+
+1
+
+
+02 01 30 01 Support expenditure for the Digital Europe programme
+
+
+Non-diff.
+
+
+YES
+
+
+NO
+
+
+NO
+
+
+NO
+
+3.2.Estimated financial impact of the proposal on appropriations
+
+3.2.1.Summary of estimated impact on expenditure on operational appropriations
+
+    - The proposal/initiative does not require the use of operational appropriations
+
+–X The proposal/initiative requires the use of operational appropriations, as explained below:
+
+EUR million (to three decimal places)
+
+Heading of multiannual financial
+framework
+
+
+1
+
+
+DG: CNECT
+
+
+
+
+
+
+
+
+Year
+2022
+
+
+Year
+2023
+
+
+Year
+2024
+
+
+Year
+2025
+
+
+Year
+2026
+
+
+Year
+2027 69
+
+
+TOTAL
+
+• Operational appropriations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Budget line 70 02 04 03
+
+
+Commitments
+
+
+(1a)
+
+
+
+
+1.000
+
+
+
+
+
+
+
+
+
+
+
+
+1.000
+
+
+
+Payments
+
+
+(2a)
+
+
+
+
+0.600
+
+
+0.100
+
+
+0.100
+
+
+0.100
+
+
+0.100
+
+
+
+
+1.000
+
+Budget line
+
+
+Commitments
+
+
+(1b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payments
+
+
+(2b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appropriations of an administrative nature financed from the envelope of specific programmes 71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Budget line 02 01 30 01
+
+
+
+
+(3)
+
+
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+
+
+1.200
+
+TOTAL appropriations
+for DG CNECT
+
+
+Commitments
+
+
+=1a+1b +3
+
+
+
+
+1.240
+
+
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+
+
+2.200
+
+
+
+Payments
+
+
+=2a+2b
+
++3
+
+
+
+
+0.840
+
+
+0.340
+
+
+0.340
+
+
+0.340
+
+
+0.340
+
+
+
+
+2.200
+
+
+
+
+
+• TOTAL operational appropriations
+
+
+Commitments
+
+
+(4)
+
+
+
+
+1.000
+
+
+
+
+
+
+
+
+
+
+
+
+1.000
+
+
+
+Payments
+
+
+(5)
+
+
+
+
+0.600
+
+
+0.100
+
+
+0.100
+
+
+0.100
+
+
+0.100
+
+
+
+
+1.000
+
+• TOTAL appropriations of an administrative nature financed from the envelope for specific programmes
+
+
+(6)
+
+
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+
+
+1.200
+
+TOTAL appropriations
+under HEADING 1
+of the multiannual financial framework
+
+
+Commitments
+
+
+=4+ 6
+
+
+
+
+1.240
+
+
+0.240
+
+
+0.240
+
+
+.0.240
+
+
+0.240
+
+
+
+
+2.200
+
+
+
+Payments
+
+
+=5+ 6
+
+
+
+
+0.840
+
+
+0.340
+
+
+0.340
+
+
+0.340
+
+
+0.340
+
+
+
+
+2.200
+
+If more than one heading is affected by the proposal / initiative, repeat the section above:
+
+• TOTAL operational appropriations (all operational headings)
+
+
+Commitments
+
+
+(4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payments
+
+
+(5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• TOTAL appropriations of an administrative nature financed from the envelope for specific programmes (all operational headings)
+
+
+(6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOTAL appropriations
+under HEADINGS 1 to 6
+of the multiannual financial framework
+(Reference amount)
+
+
+Commitments
+
+
+=4+ 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payments
+
+
+=5+ 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heading of multiannual financial
+framework
+
+
+7
+
+
+'Administrative expenditure'
+
+This section should be filled in using the 'budget data of an administrative nature' to be firstly introduced in the Annex to the Legislative Financial Statement (Annex V to the internal rules) , which is uploaded to DECIDE for interservice consultation purposes.
+
+EUR million (to three decimal places)
+
+
+
+
+
+
+
+Year
+2023
+
+
+Year
+2024
+
+
+Year
+2025
+
+
+Year
+2026
+
+
+Year 2027
+
+
+After 2027 72
+
+
+TOTAL
+
+DG: CNECT
+
+• Human resources
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+3.800
+
+• Other administrative expenditure
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.050
+
+TOTAL DG CNECT
+
+
+Appropriations
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+3.850
+
+European Data Protection Supervisor
+
+
+• Human resources
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+3.800
+
+• Other administrative expenditure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOTAL EDPS
+
+
+Appropriations
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+0.760
+
+
+3.800
+
+TOTAL appropriations
+under HEADING 7
+of the multiannual financial framework
+
+
+(Total commitments = Total payments)
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+7.650
+
+EUR million (to three decimal places)
+
+
+
+
+
+
+
+Year
+2022
+
+
+Year
+2023
+
+
+Year
+2024
+
+
+Year
+2025
+
+
+Year 2026
+
+
+Year 2027
+
+
+
+
+TOTAL
+
+TOTAL appropriations
+under HEADINGS 1 to 7
+of the multiannual financial framework
+
+
+Commitments
+
+
+
+
+2.770
+
+
+1.770
+
+
+1.770
+
+
+1.770
+
+
+1.770
+
+
+
+
+9.850
+
+
+
+Payments
+
+
+
+
+2.370
+
+
+1.870
+
+
+1.870
+
+
+1.870
+
+
+1.870
+
+
+9.850
+
+3.2.2.Estimated output funded with operational appropriations
+
+Commitment appropriations in EUR million (to three decimal places)
+
+Indicate objectives and outputs
+
+⇩
+
+
+
+
+
+
+Year
+2022
+
+
+Year
+2023
+
+
+Year
+2024
+
+
+Year
+2025
+
+
+Year
+2026
+
+
+Year
+2027
+
+
+After
+2027 73
+
+
+TOTAL
+
+
+
+OUTPUTS
+
+
+
+Type
+
+
+
+Average cost
+
+
+No
+
+
+Cost
+
+
+No
+
+
+Cost
+
+
+No
+
+
+Cost
+
+
+No
+
+
+Cost
+
+
+No
+
+
+Cost
+
+
+No
+
+
+Cost
+
+
+No
+
+
+Cost
+
+
+Total No
+
+
+Total cost
+
+SPECIFIC OBJECTIVE No 1 74 ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Database
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1.000
+
+
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+0.100
+
+
+1
+
+
+1.000
+
+Meetings- Output
+
+
+
+
+
+
+
+
+
+
+10
+
+
+0.200
+
+
+10
+
+
+0.200
+
+
+10
+
+
+0.200
+
+
+10
+
+
+0.200
+
+
+10
+
+
+0.200
+
+
+10
+
+
+0.200
+
+
+50
+
+
+1.000
+
+Communication activities
+
+
+
+
+
+
+
+
+
+
+2
+
+
+0.040
+
+
+2
+
+
+0.040
+
+
+2
+
+
+0.040
+
+
+2
+
+
+0.040
+
+
+2
+
+
+0.040
+
+
+2
+
+
+0.040
+
+
+10
+
+
+0.040
+
+Subtotal for specific objective No 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPECIFIC OBJECTIVE No 2. ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subtotal for specific objective No 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOTALS
+
+
+
+
+
+
+13
+
+
+0.240
+
+
+13
+
+
+0.240
+
+
+13
+
+
+0.240
+
+
+13
+
+
+0.240
+
+
+13
+
+
+0.240
+
+
+13
+
+
+0.100
+
+
+65
+
+
+2.200
+
+3.2.3.Summary of estimated impact on administrative appropriations
+
+    - The proposal/initiative does not require the use of appropriations of an administrative nature
+
+–X The proposal/initiative requires the use of appropriations of an administrative nature, as explained below:
+
+EUR million (to three decimal places)
+
+
+
+Year
+2022
+
+
+Year
+2023
+
+
+Year
+2024
+
+
+Year
+2025
+
+
+Year
+2026
+
+
+Year
+2027
+
+
+Yearly after
+
+2027 75
+
+
+TOTAL
+
+HEADING 7
+of the multiannual financial framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human resources
+
+
+
+
+1.520
+
+
+1.520
+
+
+1.520
+
+
+1.520
+
+
+1.520
+
+
+1.520
+
+
+7.600
+
+Other administrative expenditure
+
+
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.010
+
+
+0.050
+
+Subtotal HEADING 7
+of the multiannual financial framework
+
+
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+1.530
+
+
+7.650
+
+Outside HEADING 7 76
+of the multiannual financial framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other expenditure
+of an administrative nature
+
+
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+1.20
+
+Subtotal
+outside HEADING 7
+of the multiannual financial framework
+
+
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+0.240
+
+
+1.20
+
+TOTAL
+
+
+
+
+1.770
+
+
+1.770
+
+
+1.770
+
+
+1.770
+
+
+1.770
+
+
+1.770
+
+
+8.850
+
+The appropriations required for human resources and other expenditure of an administrative nature will be met by appropriations from the DG that are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+3.2.3.1.Estimated requirements of human resources
+
+    - The proposal/initiative does not require the use of human resources.
+
+–X The proposal/initiative requires the use of human resources, as explained below:
+
+Estimate to be expressed in full time equivalent units
+
+.
+
+
+
+
+Year
+2023
+
+
+Year 2024
+
+
+Year 2025
+
+
+2026
+
+
+2027
+
+
+After 2027 77
+
+
+• Establishment plan posts (officials and temporary staff)
+
+20 01 02 01 (Headquarters and Commission's Representation Offices)
+
+
+10
+
+
+10
+
+
+10
+
+
+10
+
+
+10
+
+
+10
+
+
+20 01 02 03 (Delegations)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01 01 01 01 (Indirect research)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01 01 01 11 (Direct research)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other budget lines (specify)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• External staff (in Full Time Equivalent unit: FTE) 78
+
+20 02 01 (AC, END, INT from the 'global envelope')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 02 03 (AC, AL, END, INT and JPD in the delegations)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XX 01 xx yy zz 79
+
+
+
+- at Headquarters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- in Delegations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01 01 01 02 (AC, END, INT - Indirect research)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01 01 01 12 (AC, END, INT - Direct research)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other budget lines (specify)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOTAL
+
+
+
+
+10
+
+
+10
+
+
+10
+
+
+10
+
+
+10
+
+
+10
+
+
+XX is the policy area or budget title concerned.
+
+The human resources required will be met by staff from the DG who are already assigned to management of the action and/or have been redeployed within the DG, together if necessary with any additional allocation which may be granted to the managing DG under the annual allocation procedure and in the light of budgetary constraints.
+
+EDPS is expected to provide half of the resources required.
+
+Description of tasks to be carried out:
+
+Officials and temporary staff
+
+
+To prepare a total of 13-16 meetings, draft reports, continue policy work, e.g. regarding future amendments of the list of high-risk AI applications, and maintain relations with Member States' authorities will require four AD FTE and 1 AST FTE.
+
+For AI systems developed by the EU institutions, the European Data Protection Supervisor is responsible. Based on past experience, it can be estimated that 5 AD FTE are reuqired to fulfill the EDPS responsibilites under the draft legislation.
+
+External staff
+
+
+3.2.4.Compatibility with the current multiannual financial framework
+
+The proposal/initiative:
+
+–X can be fully financed through redeployment within the relevant heading of the Multiannual Financial Framework (MFF).
+
+No reporgramming is needed.
+
+    - requires use of the unallocated margin under the relevant heading of the MFF and/or use of the special instruments as defined in the MFF Regulation.
+
+Explain what is required, specifying the headings and budget lines concerned, the corresponding amounts, and the instruments proposed to be used.
+
+    - requires a revision of the MFF.
+
+Explain what is required, specifying the headings and budget lines concerned and the corresponding amounts.
+
+3.2.5.Third-party contributions
+
+The proposal/initiative:
+
+–X does not provide for co-financing by third parties
+
+    - provides for the co-financing by third parties estimated below:
+
+Appropriations in EUR million (to three decimal places)
+
+
+
+Year
+N 80
+
+
+Year
+N+1
+
+
+Year
+N+2
+
+
+Year
+N+3
+
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+
+Total
+
+Specify the co-financing body
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOTAL appropriations co-financed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3.Estimated impact on revenue
+
+    - The proposal/initiative has the following financial impact:
+
+    - The proposal/initiative has the following financial impact:
+
+    - on other revenue
+
+    - on other revenue
+
+–Please indicate, if the revenue is assigned to expenditure lines -
+
+EUR million (to three decimal places)
+
+Budget revenue line:
+
+
+Appropriations available for the current financial year
+
+
+Impact of the proposal/initiative 81
+
+
+
+
+
+Year
+N
+
+
+Year
+N+1
+
+
+Year
+N+2
+
+
+Year
+N+3
+
+
+Enter as many years as necessary to show the duration of the impact (see point 1.6)
+
+Article .............
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For assigned revenue, specify the budget expenditure line(s) affected.
+
+
+
+Other remarks (e.g. method/formula used for calculating the impact on revenue or any other information).
+
+ (1)  https://ec.europa.eu/commission/sites/beta-political/files/political-guidelines-next-commission_en.pdf
+ (2)  European Commission, White Paper on Artificial Intelligence - A European approach to excellence and trust, COM(2020) 65 final, 2020.
+ (3)  European Council, Special meeting of the European Council (1 and 2 October 2020) – Conclusions , EUCO 13/20, 2020, p. 6.
+ (4)  European Parliament resolution of 20 October 2020 with recommendations to the Commission on a framework of ethical aspects of artificial intelligence, robotics and related technologies, 2020/2012(INL).
+ (5)  European Council, European Council meeting (19 October 2017) – Conclusion EUCO 14/17, 2017, p. 8.
+ (6)  Council of the European Union, Artificial intelligence b) Conclusions on the coordinated plan on artificial intelligence-Adoption 6177/19, 2019.
+ (7)  European Council, Special meeting of the European Council (1and 2 October 2020) – Conclusions EUCO 13/20, 2020.
+ (8)  Council of the European Union, Presidency conclusions - The Charter of Fundamental Rights in the context of Artificial Intelligence and Digital Change , 11481/20, 2020.
+ (9)  European Parliament resolution of 20 October 2020 on a framework of ethical aspects of artificial intelligence, robotics and related technologies, 2020/2012(INL).
+ (10)  European Parliament resolution of 20 October 2020 on a civil liability regime for artificial intelligence, 2020/2014(INL).
+ (11)  European Parliament resolution of 20 October 2020 on intellectual property rights for the development of artificial intelligence technologies, 2020/2015(INI).
+ (12)  European Parliament Draft Report, Artificial intelligence in criminal law and its use by the police and judicial authorities in criminal matters, 2020/2016(INI).
+ (13)  European Parliament Draft Report, Artificial intelligence in education, culture and the audiovisual sector, 2020/2017(INI). In that regard, the Commission has adopted the Digital Education Action Plan 2021-2027: Resetting education and training for the digital age, which foresees the development of ethical guidelines in AI and Data usage in education – Commission Communication COM(2020) 624 final.
+ (14)  Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC Text with EEA relevance, OJ L 176, 27.6.2013, p. 338–436.
+ (15)  Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('Directive on electronic commerce') , OJ L 178, 17.7.2000, p. 1–16.
+ (16)  See Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a Single Market For Digital Services (Digital Services Act) and amending Directive 2000/31/EC COM/2020/825 final.
+ (17)  Communication from the Commission, Shaping Europe's Digital Future, COM/2020/67 final.
+ (18)  2030 Digital Compass: the European way for the Digital Decade.
+ (19)  Proposal for a Regulation on European data governance (Data Governance Act) COM/2020/767.
+ (20)  Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information, PE/28/2019/REV/1, OJ L 172, 26.6.2019, p. 56–83.
+ (21)  Commission Communication, A European strategy for data COM/2020/66 final.
+ (22)  See all consultation results here.
+ (23)  European Commission, Building Trust in Human-Centric Artificial Intelligence , COM(2019) 168.
+ (24)  HLEG, Ethics Guidelines for Trustworthy AI , 2019.
+ (25)  HLEG, Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment , 2020.
+ (26)  The AI Alliance is a multi-stakeholder forum launched in June 2018, AI Alliance https://ec.europa.eu/digital-single-market/en/european-ai-alliance
+ (27)  European Commission, Inception Impact Assessment For a Proposal for a legal act of the European Parliament and the Council laying down requirements for Artificial Intelligence.
+ (28)  For details of all the consultations that have been carried out see Annex 2 of the impact assessment.
+ (29)  High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI , 2019.
+ (30)  They were also endorsed by the Commission in its 2019 Communication on human-centric approach to AI.
+ (31)
+ (32)
+ (33)  European Council, Special meeting of the European Council (1 and 2 October 2020) – Conclusions, EUCO 13/20, 2020, p. 6.
+ (34)  European Parliament resolution of 20 October 2020 with recommendations to the Commission on a framework of ethical aspects of artificial intelligence, robotics and related technologies, 2020/2012(INL).
+ (35)  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+ (36)  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)
+ (37)  Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (Law Enforcement Directive) (OJ L 119, 4.5.2016, p. 89).
+ (38)  Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States (OJ L 190, 18.7.2002, p. 1).
+ (39)  Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (OJ L 97, 9.4.2008, p. 72).
+ (40)  Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles (OJ L 60, 2.3.2013, p. 1).
+ (41)  Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).
+ (42)  Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146).
+ (43)  Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p. 44).
+ (44)  Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1).
+ (45)  Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).
+ (46)  Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019 on type-approval requirements for motor vehicles and their trailers, and systems, components and separate technical units intended for such vehicles, as regards their general safety and the protection of vehicle occupants and vulnerable road users, amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 of the European Parliament and of the Council and Commission Regulations (EC) No 631/2009, (EU) No 406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No 1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011, (EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No 1230/2012 and (EU) 2015/166 (OJ L 325, 16.12.2019, p. 1).
+ (47)  Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1).
+ (48)  Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176).
+ (49)  Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection (OJ L 180, 29.6.2013, p. 60).
+ (50)  Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code) (OJ L 243, 15.9.2009, p. 1).
+ (51)  Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
+ (52)  Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products, and repealing Council Decision 93/465/EEC (OJ L 218, 13.8.2008, p. 82).
+ (53)  Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance) (OJ L 169, 25.6.2019, p. 1–44).
+ (54)  Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).
+ (55)  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+ (56)  Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+ (57)  Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 on general product safety (OJ L 11, 15.1.2002, p. 4).
+ (58)  OJ L 123, 12.5.2016, p. 1.
+ (59)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p.13).
+ (60)  Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('Directive on electronic commerce') (OJ L 178, 17.7.2000, p. 1).
+ (61)  Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).
+ (62)  Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States (OJ L 190, 18.7.2002, p. 1).
+ (63)  Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 1).
+ (64)  As referred to in Article 54(2) (a) or (b) of the Financial Regulation
+ (65)  Details of management modes and references to the Financial Regulation may be found on the BudgWeb site: http://www.cc.cec/budg/man/budgmanag/budgmanag_en.html
+ (66)  Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations.
+ (67)  EFTA: European Free Trade Association.
+ (68)  Candidate countries and, where applicable, potential candidate countries from the Western Balkans.
+ (69)  Indicative and dependent on budget availability.
+ (70)  According to the official budget nomenclature.
+ (71)  Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines) , indirect research, direct research.
+ (72)  All figures in this column are indicative and subject to the continuation of the programmes and availability of appropriations
+ (73)  All figures in this column are indicative and subject to the continuation of the programmes and availability of appropriations
+ (74)  As described in point 1.4.2. 'Specific objective(s) ...'
+ (75)  All figures in this column are indicative and subject to the continuation of the programmes and availability of appropriations.
+ (76)  Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines) , indirect research, direct research.
+ (77)  All figures in this column are indicative and subject to the continuation of the programmes and availability of appropriations.
+ (78)  AC = Contract Staff; AL = Local Staff; END = Seconded National Expert; INT = agency staff; JPD = Junior Professionals in Delegations.
+ (79)  Sub-ceiling for external staff covered by operational appropriations (former 'BA' lines).
+ (80)  Year N is the year in which implementation of the proposal/initiative starts. Please replace "N" by the expected first year of implementation (for instance: 2021). The same for the following years.
+ (81)  As regards traditional own resources (customs duties, sugar levies) , the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20 % for collection costs.

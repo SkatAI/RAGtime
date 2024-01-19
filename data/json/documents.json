@@ -1,0 +1,14 @@
+[{
+    "id":1,
+    "uuid": "3ee2bbd9-defb-47d0-b065-a8a40f1e5369",
+    "refs": ["CELEX:52021PC0206","COM(2021) 206 final", "2021/0106(COD)"],
+    "urls": ["https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206"],
+    "title": "AI-act proposal by the commission 21/04/2021",
+    "subtitle":"",
+    "description": "",
+    "date": "2024-04-21",
+    "issuer": "European Commission",
+    "related": ["SEC(2021) 167 final","SWD(2021) 84 final","SWD(2021) 85 final"],
+    "lang": ["EN"],
+    "format":"html"
+}]
