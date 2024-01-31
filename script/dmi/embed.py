@@ -21,7 +21,6 @@ import numpy as np
 # Local
 from weaviate_utils import *
 
-
 # OpenAI
 import openai
 import tiktoken

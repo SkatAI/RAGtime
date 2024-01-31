@@ -84,8 +84,6 @@ def connect_client(location = 'local'):
             )
     return client
 
-
-
 def create_collection(client, collection_name, vectorizer, properties, replace = True, stopwords = None ):
     # create collection
     if client.collections.exists(collection_name):

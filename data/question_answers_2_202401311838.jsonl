@@ -1,0 +1,298 @@
+{
+    "question": "What actions can a Member State's market surveillance authority take if it finds non-compliance with conformity marking and EU declaration of conformity?",
+    "answer": [
+        "{\n    'short': 'The market surveillance authority can require the provider to fix the non-compliance.',\n    'expert': 'According to the Artificial Intelligence Act, if a Member State's market surveillance authority finds non-compliance with conformity marking and EU declaration of conformity, it can require the relevant provider to put an end to the non-compliance. This includes situations where the conformity marking has been affixed in violation of Article 49, the marking has not been affixed, the EU declaration of conformity has not been drawn up, or the identification number of the notified body has not been affixed.' \n}"
+    ],
+    "ground_truth_context": [
+        "1. Where the market surveillance authority of a Member State makes one of the following findings, it shall require the relevant provider to put an end to the non-compliance concerned: (a) the conformity marking has been affixed in violation of Article 49; (b) the conformity marking has not been affixed; (c) the EU declaration of conformity has not been drawn up; (d) the EU declaration of conformity has not been drawn up correctly; (e) the identification number of the notified body, which is involved in the conformity assessment procedure, where applicable, has not been affixed;"
+    ],
+    "context": [
+        "TITLE VIII: POST-MARKET MONITORING, INFORMATION SHARING, MARKET SURVEILLANCE >> Chapter 3: Enforcement >> Article 68: Formal non-compliance >> Section 1\nWhere the market surveillance authority of a Member State makes one of the following findings, it shall require the relevant provider to put an end to the non-compliance concerned: (a) the conformity marking has been affixed in violation of Article 49; (b) the conformity marking has not been affixed; (c) the EU declaration of conformity has not been drawn up; (d) the EU declaration of conformity has not been drawn up correctly; (e) the identification number of the notified body, which is involved in the conformity assessment procedure, where applicable, has not been affixed;\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "Are notified bodies for high-risk AI systems required to be independent of the providers and other operators with economic interests in the system?",
+    "answer": {
+        "short": "Yes, they have to be independent.",
+        "expert": "Yes, according to the Artificial Intelligence Act, notified bodies for high-risk AI systems are required to be independent of the providers and other operators with economic interests in the system. This is to ensure impartiality and prevent conflicts of interest in the assessment of AI systems."
+    },
+    "ground_truth_context": [
+        "1. Notified bodies shall be independent of the provider of a high-risk AI system in relation to which it performs conformity assessment activities.\n2. Notified bodies shall also be independent of any other operator having an economic interest in the high-risk AI system that is assessed, as well as of any competitors of the provider."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 4: NOTIFIYING AUTHORITIES AND NOTIFIED BODIES >> Article 33: Notified bodies >> Section 4\nNotified bodies shall be independent of the provider of a high-risk AI system in relation to which it performs conformity assessment activities. Notified bodies shall also be independent of any other operator having an economic interest in the high-risk AI system that is assessed, as well as of any competitors of the provider.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What is the preferred policy option for regulating AI systems according to the European Commission's impact assessment?",
+    "answer": [
+        "{\n    'short': 'The preferred option is to regulate high-risk AI systems only.',\n    'expert': 'According to the European Commission's impact assessment, the preferred policy option for regulating AI systems is option 3+, which focuses on creating a regulatory framework specifically for high-risk AI systems. This framework would include mandatory requirements for data, documentation, traceability, provision of information, transparency, human oversight, and robustness and accuracy. Non-high-risk AI systems would have the option to follow a code of conduct.' \n}"
+    ],
+    "ground_truth_context": [
+        "The preferred option is option 3+, a regulatory framework for high-risk AI systems only, with the possibility for all providers of non-high-risk AI systems to follow a code of conduct. The requirements will concern data, documentation and traceability, provision of information and transparency, human oversight and robustness and accuracy and would be mandatory for high-risk AI systems."
+    ],
+    "context": [
+        "3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS >> 3.3. Impact assessment\nFour policy options of different degrees of regulatory intervention were assessed: - Option 1: EU legislative instrument setting up a voluntary labelling scheme; - Option 2: a sectoral, \u201cad-hoc\u201d approach; - Option 3: Horizontal EU legislative instrument following a proportionate risk-based approach; - Option 3+: Horizontal EU legislative instrument following a proportionate risk-based approach + codes of conduct for non-high-risk AI systems; - Option 4: Horizontal EU legislative instrument establishing mandatory requirements for all AI systems, irrespective of the risk they pose.\nAccording to the Commission's established methodology, each policy option was evaluated against economic and societal impacts, with a particular focus on impacts on fundamental rights. The preferred option is option 3+, a regulatory framework for high-risk AI systems only, with the possibility for all providers of non-high-risk AI systems to follow a code of conduct. The requirements will concern data, documentation and traceability, provision of information and transparency, human oversight and robustness and accuracy and would be mandatory for high-risk AI systems. Companies that introduced codes of conduct for other AI systems would do so voluntarily.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "How should Member States facilitate coordination between market surveillance authorities and other relevant national authorities for high-risk AI systems in the Union market?",
+    "answer": {
+        "short": "Member States should help market surveillance authorities work with other relevant national authorities for high-risk AI systems.",
+        "expert": "According to the Artificial Intelligence Act, Member States are required to facilitate coordination between market surveillance authorities designated under the Regulation and other relevant national authorities or bodies supervising the application of Union harmonisation legislation listed in Annex II or other relevant Union legislation for high-risk AI systems referred to in Annex III."
+    },
+    "ground_truth_context": [
+        "1. Member States shall facilitate the coordination between market surveillance authorities designated under this Regulation and other relevant national authorities or bodies which supervise the application of Union harmonisation legislation listed in Annex II or other Union legislation that might be relevant for the high-risk AI systems referred to in Annex III."
+    ],
+    "context": [
+        "TITLE VIII: POST-MARKET MONITORING, INFORMATION SHARING, MARKET SURVEILLANCE >> Chapter 3: Enforcement >> Article 63: Market surveillance and control of AI systems in the Union market >> Section 7\nMember States shall facilitate the coordination between market surveillance authorities designated under this Regulation and other relevant national authorities or bodies which supervise the application of Union harmonisation legislation listed in Annex II or other Union legislation that might be relevant for the high-risk AI systems referred to in Annex III.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What liability do participants in the AI regulatory sandbox have for harm caused to third parties during experimentation?",
+    "answer": {
+        "short": "Participants in the AI regulatory sandbox are liable for harm caused to third parties.",
+        "expert": "Participants in the AI regulatory sandbox are responsible for any harm caused to third parties during experimentation, and they will be held accountable under the liability legislation of the European Union and its Member States."
+    },
+    "ground_truth_context": [
+        "Participants in the AI regulatory sandbox shall remain liable under applicable Union and Member States liability legislation for any harm inflicted on third parties as a result from the experimentation taking place in the sandbox."
+    ],
+    "context": [
+        "TITLE V: MEASURES IN SUPPORT OF INNOVATION >> Article 53: AI regulatory sandboxes >> Section 4\nParticipants in the AI regulatory sandbox shall remain liable under applicable Union and Member States liability legislation for any harm inflicted on third parties as a result from the experimentation taking place in the sandbox.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What actions must the market surveillance authority take if an AI system is found to not comply with the requirements and obligations laid down in the Regulation?",
+    "answer": {
+        "short": "The market surveillance authority must require the operator to take corrective actions or withdraw/recall the AI system.",
+        "expert": "According to the Artificial Intelligence Act, if the market surveillance authority finds that an AI system does not comply with the requirements and obligations, it must require the operator to take corrective actions, withdraw the AI system from the market, or recall it within a reasonable period. If the authority has sufficient reasons to consider that an AI system presents a risk, it must carry out an evaluation of the AI system in respect of its compliance with the Regulation."
+    },
+    "ground_truth_context": [
+        "1. Where, in the course of that evaluation, the market surveillance authority finds that the AI system does not comply with the requirements and obligations laid down in this Regulation, it shall without delay require the relevant operator to take all appropriate corrective actions to bring the AI system into compliance, to withdraw the AI system from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe. \n2. Where the market surveillance authority of a Member State has sufficient reasons to consider that an AI system presents a risk as referred to in paragraph 1, they shall carry out an evaluation of the AI system concerned in respect of its compliance with all the requirements and obligations laid down in this Regulation."
+    ],
+    "context": [
+        "TITLE VIII: POST-MARKET MONITORING, INFORMATION SHARING, MARKET SURVEILLANCE >> Chapter 3: Enforcement >> Article 65: Procedure for dealing with AI systems presenting a risk at national level >> Section 2\nWhere the market surveillance authority of a Member State has sufficient reasons to consider that an AI system presents a risk as referred to in paragraph 1, they shall carry out an evaluation of the AI system concerned in respect of its compliance with all the requirements and obligations laid down in this Regulation. When risks to the protection of fundamental rights are present, the market surveillance authority shall also inform the relevant national public authorities or bodies referred to in Article 64(3). The relevant operators shall cooperate as necessary with the market surveillance authorities and the other national public authorities or bodies referred to in Article 64(3).\nWhere, in the course of that evaluation, the market surveillance authority finds that the AI system does not comply with the requirements and obligations laid down in this Regulation, it shall without delay require the relevant operator to take all appropriate corrective actions to bring the AI system into compliance, to withdraw the AI system from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "Can AI system certificates be extended beyond five years?",
+    "answer": {
+        "short": "Yes, AI system certificates can be extended beyond five years.",
+        "expert": "According to the Artificial Intelligence Act, AI system certificates can be extended for further periods, each not exceeding five years, based on a re-assessment in accordance with the applicable conformity assessment procedures. This means that the validity of a certificate may be extended beyond the initial five-year period upon application by the provider and meeting the necessary requirements."
+    },
+    "ground_truth_context": [
+        "Certificates shall be valid for the period they indicate, which shall not exceed five years. On application by the provider, the validity of a certificate may be extended for further periods, each not exceeding five years, based on a re-assessment in accordance with the applicable conformity assessment procedures."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 5: STANDARDS, CONFORMITY ASSESSMENT, CERTIFICATES, REGISTRATION >> Article 44: Certificates >> Section 2\nCertificates shall be valid for the period they indicate, which shall not exceed five years. On application by the provider, the validity of a certificate may be extended for further periods, each not exceeding five years, based on a re-assessment in accordance with the applicable conformity assessment procedures.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What role do the European Data Protection Supervisor and the European Data Protection Board play in EU policy?",
+    "answer": {
+        "short": "They provide consultation and deliver opinions on EU policy.",
+        "expert": "The European Data Protection Supervisor (EDPS) and the European Data Protection Board (EDPB) play a crucial role in EU policy making by providing consultation and delivering opinions on matters related to data protection, in accordance with Article 42(2) of Regulation (EU) 2018/1725."
+    },
+    "ground_truth_context": [
+        "1. \"The European Data Protection Supervisor and the European Data Protection Board were consulted in accordance with Article 42(2) of Regulation (EU) 2018/1725 and delivered an opinion on [...]\""
+    ],
+    "context": [
+        "(89) The European Data Protection Supervisor and the European Data Protection Board were consulted in accordance with Article 42(2) of Regulation (EU) 2018/1725 and delivered an opinion on [...]\u201d.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What is the Commission empowered to do in order to introduce necessary elements of conformity assessment procedures in light of technical progress?",
+    "answer": {
+        "short": "The Commission can update conformity assessment procedures as technology advances.",
+        "expert": "According to Article 73, the Commission has the authority to adopt delegated acts to update Annexes VI and VII, in order to introduce necessary elements of conformity assessment procedures in light of technical progress."
+    },
+    "ground_truth_context": [
+        "1. The Commission is empowered to adopt delegated acts in accordance with Article 73 for the purpose of updating Annexes VI and Annex VII in order to introduce elements of the conformity assessment procedures that become necessary in light of technical progress."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 5: STANDARDS, CONFORMITY ASSESSMENT, CERTIFICATES, REGISTRATION >> Article 43: Conformity assessment >> Section 5\nThe Commission is empowered to adopt delegated acts in accordance with Article 73 for the purpose of updating Annexes VI and Annex VII in order to introduce elements of the conformity assessment procedures that become necessary in light of technical progress.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What are the conditions for processing personal data in the AI regulatory sandbox for developing innovative AI systems in the public interest?",
+    "answer": {
+        "short": "Personal data can be processed in the AI regulatory sandbox for developing innovative AI systems in the public interest under certain conditions.",
+        "expert": "The conditions for processing personal data in the AI regulatory sandbox for developing innovative AI systems in the public interest include that the AI systems must be developed for safeguarding substantial public interest in areas such as the prevention, investigation, detection or prosecution of criminal offences, and that the data processed are necessary for complying with specific requirements where those requirements cannot be effectively fulfilled by processing anonymised, synthetic or other non-personal data. Additionally, effective monitoring mechanisms must be in place to identify and mitigate any high risks to the fundamental rights of the data subjects during the sandbox experimentation."
+    },
+    "ground_truth_context": [
+        "- In the AI regulatory sandbox personal data lawfully collected for other purposes shall be processed for the purposes of developing and testing certain innovative AI systems in the sandbox under the following conditions\n- the innovative AI systems shall be developed for safeguarding substantial public interest in one or more of the following areas: (i) the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, under the control and responsibility of the competent authorities.\n- the data processed are necessary for complying with one or more of the requirements referred to in Title III, Chapter 2 where those requirements cannot be effectively fulfilled by processing anonymised, synthetic or other non-personal data\n- there are effective monitoring mechanisms to identify if any high risks to the fundamental rights of the data subjects may arise during the sandbox experimentation as well as response mechanism to promptly mitigate those risks and, where necessary, stop the processing"
+    ],
+    "context": [
+        "TITLE V: MEASURES IN SUPPORT OF INNOVATION >> Article 54: Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox >> Section 1\nIn the AI regulatory sandbox personal data lawfully collected for other purposes shall be processed for the purposes of developing and testing certain innovative AI systems in the sandbox under the following conditions: (a) the innovative AI systems shall be developed for safeguarding substantial public interest in one or more of the following areas: (i) the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, under the control and responsibility of the competent authorities. The processing shall be based on Member State or Union law; (ii) public safety and public health, including disease prevention, control and treatment; (iii) a high level of protection and improvement of the quality of the environment; (b) the data processed are necessary for complying with one or more of the requirements referred to in Title III, Chapter 2 where those requirements cannot be effectively fulfilled by processing anonymised, synthetic or other non-personal data; (c) there are effective monitoring mechanisms to identify if any high risks to the fundamental rights of the data subjects may arise during the sandbox experimentation as well as response mechanism to promptly mitigate those risks and, where necessary, stop the processing; (d) any personal data to be processed in the context of the sandbox are in a functionally separate, isolated and protected data processing environment under the control of the participants and only authorised persons have access to that data; (e) any personal data processed are not be transmitted, transferred or otherwise accessed by other parties; (f) any processing of personal data in the context of the sandbox do not lead to measures or decisions affecting the data subjects; (g) any personal data processed in the context of the sandbox are deleted once the participation in the sandbox has terminated or the personal data has reached the end of its retention period; (h) the logs of the processing of personal data in the context of the sandbox are kept for the duration of the participation in the sandbox and 1 year after its termination, solely for the purpose of and only as long as necessary for fulfilling accountability and documentation obligations under this Article or other application Union or Member States legislation; (i) complete and detailed description of the process and rationale behind the training, testing and validation of the AI system is kept together with the testing results as part of the technical documentation in Annex IV; (j) a short summary of the AI project developed in the sandbox, its objectives and expected results published on the website of the competent authorities.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "How is the European Union addressing the benefits and risks of artificial intelligence systems at the Union level, as requested by the European Parliament and the European Council?",
+    "answer": {
+        "short": "The EU is addressing the benefits and risks of AI at the Union level.",
+        "expert": "The European Union is addressing the benefits and risks of artificial intelligence systems at the Union level through the proposal of the Artificial Intelligence Act, which aims to ensure a well-functioning internal market for AI systems and to protect ethical principles as requested by the European Parliament and the European Council. This includes determining high-risk AI applications and reviewing existing legislation to fit the new opportunities and challenges raised by AI."
+    },
+    "ground_truth_context": [
+        "The proposal also responds to explicit requests from the European Parliament (EP) and the European Council, which have repeatedly expressed calls for legislative action to ensure a well-functioning internal market for artificial intelligence systems ('AI systems') where both benefits and risks of AI are adequately addressed at Union level. It supports the objective of the Union being a global leader in the development of secure, trustworthy and ethical artificial intelligence as stated by the European Council 3 and ensures the protection of ethical principles as specifically requested by the European Parliament 4. In its 2019 Conclusions on the Coordinated Plan on the development and use of artificial intelligence Made in Europe 6 , the Council further highlighted the importance of ensuring that European citizens' rights are fully respected and called for a review of the existing relevant legislation to make it fit for purpose for the new opportunities and challenges raised by AI. The European Council has also called for a clear determination of the AI applications that should be considered high-risk 7."
+    ],
+    "context": [
+        "1. CONTEXT OF THE PROPOSAL >> 1.1. Reasons for and objectives of the proposal\nThe proposal also responds to explicit requests from the European Parliament (EP) and the European Council, which have repeatedly expressed calls for legislative action to ensure a well-functioning internal market for artificial intelligence systems ('AI systems') where both benefits and risks of AI are adequately addressed at Union level. It supports the objective of the Union being a global leader in the development of secure, trustworthy and ethical artificial intelligence as stated by the European Council 3 and ensures the protection of ethical principles as specifically requested by the European Parliament 4.\nIn 2017, the European Council called for a 'sense of urgency to address emerging trends' including 'issues such as artificial intelligence ..., while at the same time ensuring a high level of data protection, digital rights and ethical standards' 5. In its 2019 Conclusions on the Coordinated Plan on the development and use of artificial intelligence Made in Europe 6 , the Council further highlighted the importance of ensuring that European citizens' rights are fully respected and called for a review of the existing relevant legislation to make it fit for purpose for the new opportunities and challenges raised by AI. The European Council has also called for a clear determination of the AI applications that should be considered high-risk 7.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What are the obligations of users of high-risk AI systems regarding the maintenance of logs?",
+    "answer": {
+        "short": "Users of high-risk AI systems must keep the automatically generated logs for a suitable period of time.",
+        "expert": "According to the Artificial Intelligence Act, users of high-risk AI systems are required to maintain the logs automatically generated by the system, within their control, for a period that aligns with the intended purpose of the AI system and any legal obligations under Union or national law. Additionally, credit institutions regulated by Directive 2013/36/EU must include the logs as part of their internal governance documentation, as outlined in Article 74 of that Directive."
+    },
+    "ground_truth_context": [
+        "1. Users of high-risk AI systems shall keep the logs automatically generated by that high-risk AI system, to the extent such logs are under their control.\n2. The logs shall be kept for a period that is appropriate in the light of the intended purpose of the high-risk AI system and applicable legal obligations under Union or national law.\n3. Users that are credit institutions regulated by Directive 2013/36/EU shall maintain the logs as part of the documentation concerning internal governance arrangements, processes and mechanisms pursuant to Article 74 of that Directive."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 3: OBLIGATIONS OF PROVIDERS AND USERS OF HIGH-RISK AI SYSTEMS and other parties >> Article 29: Obligations of users of high-risk AI systems >> Section 5\nUsers of high-risk AI systems shall keep the logs automatically generated by that high-risk AI system, to the extent such logs are under their control. The logs shall be kept for a period that is appropriate in the light of the intended purpose of the high-risk AI system and applicable legal obligations under Union or national law.\nUsers that are credit institutions regulated by Directive 2013/36/EU shall maintain the logs as part of the documentation concerning internal governance arrangements, processes and mechanisms pursuant to Article 74 of that Directive.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What does the EU Regulation on artificial intelligence systems cover?",
+    "answer": {
+        "short": "The EU Regulation on artificial intelligence systems covers rules for using AI and prohibits certain practices.",
+        "expert": "The EU Regulation on artificial intelligence systems covers harmonised rules for placing on the market, using AI systems, prohibitions of certain AI practices, specific requirements for high-risk AI systems, transparency rules for AI systems interacting with natural persons, emotion recognition systems, biometric categorisation systems, and AI systems used to generate or manipulate image, audio or video content, as well as rules on market monitoring and surveillance."
+    },
+    "ground_truth_context": [
+        "This Regulation lays down: (a) harmonised rules for the placing on the market, the putting into service and the use of artificial intelligence systems ('AI systems') in the Union; (a) prohibitions of certain artificial intelligence practices; (b) specific requirements for high-risk AI systems and obligations for operators of such systems; (c) harmonised transparency rules for AI systems intended to interact with natural persons, emotion recognition systems and biometric categorisation systems, and AI systems used to generate or manipulate image, audio or video content; (d) rules on market monitoring and surveillance."
+    ],
+    "context": [
+        "TITLE I: GENERAL PROVISIONS >> Article 1: Subject matter >> Section 1\nThis Regulation lays down: (a) harmonised rules for the placing on the market, the putting into service and the use of artificial intelligence systems ('AI systems') in the Union; (a) prohibitions of certain artificial intelligence practices; (b) specific requirements for high-risk AI systems and obligations for operators of such systems; (c) harmonised transparency rules for AI systems intended to interact with natural persons, emotion recognition systems and biometric categorisation systems, and AI systems used to generate or manipulate image, audio or video content; (d) rules on market monitoring and surveillance.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "How should the risk management measures for high-risk AI systems consider the combined effects of the requirements in Chapter 2?",
+    "answer": {
+        "short": "The risk management measures should consider how the requirements in Chapter 2 work together.",
+        "expert": "The risk management measures for high-risk AI systems need to take into account how the different requirements in Chapter 2 interact and their combined effects. This includes considering the current state of technology and any relevant industry standards or specifications."
+    },
+    "ground_truth_context": [
+        "The risk management measures referred to in paragraph 2, point (d) shall give due consideration to the effects and possible interactions resulting from the combined application of the requirements set out in this Chapter 2. They shall take into account the generally acknowledged state of the art, including as reflected in relevant harmonised standards or common specifications."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 2: requirements for high-risk Ai systems >> Article 9: Risk management system >> Section 3\nThe risk management measures referred to in paragraph 2, point (d) shall give due consideration to the effects and possible interactions resulting from the combined application of the requirements set out in this Chapter 2. They shall take into account the generally acknowledged state of the art, including as reflected in relevant harmonised standards or common specifications.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What actions can the Commission take if a notified body does not meet the requirements for AI systems?",
+    "answer": {
+        "short": "The Commission can ask the Member State to take corrective measures or withdraw the notification if a notified body doesn't meet the requirements for AI systems.",
+        "expert": "According to Article 33 of the Artificial Intelligence Act, if the Commission determines that a notified body fails to meet the specified requirements, it can issue a reasoned decision requesting the notifying Member State to take corrective measures, including withdrawal of notification if necessary. The adoption of this decision will follow the examination procedure outlined in Article 74(2) of the Act."
+    },
+    "ground_truth_context": [
+        "1. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements laid down in Article 33, it shall adopt a reasoned decision requesting the notifying Member State to take the necessary corrective measures, including withdrawal of notification if necessary. \n2. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 74(2)."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 4: NOTIFIYING AUTHORITIES AND NOTIFIED BODIES >> Article 37: Challenge to the competence of notified bodies >> Section 4\nWhere the Commission ascertains that a notified body does not meet or no longer meets the requirements laid down in Article 33, it shall adopt a reasoned decision requesting the notifying Member State to take the necessary corrective measures, including withdrawal of notification if necessary. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 74(2).\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What mechanisms will be put in place to monitor and evaluate the effects of high-risk AI applications in the EU?",
+    "answer": {
+        "short": "The Commission will monitor high-risk AI applications and create a public database for them.",
+        "expert": "The Commission will establish a system for registering high-risk AI applications in a public EU-wide database, and AI providers will be required to provide information about their systems and report any incidents or malfunctions to national competent authorities, who will then investigate and transmit the information to the Commission."
+    },
+    "ground_truth_context": [
+        "- The Commission will be in charge of monitoring the effects of the proposal.\n- It will establish a system for registering stand-alone high-risk AI applications in a public EU-wide database.\n- AI providers will be obliged to provide meaningful information about their systems and the conformity assessment carried out on those systems.\n- AI providers will be obliged to inform national competent authorities about serious incidents or malfunctioning that constitute a breach of fundamental rights obligations as soon as they become aware of them.\n- National competent authorities will then investigate the incidents/or malfunctioning, collect all the necessary information and regularly transmit it to the Commission with adequate metadata."
+    ],
+    "context": [
+        "5. OTHER ELEMENTS >> 5.1. Implementation plans and monitoring, evaluation and reporting arrangements\nProviding for a robust monitoring and evaluation mechanism is crucial to ensure that the proposal will be effective in achieving its specific objectives. The Commission will be in charge of monitoring the effects of the proposal. It will establish a system for registering stand-alone high-risk AI applications in a public EU-wide database. This registration will also enable competent authorities, users and other interested people to verify if the high-risk AI system complies with the requirements laid down in the proposal and to exercise enhanced oversight over those AI systems posing high risks to fundamental rights. To feed this database, AI providers will be obliged to provide meaningful information about their systems and the conformity assessment carried out on those systems.\nMoreover, AI providers will be obliged to inform national competent authorities about serious incidents or malfunctioning that constitute a breach of fundamental rights obligations as soon as they become aware of them, as well as any recalls or withdrawals of AI systems from the market. National competent authorities will then investigate the incidents/or malfunctioning, collect all the necessary information and regularly transmit it to the Commission with adequate metadata. The Commission will complement this information on the incidents by a comprehensive analysis of the overall market for AI.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "Do Member States need to provide adequate resources to national competent authorities for regulating artificial intelligence?",
+    "answer": {
+        "short": "Yes, they need to provide resources for regulating AI.",
+        "expert": "Yes, according to the Artificial Intelligence Act, Member States are required to ensure that national competent authorities have adequate financial and human resources to carry out their responsibilities. This includes having personnel with expertise in AI technologies, data, fundamental rights, health and safety risks, and legal requirements."
+    },
+    "ground_truth_context": [
+        "1. Member States shall ensure that national competent authorities are provided with adequate financial and human resources to fulfil their tasks under this Regulation.\n2. In particular, national competent authorities shall have a sufficient number of personnel permanently available whose competences and expertise shall include an in-depth understanding of artificial intelligence technologies, data and data computing, fundamental rights, health and safety risks and knowledge of existing standards and legal requirements."
+    ],
+    "context": [
+        "TITLE VI: GOVERNANCE >> Chapter 1: European Artificial Intelligence Board >> Article 59: Designation of national competent authorities >> Section 4\nMember States shall ensure that national competent authorities are provided with adequate financial and human resources to fulfil their tasks under this Regulation. In particular, national competent authorities shall have a sufficient number of personnel permanently available whose competences and expertise shall include an in-depth understanding of artificial intelligence technologies, data and data computing, fundamental rights, health and safety risks and knowledge of existing standards and legal requirements.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What does 'conformity assessment' mean in relation to AI systems according to the European Commission?",
+    "answer": {
+        "short": "Conformity assessment means checking if AI systems meet the requirements set by the EU.",
+        "expert": "In the context of the European Commission's Artificial Intelligence Act, 'conformity assessment' refers to the process of verifying whether the requirements outlined in Title III, Chapter 2 of the Regulation relating to an AI system have been met. This involves assessing whether the AI system complies with the specific criteria and standards set by the EU for its safe and ethical use."
+    },
+    "ground_truth_context": [
+        "1. 'conformity assessment' means the process of verifying whether the requirements set out in Title III, Chapter 2 of this Regulation relating to an AI system have been fulfilled;"
+    ],
+    "context": [
+        "TITLE I: GENERAL PROVISIONS >> Article 3: Definitions >> Section 20\n'conformity assessment' means the process of verifying whether the requirements set out in Title III, Chapter 2 of this Regulation relating to an AI system have been fulfilled;\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "Can market surveillance authorities authorize the use of high-risk AI systems for specific reasons of public security, protection of life and health, environmental protection, and protection of key industrial and infrastructural assets?",
+    "answer": {
+        "short": "Yes, for specific reasons of public security, protection of life and health, environmental protection, and protection of key industrial and infrastructural assets.",
+        "expert": "Yes, market surveillance authorities can authorize the use of high-risk AI systems for exceptional reasons of public security, protection of life and health, environmental protection, and the protection of key industrial and infrastructural assets, as stated in Article 43 of the Artificial Intelligence Act. This authorization is temporary and ends once the necessary conformity assessment procedures are completed."
+    },
+    "ground_truth_context": [
+        "1. By way of derogation from Article 43, any market surveillance authority may authorise the placing on the market or putting into service of specific high-risk AI systems within the territory of the Member State concerned, for exceptional reasons of public security or the protection of life and health of persons, environmental protection and the protection of key industrial and infrastructural assets.\n2. That authorisation shall be for a limited period of time, while the necessary conformity assessment procedures are being carried out, and shall terminate once those procedures have been completed."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 5: STANDARDS, CONFORMITY ASSESSMENT, CERTIFICATES, REGISTRATION >> Article 47: Derogation from conformity assessment procedure >> Section 1\nBy way of derogation from Article 43, any market surveillance authority may authorise the placing on the market or putting into service of specific high-risk AI systems within the territory of the Member State concerned, for exceptional reasons of public security or the protection of life and health of persons, environmental protection and the protection of key industrial and infrastructural assets. That authorisation shall be for a limited period of time, while the necessary conformity assessment procedures are being carried out, and shall terminate once those procedures have been completed. The completion of those procedures shall be undertaken without undue delay.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What are the requirements for data governance and management practices for training, validation, and testing data sets of high-risk AI systems?",
+    "answer": {
+        "short": "Data governance and management practices must be followed for training, validation, and testing data sets of high-risk AI systems.",
+        "expert": "According to the Artificial Intelligence Act, the requirements for data governance and management practices for training, validation, and testing data sets of high-risk AI systems include appropriate practices for design choices, data collection, data preparation processing operations, formulation of assumptions, prior assessment of data availability and suitability, examination for possible biases, identification of data gaps or shortcomings, and addressing those gaps and shortcomings."
+    },
+    "ground_truth_context": [
+        "- Training, validation and testing data sets shall be subject to appropriate data governance and management practices.\n- Those practices shall concern in particular, (a) the relevant design choices; (b) data collection; (c) relevant data preparation processing operations, such as annotation, labelling, cleaning, enrichment and aggregation; (d) the formulation of relevant assumptions, notably with respect to the information that the data are supposed to measure and represent; (e) a prior assessment of the availability, quantity and suitability of the data sets that are needed; (f) examination in view of possible biases; (g) the identification of any possible data gaps or shortcomings, and how those gaps and shortcomings can be addressed."
+    ],
+    "context": [
+        "TITLE III: HIGH-RISK AI SYSTEMS >> Chapter 2: requirements for high-risk Ai systems >> Article 10: Data and data governance >> Section 2\nTraining, validation and testing data sets shall be subject to appropriate data governance and management practices. Those practices shall concern in particular, (a) the relevant design choices; (b) data collection; (c) relevant data preparation processing operations, such as annotation, labelling, cleaning, enrichment and aggregation; (d) the formulation of relevant assumptions, notably with respect to the information that the data are supposed to measure and represent; (e) a prior assessment of the availability, quantity and suitability of the data sets that are needed; (f) examination in view of possible biases; (g) the identification of any possible data gaps or shortcomings, and how those gaps and shortcomings can be addressed.\nAuthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}

@@ -1,0 +1,30 @@
+{
+    "question": "What are the estimated costs for businesses and public authorities to comply with the requirements for high-risk AI systems by 2025?",
+    "answer": {
+        "short": "Around EUR \u20ac 6000 to EUR \u20ac 7000 for high-risk AI systems and EUR \u20ac 5000 to EUR \u20ac 8000 per year for human oversight.",
+        "expert": "According to the Artificial Intelligence Act, businesses and public authorities are estimated to incur costs of approximately EUR \u20ac 6000 to EUR \u20ac 7000 for the supply of high-risk AI systems by 2025, with an additional annual cost of EUR \u20ac 5000 to EUR \u20ac 8000 for ensuring human oversight. Verification costs for high-risk AI could amount to another EUR \u20ac 3000 to EUR \u20ac 7500. Minimal obligations of information apply to AI applications not classified as high risk."
+    },
+    "ground_truth_context": [
+        "Compliance with these requirements would imply costs amounting to approximately EUR \u20ac 6000 to EUR \u20ac 7000 for the supply of an average high-risk AI system of around EUR \u20ac 170000 by 2025. For AI users, there would also be the annual cost for the time spent on ensuring human oversight where this is appropriate, depending on the use case. Those have been estimated at approximately EUR \u20ac 5000 to EUR \u20ac 8000 per year. Verification costs could amount to another EUR \u20ac 3000 to EUR \u20ac 7500 for suppliers of high-risk AI. Businesses or public authorities that develop or use any AI applications not classified as high risk would only have minimal obligations of information."
+    ],
+    "context": [
+        "3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS >> 3.3. Impact assessment\nBusinesses or public authorities that develop or use AI applications that constitute a high risk for the safety or fundamental rights of citizens would have to comply with specific requirements and obligations. Compliance with these requirements would imply costs amounting to approximately EUR \u20ac 6000 to EUR \u20ac 7000 for the supply of an average high-risk AI system of around EUR \u20ac 170000 by 2025. For AI users, there would also be the annual cost for the time spent on ensuring human oversight where this is appropriate, depending on the use case. Those have been estimated at approximately EUR \u20ac 5000 to EUR \u20ac 8000 per year. Verification costs could amount to another EUR \u20ac 3000 to EUR \u20ac 7500 for suppliers of high-risk AI. Businesses or public authorities that develop or use any AI applications not classified as high risk would only have minimal obligations of information. However, they could choose to join others and together adopt a code of conduct to follow suitable requirements, and to ensure that their AI systems are trustworthy. In such a case, costs would be at most as high as for high-risk AI systems, but most probably lower.\nThe impacts of the policy options on different categories of stakeholders (economic operators/ business; conformity assessment bodies, standardisation bodies and other public bodies; individuals/citizens; researchers) are explained in detail in Annex 3 of the Impact assessment supporting this proposal.\nauthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
+{
+    "question": "What are the reporting requirements for providers of high-risk AI systems in the EU in the event of serious incidents or malfunctioning?",
+    "answer": {
+        "short": "Providers of high-risk AI systems must report serious incidents or malfunctions to market surveillance authorities in the EU.",
+        "expert": "According to the Artificial Intelligence Act, providers of high-risk AI systems in the EU are required to report any serious incidents or malfunctions to the market surveillance authorities of the Member States where the incident occurred. This notification must be made immediately after establishing a causal link between the AI system and the incident, or within 15 days of becoming aware of the serious incident or malfunctioning."
+    },
+    "ground_truth_context": [
+        "1. Providers of high-risk AI systems placed on the Union market shall report any serious incident or any malfunctioning of those systems which constitutes a breach of obligations under Union law intended to protect fundamental rights to the market surveillance authorities of the Member States where that incident or breach occurred.\n2. Such notification shall be made immediately after the provider has established a causal link between the AI system and the incident or malfunctioning or the reasonable likelihood of such a link, and, in any event, not later than 15 days after the providers becomes aware of the serious incident or of the malfunctioning."
+    ],
+    "context": [
+        "TITLE VIII: POST-MARKET MONITORING, INFORMATION SHARING, MARKET SURVEILLANCE >> Chapter 2: Sharing of information on incidents and malfunctioning >> Article 62: Reporting of serious incidents and of malfunctioning >> Section 1\nProviders of high-risk AI systems placed on the Union market shall report any serious incident or any malfunctioning of those systems which constitutes a breach of obligations under Union law intended to protect fundamental rights to the market surveillance authorities of the Member States where that incident or breach occurred.\nSuch notification shall be made immediately after the provider has established a causal link between the AI system and the incident or malfunctioning or the reasonable likelihood of such a link, and, in any event, not later than 15 days after the providers becomes aware of the serious incident or of the malfunctioning.\nauthor: European Commission, 2021-04-21"
+    ],
+    "question_type": "simple",
+    "episode_done": true
+}
