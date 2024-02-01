@@ -11,4 +11,19 @@
     "related": ["SEC(2021) 167 final","SWD(2021) 84 final","SWD(2021) 85 final"],
     "lang": ["EN"],
     "format":"html"
-}]
+},
+{
+    "id":2,
+    "uuid": "xxxxxxxx-defb-47d0-b065-a8a40f1e5369",
+    "refs": [],
+    "urls": ["https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:xxxxxxx"],
+    "title": "some title",
+    "subtitle":"",
+    "description": "",
+    "date_published": "2025-01-01",
+    "issuer": "Unknown",
+    "related": [],
+    "lang": ["EN"],
+    "format":"html"
+}
+]
