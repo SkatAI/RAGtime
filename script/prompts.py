@@ -9,6 +9,7 @@ Your task is to formulate a question from the given context.
 - The question should make sense to humans even when read without the given context.
 - The question shoud only have one simple sentence and independent clause.
 - The question should be short and straight to the point
+- The question should be shorter than 15 words
 
 Write in colloquial, everyday English in a concise and simple style.
 

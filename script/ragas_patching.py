@@ -3,8 +3,8 @@ from __future__ import annotations
 import typing as t
 import warnings
 from collections import defaultdict, namedtuple
-from dataclasses import dataclass
-
+from dataclasses import dataclass,  asdict
+import json
 try:
     from llama_index.indices.query.embedding_utils import get_top_k_embeddings
     from llama_index.node_parser import SimpleNodeParser
@@ -70,7 +70,7 @@ DataRowPatched = namedtuple(
     [
         "question",
         "ground_truth_context",
-        "ground_truth",
+        "answer",
         "context",
         "question_type",
         "episode_done",
@@ -92,7 +92,7 @@ class TestDatasetPatched:
             data = {
                 "question": data.question,
                 "ground_truth_context": data.ground_truth_context,
-                "ground_truth": data.ground_truth,
+                "answer": data.answer,
                 "context": data.context,
                 "question_type": data.question_type,
                 "episode_done": data.episode_done,
@@ -101,6 +101,11 @@ class TestDatasetPatched:
 
         return pd.DataFrame.from_records(data_samples)
 
+    def to_jsonl(self, filename: str) -> None:
+        with open(filename, 'w') as file:
+            for data in self.test_data:
+                json_str = json.dumps(asdict(data), indent=4)
+                file.write(json_str + '\n')
 
 
 from ragas.testset.utils import load_as_score

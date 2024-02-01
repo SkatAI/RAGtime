@@ -13,16 +13,15 @@ pd.options.display.width = 160
 pd.set_option("display.float_format", "{:.4f}".format)
 import numpy as np
 import random
-random.seed(800)
-
-docs_concatenate = 2
 
 # documents
 from dataclasses import dataclass, field
 from typing import List
 
+from langchain.docstore.document import Document
+
 @dataclass
-class Document:
+class JsonDocument:
     id: int
     uuid: str
     refs: List[str]
@@ -42,24 +41,24 @@ class Document:
 @dataclass
 class Documents:
     filename: str
-    docs: list[Document] = field(init=False)
+    docs: list[JsonDocument] = field(init=False)
 
     def __post_init__(self):
         self.docs = self.load_documents()
 
-    def load_documents(self) -> List[Document]:
+    def load_documents(self) -> List[JsonDocument]:
         with open(self.filename, 'r') as file:
-            json_data = json.load(file)  # Use json.load for files, json.loads for strings.
+            json_data = json.load(file)
         print(f"loaded {len(json_data)} docs")
-        return [Document(**doc) for doc in json_data]
+        return [JsonDocument(**doc) for doc in json_data]
 
-    def find(self,uuid) -> Document:
+    def find(self,uuid) -> JsonDocument:
         for doc in self.docs:
             if doc.uuid == uuid:
                 return doc
 
     def uuids(self) -> List[str]:
-        return [d.uuid for d in docs]
+        return [d.uuid for d in self.docs]
 
 @dataclass
 class Snip():
@@ -72,14 +71,12 @@ class Snip():
     path:str
     header:bool
     text:str
-    belongs_to: Document = field(init = False)
 
-    def __post_init__(self):
-        # find the parent document
-        # self.belongs_to =
+    def __post_init__(self) -> None:
         pass
 
-
+    def valid(self) -> bool:
+        return (not self.header) & (len(self.path) > 1)
 
 @dataclass
 class Snips:
@@ -99,38 +96,78 @@ class Snips:
 
         return snips
 
-    def get_documents(self,documents:Documents) -> List[str]:
-    # def get_document_uuids(self) -> List[str]:
-        document_uuids = list(set([ snip.document_uuid for snip in self.items  ]))
-        return  [documents.find(uuid).footer for uuid in document_uuids]
+    def get_titles(self) -> List[str]:
+        return list(set([snip.path for snip in self.items]))
+
+    def find_by_title(self, title: str) -> List[Snip]:
+        return [ item for item in self.items if( item.path == title ) & (not item.header )]
+
+@dataclass
+class Chunk:
+    snip_list: List[Snip]
+    text: str = field(init = False)
+    title: str  = field(init = False)
+    document_uuid: str = field(init = False)
+
+    def __post_init__(self) -> None:
+        self.get_text()
+        self.get_title()
+        self.get_document_uuid()
+
+    def get_text(self) -> None:
+        self.text = '\n'.join( [ item.text for item in self.snip_list  ]  )
+
+    def get_title(self) -> None:
+        # title
+        titles = list(set([ item.path for item in self.snip_list  ]))
+        assert len(titles) < 2, titles
+        self.title = titles[0]
+
+    def get_document_uuid(self) -> None:
+        uuids = list(set([ item.document_uuid for item in self.snip_list  ]))
+        assert len(uuids) == 1, uuids
+        self.document_uuid = uuids[0]
+
+
+@dataclass
+class Chunks:
+    snips: Snips
+    chunks: List[Chunk] = field(init = False)
+
+    def __post_init__(self):
+
+        self.chunks = []
+        for title in self.snips.get_titles():
+            snip_list = self.snips.find_by_title(title)
+            if len(snip_list) >0:
+                chunk = Chunk(snip_list)
+                self.chunks.append(chunk)
+
+    def to_langchain_documents(self, max_documents : int ) -> List[Document]:
+        documents = []
+        for chunk  in self.chunks:
+            documents.append(
+                Document(
+                    page_content='\n'.join([chunk.title, chunk.text]),
+                    metadata={'document_uuid': chunk.document_uuid}
+                )
+            )
+        if max_documents is not None:
+            documents = random.sample(documents, max_documents)
+        return documents
+
+
 
 if __name__ == "__main__":
 
     documents_filename = 'data/json/documents.json'
-
     document_path = 'data/json/'
+
     files = glob.glob(os.path.join(document_path, '*.json'))
     files.pop( files.index(documents_filename)    )
 
     snips = Snips(files)
-    docs = Documents(documents_filename)
-    print(snips.get_documents(docs))
 
+    chunks = Chunks(snips)
 
-    # Number of concatenated consecutive paragraphs
-
-    # chunks = []
-    # for doc_name in docu_names:
-    #     data = pd.read_json(doc_name)
-
-    #     headers = data.path.unique()
-    #     for header in headers:
-    #         # don't want simple headers
-    #         cond = (data.path == header) & (~data.header)
-
-    #         if data[cond].shape[0] > 0:
-    #             for k in range(0, data[cond].shape[0], docs_concatenate):
-    #                 end_ = min(data[cond].shape[0], k+docs_concatenate)
-    #                 chunks.append('\n'.join([ header] + list(data[cond][k: end_].text.values) + [footer] ))
-
-
+    chunks.to_langchain_documents(max_documents=10)

@@ -64,7 +64,7 @@ def title_level(text):
 
 if __name__ == "__main__":
 
-    if True:
+    if False:
         filename = "./data/txt/52021-PC0206/52021PC0206-COM(2021)-206-final-01-01-explanatory-memorandum.txt"
         output_file_json = "./data/json/52021PC0206-explanatory-memorandum.json"
         base_ = {
@@ -103,18 +103,30 @@ if __name__ == "__main__":
     document = []
     for text in texts:
         candidate = base_.copy()
-        if is_title(text):
-            level = title_level(text)
-            print("=====", level, text)
-            if title_h1(text):
-                current_title = [text]
-                level = 0
+        if base_['type'] == 'context':
+            if is_title(text):
+                level = title_level(text)
+                print("=====", level, text)
+                if title_h1(text):
+                    current_title = [text]
+                    level = 0
+                else:
+                    current_title = current_title[:level]
+                    current_title.append(text)
+                print(level, current_title)
             else:
-                current_title = current_title[:level]
-                current_title.append(text)
-            print(level, current_title)
+                counter_ += 1
+
         else:
+            # recitals
+            rgx = r"^\((\d+)\)"
+            try:
+                current_title = [f"Recital {re.match(rgx, text).group(1)}"]
+            except:
+                current_title = ['']
+            text = re.sub(r"^\((\d+)\)",'', text).strip()
             counter_ += 1
+
 
         candidate.update({
             "id": str(counter_),
