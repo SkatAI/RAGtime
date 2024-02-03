@@ -1,5 +1,9 @@
 '''
 extract text from PDf using pdfplumber
+specific to doc: ST-15698-2022-INIT_EN.pdf
+1) extract raw text from pdf into ST-15698-2022-INIT_EN.txt
+2) manual cut into 3 parts: explanatory memo, recitals, and regulation
+3) parsing the 3 parts to json files
 '''
 
 
@@ -59,7 +63,9 @@ def add_lr_around_article(text):
 
 if __name__ == "__main__":
 
-    file = "JURI-AD-719827_EN.pdf"
+    # 1) extracting raw text
+    # file = "ST-15698-2022-INIT_EN.pdf"
+    file = "AIAct_final_four-column21012024.pdf"
     outfile = f"{os.path.splitext(file)[0]}.txt"
     filepath = "./data/pdf"
     outpath = "./data/txt"
@@ -67,6 +73,25 @@ if __name__ == "__main__":
     pdf = pdfplumber.open(os.path.join(filepath,file))
 
     print(f"Document {file} has {len(pdf.pages)} pages")
+    print("--1) extracting raw text")
+
+    text = []
+    k = 0
+    for page in tqdm(pdf.pages):
+        text.append(page.extract_text())
+        k +=1
+        if k > 10:
+            break
+
+    assert 1 == 2
+
+    # add page separation symbol
+    text = '\n--<PAGE>--\n'.join(text)
+
+    with open(  os.path.join(outpath, outfile) , 'w') as f:
+        f.write(text)
+
+    assert 1 == 2
 
     text = []
     for i in tqdm(range(len(pdf.pages))):
