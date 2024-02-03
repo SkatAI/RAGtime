@@ -42,16 +42,16 @@ function rmStrikethrough(docurl, execrm) {
     });
 
     // Reverse the array to start inserting tags from the end of the document
-    if (execrm) {
-        console.log("==> deleting " + strikethroughSequences.length + " characters")
-        strikethroughSequences.reverse().forEach(function(seq) {
-            var paragraph = paragraphs[seq.paragraphIndex];
-            var text = paragraph.editAsText();
-            text.deleteText(seq.start, seq.end);
-        });
-    } else {
-        console.log("-- found " + strikethroughSequences.length + " characters")
-    }
+    // if (execrm) {
+    //     console.log("==> deleting " + strikethroughSequences.length + " characters")
+    //     strikethroughSequences.reverse().forEach(function(seq) {
+    //         var paragraph = paragraphs[seq.paragraphIndex];
+    //         var text = paragraph.editAsText();
+    //         text.deleteText(seq.start, seq.end);
+    //     });
+    // } else {
+    //     console.log("-- found " + strikethroughSequences.length + " characters")
+    // }
 }
 
 
@@ -59,7 +59,23 @@ function main() {
     const documentsUrls = [
         "https://docs.google.com/document/d/1nVkXtNnmaDGnQCbeJIUYFUq4DFRxqngrBPLyFy22u84/edit",
         "https://docs.google.com/document/d/1kn9MqftWIbQv6HFETmWzBAp6kBayZInej1hyRGvJjLI/edit",
-      ];
+        "https://docs.google.com/document/d/19l1kuA-Z59LBzmhWJg6SHXdUH5ZJ_GK87LCAl00_iZQ/edit",
+        "https://docs.google.com/document/d/1ZUnXQ4yHt2QfZXvndgnBWwZWWKWkCeMqXQ5S3O7QUeQ/edit",
+        "https://docs.google.com/document/d/1gICSorV9VckpQRn3zZ5dVuNa7xYYo86wYFMKyyNCQvM/edit",
+        "https://docs.google.com/document/d/1IzCum2NhiU1dDU6OlANR03RWArUqMRYl1vUz021swls/edit",
+        "https://docs.google.com/document/d/1cTkxc8UIeqDVniBp82AEX42VXCvpMPFmDmOPdJCHyfg/edit",
+        "https://docs.google.com/document/d/1x0g-t6kqnnx70CmBmhuhlxb_jNkDVhgUCe1UVmrSNiQ/edit",
+        "https://docs.google.com/document/d/1jiNuTFEZg6hpL2fQKhJYUyHj9lk8tNhKCLq1V52N2Rk/edit",
+        "https://docs.google.com/document/d/1TOoujctT_9eWvJS2Sm3ZC9t_B03htyuGffDASb_qA3c/edit",
+        "https://docs.google.com/document/d/1twcKAXSYLlkS4WOcq_Z4vimLQHKQRjXMGJ7gT0wMlKc/edit",
+        "https://docs.google.com/document/d/17wZwcgeiXJ8Kmm1XigAvJWtSvOV1rerNPPs-FblPN5A/edit",
+        "https://docs.google.com/document/d/1Hs6FlS9WpQDCeKFdysP9k0j1BmPDjm3rgXUWVxYFc-4/edit",
+        "https://docs.google.com/document/d/1u3sKubI9ewmiPQM18ra0LIqb8XXzsbVPJiy8pfZhf6U/edit",
+        "https://docs.google.com/document/d/157PLKEdzrWFsL5bAqQ4LC_dxsju0Bnrm_uhwx1skWvk/edit",
+        "https://docs.google.com/document/d/1Kr_QfFihEaNoi7fdsQGvPUkeZCkMa4q3sgWYLM35WVg/edit",
+        "https://docs.google.com/document/d/1xezyWxISYCPc3oHnY_KVQ-wyScfs9dqy5UasI1YsC1M/edit",
+        "https://docs.google.com/document/d/10XkpOoCe4TZh8QnFSJsiaXzDHpHbkTeYGNwu9uJsL6Q/edit"
+    ];
 
     const execrm = false;
     documentsUrls.forEach(function(docurl) {
@@ -114,7 +130,10 @@ function extractAndExportText() {
     Logger.log(combinedText)
     // Create and write to a text file on Google Drive
     var fileName = doc_title + '.txt';
-    var file = DriveApp.createFile(fileName, combinedText);
+    var folder = DriveApp.getFolderById('1_1G_D_mm33fBzmo1ppcp3vpEvOpIN-1-');
+    var file = folder.createFile(fileName, combinedText);
+
+    // var file = DriveApp.createFile(fileName, combinedText);
 
     Logger.log('Text file created: ' + fileName);
     Logger.log('File ID: ' + file.getId());
