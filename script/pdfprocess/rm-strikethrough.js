@@ -42,20 +42,21 @@ function rmStrikethrough(docurl, execrm) {
     });
 
     // Reverse the array to start inserting tags from the end of the document
-    // if (execrm) {
-    //     console.log("==> deleting " + strikethroughSequences.length + " characters")
-    //     strikethroughSequences.reverse().forEach(function(seq) {
-    //         var paragraph = paragraphs[seq.paragraphIndex];
-    //         var text = paragraph.editAsText();
-    //         text.deleteText(seq.start, seq.end);
-    //     });
-    // } else {
-    //     console.log("-- found " + strikethroughSequences.length + " characters")
-    // }
+    if (execrm) {
+        console.log("==> deleting " + strikethroughSequences.length + " characters")
+        strikethroughSequences.reverse().forEach(function(seq) {
+            var paragraph = paragraphs[seq.paragraphIndex];
+            var text = paragraph.editAsText();
+            text.deleteText(seq.start, seq.end);
+        });
+    } else {
+        console.log("-- found " + strikethroughSequences.length + " characters")
+    }
 }
 
 
 function main() {
+    // la liste des documents pdf en version google doc
     const documentsUrls = [
         "https://docs.google.com/document/d/1nVkXtNnmaDGnQCbeJIUYFUq4DFRxqngrBPLyFy22u84/edit",
         "https://docs.google.com/document/d/1kn9MqftWIbQv6HFETmWzBAp6kBayZInej1hyRGvJjLI/edit",
