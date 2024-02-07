@@ -1,5 +1,8 @@
+
+
 '''
 Re build chunks of AI act into article and sections
+TODO: st.query_params
 '''
 # usual suspects
 import os, re, json, glob

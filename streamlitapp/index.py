@@ -7,6 +7,8 @@ Next
 - question in search bar
 - generative answer
 - add model to search
+
+TODO: check out st.write_stream and st.chat_input for chat
 '''
 # usual suspects
 import os, re, json, glob

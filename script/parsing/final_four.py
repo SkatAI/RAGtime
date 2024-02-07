@@ -1,6 +1,9 @@
 '''
 Parse text into json
 from final_four columns
+# TODO: move _________ to footnote see Citation 5a
+# TODO: add uuid to each item
+# TODO: move to postgres
 '''
 
 
@@ -19,6 +22,7 @@ pd.options.display.precision = 10
 pd.options.display.width = 180
 pd.set_option("display.float_format", "{:.2f}".format)
 import numpy as np
+import uuid
 
 def empty_cells(row: pd.core.series.Series, fromto : range) -> bool:
     return len(row[fromto].sum()) == 0
@@ -95,7 +99,11 @@ if __name__ == "__main__":
     data = data[~data.row_type.isin(['blank'])].copy()
     data.reset_index(inplace = True, drop = True)
 
-    # flag paragraph that have been split into a new table due to page break
+    # ----------------------------------------------------------------------
+    # Merging consecutive text blocks that have been split over page breaks
+    # ----------------------------------------------------------------------
+
+    # flag text blocks that have been split into a new table due to page break
     data['merge_'] = False
     data['merge_idx'] = ''
     for i,d in data.iterrows():
@@ -122,7 +130,6 @@ if __name__ == "__main__":
 
     data['merge_idx'] = data.merge_idx.apply(lambda d : try_int(d))
 
-
     # make sure merge_ flag only concerns multiple merge idx
     data['len_merge_idx'] = data.merge_idx.apply(lambda d : len(d))
     data.loc[data.merge_ & (data.len_merge_idx ==1), 'merge_'] = False
@@ -141,9 +148,14 @@ if __name__ == "__main__":
             if idx != i:
                 data.loc[idx,'delete_'] = True
 
-
     # delete the merged rows and only keep title and content
     data = data[~data.delete_].copy()
+
+    # ----------------------------------------------------------------------
+    # rm not meaningfull cols and rows
+    # ----------------------------------------------------------------------
+
+    # drop table rows
     data = data[data.row_type.isin(['title', 'content'])].copy()
 
     # drop non meaningfull columns
@@ -151,12 +163,26 @@ if __name__ == "__main__":
 
     data.reset_index(inplace = True, drop = True)
 
+    # ----------------------------------------------------------------------
+    # clean up content
+    # ----------------------------------------------------------------------
+
     # rm consecutive spaces from cols 3 to 7
     print('-- rm consecutive spaces')
     rgx = r'\s+'
     for col in range(3,8):
         data[col] = data[col].apply(lambda txt : re.sub(rgx, ' ', txt).strip())
 
+    # rm numbers glued to words
+    rgx = r'\b([a-z]+)\d{1,2}\b'
+    for col in range(3,8):
+        data[col] = data[col].apply(lambda txt : re.sub(rgx, r'\1', txt).strip())
+
+    # ----------------------------------------------------------------------
+    # new features: title, numbering, Text Origin
+    # ----------------------------------------------------------------------
+
+    # title
     print('-- build title, number')
     # build title column
     data['title'] = ''
@@ -168,7 +194,7 @@ if __name__ == "__main__":
 
     data.drop(columns = ['tmp'], inplace = True)
 
-
+    # add title to content rows
     current_title = ''
     for i, d in data.iterrows():
         if len(d.title) >0:
@@ -176,13 +202,11 @@ if __name__ == "__main__":
         else:
             data.loc[i, 'title'] = current_title
 
-    # numbering scheme
+    # create numbering scheme
     data['i'] = data.apply(lambda d : int(d.row_number.split('.')[0]), axis =1 )
     data['j'] = data.apply(lambda d : int(d.row_number.split('.')[1]), axis =1 )
-
-    # assert 1 == 2
-
-    data['number'] = data.apply(lambda d : '.'.join([str(d.part), str(d.row_number)]), axis = 1)
+    # keep original numbering order from the pdf
+    data['pdf_order'] = data.apply(lambda d : '.'.join([str(d.part), str(d.row_number)]), axis = 1)
 
     # extract Text Origin from draft agreement
     print('-- extract origin')
@@ -194,29 +218,48 @@ if __name__ == "__main__":
             data.loc[i, 'origin'] = match.group(1).replace('\n',' ').strip()  # Everything after the token
             data.loc[i, 7] = re.sub(rf"{re.escape(start_token)}.*", "", d[7]).strip()
 
+    # extract footnotes
+    print('-- extract and remove footnotes')
+
+    start_token = "_________"
+    for colnum in range(4,8):
+        footnote_col = f"footnote_{colnum}"
+        data[footnote_col] = ''
+        for i, d in data.iterrows():
+            match = re.search(rf"{re.escape(start_token)}(.*)", d[colnum])
+            if match:
+
+                data.loc[i, footnote_col] = match.group(1).replace('\n',' ').strip()  # Everything after the token
+                data.loc[i, colnum] = re.sub(rf"{re.escape(start_token)}.*", "", d[colnum]).strip()
+
+    # uuid for each text block
+    data['uuid'] = [str(uuid.uuid4()) for n in range(len(data))]
+
+
+    # ----------------------------------------------------------------------
+    # column naming and ordering
+    # ----------------------------------------------------------------------
+
     data.drop(columns = [0, 1, 3], inplace = True)
     col_mapping = {
         4: 'commission',
         5: 'parliament',
         6: 'council',
         7: 'draft',
+        'footnote_4':'footnote_commission',
+        'footnote_5':'footnote_parliament',
+        'footnote_6':'footnote_council',
+        'footnote_7':'footnote_draft'
     }
     data.rename(columns = col_mapping, inplace = True)
 
-    print('-- remove footnotes')
-    start_token = "_________"
-    for colnum in range(4,8):
-        footnote_col = f"footnote_{col_mapping[colnum]}"
-        data[footnote_col] = ''
-        for i, d in data.iterrows():
-            match = re.search(rf"{re.escape(start_token)}(.*)", col_mapping[colnum])
-            if match:
-                data.loc[i, footnote_col] = match.group(1).replace('\n',' ').strip()  # Everything after the token
-                data.loc[i, col_mapping[colnum]] = re.sub(rf"{re.escape(start_token)}.*", "", col_mapping[colnum]).strip()
-
-    cols = ['section','number', 'part','i','j', 'title', 'commission', 'council', 'parliament',  'draft', 'row_type', 'origin',
+    cols = ['uuid','section','pdf_order', 'part','i','j', 'title', 'commission', 'council', 'parliament',  'draft', 'row_type', 'origin',
             'footnote_commission', 'footnote_parliament', 'footnote_council', 'footnote_draft']
     data = data[cols].copy()
+
+    # ----------------------------------------------------------------------
+    # sanity check
+    # ----------------------------------------------------------------------
 
     # find title not preceded by content
     prev = ''
@@ -233,6 +276,9 @@ if __name__ == "__main__":
     # 20 rows have no content so title is directly followed by title
     assert len(anomalies) == 20
 
+    # ----------------------------------------------------------------------
+    # new features: add section, parse title
+    # ----------------------------------------------------------------------
     # drop title lines
     data = data[data.row_type == 'content'].copy()
     data.reset_index(inplace = True, drop = True)
@@ -248,17 +294,120 @@ if __name__ == "__main__":
         elif re.search(rgx_ann, d.title):
             data.loc[i,'section'] = 'annex'
 
-    # split regulation into TITLES
-
+    # assign TITLE level to the regulation section
     data['regulation_title'] = ''
     current_reg_title = ''
     for i, d in data.iterrows():
         if (d.section == 'regulation') & ('TITLE' in d.title):
             current_reg_title = d.title
-        data.loc[i, 'regulation_title'] = current_reg_title
+            data.loc[i, 'regulation_title'] = current_reg_title
+
+    # ----------------------------------------------------------------------
+    # level 1
+    # ----------------------------------------------------------------------
 
 
-    # Order
+    # article number
+    data['level_1'] = '-1'
+    rgx_source = r'.*?(\d+).*$'
+    rgx_target = r'\1'
+    for i, d in data.loc[data.section != 'annex'].iterrows():
+        data.loc[i, 'level_1'] =  re.sub(rgx_source, rgx_target, d.title)
+
+
+    # Annex number transform  Roman numbering into ints in Annex
+    roman_to_num = {
+        'I': 1, 'II': 2, 'III': 3, 'IV': 4,'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9
+    }
+    rgx = r'Annex ((?:I[XV]|V?I{0,3}))[a-zA-Z]*'
+    for i, d in data.loc[data.section == 'annex'].iterrows():
+        match = re.search(rgx, d.title)
+        if match:
+            data.loc[i, 'level_1'] =  str(roman_to_num[match.group(1).strip()])
+
+    # ----------------------------------------------------------------------
+    # level 2
+    # Annex II, point 2
+    # Annex III, seventh paragraph
+    # Article 4a(1)
+    # Article 3, first paragraph, point (1)
+    # but not:
+    # Article 10(1), second subparagraph new
+    # ----------------------------------------------------------------------
+    ordinal_to_int = { "first": 1, "second": 2, "third": 3, "fourth": 4, "fifth": 5, "sixth": 6,
+                        "seventh": 7, "eighth": 8, "ninth": 9,
+                        "tenth": 10, "eleventh": 11, "twelfth": 12, "thirteenth": 13, "fourteenth": 14, "fifteenth": 15, "sixteenth": 16,
+                        "seventeenth": 17, "eighteenth": 18, "nineteenth": 19, "twentieth": 20, 'twenty-first': 21
+                    }
+
+    data['level_2'] = '-1'
+
+    # 1) Article 4a(1) -> 1
+    rgx = r'Article .*?\((\d+).*?\).*$'
+    test = {"Article 4a(1)" : 1,
+            "Article 61(4), second subparagraph": 4,
+            "Article 63(7d), second subparagraph": 7}
+
+    for txt, n in test.items():
+        match = re.search(rgx, txt)
+        assert match.group(1) == str(n)
+
+    for i, d in data.loc[data.section == 'regulation'].iterrows():
+        match = re.search(rgx, d.title)
+        if match:
+            data.loc[i, 'level_2'] =  str(match.group(1).strip())
+
+
+    # 2) Article 61, second paragraph -> 2
+    ordinal_list = '|'.join(ordinal_to_int.keys())
+
+    rgx = rf".*?({ordinal_list}) paragraph.*$"
+
+    test = {
+            "Article 61, second paragraph": 'second',
+            "Article 10(1), second subparagraph": None,
+            "Article 82, third paragraph, amending provision, first subparagraph, second paragraph" : 'third',
+            "Article 82, first paragraph, amending provision, first subparagraph, second paragraph" : 'first',
+        }
+
+    for txt, output in test.items():
+        match = re.search(rgx, txt)
+        if match:
+            assert match.group(1) == str(output)
+        else:
+            assert match is None
+
+    for i, d in data.loc[data.section == 'regulation'].iterrows():
+        match = re.search(rgx, d.title)
+        if match:
+            data.loc[i, 'level_2'] =  ordinal_to_int[str(match.group(1).strip())]
+
+
+    # 3) annex: Annex VII, nineteenth paragraph => 19
+
+    rgx = rf".*?({ordinal_list}) paragraph.*$"
+
+    test = {
+            "Annex VII, nineteenth paragraph": 'nineteenth',
+            "Annex VII, point 1., first subparagraph": None,
+            "Annex VII, first paragraph, point (d)" : 'first',
+        }
+
+    for txt, output in test.items():
+        match = re.search(rgx, txt)
+        if match:
+            assert match.group(1) == str(output)
+        else:
+            assert match is None
+
+    for i, d in data.loc[data.section == 'annex'].iterrows():
+        match = re.search(rgx, d.title)
+        if match:
+            data.loc[i, 'level_2'] =  ordinal_to_int[str(match.group(1).strip())]
+
+
+
+    # re Order
     data.sort_values(by = ['part','i', 'j'], inplace = True)
     data.reset_index(inplace = True, drop = True)
 
@@ -270,10 +419,10 @@ if __name__ == "__main__":
         data.to_json(f, force_ascii=False, orient="records", indent=4)
 
 
-    # ['section', 'number', 'title', 'origin']
+    # ['section', 'pdf_order', 'title', 'origin']
     # vdf = pd.DataFrame()
     # for source in ['commission', 'council', 'parliament', 'draft']:
-    #     cols = ['section', 'number', 'title', 'origin'] + [source, f"footnote_{source}"]
+    #     cols = ['section', 'pdf_order', 'title', 'origin'] + [source, f"footnote_{source}"]
     #     tmp = data[cols].copy()
     #     tmp.rename(columns = {source: 'text', f"footnote_{source}": 'footnote'}, inplace = True)
     #     tmp['source'] = source
