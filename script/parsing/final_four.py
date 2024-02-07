@@ -253,10 +253,6 @@ if __name__ == "__main__":
     }
     data.rename(columns = col_mapping, inplace = True)
 
-    cols = ['uuid','section','pdf_order', 'part','i','j', 'title', 'commission', 'council', 'parliament',  'draft', 'row_type', 'origin',
-            'footnote_commission', 'footnote_parliament', 'footnote_council', 'footnote_draft']
-    data = data[cols].copy()
-
     # ----------------------------------------------------------------------
     # sanity check
     # ----------------------------------------------------------------------
@@ -283,16 +279,20 @@ if __name__ == "__main__":
     data = data[data.row_type == 'content'].copy()
     data.reset_index(inplace = True, drop = True)
 
+    # somehow the order counts, otherwise some Citation have Annex in title
     for i,d in data.iterrows():
         rgx_rec = r"Recital"
         rgx_reg = r"Article|Chapter|CHAPTER|TITLE|Title"
         rgx_ann = r"Annex"
+        rgx_cit = r"Citation|Formula|Proposal Title|"
         if re.search(rgx_rec, d.title):
             data.loc[i,'section'] = 'recitals'
         elif re.search(rgx_reg, d.title):
             data.loc[i,'section'] = 'regulation'
         elif re.search(rgx_ann, d.title):
             data.loc[i,'section'] = 'annex'
+        elif re.search(rgx_cit, d.title):
+            data.loc[i,'section'] = 'citation'
 
     # assign TITLE level to the regulation section
     data['regulation_title'] = ''
@@ -308,7 +308,7 @@ if __name__ == "__main__":
 
 
     # article number
-    data['level_1'] = '-1'
+    data['level_1'] = '0'
     rgx_source = r'.*?(\d+).*$'
     rgx_target = r'\1'
     for i, d in data.loc[data.section != 'annex'].iterrows():
@@ -325,6 +325,12 @@ if __name__ == "__main__":
         if match:
             data.loc[i, 'level_1'] =  str(roman_to_num[match.group(1).strip()])
 
+    # remaining titles
+    data.loc[data.level_1.isin([ 'Formula','Proposal Title','Title Ia']), 'level_1'] = '1'
+    data.loc[data.level_1.str.contains('TITLE') | data.level_1.str.contains('Chapter'), 'level_1'] = '1'
+
+    data['level_1'] = data.level_1.astype(int)
+
     # ----------------------------------------------------------------------
     # level 2
     # Annex II, point 2
@@ -340,7 +346,7 @@ if __name__ == "__main__":
                         "seventeenth": 17, "eighteenth": 18, "nineteenth": 19, "twentieth": 20, 'twenty-first': 21
                     }
 
-    data['level_2'] = '-1'
+    data['level_2'] = '0'
 
     # 1) Article 4a(1) -> 1
     rgx = r'Article .*?\((\d+).*?\).*$'
@@ -405,6 +411,49 @@ if __name__ == "__main__":
         if match:
             data.loc[i, 'level_2'] =  ordinal_to_int[str(match.group(1).strip())]
 
+    # 4) annex: Annex IX, point 3.(a) => 3
+
+    rgx = r'Annex.*?point (\d+)\..*$'
+
+    test = {
+            "Annex IX, point 3.(a)": '3',
+            "Annex VII, point 1., first subparagraph": '1',
+            "Annex VII, tenth paragraph" : None,
+        }
+
+    for txt, output in test.items():
+        match = re.search(rgx, txt)
+        if match:
+            assert match.group(1) == str(output)
+        else:
+            assert match is None
+
+    for i, d in data.loc[data.section == 'annex'].iterrows():
+        match = re.search(rgx, d.title)
+        if match:
+            data.loc[i, 'level_2'] =  match.group(1).strip()
+
+    data['level_2'] = data.level_2.astype(int)
+
+    current_l1 = 0
+    current_l2 = 0
+    current_l3 = 0
+    data['level_3'] = 0
+    for i,d in data.iterrows():
+        if d.level_1 != current_l1:
+            current_l1 = d.level_1
+            current_l3 = 0
+        elif d.level_2 != current_l2:
+            current_l2 = d.level_2
+            current_l3 = 0
+        else:
+            current_l3  +=1
+        data.loc[i, 'level_3']  = current_l3
+
+
+    cols = ['uuid','section','pdf_order', 'part','i','j', 'title','level_1', 'level_2', 'level_3','commission', 'council', 'parliament',  'draft', 'row_type', 'origin',
+            'footnote_commission', 'footnote_parliament', 'footnote_council', 'footnote_draft']
+    data = data[cols].copy()
 
 
     # re Order
@@ -412,25 +461,8 @@ if __name__ == "__main__":
     data.reset_index(inplace = True, drop = True)
 
 
-
     print("saving to json")
-    output_file_json = "./data/json/final-four-2024-02-05.json"
+    output_file_json = "./data/json/final-four-2024-02-06.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         data.to_json(f, force_ascii=False, orient="records", indent=4)
 
-
-    # ['section', 'pdf_order', 'title', 'origin']
-    # vdf = pd.DataFrame()
-    # for source in ['commission', 'council', 'parliament', 'draft']:
-    #     cols = ['section', 'pdf_order', 'title', 'origin'] + [source, f"footnote_{source}"]
-    #     tmp = data[cols].copy()
-    #     tmp.rename(columns = {source: 'text', f"footnote_{source}": 'footnote'}, inplace = True)
-    #     tmp['source'] = source
-
-    #     vdf = pd.concat([vdf, tmp])
-    # vdf.sort_values(by = ['part','i', 'j'], inplace = True)
-    # vdf.reset_index(inplace = True, drop = True)
-
-    # output_file_json = "./data/json/final-four-vertical-2024-02-05.json"
-    # with open(output_file_json, "w", encoding="utf-8") as f:
-    #     vdf.to_json(f, force_ascii=False, orient="records", indent=4)

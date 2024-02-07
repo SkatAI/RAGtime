@@ -3,6 +3,7 @@
 '''
 Re build chunks of AI act into article and sections
 TODO: st.query_params
+TODO: preset drop downs to level_1, 2, 3
 '''
 # usual suspects
 import os, re, json, glob
@@ -39,7 +40,7 @@ if __name__ == "__main__":
         page_icon=None,
         layout="wide",
         initial_sidebar_state="auto")
-
+    # removes space above select box
     st.markdown(
         """
         <style>
@@ -50,8 +51,8 @@ if __name__ == "__main__":
         """,
         unsafe_allow_html=True,
     )
+    input_file = './data/json/final-four-2024-02-06.json'
     final_four_map_file = "./data/json/final_four_article_map.json"
-    input_file = './data/json/final-four-2024-02-05.json'
 
     data = pd.read_json(input_file)
 
@@ -65,10 +66,9 @@ if __name__ == "__main__":
         # source_options = ["commission","draft", "council", "parliament"]
         # gen_source = display_selectbox("From",source_options,"source_key")
 
-        # section_options = ["recitals","regulation","annex"]
-        # gen_section = display_selectbox("Section",section_options,"section_key")
-        gen_section = 'regulation'
-
+        section_options = ["citation","recitals","regulation","annex"]
+        gen_section = display_selectbox("Section",section_options,"section_key")
+        # gen_section = 'regulation'
 
         if gen_section == 'regulation':
             title_options = ['TITLE I', 'TITLE II', 'TITLE III', 'TITLE IV', 'TITLE V','TITLE VI', 'TITLE VII', 'TITLE VIII', 'TITLE IX', 'TITLE X', 'TITLE XI', 'TITLE XII','']
@@ -82,25 +82,6 @@ if __name__ == "__main__":
         cond = cond & (data.regulation_title == gen_title)
     data = data[cond].copy()
     data.reset_index(inplace= True, drop = True)
-
-    rgx_source = r'(\d+).*$'
-    rgx_target = r'\1'
-    data['article'] = data.title.apply(lambda d : re.sub(rgx_source, rgx_target, d) )
-    # extract paragraph number
-    rgx_source = r'.*?\((\d+).*\).*$'
-    rgx_target = r'\1'
-    data['paragraph'] = data.title.apply(lambda d : re.sub(rgx_source, rgx_target, d) )
-
-    rgx_source = r'first paragraph'
-    data['paragraph'] = data.paragraph.apply(lambda d : re.sub(rgx_source, '1', d) )
-
-    rgx_source = r'second paragraph'
-    data['paragraph'] = data.paragraph.apply(lambda d : re.sub(rgx_source, '2', d) )
-    rgx_source = r'third paragraph'
-    data['paragraph'] = data.paragraph.apply(lambda d : re.sub(rgx_source, '3', d) )
-    rgx_source = r'fourth paragraph'
-    data['paragraph'] = data.paragraph.apply(lambda d : re.sub(rgx_source, '4', d) )
-
 
     with st.sidebar:
         article_options = list(data[data.title.str.contains('Article')].article.unique())
