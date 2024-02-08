@@ -435,6 +435,10 @@ if __name__ == "__main__":
 
     data['level_2'] = data.level_2.astype(int)
 
+    # ------------------------------------------------------
+    #  level 3
+    # ------------------------------------------------------
+
     current_l1 = 0
     current_l2 = 0
     current_l3 = 0
@@ -451,7 +455,10 @@ if __name__ == "__main__":
         data.loc[i, 'level_3']  = current_l3
 
 
-    cols = ['uuid','section','pdf_order', 'part','i','j', 'title','level_1', 'level_2', 'level_3','commission', 'council', 'parliament',  'draft', 'row_type', 'origin',
+    # ------------------------------------------------------
+    #  ordering columns and rows
+    # ------------------------------------------------------
+    cols = ['uuid','section','pdf_order', 'part','i','j', 'title','regulation_title','level_1', 'level_2', 'level_3','commission', 'council', 'parliament',  'draft', 'row_type', 'origin',
             'footnote_commission', 'footnote_parliament', 'footnote_council', 'footnote_draft']
     data = data[cols].copy()
 
@@ -461,8 +468,21 @@ if __name__ == "__main__":
     data.reset_index(inplace = True, drop = True)
 
 
+    # ------------------------------------------------------
+    #  saving
+    # ------------------------------------------------------
     print("saving to json")
     output_file_json = "./data/json/final-four-2024-02-06.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         data.to_json(f, force_ascii=False, orient="records", indent=4)
+
+    # ------------------------------------------------------
+    #  mapping
+    # ------------------------------------------------------
+
+    cols = ['uuid','pdf_order', 'part','i','j', 'level_1', 'level_2', 'level_3']
+    dfmap = data[cols].copy()
+    output_file_json = "./data/json/final_four_mapping-2024-02-06.json"
+    with open(output_file_json, "w", encoding="utf-8") as f:
+        dfmap.to_json(f, force_ascii=False, orient="records", indent=4)
 
