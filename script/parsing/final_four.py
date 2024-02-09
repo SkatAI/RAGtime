@@ -1,25 +1,21 @@
 '''
 Parse text into json
 from final_four columns
-# TODO: move _________ to footnote see Citation 5a
-# TODO: add uuid to each item
 # TODO: move to postgres
 '''
 
-
-
-# usual suspects
+# usual libs
 import os, re, json, glob
 import time, datetime
 from datetime import timedelta
 import pandas as pd
 import argparse
 from tqdm import tqdm
-pd.options.display.max_columns = 100
+pd.options.display.max_columns = 120
 pd.options.display.max_rows = 60
 pd.options.display.max_colwidth = 30
 pd.options.display.precision = 10
-pd.options.display.width = 180
+pd.options.display.width = 240
 pd.set_option("display.float_format", "{:.2f}".format)
 import numpy as np
 import uuid
@@ -219,18 +215,20 @@ if __name__ == "__main__":
             data.loc[i, 7] = re.sub(rf"{re.escape(start_token)}.*", "", d[7]).strip()
 
     # extract footnotes
-    print('-- extract and remove footnotes')
+    # on hold for the moment
+    if False:
+        print('-- extract and remove footnotes')
 
-    start_token = "_________"
-    for colnum in range(4,8):
-        footnote_col = f"footnote_{colnum}"
-        data[footnote_col] = ''
-        for i, d in data.iterrows():
-            match = re.search(rf"{re.escape(start_token)}(.*)", d[colnum])
-            if match:
+        start_token = "_________"
+        for colnum in range(4,8):
+            footnote_col = f"footnote_{colnum}"
+            data[footnote_col] = ''
+            for i, d in data.iterrows():
+                match = re.search(rf"{re.escape(start_token)}(.*)", d[colnum])
+                if match:
 
-                data.loc[i, footnote_col] = match.group(1).replace('\n',' ').strip()  # Everything after the token
-                data.loc[i, colnum] = re.sub(rf"{re.escape(start_token)}.*", "", d[colnum]).strip()
+                    data.loc[i, footnote_col] = match.group(1).replace('\n',' ').strip()  # Everything after the token
+                    data.loc[i, colnum] = re.sub(rf"{re.escape(start_token)}.*", "", d[colnum]).strip()
 
     # uuid for each text block
     data['uuid'] = [str(uuid.uuid4()) for n in range(len(data))]
@@ -246,10 +244,10 @@ if __name__ == "__main__":
         5: 'parliament',
         6: 'council',
         7: 'draft',
-        'footnote_4':'footnote_commission',
-        'footnote_5':'footnote_parliament',
-        'footnote_6':'footnote_council',
-        'footnote_7':'footnote_draft'
+        # 'footnote_4':'footnote_commission',
+        # 'footnote_5':'footnote_parliament',
+        # 'footnote_6':'footnote_council',
+        # 'footnote_7':'footnote_draft'
     }
     data.rename(columns = col_mapping, inplace = True)
 
@@ -300,7 +298,8 @@ if __name__ == "__main__":
     for i, d in data.iterrows():
         if (d.section == 'regulation') & ('TITLE' in d.title):
             current_reg_title = d.title
-            data.loc[i, 'regulation_title'] = current_reg_title
+        data.loc[i, 'regulation_title'] = current_reg_title
+
 
     # ----------------------------------------------------------------------
     # level 1
@@ -455,11 +454,16 @@ if __name__ == "__main__":
         data.loc[i, 'level_3']  = current_l3
 
 
+    # recitals level 2 = level 3 and level 3 = 0
+    cond = data.section == 'recitals'
+    data.loc[cond, 'level_2'] = data[cond].level_3 + 1
+    data.loc[cond, 'level_3'] = 0
+
+
     # ------------------------------------------------------
     #  ordering columns and rows
     # ------------------------------------------------------
-    cols = ['uuid','section','pdf_order', 'part','i','j', 'title','regulation_title','level_1', 'level_2', 'level_3','commission', 'council', 'parliament',  'draft', 'row_type', 'origin',
-            'footnote_commission', 'footnote_parliament', 'footnote_council', 'footnote_draft']
+    cols = ['uuid','section','pdf_order', 'part','i','j', 'title','regulation_title','level_1', 'level_2', 'level_3','commission', 'council', 'parliament',  'draft', 'row_type', 'origin']
     data = data[cols].copy()
 
 
@@ -481,8 +485,34 @@ if __name__ == "__main__":
     # ------------------------------------------------------
 
     cols = ['uuid','pdf_order', 'part','i','j', 'level_1', 'level_2', 'level_3']
-    dfmap = data[cols].copy()
+    mapp = data[cols].copy()
+
     output_file_json = "./data/json/final_four_mapping-2024-02-06.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
-        dfmap.to_json(f, force_ascii=False, orient="records", indent=4)
+        mapp.to_json(f, force_ascii=False, orient="records", indent=4)
+
+    # ------------------------------------------------------
+    #  verticalize
+    # ------------------------------------------------------
+    print("-- verticalize")
+    vdata = []
+    keep_cols = ['uuid', 'section', 'pdf_order', 'part', 'i', 'j', 'title', 'regulation_title', 'level_1', 'level_2', 'level_3', 'origin']
+    text_cols = ['commission', 'parliament', 'council', 'draft']
+    for i,d in tqdm(data.iterrows()):
+        for col in text_cols:
+            item = dict(d[keep_cols]).copy()
+            item.update({
+                'text': d[col],
+                'author': col,
+                'vvid': str(uuid.uuid4()),
+            })
+            vdata.append(item)
+
+    vdata = pd.DataFrame(vdata)
+    cols = ['vvid', 'uuid', 'section', 'title', 'author', 'text','pdf_order', 'part', 'i', 'j', 'regulation_title', 'level_1', 'level_2', 'level_3', 'origin']
+    vdata = vdata[cols].copy()
+    output_file_json = "./data/json/final_four_author-2024-02-06.json"
+    with open(output_file_json, "w", encoding="utf-8") as f:
+        vdata.to_json(f, force_ascii=False, orient="records", indent=4)
+
 
