@@ -55,6 +55,34 @@ function rmStrikethrough(docurl, execrm) {
 }
 
 
+function removeSpecificStringUsingDeleteText() {
+  var document = DocumentApp.getActiveDocument();
+  var body = document.getBody();
+  var paragraphs = body.getParagraphs();
+
+  var pattern = new RegExp("\\d+/\\d+\\s+RB/ek\\s+\\d+\\s+TREE\\.2\\.B\\s+LIMITE\\s+EN", "g");
+
+  paragraphs.forEach(function(paragraph) {
+    var text = paragraph.getText();
+    var matches;
+    while ((matches = pattern.exec(text)) !== null) {
+      // Calculate start and end positions for deletion
+      var startOffset = matches.index;
+      var endOffset = startOffset + matches[0].length - 1; // Adjust because deleteText uses inclusive end index
+
+      // Delete the matched text
+      paragraph.editAsText().deleteText(startOffset, endOffset);
+
+      // Update the text variable to reflect the current state of the paragraph text
+      text = paragraph.getText();
+      // Reset the regex search index to avoid infinite loops
+      pattern.lastIndex = 0;
+    }
+  });
+}
+
+
+
 function main() {
     // la liste des documents pdf en version google doc
     const documentsUrls = [

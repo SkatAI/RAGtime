@@ -1,0 +1,1734 @@
+{
+    "amd_title": "Annex VIII  point 1",
+    "tgt_title": "Annex VIII, point 1.",
+    "certainty": 0.9788,
+    "match": true,
+    "amd_uuids": [
+        "11dd5717-d7b6-42c5-8a03-8e15573cf5cc"
+    ],
+    "tgt_uuid": "91befe2c-85f3-44b8-988d-cc2da961946a",
+    "tgt_vvids": [
+        "e9334204-f470-41ce-9073-a2e13917e7d1",
+        "54d8e014-131b-4d85-b8d4-8f725b9beb25",
+        "d27835ab-275c-45b6-92f3-34d0a8a5ddc8",
+        "e6ce07c7-4796-49e7-beb7-28e60ae99823"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 11",
+    "tgt_title": "Annex VIII, point 11.",
+    "certainty": 0.9819,
+    "match": true,
+    "amd_uuids": [
+        "4b600b10-4ac7-4c3a-a5c7-e9558c7e070b",
+        "748f8e25-d8a6-4b1e-ba28-a7da4811cef5",
+        "571c2822-99ba-4fc7-9889-24cef4f4b85b"
+    ],
+    "tgt_uuid": "99f4f6e5-27ab-4a0f-9c02-6a05a49a8f1d",
+    "tgt_vvids": [
+        "175eedc8-90b1-45d1-8cf5-675c0d021203",
+        "7d213950-85a7-4aaf-822f-05aee28ae1cd",
+        "2af73026-5e33-4956-aee8-f5befeb970b0",
+        "a307cd66-ff54-49ea-bbb9-05772ebd053d"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 11 a (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9647,
+    "match": true,
+    "amd_uuids": [
+        "0ebda024-6e05-47b1-b35c-41578253e347"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 11 b (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9614,
+    "match": true,
+    "amd_uuids": [
+        "6ea105cf-c206-4bc8-83a8-009ea43313a1"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 12 a (new)",
+    "tgt_title": "Annex VIII, point 12a.",
+    "certainty": 0.9702,
+    "match": true,
+    "amd_uuids": [
+        "2f6a091b-f880-45b8-bb81-62b84e2d2ed4"
+    ],
+    "tgt_uuid": "5fd7b9a6-f436-4b0e-ae73-1f132ca4d12b",
+    "tgt_vvids": [
+        "d2fe9ce4-98ea-4aac-abe0-9ccac6aca5be",
+        "f826896a-0107-4d83-b081-200e169b41cb",
+        "622e0798-16aa-4865-83db-e2fc7e226b7d",
+        "9bec7668-238d-43a3-a630-0d88a356df41"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 2",
+    "tgt_title": "Annex VIII, point 2.",
+    "certainty": 0.9792,
+    "match": true,
+    "amd_uuids": [
+        "7f498907-dc64-455b-9e82-b55b8fe4b026"
+    ],
+    "tgt_uuid": "0ee94d39-b4fa-4a01-a501-1b20273ff5f4",
+    "tgt_vvids": [
+        "ff632081-db6e-4bcf-9d69-abc8d467e86e",
+        "7d8f5d4a-1b4f-44ff-8bc2-204bfe15dec0",
+        "3d9b4208-852c-4a8e-b6f8-3295f9f7f60e",
+        "a099d09d-fc62-4079-8fea-b5b20f11eb90"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 5",
+    "tgt_title": "Annex VIII, point 5.",
+    "certainty": 0.9813,
+    "match": true,
+    "amd_uuids": [
+        "051ebbba-a34a-4d95-8798-afed5b733c5e",
+        "70f43889-de5d-4e52-9d6d-04d39176a8f8",
+        "90d8be5d-e969-4833-9149-64f8c3ff26dd"
+    ],
+    "tgt_uuid": "edab899c-f1cd-4d6a-98dd-131cae14dbfe",
+    "tgt_vvids": [
+        "bddbc6f5-0935-4b8c-940b-beb15f87e890",
+        "6e1e3e35-ed40-4b65-a205-6f5c46ff10d3",
+        "a768efc8-9807-4c6b-89d3-69711169f844",
+        "8f5c52a1-4c63-478a-9b1f-d0ca047cf814"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 5 a (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9827,
+    "match": true,
+    "amd_uuids": [
+        "0a1a701d-672f-40a5-8bae-60a66965a1b5"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 5 b (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9773,
+    "match": true,
+    "amd_uuids": [
+        "2b7c897c-10c7-418e-8772-3ae23a6ea564"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 5 c (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9731,
+    "match": true,
+    "amd_uuids": [
+        "3f358692-89f8-4263-b219-12f08971ae1b"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex VIII  point 6 a (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9693,
+    "match": true,
+    "amd_uuids": [
+        "f39028f7-f297-43f8-b168-b15d6a9ffb8c"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex VIII  title",
+    "tgt_title": "Annex VIII",
+    "certainty": 0.9681,
+    "match": true,
+    "amd_uuids": [
+        "c14f7bd0-27c2-414a-ba40-a4fd5452d73d",
+        "3d1c36ff-eecc-4e35-9ad8-4194d4f6c887"
+    ],
+    "tgt_uuid": "f84d660f-ab30-4ce6-91a5-a65e87f647eb",
+    "tgt_vvids": [
+        "0becb6bc-9d4d-4b00-80e8-94d04e57c24c",
+        "3fdcf106-206d-4303-8bb6-8f241ce6d8eb",
+        "7072e5db-f7f6-4561-ad80-db7b20c1fae9",
+        "efff67db-7826-43e1-ac58-d115fa748f82"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph -1 (new)",
+    "tgt_title": "Article 1, first paragraph",
+    "certainty": 0.9633,
+    "match": true,
+    "amd_uuids": [
+        "69809cac-6b53-4dcd-8401-086d058306d1",
+        "9e464390-b33f-46fe-a074-19422025b0da",
+        "0a2c7f1f-460d-490a-8cf4-b67975861762"
+    ],
+    "tgt_uuid": "717865f4-1b1e-418b-a3ca-14a8642e719d",
+    "tgt_vvids": [
+        "37abb649-068b-4f9f-8ecd-89bbda3d430b",
+        "bbab54e0-b969-40d9-a046-b6aaba5f6e5b",
+        "41042bef-3404-407a-841e-0d1f92370822",
+        "377d2a02-99b3-4545-bf60-44bd010b5729"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1 a (new)",
+    "tgt_title": "Article 4a, first paragraph, point (a new)",
+    "certainty": 0.9585,
+    "match": false,
+    "amd_uuids": [
+        "3227a873-8087-46c3-88fb-81c09ea95c42",
+        "bbc2ee63-320d-446c-9cfc-a33d773f7ac7",
+        "1cb7d8a0-93d0-4c9e-89b7-0b05ae28e394",
+        "963e9a67-4d17-4c06-8f39-6bb75998eeab",
+        "a92dc68d-b3ae-4595-a9f7-56cec57a5d45"
+    ],
+    "tgt_uuid": "27af7bc7-4fd5-462d-8ba1-e8f012c59cf8",
+    "tgt_vvids": [
+        "28c59c04-3eb9-4eaf-89d4-567141542c9a",
+        "f4420edb-cb68-49a6-bc7b-9e0fb9873dbe",
+        "6db0398a-9da7-4ef3-9079-b5178d0188e3",
+        "9ba4c6a7-25e9-4cc4-bbd7-66ce63a8782c"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1 b (new)",
+    "tgt_title": "Article 3, first paragraph, point (1b new)",
+    "certainty": 0.9637,
+    "match": true,
+    "amd_uuids": [
+        "5f0890b4-9a91-4fa3-b3e3-79ef3ffbdd89",
+        "ec6ec526-ea31-4ee2-905c-5a9ce6c16727",
+        "e0b2be37-bd32-4130-bc15-9d308c014cc4"
+    ],
+    "tgt_uuid": "27d3328f-6133-43f8-97da-5cea79037fc8",
+    "tgt_vvids": [
+        "7ded2f3c-7a48-4342-86b4-53b54c387268",
+        "5b714336-536b-4b71-b71a-3ff16fd6b083",
+        "752447e1-1cb4-400b-9919-eb23af7e464a",
+        "88f49555-f0c6-4d82-995c-8d08cbc255ac"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1 c (new)",
+    "tgt_title": "Article 3, first paragraph, point (1c new)",
+    "certainty": 0.9627,
+    "match": true,
+    "amd_uuids": [
+        "c77aee77-dbfd-4bcd-88b6-2c2ca6c714bc"
+    ],
+    "tgt_uuid": "801dd70b-0693-48ac-bbb3-d3c91e0feb8f",
+    "tgt_vvids": [
+        "586c3fdf-d8b0-40f8-aca2-926106375168",
+        "f3eb6bab-74a6-4708-b733-4f31421c0a4e",
+        "69b9b33e-7e71-46f8-abd3-9e8fa95f0e1e",
+        "3531b802-450c-4821-b983-85ab90f66c2b"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  introductory part",
+    "tgt_title": "Article 1, first paragraph",
+    "certainty": 0.9607,
+    "match": true,
+    "amd_uuids": [
+        "24c55b77-e76a-415d-887a-04152dda678d",
+        "eb3e8b5c-95c7-441e-afb2-85ab8352c5c8"
+    ],
+    "tgt_uuid": "717865f4-1b1e-418b-a3ca-14a8642e719d",
+    "tgt_vvids": [
+        "37abb649-068b-4f9f-8ecd-89bbda3d430b",
+        "bbab54e0-b969-40d9-a046-b6aaba5f6e5b",
+        "41042bef-3404-407a-841e-0d1f92370822",
+        "377d2a02-99b3-4545-bf60-44bd010b5729"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point a",
+    "tgt_title": "Article 1, first paragraph, point (a)",
+    "certainty": 0.9743,
+    "match": true,
+    "amd_uuids": [
+        "214e9da7-432f-436c-ab50-c2d938e32fab",
+        "4fcad55d-f9a7-4d03-a401-c99a5e7086de",
+        "03d068e9-5e82-4078-8df1-89af2aee1d83",
+        "d4c1e480-b650-48cd-bb0d-453c323a492a"
+    ],
+    "tgt_uuid": "74e82b23-65fe-4ced-b85d-d4390fd37221",
+    "tgt_vvids": [
+        "4872d87d-158b-4272-9772-0a6e2deb9cca",
+        "b0fcad1d-26ae-41bb-ab57-60f7047cb57b",
+        "1a2acbfe-9482-410b-9cdf-7cd1a8364c6f",
+        "82744f07-4028-48eb-b29d-96f1071bbddd"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point a a (new)",
+    "tgt_title": "Article 4a, first paragraph, point (a new)",
+    "certainty": 0.9663,
+    "match": true,
+    "amd_uuids": [
+        "e2af298b-139f-4958-bf91-f1b1f6ebcdc1"
+    ],
+    "tgt_uuid": "27af7bc7-4fd5-462d-8ba1-e8f012c59cf8",
+    "tgt_vvids": [
+        "28c59c04-3eb9-4eaf-89d4-567141542c9a",
+        "f4420edb-cb68-49a6-bc7b-9e0fb9873dbe",
+        "6db0398a-9da7-4ef3-9079-b5178d0188e3",
+        "9ba4c6a7-25e9-4cc4-bbd7-66ce63a8782c"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point c",
+    "tgt_title": "Article 1, first paragraph, point (c)",
+    "certainty": 0.9743,
+    "match": true,
+    "amd_uuids": [
+        "d3981dd4-86ff-4c85-b051-5539debbccef"
+    ],
+    "tgt_uuid": "6631d53f-397b-40c9-86c4-640d91314a83",
+    "tgt_vvids": [
+        "412d4670-e2e0-444f-9a03-4a3fe5748abb",
+        "97e31363-1ea9-4bd7-8da5-469c6c971d64",
+        "5256089e-cb7a-44de-9e9f-8f3daa777a79",
+        "a24500ef-1807-427d-ae5a-f17ba3244830"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point c a (new)",
+    "tgt_title": "Article 3, first paragraph, point (1c new)",
+    "certainty": 0.9693,
+    "match": true,
+    "amd_uuids": [
+        "e8af5900-0e35-4af3-81ef-f71ef492c197",
+        "79a20bf6-8379-4a4c-a5e3-79915bd4c29b"
+    ],
+    "tgt_uuid": "801dd70b-0693-48ac-bbb3-d3c91e0feb8f",
+    "tgt_vvids": [
+        "586c3fdf-d8b0-40f8-aca2-926106375168",
+        "f3eb6bab-74a6-4708-b733-4f31421c0a4e",
+        "69b9b33e-7e71-46f8-abd3-9e8fa95f0e1e",
+        "3531b802-450c-4821-b983-85ab90f66c2b"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point d",
+    "tgt_title": "Article 1, first paragraph, point (d)",
+    "certainty": 0.9657,
+    "match": true,
+    "amd_uuids": [
+        "0834eca0-fa8a-40de-8e42-0eed28b5ed51",
+        "7b2174e5-a5b5-4a8d-af00-0fb3b8196824",
+        "44dcda6e-9a27-4778-b721-6455fb541e97"
+    ],
+    "tgt_uuid": "2d7f850f-2e5c-4cdd-ac49-ec9bea5a9275",
+    "tgt_vvids": [
+        "4c5d7281-fd7d-4a26-8153-c0c9daa26046",
+        "af462dec-f727-4643-bda6-8e16beb8ed65",
+        "c98ec862-e830-44b9-8955-0e256a74487d",
+        "4c18cbab-ba05-49df-b720-0b8732462797"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point e",
+    "tgt_title": "Article 1, first paragraph, point (e)",
+    "certainty": 0.9748,
+    "match": true,
+    "amd_uuids": [
+        "2db646bd-3d40-491a-bd40-df413075bb67",
+        "35d5f201-892f-4182-9ea7-957fc0a7974e",
+        "922a37d4-54ad-4244-9e2a-7ebed283a5c9"
+    ],
+    "tgt_uuid": "cf8546d6-06ec-49eb-90a2-791ab7104851",
+    "tgt_vvids": [
+        "ec828ab9-9354-473c-adfe-cdc7552b957e",
+        "87e5d97c-9d5c-43a4-bb8b-046d4bb3a937",
+        "044639c2-4771-429d-9274-abd422166a77",
+        "d1855079-d57e-4ba2-8653-535cb186b16b"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point e a (new)",
+    "tgt_title": "Article 3, first paragraph, point (1e new)",
+    "certainty": 0.9697,
+    "match": true,
+    "amd_uuids": [
+        "d43f6888-8f6a-4b51-8d9f-3182677568a5",
+        "7e9d7e31-634b-4487-b924-483fa6d369c8",
+        "cb1f4039-8ab3-48d7-9426-7b48013a8233",
+        "4fccde3e-4382-482e-8d45-d3b2da6cb68b",
+        "b7cad993-b749-49d5-8ec2-55f57953fd82"
+    ],
+    "tgt_uuid": "5a6b47d1-0efa-425f-b7bd-61ef068b524f",
+    "tgt_vvids": [
+        "b2942f84-2cd1-4851-afcd-8b018e6df8e1",
+        "9ed89b6e-e3f9-4dbb-b391-75c59321a7e4",
+        "bfd4e7a5-29b0-4b65-9a5e-d8423fe7a056",
+        "e1470ef3-e6bb-49f9-9378-acaf3cddb49c"
+    ]
+}
+{
+    "amd_title": "Article 1  paragraph 1  point e b (new)",
+    "tgt_title": "Article 1, first paragraph a, point (eb new)",
+    "certainty": 0.9692,
+    "match": true,
+    "amd_uuids": [
+        "5db2fd6e-56a6-4e74-8934-496ebadde78f"
+    ],
+    "tgt_uuid": "c1a010c0-b1c4-4a5b-af80-2d5925a7c00c",
+    "tgt_vvids": [
+        "6f618fab-09e6-4a4a-ab34-1aa80fb364df",
+        "6d1a33af-6de9-405f-b943-583866328ea6",
+        "50f741a8-a773-4892-9dc9-c3849974b656",
+        "58ce1319-7a6a-4156-90e8-b896d77a4953"
+    ]
+}
+{
+    "amd_title": "Article 1  title",
+    "tgt_title": "Article 1",
+    "certainty": 0.962,
+    "match": true,
+    "amd_uuids": [
+        "1ab40ca5-a4bb-4276-b6c8-5147bcad24e0"
+    ],
+    "tgt_uuid": "b763c86c-a233-43b6-8b3a-ded7cf423302",
+    "tgt_vvids": [
+        "33074916-31a4-4351-9863-bc520146ae59",
+        "19d620e1-bf93-49ec-a0f5-8ce9ebd73da3",
+        "816ef5ef-c520-4a04-88fe-3667f180674a",
+        "e827cb6a-ffa4-4572-a60f-6d2c3b41cbe3"
+    ]
+}
+{
+    "amd_title": "Article 10 a (new)",
+    "tgt_title": "Article 10(6a new)",
+    "certainty": 0.969,
+    "match": true,
+    "amd_uuids": [
+        "735ff3e1-4cbe-4042-9904-6d65953bbfc9",
+        "b04a44c4-127f-4686-8860-1c0c06cacbc2"
+    ],
+    "tgt_uuid": "53ec6120-e2e3-45f2-8578-dbad1a1c39e2",
+    "tgt_vvids": [
+        "a60c4516-35cb-4bbd-93f4-28dcb10046e2",
+        "7d74ca41-57a3-4c0d-945e-82af4e8eb6c0",
+        "081f0f11-0711-4c6b-b8dd-2f4ff64dd86f",
+        "b780d9e0-9096-4774-b210-3768d394824b"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 1",
+    "tgt_title": "Article 10(-1)(1)",
+    "certainty": 0.9614,
+    "match": true,
+    "amd_uuids": [
+        "b4674bcd-5c36-45e3-b6b5-77638488f318",
+        "5453b7f6-5881-4712-9f69-6500f61aa97e",
+        "d55c000a-1eb9-4437-8ef0-b392328c464c",
+        "36faacab-b73e-4b93-a7a3-5e53a9ecf852",
+        "99d84d84-802d-4e30-81fd-1b847e4ef073",
+        "d2046bfc-df79-4ee1-aeda-2eb02768f4cc"
+    ],
+    "tgt_uuid": "8042cbf3-0e42-4f62-880c-886ee9c03b6f",
+    "tgt_vvids": [
+        "007fbe6e-34f9-4da9-be82-165adcb8246a",
+        "c58d7aec-71a5-4bd0-a20b-dbed77a77c22",
+        "d9c136bb-0bfb-4361-8a22-d9098e562a86",
+        "20257293-9c8b-4a11-bec5-9d286ae2ef72"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 1 a (new)",
+    "tgt_title": "Article 10(5), first subparagraph, point (a new)",
+    "certainty": 0.969,
+    "match": true,
+    "amd_uuids": [
+        "9fe07ba9-9040-4ef9-be1e-0974f4d1e39a",
+        "02c65f3f-0d0c-4717-bd58-3342371c2029"
+    ],
+    "tgt_uuid": "fec86a82-6b6d-40ad-8a7d-5c14020a09ce",
+    "tgt_vvids": [
+        "e77b4b03-a242-40fe-8cd1-9a7db1dc980d",
+        "6dd5175a-7f44-423a-8e23-685e8c3977b2",
+        "e86af422-ae39-4c13-91b3-47f20ab64a9c",
+        "1f7382ff-f293-4932-ad25-4b4ed595bc64"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 1 b (new)",
+    "tgt_title": "Article 10(1), second subparagraph new",
+    "certainty": 0.9623,
+    "match": true,
+    "amd_uuids": [
+        "a77b8912-63ca-4fe9-93be-74429e155e63"
+    ],
+    "tgt_uuid": "396d7517-7791-4589-8992-0c5bb2de5cdc",
+    "tgt_vvids": [
+        "6b7557a1-32b6-48f5-a9b7-0f70551c91e4",
+        "72c61bb9-0cf4-4dd5-b5d8-8f32de72203a",
+        "ec51f58f-72d9-42d6-a39b-ffde29fd985d",
+        "e8d2ed3b-a360-4e5f-97f0-2178acdea8ab"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2 a (new)",
+    "tgt_title": "Article 10(5), first subparagraph, point (a new)",
+    "certainty": 0.9683,
+    "match": true,
+    "amd_uuids": [
+        "565588fa-733f-4299-ac00-1e31f6f83bf6"
+    ],
+    "tgt_uuid": "49735df8-841f-4bdc-b2bc-9bd3052ab19a",
+    "tgt_vvids": [
+        "e20ccd1b-7ae2-42b6-951c-c806f64870e5",
+        "69f1a8d4-98c7-4236-b032-7bff3b6ef5a6",
+        "508ae54c-fe05-4583-9cba-d5882aecfb2e",
+        "8b7e6280-3956-4050-b232-3b48291ddeb7"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  introductory part",
+    "tgt_title": "Article 10(2)",
+    "certainty": 0.9542,
+    "match": false,
+    "amd_uuids": [
+        "db7830bc-eb58-4997-834e-bea6c3068feb",
+        "76976d38-74c4-4339-97d7-fe3f32b9d50e",
+        "3247c12f-60d2-4c2a-bb32-c525b9556757",
+        "93953a27-ee29-458b-8140-5f5b7cc1ec19",
+        "6b9c88e2-7c4e-472f-9fa5-86dc08c916e2",
+        "a9106824-7d82-493d-b454-3ca078f71a83"
+    ],
+    "tgt_uuid": "472f089b-9bd9-405e-bc34-beaf3f3ede1a",
+    "tgt_vvids": [
+        "5998cd96-d928-4228-a068-adf4053f9467",
+        "ebeac5ed-8d17-4d8c-8516-43cbeae56b2e",
+        "ce3aa5ef-c425-4ca1-a40c-964f40e41cdb",
+        "a258baf6-a42f-4f4f-b639-520ec6782019"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point a",
+    "tgt_title": "Article 10(2), point (a)",
+    "certainty": 0.9763,
+    "match": true,
+    "amd_uuids": [
+        "17b1a37f-3971-41d9-b382-5e823ec38f62",
+        "2f933cc2-0ca7-4210-9806-5f1232351786",
+        "10a75d8e-ab89-4977-8bf9-454fa395e45f"
+    ],
+    "tgt_uuid": "d4d5c601-b530-4e82-90f9-1ae0bb68093d",
+    "tgt_vvids": [
+        "06e523d7-defc-4861-bb33-e48aff424ac5",
+        "94653605-4ddb-4162-8654-03467eac837b",
+        "3642cc84-5d64-4dd2-87b2-896ee368996f",
+        "6302846d-c91f-4417-af6a-c5600d7a038e"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point b",
+    "tgt_title": "Article 10(2), point (b)",
+    "certainty": 0.9771,
+    "match": true,
+    "amd_uuids": [
+        "303cc406-692a-4b1b-acdf-486f5790dd99",
+        "e3bf878b-4a4d-49db-aed2-386de4416b32"
+    ],
+    "tgt_uuid": "45d85e9f-2050-4b81-bf3d-8a4789d74b2c",
+    "tgt_vvids": [
+        "b62d475d-e479-41cb-892f-c69b9b96c9a8",
+        "5320e85d-89cb-4490-b3ef-c649e94c53d9",
+        "d9ebd9f7-bd3c-4d03-8225-2bfbfede69ed",
+        "5a5de244-6438-4a12-88cb-5fb3809b65f2"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point c",
+    "tgt_title": "Article 10(2), point (c)",
+    "certainty": 0.9797,
+    "match": true,
+    "amd_uuids": [
+        "12975038-a5ba-43dc-b6f2-24ac7a15f4be",
+        "175c992c-4824-4fa8-a54e-0a5165f98761",
+        "fd9f2313-327a-4e19-b46d-e059c3ac35d9"
+    ],
+    "tgt_uuid": "ecbf2a4c-845a-4b5c-9807-aaee0f626fa2",
+    "tgt_vvids": [
+        "626f20d8-d2af-4f2d-a1dc-b862883dae96",
+        "7f37a67e-4a7a-437a-9b1e-de17f14069e8",
+        "b2f355ca-7904-4153-8c60-3477b74944f9",
+        "86bbec54-505c-4497-8003-46968e0c4517"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point d",
+    "tgt_title": "Article 10(2), point (d)",
+    "certainty": 0.973,
+    "match": true,
+    "amd_uuids": [
+        "c1e224ff-877e-4b55-ab4e-aaf470fcd4a2"
+    ],
+    "tgt_uuid": "e1fd9f9c-28dd-4cb8-8574-b92c55ff37d8",
+    "tgt_vvids": [
+        "26e18eaa-1ac9-4f02-88ad-6949dde20df0",
+        "5f65c1d5-5766-4276-a10e-ae5d4702cd45",
+        "c6b2d20d-e900-4e24-926f-8f2caad585bf",
+        "39ad116a-efa6-4b38-ae61-89ae6da447ab"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point e",
+    "tgt_title": "Article 10(2), point (e)",
+    "certainty": 0.9801,
+    "match": true,
+    "amd_uuids": [
+        "58886eaf-630e-47a2-ae4b-b2deddf753d1",
+        "bee74ba8-e937-4988-b7ff-3612146e10c7"
+    ],
+    "tgt_uuid": "f263382f-cd77-4a17-92f6-c9269b7d87b5",
+    "tgt_vvids": [
+        "aee8db8c-acfe-4114-b50d-82a252daee41",
+        "222b0b3f-67b5-45a3-b683-9e731f2e4e76",
+        "7477e94f-20da-4fa6-9d5f-fc5e1b386dae",
+        "63ef06ef-62aa-4ee6-bfaa-85df660d7c14"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point f",
+    "tgt_title": "Article 10(2), point (f)",
+    "certainty": 0.9815,
+    "match": true,
+    "amd_uuids": [
+        "4aae2cd1-b5ad-4357-af58-bb976af33f37",
+        "a2c51f6e-3612-4c41-bddd-0ae5cb9a9e46",
+        "8f830d79-94d1-4fac-8efb-e08fd69d201d",
+        "66536e47-3cb3-426e-a632-767ba3e94c72",
+        "13e431ed-9781-46f5-9314-22b39ffbc276",
+        "eb10ab1f-1c8a-49be-98b8-28a9b0338b36"
+    ],
+    "tgt_uuid": "59765af0-2b14-4113-aa6d-3566a6b83a62",
+    "tgt_vvids": [
+        "96978549-aeba-4d4a-b42a-25953de69721",
+        "5c82abc8-abea-44a8-a3a3-9d5ec8779cbb",
+        "edeb7efa-3860-4041-89a2-2529bfc6350e",
+        "f7a11362-b9ac-4a4e-922b-b368767a2140"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point g",
+    "tgt_title": "Article 10(2), point (g)",
+    "certainty": 0.9815,
+    "match": true,
+    "amd_uuids": [
+        "9aa9fdd7-b575-472c-90d8-fbff55464b41",
+        "4b1dc348-ecec-45c0-9976-0123fcee0078",
+        "bcef1ec2-67c3-461f-a630-72116c6eacd4",
+        "6ac53350-0705-4bd0-b610-ec34bea6a355",
+        "67bf6c7a-4604-41c5-b1d8-1e117c329148"
+    ],
+    "tgt_uuid": "a71dd700-ca93-4e86-afaf-911966221d9f",
+    "tgt_vvids": [
+        "346ffc3b-50cf-427f-9700-d35c09ddf10e",
+        "09d40f0e-4345-4c20-a35f-b028a5b7f57c",
+        "1cdb4fbb-c0cf-4e76-a2df-09c461486d6d",
+        "6c4a5345-a74c-4433-888d-b141785b38e2"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 2  point g a (new)",
+    "tgt_title": "Article 10(5), first subparagraph, point (g new)",
+    "certainty": 0.9736,
+    "match": true,
+    "amd_uuids": [
+        "d948c896-dd35-4c5f-adcf-3d2e5b0fa071",
+        "50a76de7-fa91-4e7e-8d38-b67caa9f4ed1"
+    ],
+    "tgt_uuid": "ff6e61ae-30b4-41ef-b131-ad5fc8a75d3c",
+    "tgt_vvids": [
+        "e62a10ca-64c7-43a3-8769-abcba9e4b544",
+        "95365624-d976-41bc-9af8-1c8116d31752",
+        "8142e73a-4c68-4090-be28-e21334e68a95",
+        "25b9996b-806d-41b4-9c20-683e7f740630"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 3",
+    "tgt_title": "Article 10(3)",
+    "certainty": 0.9735,
+    "match": true,
+    "amd_uuids": [
+        "8f0dab94-57aa-46ce-b032-494a4fdf8743",
+        "39d4f494-d333-493a-99e2-15ebf857bdfb",
+        "be9375bc-759c-4201-979e-39903851c7f9",
+        "2fc6cac0-1e3e-43cb-8042-ee3d82800903",
+        "455da904-0d52-48f8-93c8-48aec743542d",
+        "3208b9d1-f042-465d-867f-b0caec370870",
+        "048e525f-2635-44b3-943b-0be198ef119d",
+        "7667b611-1e07-4725-ab9c-971990073b32",
+        "cce98e91-482d-4896-a806-7fd68f1176ae",
+        "2426f0d1-4e7b-438f-aa71-9fad5b1ba30d",
+        "2087e9f0-cc5e-41c2-b9fb-08b76eb56a06",
+        "754a2c01-2141-49c0-89ee-e06b3eaee2a0",
+        "c4bf5b53-285a-4683-8ba9-a5d58a52ffec",
+        "1de8f02a-4691-42d5-9c14-c4c93f5cb4a8"
+    ],
+    "tgt_uuid": "da2336d1-7a63-4aea-816a-b25e99bc8734",
+    "tgt_vvids": [
+        "e1f59139-0b62-4ffd-ad41-6be64d2250af",
+        "d3ddcc65-4e0b-4876-8297-2a2c14898b77",
+        "48016749-7520-4f58-ac94-baacf08ce124",
+        "6b15a5fe-eaef-486a-a735-27f9843ef1ff"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 3 a (new)",
+    "tgt_title": "Article 10(5), first subparagraph, point (a new)",
+    "certainty": 0.9666,
+    "match": true,
+    "amd_uuids": [
+        "1cfde108-4574-4127-a06e-9b495f23119f"
+    ],
+    "tgt_uuid": "f1259843-b752-430e-8828-6660dec5a61a",
+    "tgt_vvids": [
+        "ac6db083-3289-4449-bc5d-bc1569f60364",
+        "b7a288d3-80a1-423b-8657-3192c6f720bf",
+        "39c4e514-deec-4435-ad8c-98006b0b3205",
+        "a6a1ed5a-0680-4698-a431-18c318c6dfeb"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 4",
+    "tgt_title": "Article 10(4)",
+    "certainty": 0.9745,
+    "match": true,
+    "amd_uuids": [
+        "fbb1a906-1b3c-4422-a5a3-0eafad9cfb74",
+        "7262df85-4dc6-44d2-a219-a9eee4ea397d",
+        "bbbd749e-91fb-4fd2-a176-fa882211ef7a",
+        "3adf99f3-9ec8-4a6c-a9dc-6f70d1a9c89d",
+        "4aa1f5d9-299e-45e8-90e0-abbd925f2929",
+        "bc0d3997-59f1-40b6-aa21-f885a9b089b4"
+    ],
+    "tgt_uuid": "05ab901d-2719-4209-acc9-c3d32c2641e4",
+    "tgt_vvids": [
+        "483401c6-768c-4837-8fb3-4e5bc34f76a1",
+        "27351fd5-9b29-4b4a-95e0-91f153b04c9d",
+        "d4c1696e-7476-4e83-aec8-568d490e96e3",
+        "9758d5b3-f4da-4ea5-bff1-d1317b982be7"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 4 a (new)",
+    "tgt_title": "Article 10(5), first subparagraph, point (a new)",
+    "certainty": 0.9668,
+    "match": true,
+    "amd_uuids": [
+        "7e094a57-4eb1-4fb4-9ae7-42e8a618f4f6"
+    ],
+    "tgt_uuid": "fec86a82-6b6d-40ad-8a7d-5c14020a09ce",
+    "tgt_vvids": [
+        "e77b4b03-a242-40fe-8cd1-9a7db1dc980d",
+        "6dd5175a-7f44-423a-8e23-685e8c3977b2",
+        "e86af422-ae39-4c13-91b3-47f20ab64a9c",
+        "1f7382ff-f293-4932-ad25-4b4ed595bc64"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 5",
+    "tgt_title": "Article 10(4a)(5)",
+    "certainty": 0.9589,
+    "match": false,
+    "amd_uuids": [
+        "ce68b7c6-6636-449d-be1f-96a7af8ac6f1",
+        "94dd8dd5-7067-4db9-ba51-3e23d5ee51de",
+        "604fcaf6-83a6-42f3-b5fd-1d782ac96aec",
+        "b78a6bdb-a6dd-4991-9c10-62452c63d6a7",
+        "0832399c-1d67-4301-861b-5e8eb2ff06d6",
+        "e37f9be2-1bdb-4f07-a4cd-13f80c613bfc",
+        "d9e5eeea-546b-4160-b2d0-b33ace14a30b"
+    ],
+    "tgt_uuid": "612bdf01-58ae-438f-aa3b-baaacfb5ca45",
+    "tgt_vvids": [
+        "1ad720f4-8ab7-4c85-8596-1abd8d0b2405",
+        "1c47f99c-8ec6-4ef4-b07f-ad8a3611a3bc",
+        "a594e1d4-9ab4-4b38-8ca2-d25267fb30c3",
+        "89c57001-873e-4d81-8a6f-a42a108cf384"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 5 a (new)",
+    "tgt_title": "Article 10(5), first subparagraph, point (a new)",
+    "certainty": 0.9713,
+    "match": true,
+    "amd_uuids": [
+        "3e211555-233e-4def-8390-5b27549a266d"
+    ],
+    "tgt_uuid": "fec86a82-6b6d-40ad-8a7d-5c14020a09ce",
+    "tgt_vvids": [
+        "e77b4b03-a242-40fe-8cd1-9a7db1dc980d",
+        "6dd5175a-7f44-423a-8e23-685e8c3977b2",
+        "e86af422-ae39-4c13-91b3-47f20ab64a9c",
+        "1f7382ff-f293-4932-ad25-4b4ed595bc64"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 6",
+    "tgt_title": "Article 10(6)",
+    "certainty": 0.9703,
+    "match": true,
+    "amd_uuids": [
+        "08d8b87c-1563-4178-a7b2-7470af80f1e5"
+    ],
+    "tgt_uuid": "5b8be382-96b0-433d-81d4-56a56acda9f4",
+    "tgt_vvids": [
+        "1f73a446-500d-4e52-9b68-d585f0c6457b",
+        "447d0942-c6a9-4747-a18b-abe73e862546",
+        "2f40c507-744e-4b66-bf51-121ce104ede1",
+        "ff8d3f57-ca22-4c84-b76e-a6c477747337"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 6 a (new)",
+    "tgt_title": "Article 10(6a new)",
+    "certainty": 0.9748,
+    "match": true,
+    "amd_uuids": [
+        "e143e212-3531-4e72-befc-4a703f648773",
+        "08234475-c6fa-4b9b-b22c-0c8521e79756"
+    ],
+    "tgt_uuid": "53ec6120-e2e3-45f2-8578-dbad1a1c39e2",
+    "tgt_vvids": [
+        "a60c4516-35cb-4bbd-93f4-28dcb10046e2",
+        "7d74ca41-57a3-4c0d-945e-82af4e8eb6c0",
+        "081f0f11-0711-4c6b-b8dd-2f4ff64dd86f",
+        "b780d9e0-9096-4774-b210-3768d394824b"
+    ]
+}
+{
+    "amd_title": "Article 10  paragraph 6 b (new)",
+    "tgt_title": "Article 10(6a new)",
+    "certainty": 0.9669,
+    "match": true,
+    "amd_uuids": [
+        "fb10b629-a572-4533-ba49-26f5611dd163"
+    ],
+    "tgt_uuid": "53ec6120-e2e3-45f2-8578-dbad1a1c39e2",
+    "tgt_vvids": [
+        "a60c4516-35cb-4bbd-93f4-28dcb10046e2",
+        "7d74ca41-57a3-4c0d-945e-82af4e8eb6c0",
+        "081f0f11-0711-4c6b-b8dd-2f4ff64dd86f",
+        "b780d9e0-9096-4774-b210-3768d394824b"
+    ]
+}
+{
+    "amd_title": "Article 11  paragraph 1  introductory part",
+    "tgt_title": "Article 11(1), first subparagraph",
+    "certainty": 0.9595,
+    "match": false,
+    "amd_uuids": [
+        "abc0525b-6d76-48d6-814f-cefbcbb2f0fe",
+        "c4f4084b-d88a-4289-93b3-cb7106e00921"
+    ],
+    "tgt_uuid": "9269cafd-9b64-49c8-ab4f-ff2bb5fb361b",
+    "tgt_vvids": [
+        "fcb02b24-03f1-42d8-9dbb-d81171bac592",
+        "3c2da936-9621-4031-ac18-3143a0c5c637",
+        "2bc49d8a-bfbd-4c5b-b5a8-92cb149b1ac1",
+        "74e6c2d2-7cba-4c64-8ff0-dbbd94b476e4"
+    ]
+}
+{
+    "amd_title": "Article 11  paragraph 1  point 1 (new)",
+    "tgt_title": "Article 11(1), first subparagraph",
+    "certainty": 0.9567,
+    "match": false,
+    "amd_uuids": [
+        "b95ef212-2462-43ec-ae4c-00717b8a922b",
+        "fc7480d0-d6a8-49a5-b7af-b674a4667dc2"
+    ],
+    "tgt_uuid": "9269cafd-9b64-49c8-ab4f-ff2bb5fb361b",
+    "tgt_vvids": [
+        "fcb02b24-03f1-42d8-9dbb-d81171bac592",
+        "3c2da936-9621-4031-ac18-3143a0c5c637",
+        "2bc49d8a-bfbd-4c5b-b5a8-92cb149b1ac1",
+        "74e6c2d2-7cba-4c64-8ff0-dbbd94b476e4"
+    ]
+}
+{
+    "amd_title": "Article 11  paragraph 1  subparagraph 1",
+    "tgt_title": "Article 11(1), first subparagraph",
+    "certainty": 0.9751,
+    "match": true,
+    "amd_uuids": [
+        "f4aacf50-63b6-4dfb-9124-dee43bf9ea12",
+        "5039d8d1-3c66-499a-8a6e-511e276fa8bb",
+        "31ece37a-6943-421b-9e71-238380f82ea3",
+        "8c668f81-18ed-4187-bc5f-5460d0a83e1d",
+        "d02d519d-79e1-4f09-8818-3f27a8725637",
+        "e4890e4d-a63d-49a9-9542-2e009d701dbb"
+    ],
+    "tgt_uuid": "9269cafd-9b64-49c8-ab4f-ff2bb5fb361b",
+    "tgt_vvids": [
+        "fcb02b24-03f1-42d8-9dbb-d81171bac592",
+        "3c2da936-9621-4031-ac18-3143a0c5c637",
+        "2bc49d8a-bfbd-4c5b-b5a8-92cb149b1ac1",
+        "74e6c2d2-7cba-4c64-8ff0-dbbd94b476e4"
+    ]
+}
+{
+    "amd_title": "Article 11  paragraph 2",
+    "tgt_title": "Article 11(2)",
+    "certainty": 0.9737,
+    "match": true,
+    "amd_uuids": [
+        "ccbdc7ae-776e-4dc6-b581-5016d98038f3",
+        "2a5c15fb-e1ab-439c-83f8-166e4800a49e",
+        "a94f79b5-d4e0-4105-b744-ab0a7d39388e"
+    ],
+    "tgt_uuid": "26b8f653-2694-4d09-b6ea-66336d2ebece",
+    "tgt_vvids": [
+        "93e1dace-ecbd-489d-80a4-bf9570e1a6e9",
+        "e9c48c7a-e771-4e92-9604-0e3fe6732847",
+        "10e9267a-686b-4454-b870-539128535eb9",
+        "3be79c74-b470-446a-b75c-dd29cbed73d1"
+    ]
+}
+{
+    "amd_title": "Article 11  paragraph 2 a (new)",
+    "tgt_title": "Article 11(3a new)",
+    "certainty": 0.9705,
+    "match": true,
+    "amd_uuids": [
+        "fe278b73-a8d9-48b4-a216-e4fc125716fd"
+    ],
+    "tgt_uuid": "e5be4995-9e29-4621-85f2-5c487a31d8d8",
+    "tgt_vvids": [
+        "8908eaa2-91f3-4ff5-b479-96020a5e3a9a",
+        "53e24ea8-c9d8-4608-9a54-a4c330b55ce0",
+        "ccdb0f29-a374-4496-89de-0df461860173",
+        "3c7f2e25-e987-4852-9c77-64ddac101346"
+    ]
+}
+{
+    "amd_title": "Article 11  paragraph 3",
+    "tgt_title": "Article 11(3)",
+    "certainty": 0.9733,
+    "match": true,
+    "amd_uuids": [
+        "22ca8e7d-8f1c-46a8-8a18-bf5ced060097"
+    ],
+    "tgt_uuid": "bb5c16c7-77f5-4968-add5-dd254b79ee57",
+    "tgt_vvids": [
+        "d1697e3c-a9d5-4d15-b19b-a79df56df944",
+        "06b610cb-c638-45f7-8054-27b732119038",
+        "313d5d0e-2173-4efb-afc7-a197817549e2",
+        "f67c3043-0240-4652-85a5-df7c4f92c62a"
+    ]
+}
+{
+    "amd_title": "Article 11  paragraph 3 a (new)",
+    "tgt_title": "Article 11(3a new)",
+    "certainty": 0.9762,
+    "match": true,
+    "amd_uuids": [
+        "d24dbc01-0b31-4340-a77e-246d3f569a80",
+        "e6c71fac-8f63-4d50-a86b-b8f60ded2330"
+    ],
+    "tgt_uuid": "e5be4995-9e29-4621-85f2-5c487a31d8d8",
+    "tgt_vvids": [
+        "8908eaa2-91f3-4ff5-b479-96020a5e3a9a",
+        "53e24ea8-c9d8-4608-9a54-a4c330b55ce0",
+        "ccdb0f29-a374-4496-89de-0df461860173",
+        "3c7f2e25-e987-4852-9c77-64ddac101346"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 1",
+    "tgt_title": "Article 12(1)",
+    "certainty": 0.9717,
+    "match": true,
+    "amd_uuids": [
+        "7a3f3e73-a7f7-464b-a070-217d7b554070",
+        "6ce5662b-9b35-43e6-83ce-2ba23d8fff12",
+        "e8cc6536-5757-46aa-a90b-cc6bbdfd59bd",
+        "0c0e7759-23f9-4f9b-8505-00109b469f56",
+        "22b24afe-5a17-4d3a-9e93-689284a656ab",
+        "73c50fe7-9a1a-45a3-b8b2-6469b4b1c7ba"
+    ],
+    "tgt_uuid": "183485a4-074a-4ec4-b2bf-5b4e2a40d759",
+    "tgt_vvids": [
+        "e3c59a0b-2f94-4a71-9b29-852a9fdffde1",
+        "7e7bf505-a647-4249-a423-a65ad26071cc",
+        "4fee73f1-c2c0-43f2-b0e8-1bde8e030e7a",
+        "d58e4b33-92fc-437f-a93b-a017d0a95679"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 2",
+    "tgt_title": "Article 12(2)",
+    "certainty": 0.9737,
+    "match": true,
+    "amd_uuids": [
+        "25d468e5-3b61-43e8-be13-0930f609e200",
+        "11cfe717-08ea-49a4-9363-111041885976",
+        "f4c8a6b7-7b54-439c-81e4-8b1d10c8bb2a",
+        "6646c096-db34-492f-a346-1ced21ffd34c",
+        "b4aa54bf-5b16-4faf-808d-1875d0c47b8c"
+    ],
+    "tgt_uuid": "7c09cb3c-8a68-4529-85a9-25ac9ef1fe7a",
+    "tgt_vvids": [
+        "34f60641-84a9-420b-8f50-7976186f2bcc",
+        "303583c4-089b-4bbd-8753-b6d22fc5a54f",
+        "3fc970e9-e42e-4031-9053-b8a0d9393153",
+        "ea07e6ab-62ee-47dc-a99f-2066aa36c76f"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 3",
+    "tgt_title": "Article 12(3)",
+    "certainty": 0.9725,
+    "match": true,
+    "amd_uuids": [
+        "2dde06c4-6175-4a1d-9c3b-f041cf694f0e"
+    ],
+    "tgt_uuid": "1844c0bf-8cb8-4123-9663-1d2cd06beb3e",
+    "tgt_vvids": [
+        "0cd894a5-e28a-4875-a433-3851c6fdc609",
+        "cdc5cf2e-8571-49c8-81b6-372d2657106a",
+        "582de06a-b939-4bfa-a6a1-a295787151b2",
+        "37c7d65f-f953-4895-b085-55a37de2c49d"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 3 a (new)",
+    "tgt_title": "Article 12(2), point (a new)",
+    "certainty": 0.972,
+    "match": true,
+    "amd_uuids": [
+        "2d7f39b6-2a0d-4073-ab8c-c16669d53848"
+    ],
+    "tgt_uuid": "745f092c-1754-4c2d-b331-e8f57c508285",
+    "tgt_vvids": [
+        "18d3281b-b54d-4aa0-b89f-b40827b6b679",
+        "98286317-d514-428a-a682-ce044deb228a",
+        "64863a50-1c3b-4aa1-8fea-d240b7910f4b",
+        "a9a4193a-afbc-4d60-82d8-b321b0fe32a2"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4",
+    "tgt_title": "Article 12(4)",
+    "certainty": 0.9746,
+    "match": true,
+    "amd_uuids": [
+        "acc2c9dc-f203-469b-a2a2-c33bee0a5075",
+        "24308310-3318-49df-8248-0a3a52dc9fc3",
+        "cb417b96-adfa-41da-9b13-d9a81af753e3"
+    ],
+    "tgt_uuid": "512949d5-f02d-4e6e-814b-8e60f1e0e760",
+    "tgt_vvids": [
+        "0fbdb67f-97fa-49b4-bcb2-6e8979ad0db0",
+        "a6b0d342-9a4a-4daf-9b90-115a7512898e",
+        "8cb2c591-d9f0-4e2a-aa7d-64eeef49bb7a",
+        "b19f89f3-075f-4c3e-ac72-7c4f404df886"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4 a (new)",
+    "tgt_title": "Article 12(2), point (a new)",
+    "certainty": 0.9721,
+    "match": true,
+    "amd_uuids": [
+        "c3ef50bf-93d1-4b38-9f02-66d3f1377309"
+    ],
+    "tgt_uuid": "745f092c-1754-4c2d-b331-e8f57c508285",
+    "tgt_vvids": [
+        "18d3281b-b54d-4aa0-b89f-b40827b6b679",
+        "98286317-d514-428a-a682-ce044deb228a",
+        "64863a50-1c3b-4aa1-8fea-d240b7910f4b",
+        "a9a4193a-afbc-4d60-82d8-b321b0fe32a2"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4 b (new)",
+    "tgt_title": "Article 12(2), point (b new)",
+    "certainty": 0.9725,
+    "match": true,
+    "amd_uuids": [
+        "a805efe8-d83f-4acf-a4b0-d3012115aac4"
+    ],
+    "tgt_uuid": "7fb45357-ba60-4233-8cde-a13acfa0ce0c",
+    "tgt_vvids": [
+        "4d7f7598-8811-49a6-a539-2b791774dc7a",
+        "19c2b277-9025-4d0b-85e4-cd3f8e67daf5",
+        "30e3dfbb-dd13-4e9d-8ca2-5b0d4007eb3d",
+        "1b1d9382-aad4-49cb-95a7-1827cf3d5ed4"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4 c (new)",
+    "tgt_title": "Article 12(4), point (c)",
+    "certainty": 0.9633,
+    "match": true,
+    "amd_uuids": [
+        "5d955f28-02dd-4432-9b81-2f1460d3518e"
+    ],
+    "tgt_uuid": "d71f1075-ab23-44e1-9901-3c64bc977b81",
+    "tgt_vvids": [
+        "621dec80-59e5-4e9b-a0f5-876dfe99a7df",
+        "b8edc767-b600-4ebc-8d04-a14a6171f403",
+        "544a4996-4d29-41e3-b0e1-649cd4dd6a5e",
+        "6941abc5-51ed-4042-a5bb-cedf87ffedc5"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4 d (new)",
+    "tgt_title": "Article 12(4), point (d)",
+    "certainty": 0.9627,
+    "match": true,
+    "amd_uuids": [
+        "e1d1b697-fdf2-48f9-8adb-fc6bc9f785b5"
+    ],
+    "tgt_uuid": "67218e59-c2f0-45bc-81aa-c33d965e832c",
+    "tgt_vvids": [
+        "14c60a0a-26df-4bcd-a908-964cfed8bba9",
+        "8dfe3ea7-51e2-4323-9de7-293ca2dcae4d",
+        "1cdb7ecd-0082-43ab-8633-2b2b07d89b3a",
+        "8968873f-af18-435a-a024-63c258f8a345"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4  introductory part",
+    "tgt_title": "Article 12(4)",
+    "certainty": 0.9531,
+    "match": false,
+    "amd_uuids": [
+        "17a2420f-e096-4272-82f1-141937bfb51d"
+    ],
+    "tgt_uuid": "512949d5-f02d-4e6e-814b-8e60f1e0e760",
+    "tgt_vvids": [
+        "0fbdb67f-97fa-49b4-bcb2-6e8979ad0db0",
+        "a6b0d342-9a4a-4daf-9b90-115a7512898e",
+        "8cb2c591-d9f0-4e2a-aa7d-64eeef49bb7a",
+        "b19f89f3-075f-4c3e-ac72-7c4f404df886"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4  point a",
+    "tgt_title": "Article 12(4), point (a)",
+    "certainty": 0.9778,
+    "match": true,
+    "amd_uuids": [
+        "3dec6b6e-eed0-4886-9b39-8fa1590a7414"
+    ],
+    "tgt_uuid": "dc89cc00-7771-4aba-aa95-f346e7bec534",
+    "tgt_vvids": [
+        "885eabeb-32e2-44ae-be8d-98b3ee738a6a",
+        "28431007-3678-4df7-856d-5df049365cf2",
+        "a91480b4-50c3-4815-b553-cb65061de36f",
+        "6c41b34d-51e8-4d6d-b655-cd21f75f0d38"
+    ]
+}
+{
+    "amd_title": "Article 12  paragraph 4  point c",
+    "tgt_title": "Article 12(4), point (c)",
+    "certainty": 0.9807,
+    "match": true,
+    "amd_uuids": [
+        "5a6679aa-6138-48a2-a5f9-1cbcaf465c80"
+    ],
+    "tgt_uuid": "d71f1075-ab23-44e1-9901-3c64bc977b81",
+    "tgt_vvids": [
+        "621dec80-59e5-4e9b-a0f5-876dfe99a7df",
+        "b8edc767-b600-4ebc-8d04-a14a6171f403",
+        "544a4996-4d29-41e3-b0e1-649cd4dd6a5e",
+        "6941abc5-51ed-4042-a5bb-cedf87ffedc5"
+    ]
+}
+{
+    "amd_title": "Article 13 a (new)",
+    "tgt_title": "Article 13(3a)",
+    "certainty": 0.9631,
+    "match": true,
+    "amd_uuids": [
+        "eb42b893-4dc3-4c94-932b-48c89d98ab12"
+    ],
+    "tgt_uuid": "fdf533e7-e465-4b6f-b459-feb277b9ee11",
+    "tgt_vvids": [
+        "439dcc0c-0fd2-48f1-af96-bff65134139a",
+        "aea8df0d-309a-45a5-b95f-0a165a653045",
+        "ec92eb62-1b38-4d0c-ae93-a6e516276a53",
+        "da02ff1d-0387-4369-a0f6-4678f9d82ac4"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 1",
+    "tgt_title": "Article 13(-1)(1)",
+    "certainty": 0.965,
+    "match": true,
+    "amd_uuids": [
+        "6e268846-82e1-404d-bf07-55ee2e5345cd",
+        "1a193b41-2849-453a-8979-13675de017ea",
+        "7686de14-3408-41ce-8814-3cbcd0e86268"
+    ],
+    "tgt_uuid": "2930085b-c05e-42e1-ab9a-117d82483808",
+    "tgt_vvids": [
+        "a0b1db9f-28e0-4f28-bba4-7c0cabd44bf9",
+        "51187276-0146-4968-b06e-04ced35beaaa",
+        "740b959d-4488-4188-95a4-fbb3bd8d9f44",
+        "a48fff8d-ccc9-4969-8983-f5192cccef11"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 2",
+    "tgt_title": "Article 13(2)",
+    "certainty": 0.9726,
+    "match": true,
+    "amd_uuids": [
+        "543324c3-c299-42a8-ad2d-6ae3fd2a244e",
+        "cc821d87-56ed-4b49-b0d9-03a0f0c07e33"
+    ],
+    "tgt_uuid": "87837f0b-c4a8-4f4e-83c9-fc3292106883",
+    "tgt_vvids": [
+        "a509affb-08b6-4e2b-984f-0fe6def7f220",
+        "83baab39-d383-4717-a206-46575550d518",
+        "26089a92-869c-4723-8897-191beceef83c",
+        "a7104956-d0da-42cc-bbbf-44d64fc8fe17"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  introductory part",
+    "tgt_title": "Article 13(3)",
+    "certainty": 0.9556,
+    "match": false,
+    "amd_uuids": [
+        "1f3bfb82-6506-490a-a0e8-cddd36bafc46",
+        "60db0bc6-163c-4963-a64c-e80a1afd740a"
+    ],
+    "tgt_uuid": "d5caaf20-636e-4883-a229-f7458ead9ff0",
+    "tgt_vvids": [
+        "0543e1bf-d992-4974-9d26-70a7c0fa654f",
+        "379e591f-53f0-4054-aab6-ec0e4c226cea",
+        "e2cbf8b5-c597-46bc-a0e4-9cbd71b532b3",
+        "017b88b8-7315-46c6-b9d1-d07a15c5e550"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  point a",
+    "tgt_title": "Article 13(3), point (a)",
+    "certainty": 0.9764,
+    "match": true,
+    "amd_uuids": [
+        "67d8084a-4fed-4337-8393-0da36d968de9"
+    ],
+    "tgt_uuid": "ac80bee9-d54e-43c1-a43a-e9f66d55adfe",
+    "tgt_vvids": [
+        "888d0b1c-1c38-4ac0-aaf3-b86f778a0010",
+        "2860d0c8-1a0f-4db9-b205-473fb75e15b9",
+        "2399ae0d-20d0-484c-9e9a-28371e177565",
+        "87eb049d-6ce5-4e98-8d46-19b2b798302d"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  point b  introductory part",
+    "tgt_title": "Article 13(3), point (b)",
+    "certainty": 0.9631,
+    "match": true,
+    "amd_uuids": [
+        "acebb0a0-a0c4-478b-9ad7-36a2e02d8552"
+    ],
+    "tgt_uuid": "a088e5fa-93ea-4b23-ba9b-6817ae391259",
+    "tgt_vvids": [
+        "8035cee5-c025-45a6-a757-c54950d39ebb",
+        "dcd6e960-2365-4ed8-97cb-939542cc591e",
+        "45e2d7e5-4c27-412e-a8ab-8248a9f9602e",
+        "87297c4d-1fe4-45d8-9e78-29ec423153db"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  point b  point ii",
+    "tgt_title": "Article 13(3), point (b)(ii)",
+    "certainty": 0.9747,
+    "match": true,
+    "amd_uuids": [
+        "2d423768-93e9-4d66-9091-fff227e9fdc8",
+        "524b5ae8-e78d-4f83-bb33-a656c62ff9f5",
+        "39666b10-e463-4556-aaea-2835a99b6eaf"
+    ],
+    "tgt_uuid": "def05278-f533-4ccb-a87e-b86f99f225c1",
+    "tgt_vvids": [
+        "598d1d8d-6668-4634-b965-23dcb91efa11",
+        "555720ed-37a9-425c-a8d5-955ab195271d",
+        "d5c54edd-8b80-471e-99fe-7f90fadbb079",
+        "97732758-13a4-4e25-8c69-0b3c4a708b8b"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  point b  point iii",
+    "tgt_title": "Article 13(3), point (b)(iii)",
+    "certainty": 0.9751,
+    "match": true,
+    "amd_uuids": [
+        "c7e8ba59-0cf6-4fb3-9f60-920f9afb40f5",
+        "d8d44973-eb0f-4ab8-bebb-174742e72cd7",
+        "14400cc9-5ff4-4606-8b41-32b61506cf6f"
+    ],
+    "tgt_uuid": "61e854ff-8506-491a-ab1c-6ba24ce95204",
+    "tgt_vvids": [
+        "70122cb1-4b25-4648-9b47-c11d0e24c5d2",
+        "6079c8b8-0457-40ce-b20b-d59f8e3b8dfc",
+        "9b950e01-7921-464f-92f9-e887696db13e",
+        "51e77542-62be-4bec-8e0a-c04a53b16453"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  point b  point v",
+    "tgt_title": "Article 13(3), point (b)(v)",
+    "certainty": 0.9756,
+    "match": true,
+    "amd_uuids": [
+        "2578ee38-c184-49e6-ab9b-f0736ba33040",
+        "d7169297-4a1f-4069-9f1d-0ad45eb80235"
+    ],
+    "tgt_uuid": "ea929fdb-36c4-4075-baf2-7f362ca54b47",
+    "tgt_vvids": [
+        "920ae30b-77f7-4627-bd5f-893d763323ba",
+        "a504dc7b-1753-4f5c-9825-df83d07f26e3",
+        "2f00fb0c-d07f-4e6b-8360-4e4e51e1069e",
+        "a6ae4012-9cad-4b01-b2ff-a1587d8bd097"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  point d",
+    "tgt_title": "Article 13(3), point (d)",
+    "certainty": 0.9718,
+    "match": true,
+    "amd_uuids": [
+        "68bcf9d1-eb9d-4371-a31d-7e636ca8231c"
+    ],
+    "tgt_uuid": "380e7db7-9869-437a-a256-ab0d4b5ec948",
+    "tgt_vvids": [
+        "897beb0a-8b85-4403-a47f-299c10176235",
+        "275d4dfd-545e-495a-ab23-56ae461d5b6b",
+        "3dca87da-299a-4a07-8dae-c8b25741a92f",
+        "2d385000-e33b-4048-8072-c57ee9942cd1"
+    ]
+}
+{
+    "amd_title": "Article 13  paragraph 3  point e a (new)",
+    "tgt_title": "Article 13(3), point (e)",
+    "certainty": 0.97,
+    "match": true,
+    "amd_uuids": [
+        "541247f1-1c36-4a03-8aaf-49fd98be5aad",
+        "a177387c-2a9e-481b-ba71-5ed188413517",
+        "1d00200b-fbcf-4fc4-8b3d-b32065af80e2"
+    ],
+    "tgt_uuid": "e9af2382-0786-4abc-95f0-003950fd59da",
+    "tgt_vvids": [
+        "8a078876-bae5-44c9-a653-a6cc2baa6a21",
+        "eb56ecde-59bc-4cc5-9fec-a6bb3fa64d5c",
+        "909e9432-3d88-4f5b-9860-6dfe0c565e0d",
+        "f654fea0-aa8f-451a-946a-06be0f9f7e5a"
+    ]
+}
+{
+    "amd_title": "Article 13  title",
+    "tgt_title": "Article 13",
+    "certainty": 0.9701,
+    "match": true,
+    "amd_uuids": [
+        "f7764fac-d09a-4be9-829c-f7a8ff2b7c49"
+    ],
+    "tgt_uuid": "f6cb5ba2-eb10-4878-9524-bd01aefac0ca",
+    "tgt_vvids": [
+        "da4628c6-6703-42ce-ac45-bdeb2b8d7354",
+        "c7649053-1887-479c-bce1-ee4a9c15a647",
+        "ee66a39b-0c2c-4685-844f-ccb50e88381e",
+        "b3178c11-897c-4633-9eaa-1b54f117b50d"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 1",
+    "tgt_title": "Article 14(1)",
+    "certainty": 0.9718,
+    "match": true,
+    "amd_uuids": [
+        "72292641-8d8d-4b27-b049-b9267f59db2d",
+        "7779d932-7476-4d6d-ad67-7076ccd0950b",
+        "d754826a-d697-401b-8766-88960790073d",
+        "41235862-094c-4f55-bddb-bf70e472d688"
+    ],
+    "tgt_uuid": "6d61b5a6-fb07-4021-a25b-97924114d779",
+    "tgt_vvids": [
+        "8a05bb2c-f5bb-4fe7-8b5a-27447c0bb881",
+        "f2aa1a7e-95da-400c-bca8-4b30095e9d7e",
+        "d1c0e535-3ff4-4f32-bd25-d65c659a17e5",
+        "e47e799b-af33-402c-a71a-9e329d21faab"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 2",
+    "tgt_title": "Article 14(2)",
+    "certainty": 0.974,
+    "match": true,
+    "amd_uuids": [
+        "9d9bea27-e895-4405-b3a2-75d98f143169",
+        "404d5cd3-7334-4c45-bc44-14e4b173769a",
+        "d6edffee-8613-4a54-88ca-8902dc43fb55",
+        "a6bb68f3-f643-4faf-8b0e-2fde88c7c61a"
+    ],
+    "tgt_uuid": "faef0d64-8e80-4310-ae62-fdcd728a8849",
+    "tgt_vvids": [
+        "76e7fd27-c818-4d3f-b70c-c3c3e72a92a1",
+        "5a2736a2-4e6d-47ef-a2c7-a71e5af0696c",
+        "734d2794-6a5b-423c-a522-0d67281cc1ad",
+        "fccb01bb-438d-4a01-9c8b-1570f3106108"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 3 a (new)",
+    "tgt_title": "Article 14(3), point (a)",
+    "certainty": 0.9604,
+    "match": true,
+    "amd_uuids": [
+        "39e88a3b-6193-4ac0-9f24-345cbcc642ea"
+    ],
+    "tgt_uuid": "d88f2fe8-a3bb-4938-9a0f-963bccee256c",
+    "tgt_vvids": [
+        "dfcb82c3-e3c0-4ac7-9bdf-99ec3c86b591",
+        "5a0036e4-6427-48a3-8da6-cb2cd5ca1a48",
+        "88cc3917-8b03-43dc-ad34-696d972a920b",
+        "396159b9-08aa-4a63-84ba-201d8f6c1302"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 3  introductory part",
+    "tgt_title": "Article 14(3)",
+    "certainty": 0.9501,
+    "match": false,
+    "amd_uuids": [
+        "77d35975-f82e-4a68-92e1-62bb0646b215",
+        "a32d30ac-4edd-4fc3-ad06-67f322342ec6",
+        "4137f5fe-ab9b-4c8e-b678-8bc7b40bb7c3"
+    ],
+    "tgt_uuid": "f4a48db4-403a-4523-9040-932fc3c17536",
+    "tgt_vvids": [
+        "0d8aba9b-c7a8-4a32-af19-6286fd89b659",
+        "8f3b896d-6a3b-4646-8205-5eb8656fcbed",
+        "4dee90a8-6865-4ee2-942e-50a04adf366f",
+        "64f7f11a-f6f7-4d9f-89ea-b9b0e2e4e84f"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 3  point a",
+    "tgt_title": "Article 14(3), point (a)",
+    "certainty": 0.9756,
+    "match": true,
+    "amd_uuids": [
+        "20e4ef9e-b5b7-4f7a-bbab-ef416affb4bc",
+        "81ee6c91-72c3-46aa-aab3-9c015f511f38"
+    ],
+    "tgt_uuid": "d88f2fe8-a3bb-4938-9a0f-963bccee256c",
+    "tgt_vvids": [
+        "dfcb82c3-e3c0-4ac7-9bdf-99ec3c86b591",
+        "5a0036e4-6427-48a3-8da6-cb2cd5ca1a48",
+        "88cc3917-8b03-43dc-ad34-696d972a920b",
+        "396159b9-08aa-4a63-84ba-201d8f6c1302"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 3  point b",
+    "tgt_title": "Article 14(3), point (b)",
+    "certainty": 0.9749,
+    "match": true,
+    "amd_uuids": [
+        "e97d292f-e75f-4411-93ff-6d96f77ed3bb",
+        "b7abb88c-4ad6-44a1-afa1-3e7fbd11d79d"
+    ],
+    "tgt_uuid": "857d0368-445c-41e8-a025-3879a6abebef",
+    "tgt_vvids": [
+        "053f50b3-e8f6-4ed1-b421-ebe4a29f5676",
+        "94ce976f-9fa0-4c92-818b-cd2ecbbe11ed",
+        "5b7cac95-adfa-4c5b-8009-b3781e56fc57",
+        "24d76242-619c-491f-81f6-b736cce747b8"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 3  point b a (new)",
+    "tgt_title": "Article 14(3), point (b)",
+    "certainty": 0.9672,
+    "match": true,
+    "amd_uuids": [
+        "ae752b7c-9f8f-465d-ab3b-83b89d775f30"
+    ],
+    "tgt_uuid": "857d0368-445c-41e8-a025-3879a6abebef",
+    "tgt_vvids": [
+        "053f50b3-e8f6-4ed1-b421-ebe4a29f5676",
+        "94ce976f-9fa0-4c92-818b-cd2ecbbe11ed",
+        "5b7cac95-adfa-4c5b-8009-b3781e56fc57",
+        "24d76242-619c-491f-81f6-b736cce747b8"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 3  point b b (new)",
+    "tgt_title": "Article 14(3), point (b)",
+    "certainty": 0.9684,
+    "match": true,
+    "amd_uuids": [
+        "9b199872-4b11-429e-8e29-4354cf357d72"
+    ],
+    "tgt_uuid": "857d0368-445c-41e8-a025-3879a6abebef",
+    "tgt_vvids": [
+        "053f50b3-e8f6-4ed1-b421-ebe4a29f5676",
+        "94ce976f-9fa0-4c92-818b-cd2ecbbe11ed",
+        "5b7cac95-adfa-4c5b-8009-b3781e56fc57",
+        "24d76242-619c-491f-81f6-b736cce747b8"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 4  introductory part",
+    "tgt_title": "Article 4, first paragraph",
+    "certainty": 0.9519,
+    "match": false,
+    "amd_uuids": [
+        "d42fd2c5-a8bb-46ca-a518-e5b1b723abbd"
+    ],
+    "tgt_uuid": "eacaf287-1ea0-4bc7-b417-f24f4d5d9bdb",
+    "tgt_vvids": [
+        "6345142e-f909-4b62-8b0d-2359e5795e58",
+        "f2bce0d5-5fa9-46b3-aa37-3678213a9b82",
+        "fedb079c-398d-459a-8af0-f0f4a7ac8f63",
+        "4c3f7886-2901-4253-b726-46be331c5727"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 4  point a",
+    "tgt_title": "Article 14(4), point (a)",
+    "certainty": 0.9764,
+    "match": true,
+    "amd_uuids": [
+        "4e441929-b843-4834-a505-3c7f3a56c02f",
+        "65796455-af77-473f-bf4a-cd400a0c8b67",
+        "4f716a23-2ff1-4317-9e58-450d40582eff"
+    ],
+    "tgt_uuid": "9f1b28de-0440-46d9-9581-3a7fb0a8aee5",
+    "tgt_vvids": [
+        "211c2adb-ce47-4324-b474-557faf5b9415",
+        "75afd0c9-90d6-420b-b39e-f798fdf5dfc2",
+        "95be1ca1-f6c1-4686-8ca6-0d3109580356",
+        "d1379f2a-2eac-4caf-a3c7-b13954ec78e1"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 4  point b",
+    "tgt_title": "Article 14(4), point (b)",
+    "certainty": 0.9764,
+    "match": true,
+    "amd_uuids": [
+        "bb82684e-2f90-4174-81c2-8a2c09ddf3de",
+        "fc257d26-12f3-4916-bb37-8deb9c596200",
+        "1adf021c-5800-4cef-a43a-f3d95827d94d"
+    ],
+    "tgt_uuid": "a378c76e-e440-487e-9d52-8c8aec30228b",
+    "tgt_vvids": [
+        "fd8548a4-c872-46be-a29c-921d99adeaf5",
+        "9cd23589-8fef-451a-b538-3c58fd611fc8",
+        "14cc3841-11a5-4021-84ed-2bd2b9b9f3b8",
+        "5cd29aad-66de-47b8-a565-c8e7b0ca06a6"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 4  point c",
+    "tgt_title": "Article 14(4), point (c)",
+    "certainty": 0.9776,
+    "match": true,
+    "amd_uuids": [
+        "ca523fbd-3e1e-4bd4-861c-b17a85080faa",
+        "5fafb591-a5d6-4c83-94a8-6d3fc9b215fa"
+    ],
+    "tgt_uuid": "6019132c-9495-4bd8-945e-f427fb43fdea",
+    "tgt_vvids": [
+        "85f6356d-ad7e-4402-9822-6b455dec9286",
+        "63672a5f-7211-4f45-8cf4-59d0e4b06703",
+        "8973ec24-7d32-4016-89b1-4215e79e40ad",
+        "1358c402-b3aa-420d-b483-be7560fdc7b7"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 4  point d",
+    "tgt_title": "Article 14(4), point (d)",
+    "certainty": 0.9714,
+    "match": true,
+    "amd_uuids": [
+        "5773b93c-d69e-4822-8e8d-c8f6186c2176",
+        "15ed2e68-088e-4a13-a94a-2fdc6ad5b440"
+    ],
+    "tgt_uuid": "324511ed-645e-4f18-8b6c-77ac94ad1f90",
+    "tgt_vvids": [
+        "9ecd6dfb-5600-4762-90cb-5ae55435a1a7",
+        "6502eb8a-0db4-451d-a752-afdd2e18bc65",
+        "5ddbe281-b603-4225-a406-23036fed7812",
+        "80db9652-d24c-462c-92c2-31766264b779"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 4  point e",
+    "tgt_title": "Article 14(4), point (e)",
+    "certainty": 0.9776,
+    "match": true,
+    "amd_uuids": [
+        "e70bf324-a232-4ed0-aeb6-3ed5c6f8b7d2",
+        "c4c34076-0b1c-44ab-be46-e61c37e27e11",
+        "2b441986-d11a-4a90-bea2-58a2e88aa639"
+    ],
+    "tgt_uuid": "5c8fc407-0ac3-4d7d-9882-6cab8e3f1782",
+    "tgt_vvids": [
+        "737c3bf9-9d0c-4df4-8abd-6545ed22d7e1",
+        "62d09f99-6364-4280-8f0e-21ba398e42c0",
+        "c40d0bec-ba20-4585-a60a-cb62cc0d7c83",
+        "6d014887-48cc-4a30-ab29-28e289fe6c69"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 5",
+    "tgt_title": "Article 14(5)",
+    "certainty": 0.9714,
+    "match": true,
+    "amd_uuids": [
+        "256201aa-c232-44d0-9faf-a15c878c7854",
+        "1bf546c5-8e13-4a73-a010-62dfdc260be6",
+        "b847edf0-cfc6-47d3-86b9-0dfc8da7853d"
+    ],
+    "tgt_uuid": "86aef8ab-7959-4f2d-bfda-c041ba14b427",
+    "tgt_vvids": [
+        "55694709-4599-4077-a9ca-63ba834208b9",
+        "3790de75-4376-4319-af08-666e8836f790",
+        "6decd497-48f9-4772-adcf-d9e7d189325f",
+        "c733f1f8-b1e0-4ef6-aae6-2d12e2807068"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 5 a (new)",
+    "tgt_title": "Article 14(5)",
+    "certainty": 0.9598,
+    "match": false,
+    "amd_uuids": [
+        "5c271c70-932c-4aeb-9bc1-ecb162b6b649"
+    ],
+    "tgt_uuid": "86aef8ab-7959-4f2d-bfda-c041ba14b427",
+    "tgt_vvids": [
+        "55694709-4599-4077-a9ca-63ba834208b9",
+        "3790de75-4376-4319-af08-666e8836f790",
+        "6decd497-48f9-4772-adcf-d9e7d189325f",
+        "c733f1f8-b1e0-4ef6-aae6-2d12e2807068"
+    ]
+}
+{
+    "amd_title": "Article 14  paragraph 5 b (new)",
+    "tgt_title": "Article 14(5)",
+    "certainty": 0.9562,
+    "match": false,
+    "amd_uuids": [
+        "88b0c513-6b10-4c08-9292-a719f31b731a"
+    ],
+    "tgt_uuid": "86aef8ab-7959-4f2d-bfda-c041ba14b427",
+    "tgt_vvids": [
+        "55694709-4599-4077-a9ca-63ba834208b9",
+        "3790de75-4376-4319-af08-666e8836f790",
+        "6decd497-48f9-4772-adcf-d9e7d189325f",
+        "c733f1f8-b1e0-4ef6-aae6-2d12e2807068"
+    ]
+}
+{
+    "amd_title": "Article 15 a (new)",
+    "tgt_title": "Article 15(1b new)",
+    "certainty": 0.9635,
+    "match": true,
+    "amd_uuids": [
+        "549cdd38-2a7f-41e1-a9af-8452f0cfecd3"
+    ],
+    "tgt_uuid": "f2ac881a-dcdc-43a1-8958-6e3d1fa3d46c",
+    "tgt_vvids": [
+        "2ee92fc3-3623-4f41-9037-ada974f5edf6",
+        "fb074ba7-31ff-406d-97ca-f36413b5472d",
+        "6ea6f8d1-47cd-4a94-9fd2-607c21b72a37",
+        "6e88f6f3-6582-400b-92d5-8b5e08714915"
+    ]
+}
+{
+    "amd_title": "Article 15  paragraph 1",
+    "tgt_title": "Article 15(1)",
+    "certainty": 0.9722,
+    "match": true,
+    "amd_uuids": [
+        "f0690fca-00b2-4709-bf8e-fd3ee3383d7b",
+        "a1d341af-5d26-49ad-8dac-b413b6253158",
+        "0e7304ba-0929-47e6-99be-9c223c84d25c",
+        "68ee7661-b549-4426-a054-aadceab4db2c"
+    ],
+    "tgt_uuid": "223419c7-6898-4987-89a0-446f275b7bc7",
+    "tgt_vvids": [
+        "7fe779e0-6ae7-43fb-b79f-e2d607d713d5",
+        "d005958e-6e9c-417f-819e-b0dc5cb4c3fb",
+        "3afe9aed-9107-40b6-8816-240d81c6e1ab",
+        "f6e1bec7-fa76-43ca-b3ca-d7139f4d7b16"
+    ]
+}
+{
+    "amd_title": "Article 15  paragraph 1 a (new)",
+    "tgt_title": "Article 15(1b new)",
+    "certainty": 0.9669,
+    "match": true,
+    "amd_uuids": [
+        "5c662d40-7f0a-46bb-a40a-9395f8e56aea"
+    ],
+    "tgt_uuid": "f2ac881a-dcdc-43a1-8958-6e3d1fa3d46c",
+    "tgt_vvids": [
+        "2ee92fc3-3623-4f41-9037-ada974f5edf6",
+        "fb074ba7-31ff-406d-97ca-f36413b5472d",
+        "6ea6f8d1-47cd-4a94-9fd2-607c21b72a37",
+        "6e88f6f3-6582-400b-92d5-8b5e08714915"
+    ]
+}

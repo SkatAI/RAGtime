@@ -20,6 +20,7 @@ def list_collections(client):
         count_ = collection.aggregate.over_all(total_count=True).total_count
         print(f"* {collection_name} [{count_}]: \n\t {props}")
 
+
 def which_text_splitter(cfg):
     # ------------------------------------
     # define text splitter

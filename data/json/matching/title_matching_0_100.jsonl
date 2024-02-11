@@ -1,0 +1,1786 @@
+{
+    "amd_title": "Annex I",
+    "tgt_title": "Annex I",
+    "certainty": 0.9806,
+    "match": true,
+    "amd_uuids": [
+        "3a53636e-0650-4ae9-9e94-4056f411dba1",
+        "5c67197b-87f7-4388-8a78-32c2b0e74e64",
+        "1359ade9-014b-476c-8f9f-e0121090dda5"
+    ],
+    "tgt_uuid": "1ee5e546-3dcd-4b67-9965-be609b11f9f1",
+    "tgt_vvids": [
+        "9142dd10-5987-4b0c-8b33-b4ba74218211",
+        "7860929f-2e1c-43eb-873d-a72e2564852d",
+        "08cca6d7-6e80-4b88-885a-fdaf463b6870",
+        "6e9f3f20-2f83-4b2e-b4fe-dfbf63c84424"
+    ]
+}
+{
+    "amd_title": "Annex I  point b",
+    "tgt_title": "Annex IX, point 1.(b)",
+    "certainty": 0.9624,
+    "match": true,
+    "amd_uuids": [
+        "b1f934d6-f31b-441e-8388-340187ae7e7e",
+        "b5b756b9-8eff-4a71-9612-1cead75f660c",
+        "a81e8f27-0b59-4789-8c9d-b1b659eb3aa6",
+        "b179af17-764a-4039-af91-ab2252f35144",
+        "37dc274f-4e43-4942-8acc-321b3be7abde",
+        "9bd08db9-df92-4fde-8a45-d21576457fb2"
+    ],
+    "tgt_uuid": "4bce75f0-b2d0-4f7e-897e-ba87c950cde9",
+    "tgt_vvids": [
+        "c95c6f52-ca81-4749-9f23-6b3d037c3eea",
+        "cee0c2f8-af70-4cab-b6b6-7efb3c0f4268",
+        "c87153a3-b65e-46d6-82fc-6dfc0c605ceb",
+        "2a22c569-f97a-4110-8d1f-3cda4c2dc242"
+    ]
+}
+{
+    "amd_title": "Annex I  point c",
+    "tgt_title": "Annex IX, point 1.(c)",
+    "certainty": 0.9635,
+    "match": true,
+    "amd_uuids": [
+        "97cbec6c-8b2b-480a-b629-041c077a3759",
+        "5f6dee8b-e21a-4d4e-9e35-7e38ef7334c3",
+        "c93c11f3-7aea-4f42-b30a-dccac3dcddb8",
+        "585bb2b3-3c56-4ea9-8eb3-0e6ecb2bcb61",
+        "d0f632b6-e6b2-4684-aa41-b9d25aa0fc7a",
+        "f332be0e-e7ad-4876-9575-996c665bb229"
+    ],
+    "tgt_uuid": "f0a3ec99-50a4-45b5-98d1-91e6c81ffd96",
+    "tgt_vvids": [
+        "08e7c09c-0b99-4f9f-acb6-0048fed8eade",
+        "128e53d8-eaf0-4bbb-9faf-5c84b96a19f0",
+        "344bc856-d2af-4ca2-9e2b-9277c27175e5",
+        "022892f4-7c7b-4a8e-9a6d-be7e56f0263f"
+    ]
+}
+{
+    "amd_title": "Annex I  point c a (new)",
+    "tgt_title": "Article 4a, first paragraph, point (c new)",
+    "certainty": 0.9493,
+    "match": false,
+    "amd_uuids": [
+        "beeac3a4-2822-45c4-9e13-3732a41127e5",
+        "47b13dcf-7999-4aaf-ba34-92f129c5d08e"
+    ],
+    "tgt_uuid": "36d3f330-e918-4334-9c4c-bdf2bf3be305",
+    "tgt_vvids": [
+        "8638cb83-e018-4fdc-828c-b1a3d2548575",
+        "cc0531e3-4430-41bd-91dc-1bf9a6eb8af3",
+        "f22c6ce2-e27f-4860-899a-139844a3d833",
+        "5fbcac41-d98b-4db7-ad82-dd59e8c314d2"
+    ]
+}
+{
+    "amd_title": "Annex I  point c b (new)",
+    "tgt_title": "Annex VIII SECTION C - (new)",
+    "certainty": 0.9568,
+    "match": false,
+    "amd_uuids": [
+        "90657912-0e30-4be6-960e-dde103f5e435"
+    ],
+    "tgt_uuid": "e498dbc1-12f5-4e68-8dad-9951da0f6822",
+    "tgt_vvids": [
+        "659c184d-853e-4296-a953-4fed20fb2bf0",
+        "6413b834-26bb-4155-8a4d-f4f4b7b929b5",
+        "aedf71c6-7b4a-4544-aa13-5e7b607fce48",
+        "6f64eb48-abf0-4250-84c9-0ad05052b934"
+    ]
+}
+{
+    "amd_title": "Annex I  point c c (new)",
+    "tgt_title": "Annex VIII SECTION C - (new)",
+    "certainty": 0.9592,
+    "match": false,
+    "amd_uuids": [
+        "a4def666-3ce5-4d3e-8969-c2c6e071666b"
+    ],
+    "tgt_uuid": "e498dbc1-12f5-4e68-8dad-9951da0f6822",
+    "tgt_vvids": [
+        "659c184d-853e-4296-a953-4fed20fb2bf0",
+        "6413b834-26bb-4155-8a4d-f4f4b7b929b5",
+        "aedf71c6-7b4a-4544-aa13-5e7b607fce48",
+        "6f64eb48-abf0-4250-84c9-0ad05052b934"
+    ]
+}
+{
+    "amd_title": "Annex I  point c d (new)",
+    "tgt_title": "Annex VIII SECTION C - (new)",
+    "certainty": 0.9552,
+    "match": false,
+    "amd_uuids": [
+        "52e9fa02-1379-4ea8-bcf8-f3041f69ce8e"
+    ],
+    "tgt_uuid": "e498dbc1-12f5-4e68-8dad-9951da0f6822",
+    "tgt_vvids": [
+        "659c184d-853e-4296-a953-4fed20fb2bf0",
+        "6413b834-26bb-4155-8a4d-f4f4b7b929b5",
+        "aedf71c6-7b4a-4544-aa13-5e7b607fce48",
+        "6f64eb48-abf0-4250-84c9-0ad05052b934"
+    ]
+}
+{
+    "amd_title": "Annex I  point c e (new)",
+    "tgt_title": "Annex VIII SECTION C - (new)",
+    "certainty": 0.9571,
+    "match": false,
+    "amd_uuids": [
+        "116fbe6c-7845-4550-b593-26ca43079328"
+    ],
+    "tgt_uuid": "e498dbc1-12f5-4e68-8dad-9951da0f6822",
+    "tgt_vvids": [
+        "659c184d-853e-4296-a953-4fed20fb2bf0",
+        "6413b834-26bb-4155-8a4d-f4f4b7b929b5",
+        "aedf71c6-7b4a-4544-aa13-5e7b607fce48",
+        "6f64eb48-abf0-4250-84c9-0ad05052b934"
+    ]
+}
+{
+    "amd_title": "Annex II  Part A  point 11",
+    "tgt_title": "Annex II, point 11.",
+    "certainty": 0.9768,
+    "match": true,
+    "amd_uuids": [
+        "84804c97-3215-4e49-b6ec-68c2273e4fc1",
+        "11800d70-cfee-45fe-9e8c-7e421b9216f4"
+    ],
+    "tgt_uuid": "c25e46f5-501b-4925-9f07-5dd16fe08e86",
+    "tgt_vvids": [
+        "c26ea647-fab8-4107-9e78-3b0db55fb4af",
+        "750d53f1-c4d2-455f-8983-460942331813",
+        "d742dc75-7413-4498-8c70-6156e1df4441",
+        "d53d764e-558a-4c9e-bcda-1eb8fe052ef3"
+    ]
+}
+{
+    "amd_title": "Annex II  Part A  point 12",
+    "tgt_title": "Annex II, point 12.",
+    "certainty": 0.9774,
+    "match": true,
+    "amd_uuids": [
+        "3d07fc18-8aa3-4429-9d51-212eadae2f38"
+    ],
+    "tgt_uuid": "3598868d-cf7c-44b4-b860-92e25455645f",
+    "tgt_vvids": [
+        "b1e61b13-950e-45d6-ad98-a509422bbcb0",
+        "6a5578b8-eca7-408e-a214-ea12e3ee6016",
+        "279e16c1-277f-4452-8923-b4d4a5cd5b9e",
+        "788316a1-dfc9-4588-a685-8b9655984d42"
+    ]
+}
+{
+    "amd_title": "Annex II  Part A  point 12 a (new)",
+    "tgt_title": "Annex VIII, point 12a.",
+    "certainty": 0.9663,
+    "match": true,
+    "amd_uuids": [
+        "b0e493e1-99c9-4fa3-be14-6564f3788d54",
+        "9d373763-4811-4dee-9f67-9878e1c04fbc"
+    ],
+    "tgt_uuid": "5fd7b9a6-f436-4b0e-ae73-1f132ca4d12b",
+    "tgt_vvids": [
+        "d2fe9ce4-98ea-4aac-abe0-9ccac6aca5be",
+        "f826896a-0107-4d83-b081-200e169b41cb",
+        "622e0798-16aa-4865-83db-e2fc7e226b7d",
+        "9bec7668-238d-43a3-a630-0d88a356df41"
+    ]
+}
+{
+    "amd_title": "Annex II  Part A  point 12 b (new)",
+    "tgt_title": "Annex II, point 12.",
+    "certainty": 0.9637,
+    "match": true,
+    "amd_uuids": [
+        "3cb44562-ad06-4400-b10b-e060254b3b7e"
+    ],
+    "tgt_uuid": "3598868d-cf7c-44b4-b860-92e25455645f",
+    "tgt_vvids": [
+        "b1e61b13-950e-45d6-ad98-a509422bbcb0",
+        "6a5578b8-eca7-408e-a214-ea12e3ee6016",
+        "279e16c1-277f-4452-8923-b4d4a5cd5b9e",
+        "788316a1-dfc9-4588-a685-8b9655984d42"
+    ]
+}
+{
+    "amd_title": "Annex II  Part A  point 6",
+    "tgt_title": "Annex II, point 6.",
+    "certainty": 0.974,
+    "match": true,
+    "amd_uuids": [
+        "c0effe9f-880f-4ff7-954d-6e63a8afd96a"
+    ],
+    "tgt_uuid": "4c0efc3c-407d-4b0a-a387-2675c339eca3",
+    "tgt_vvids": [
+        "42403d89-bd07-400f-9bc9-e68ea88f0da4",
+        "e7120e61-a2a4-4bd0-a762-a7d24e6d82f1",
+        "ac1ef76d-93f1-435d-83c5-0fb8f7203ded",
+        "6e9f289e-b18f-4885-9562-ca4c0f1fa17d"
+    ]
+}
+{
+    "amd_title": "Annex II  Part B  point 7 a (new)",
+    "tgt_title": "Annex II, point 7.",
+    "certainty": 0.9597,
+    "match": false,
+    "amd_uuids": [
+        "caef659b-4c39-407c-9b21-457d499f87b6",
+        "d84a3b75-f9e9-4a3a-9a5f-29c4a8175dbf",
+        "dd7f6224-07b7-4bd2-a063-a2269bb0162a"
+    ],
+    "tgt_uuid": "5d3a28c1-4bfb-4db5-a08a-8532c20c4bf7",
+    "tgt_vvids": [
+        "8fa0bcf5-90fd-4312-815a-187d501aada8",
+        "217ce076-12cc-467a-9feb-129366b454b1",
+        "7dda1488-0991-4c2d-8b1d-e3730ccc9984",
+        "9351f7f6-2e74-465a-a5ce-788e707849f4"
+    ]
+}
+{
+    "amd_title": "Annex II  Part B  point 7 b (new)",
+    "tgt_title": "Annex III, seventh paragraph, point (b)",
+    "certainty": 0.9627,
+    "match": true,
+    "amd_uuids": [
+        "f3f9cb3f-40c8-41fd-b1bd-db0de3d0e39c"
+    ],
+    "tgt_uuid": "5e568f47-c43f-4279-912e-af5510f4439b",
+    "tgt_vvids": [
+        "5b758223-c30b-44b3-8954-949818cc8dfc",
+        "125a1055-e3e8-4a29-b6ef-e51847060740",
+        "68281750-6f1b-444d-bbd0-c2cb6b66622f",
+        "9f80db45-58dc-4749-b07a-9ce8d25b8e65"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  introductory part",
+    "tgt_title": "Annex III, first paragraph",
+    "certainty": 0.9632,
+    "match": true,
+    "amd_uuids": [
+        "4ea4519d-f991-4186-8266-8a741577cbd1"
+    ],
+    "tgt_uuid": "fcd92cc8-0398-401c-8728-5a8290f844f0",
+    "tgt_vvids": [
+        "d1af9b81-0a0f-4952-a9aa-8814df0f9bda",
+        "32e8be3b-b8ea-4b5a-904c-2caabcd41089",
+        "847dbe8d-f901-4c57-8ad6-c2f72172ae9b",
+        "24ff53a7-ae32-44c6-96da-21063a6c5f57"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 1  introductory part",
+    "tgt_title": "Annex III, first paragraph",
+    "certainty": 0.9618,
+    "match": true,
+    "amd_uuids": [
+        "479df62e-9c4f-4ac0-b82b-6eb37589a73b",
+        "f5df42e8-e928-4c79-ac0f-d8d5338442ad",
+        "64d4a40c-4f79-4c97-aeb2-36bd40b9170f",
+        "602dea6f-9b5b-4107-8254-c92672357d3c",
+        "8cb36281-f9a4-46c0-bbda-430014988cf6",
+        "91012795-1a6e-4eec-8df0-e13c7a0bfaed",
+        "a35b78bf-b6da-4238-a270-f8dd0227b99b",
+        "64ab4ada-6fb9-49bb-aae0-ca6c001c3594"
+    ],
+    "tgt_uuid": "fcd92cc8-0398-401c-8728-5a8290f844f0",
+    "tgt_vvids": [
+        "d1af9b81-0a0f-4952-a9aa-8814df0f9bda",
+        "32e8be3b-b8ea-4b5a-904c-2caabcd41089",
+        "847dbe8d-f901-4c57-8ad6-c2f72172ae9b",
+        "24ff53a7-ae32-44c6-96da-21063a6c5f57"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 1  point a",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.971,
+    "match": true,
+    "amd_uuids": [
+        "79ba0b8a-e564-417f-b463-4206e1588459",
+        "762c8a68-4753-45cb-8ecb-2d85a1cddc1e",
+        "c19ce18a-527c-468a-b9e5-d326176c2a4c",
+        "d6a97c5b-94c4-48a2-8c95-9417a8978c08",
+        "89ac87cd-1fb3-40b0-a288-869055181edb",
+        "ced0d1a8-49bc-45ea-bc5a-0540f122f12c",
+        "29fe182d-d940-49a4-acae-3d06a080d985",
+        "a1dd15e3-c9ea-4a7f-9d64-468c5c2836e8",
+        "b26bdd55-1048-493f-b89c-a37045f845b5",
+        "4b605e6e-0eca-4d25-b744-840c9b52a977",
+        "be73eb6e-78a9-498b-a1a5-0424a94d0cc9"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 1  point a a (new)",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.965,
+    "match": true,
+    "amd_uuids": [
+        "04b4b1e1-c8cd-4677-8c0d-92846e28b01a",
+        "e6edf2d0-d17f-4c1a-a639-3da7c7d10313",
+        "2ab1d9b4-d34c-4276-8ba4-2d02a9ea070b",
+        "69d7569f-671c-4889-b587-4b4e995ab714",
+        "9d42641d-f0c1-45c5-b8a8-2ad09227d509",
+        "31a6efad-75bd-425c-90dc-6d3e4c32ce18",
+        "1cee0ac2-e924-4dd8-8d9f-3719c409c1e4"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 1  point a b (new)",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.9619,
+    "match": true,
+    "amd_uuids": [
+        "f339c325-3b6d-44aa-ab48-04cdca51860b",
+        "238df226-051d-4532-9b8d-bfce10b969b7",
+        "7ea7c2d5-7cee-4f9c-a7b4-202b921b4660",
+        "827f4f7d-466b-4e3e-8549-ae17f05e6c3d",
+        "08bce85a-57b1-4281-9a68-335ca99a88b5"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 1  point a c (new)",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.9579,
+    "match": false,
+    "amd_uuids": [
+        "aab468c1-01ee-4818-948c-0751659260fd",
+        "229934de-9863-4747-b133-a4b5f099fb18",
+        "b46630be-fcc9-4268-975f-a0b0d52db58d",
+        "f721f694-754c-489b-958d-e31abb3513a9",
+        "7de621e7-eb14-43eb-8358-cfd72b7269fc"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 1  point a d (new)",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.9596,
+    "match": false,
+    "amd_uuids": [
+        "2b93bc38-088a-4873-8355-19201e305219",
+        "c118c45b-db49-4ce3-836a-94d1758369a3"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 1  point a e (new)",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.961,
+    "match": true,
+    "amd_uuids": [
+        "d6c91f76-9b10-480a-9011-e4d40124f34b",
+        "4890ee40-51f2-4360-a231-bbb713798033"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 2 a (new)",
+    "tgt_title": "Annex III, second paragraph, point (a)",
+    "certainty": 0.9676,
+    "match": true,
+    "amd_uuids": [
+        "d221b702-1692-4c95-9e1d-e58ba9164649"
+    ],
+    "tgt_uuid": "3c726adc-274b-457b-ad4e-ab46149e8032",
+    "tgt_vvids": [
+        "e0a4ea2e-872d-43de-87a1-9d54ba75b7b6",
+        "187e8e54-7853-493a-99ed-83eeb2ab898e",
+        "04fb2f69-83bf-4fcf-8ce7-4878bf922700",
+        "c1e790a0-0bee-4464-af21-c5d34a7d2868"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 2  introductory part",
+    "tgt_title": "Annex III, first paragraph",
+    "certainty": 0.9608,
+    "match": true,
+    "amd_uuids": [
+        "082ab355-abfa-412e-ad2e-87eec8ab5064"
+    ],
+    "tgt_uuid": "fcd92cc8-0398-401c-8728-5a8290f844f0",
+    "tgt_vvids": [
+        "d1af9b81-0a0f-4952-a9aa-8814df0f9bda",
+        "32e8be3b-b8ea-4b5a-904c-2caabcd41089",
+        "847dbe8d-f901-4c57-8ad6-c2f72172ae9b",
+        "24ff53a7-ae32-44c6-96da-21063a6c5f57"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 2  point a",
+    "tgt_title": "Annex III, second paragraph, point (a)",
+    "certainty": 0.9728,
+    "match": true,
+    "amd_uuids": [
+        "1a5a9e86-1501-401f-b3c4-43d9a90932af",
+        "d99b0b7f-edc2-406f-8354-021abe9481c1",
+        "b6a3f3d8-aeb7-4693-a86c-6f0189909d5e",
+        "ce658547-0ac6-48c6-85af-aec279ab4f60",
+        "a9c69022-1e7a-424d-ba05-029bc61304f8",
+        "a40285a7-11bb-4e60-95d7-47091e3d8291",
+        "265625d5-f15c-41ff-9b8f-3e4beca33f9f"
+    ],
+    "tgt_uuid": "3c726adc-274b-457b-ad4e-ab46149e8032",
+    "tgt_vvids": [
+        "e0a4ea2e-872d-43de-87a1-9d54ba75b7b6",
+        "187e8e54-7853-493a-99ed-83eeb2ab898e",
+        "04fb2f69-83bf-4fcf-8ce7-4878bf922700",
+        "c1e790a0-0bee-4464-af21-c5d34a7d2868"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 2  point a a (new)",
+    "tgt_title": "Annex III, second paragraph, point (a)",
+    "certainty": 0.9677,
+    "match": true,
+    "amd_uuids": [
+        "1f16fdd2-4848-4e94-b98c-61259d4be7e5"
+    ],
+    "tgt_uuid": "3c726adc-274b-457b-ad4e-ab46149e8032",
+    "tgt_vvids": [
+        "e0a4ea2e-872d-43de-87a1-9d54ba75b7b6",
+        "187e8e54-7853-493a-99ed-83eeb2ab898e",
+        "04fb2f69-83bf-4fcf-8ce7-4878bf922700",
+        "c1e790a0-0bee-4464-af21-c5d34a7d2868"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 3  point a",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.9756,
+    "match": true,
+    "amd_uuids": [
+        "aed4d4d7-84f0-45eb-ab76-5931a2485f0c",
+        "6f2a8e15-8ddb-47c2-aaaa-229dbac2bea0"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 3  point b",
+    "tgt_title": "Annex III, eighth paragraph, point (b)",
+    "certainty": 0.9668,
+    "match": true,
+    "amd_uuids": [
+        "66351ce4-4407-4bff-aa6e-7f8422d331cb",
+        "4388624a-782d-4a02-8b80-300d2f4dace6",
+        "6a1caba9-160a-4372-b447-c728499124e0",
+        "6ccc2047-a08a-4ae8-ad92-c98e2e17db7e"
+    ],
+    "tgt_uuid": "c5c7aec0-d4f2-4647-bd21-0d1f20eda968",
+    "tgt_vvids": [
+        "aed3ad70-0957-4c67-9d38-4ed30daf578d",
+        "316f83e7-39d6-44b2-a3a7-c8490c6e0de6",
+        "34ec618a-1d0d-4fce-88a3-020570a74b32",
+        "d199f5e5-1b06-4f80-8d51-1b6b2c7fc2dc"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 3  point b a (new)",
+    "tgt_title": "Annex III, third paragraph, point (a)",
+    "certainty": 0.9618,
+    "match": true,
+    "amd_uuids": [
+        "1475795c-0e61-42a6-a0fb-5b017e4b1d13",
+        "0e392532-90fb-488e-b1f6-d36baa515c2d"
+    ],
+    "tgt_uuid": "a2dbaf25-304b-4613-a578-29fc0016f4ee",
+    "tgt_vvids": [
+        "39419e4f-b32f-46b1-8153-d56ba8efd52c",
+        "e1fedae2-61e0-4364-b1e7-b97d52f09b81",
+        "3ca157ca-a465-471b-8910-865faa985bc4",
+        "d67bd075-7b47-4f5d-ae71-4969a5861723"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 4  introductory part",
+    "tgt_title": "Annex III, first paragraph",
+    "certainty": 0.9582,
+    "match": false,
+    "amd_uuids": [
+        "4daaca9e-3d68-488a-95c4-b68a69a89b5e"
+    ],
+    "tgt_uuid": "fcd92cc8-0398-401c-8728-5a8290f844f0",
+    "tgt_vvids": [
+        "d1af9b81-0a0f-4952-a9aa-8814df0f9bda",
+        "32e8be3b-b8ea-4b5a-904c-2caabcd41089",
+        "847dbe8d-f901-4c57-8ad6-c2f72172ae9b",
+        "24ff53a7-ae32-44c6-96da-21063a6c5f57"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 4  point a",
+    "tgt_title": "Annex III, fourth paragraph, point (a)",
+    "certainty": 0.9748,
+    "match": true,
+    "amd_uuids": [
+        "7187666a-2389-4cbd-8dc8-8815ba85016e",
+        "a97b57b4-4f75-4814-a152-d87faa57fc32",
+        "a5ab4555-8638-47ca-89d5-39f3f3191c89",
+        "ac4e162e-ee57-49c2-90f4-769c0481c105",
+        "484de73d-0c51-4ee6-a206-b148b6347b7d",
+        "c0d9e666-cfe1-4729-9952-35a91c2728fd"
+    ],
+    "tgt_uuid": "d30b9ad9-bc29-4d74-b462-6f4e1fd95216",
+    "tgt_vvids": [
+        "6a1eaf43-5403-4b8a-b04a-78aa2f7bc44c",
+        "d3bd3b53-b2b7-46ff-a9a7-f9a21b88802a",
+        "5f51c50c-1ae3-44b5-a4e2-8b773e30e464",
+        "7bf2d295-d711-4bd4-84bc-d338679e8f0b"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 4  point b",
+    "tgt_title": "Annex III, fourth paragraph, point (b)",
+    "certainty": 0.9721,
+    "match": true,
+    "amd_uuids": [
+        "de1c247c-48fd-4bca-9ddf-4d63aa20ea82",
+        "48cc929c-2c76-48e9-ae9b-aea8b5c3fd4f",
+        "91ac0303-ea11-4774-a9c9-60cdc2c05bd5",
+        "b91434f6-5d51-4ffd-ac00-f5b22d3ab6af",
+        "7e02c9ab-6787-4ca8-95df-357962686b80",
+        "1e7d28c2-4189-40b6-ba19-d5a17e6b8f72",
+        "f8489518-29fd-4e39-bb86-29c71c62e781",
+        "e0a7442f-ad9c-4b21-9b9d-05a0f8f197a4"
+    ],
+    "tgt_uuid": "fd4e2fe1-70b3-4e75-ad1f-b04dac5bc6e6",
+    "tgt_vvids": [
+        "3021f554-eea0-4a65-a2ba-834e7760e272",
+        "9c7344f9-aa84-447b-b29e-e24a1170cd8f",
+        "9ebda39f-38a8-4e50-a97d-4cad1a80c054",
+        "96e0794d-0bef-47a9-9343-93888077ecc6"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5 a (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9699,
+    "match": true,
+    "amd_uuids": [
+        "19f38e8f-dd15-4012-b5e7-f879b3086fe1"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  introductory part",
+    "tgt_title": "Annex III, fifth paragraph",
+    "certainty": 0.9567,
+    "match": false,
+    "amd_uuids": [
+        "c7ef642f-b135-40fa-8c1c-4bb75d46630d"
+    ],
+    "tgt_uuid": "95351729-ef56-49d1-87de-54b355e53ca6",
+    "tgt_vvids": [
+        "e0300809-6893-44b4-8a0e-bee20aa5e7f0",
+        "efc7d0dc-e59f-4574-9823-e1e8c32e4f93",
+        "c57217d3-1c0d-400a-bd0a-d2c01df9f8dc",
+        "39c8ed02-a66e-46d7-9be7-5765b86ae616"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point a",
+    "tgt_title": "Annex III, fifth paragraph, point (a)",
+    "certainty": 0.974,
+    "match": true,
+    "amd_uuids": [
+        "8003a18a-ea6b-4098-a00e-04360626571e",
+        "c606aad0-2e00-432b-9266-b80bda1ab9d4",
+        "85ff7c44-19f9-49d8-8879-c4a31a97d0cb",
+        "f48f4769-e1c6-4c3a-9bbe-1deb1856a928",
+        "f080a754-8c50-4e6a-b6af-be7ffb259c24"
+    ],
+    "tgt_uuid": "333cfc46-f8ac-4e68-aac1-86f265e83e19",
+    "tgt_vvids": [
+        "7037e28e-2eb8-4152-aba3-c1c28264a6cf",
+        "a0e5d6ec-32d7-414c-aeab-2b12602f4841",
+        "c7dc3b12-e342-4243-865c-bd8c2a76df93",
+        "44f501f1-cefc-46ac-bca7-64f366993a22"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point b",
+    "tgt_title": "Annex III, fifth paragraph, point (b)",
+    "certainty": 0.9711,
+    "match": true,
+    "amd_uuids": [
+        "b3455645-763f-4ca7-8753-915d21f0fd7f",
+        "0d884666-2167-4fe7-ad7f-bee9fbae1b01",
+        "2c7797b4-2f60-4f42-9775-c1ddde27c962",
+        "8dfa15be-1c15-43f2-b0a9-386929dff4fd",
+        "345b4eb5-26f0-40ee-b75f-2d4387f206e9",
+        "32d8452d-8d2a-4126-ab57-4ca81565fb93",
+        "57db17e0-f8bf-4072-bd14-d52b15e41719",
+        "d85cc96a-8880-452a-a36a-2ccdf89d5beb",
+        "befe19f0-1da5-4f1e-be89-1f6f0b504534",
+        "90a33f52-ab70-425a-bd61-7ffe470d62b7",
+        "8db4c1b8-9435-43fb-ad2b-9be927aa248a"
+    ],
+    "tgt_uuid": "71fc1e6d-227c-494b-b215-d0ea4364ccb3",
+    "tgt_vvids": [
+        "9fefd248-d9b4-4803-9314-256c09a4179b",
+        "40e587bf-01e0-4c99-b489-0654177c4032",
+        "7133b94b-866e-451c-8a2f-50c7d0225590",
+        "e7bcc709-6678-44df-81f1-e2e67dc13241"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point b  point i (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9622,
+    "match": true,
+    "amd_uuids": [
+        "37741535-ca1a-4df8-949e-1944b2140678"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point b  point ii (new)",
+    "tgt_title": "Annex III, fifth paragraph, point (b)",
+    "certainty": 0.9658,
+    "match": true,
+    "amd_uuids": [
+        "7fbc5b64-ecf9-4b90-b916-3d62b05447b1"
+    ],
+    "tgt_uuid": "71fc1e6d-227c-494b-b215-d0ea4364ccb3",
+    "tgt_vvids": [
+        "9fefd248-d9b4-4803-9314-256c09a4179b",
+        "40e587bf-01e0-4c99-b489-0654177c4032",
+        "7133b94b-866e-451c-8a2f-50c7d0225590",
+        "e7bcc709-6678-44df-81f1-e2e67dc13241"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point b  point iii (new)",
+    "tgt_title": "Annex III, fifth paragraph, point (b)",
+    "certainty": 0.9645,
+    "match": true,
+    "amd_uuids": [
+        "b0b54669-32d6-4af4-9401-e5f79a33cfa4"
+    ],
+    "tgt_uuid": "71fc1e6d-227c-494b-b215-d0ea4364ccb3",
+    "tgt_vvids": [
+        "9fefd248-d9b4-4803-9314-256c09a4179b",
+        "40e587bf-01e0-4c99-b489-0654177c4032",
+        "7133b94b-866e-451c-8a2f-50c7d0225590",
+        "e7bcc709-6678-44df-81f1-e2e67dc13241"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point b  point iv (new)",
+    "tgt_title": "Annex III, fifth paragraph, point (b)",
+    "certainty": 0.9636,
+    "match": true,
+    "amd_uuids": [
+        "53efef74-b946-4166-8a56-c7c177a9912c"
+    ],
+    "tgt_uuid": "71fc1e6d-227c-494b-b215-d0ea4364ccb3",
+    "tgt_vvids": [
+        "9fefd248-d9b4-4803-9314-256c09a4179b",
+        "40e587bf-01e0-4c99-b489-0654177c4032",
+        "7133b94b-866e-451c-8a2f-50c7d0225590",
+        "e7bcc709-6678-44df-81f1-e2e67dc13241"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point c",
+    "tgt_title": "Annex III, eighth paragraph, point (c)",
+    "certainty": 0.9662,
+    "match": true,
+    "amd_uuids": [
+        "0348e218-6242-41a7-9e24-20f98e0420aa",
+        "98c54b35-3824-4476-9469-0abb18660f04"
+    ],
+    "tgt_uuid": "848229bd-90b2-4e60-9b37-13f10fab79df",
+    "tgt_vvids": [
+        "d6f35509-b536-4fb2-9baf-4d5590feffba",
+        "fecc804e-238e-4864-b603-443577e15e4e",
+        "e8c6c0fd-7d51-4bab-a5b2-dfe427179e29",
+        "a94db2bf-07b2-4c21-9554-d52eeffafee3"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point c a (new)",
+    "tgt_title": "Annex III, eighth paragraph, point (c)",
+    "certainty": 0.9604,
+    "match": true,
+    "amd_uuids": [
+        "a84c3aee-10c9-4836-ae6f-9b7fce1a3210",
+        "cbc760bd-048b-4a71-a93b-b9d8217f4564",
+        "074fe035-a3f7-417d-b652-1236db2f4925"
+    ],
+    "tgt_uuid": "848229bd-90b2-4e60-9b37-13f10fab79df",
+    "tgt_vvids": [
+        "d6f35509-b536-4fb2-9baf-4d5590feffba",
+        "fecc804e-238e-4864-b603-443577e15e4e",
+        "e8c6c0fd-7d51-4bab-a5b2-dfe427179e29",
+        "a94db2bf-07b2-4c21-9554-d52eeffafee3"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 5  point c b (new)",
+    "tgt_title": "Annex III, fifth paragraph, point (b)",
+    "certainty": 0.9618,
+    "match": true,
+    "amd_uuids": [
+        "8647b4e9-c96a-4a52-b0e2-d937ec239714"
+    ],
+    "tgt_uuid": "71fc1e6d-227c-494b-b215-d0ea4364ccb3",
+    "tgt_vvids": [
+        "9fefd248-d9b4-4803-9314-256c09a4179b",
+        "40e587bf-01e0-4c99-b489-0654177c4032",
+        "7133b94b-866e-451c-8a2f-50c7d0225590",
+        "e7bcc709-6678-44df-81f1-e2e67dc13241"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point a",
+    "tgt_title": "Annex III, sixth paragraph, point (a)",
+    "certainty": 0.9755,
+    "match": true,
+    "amd_uuids": [
+        "75426ea4-2c24-43a6-91d7-48237ac9b979",
+        "afae3578-4a0b-4b8c-a78a-c3494b3c5e11",
+        "c871c885-b357-4f0a-867d-dc7b355d437a",
+        "7429bc5c-68fd-43c4-bfee-b0cc138a2905",
+        "17e58d3e-edb8-4d4d-a4a7-5060f3bf856c",
+        "a5cb1ec6-6f48-49b9-a75c-db5aeb1f6bd3",
+        "2655cc2a-c9e7-49dc-a352-d65da7c3a9a8"
+    ],
+    "tgt_uuid": "9ad69225-1d8a-4f7d-ae39-cf30a0fd5b96",
+    "tgt_vvids": [
+        "07768b32-8471-422d-be8b-8d77d817dc86",
+        "86c06cd2-141b-46aa-87dc-4a4aa0c3ff7e",
+        "5ba11386-4da8-4ffd-96aa-87a544b87402",
+        "b07bb83a-b4bb-4277-993e-91499cd401b1"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point a a (new)",
+    "tgt_title": "Annex III, sixth paragraph, point (a)",
+    "certainty": 0.97,
+    "match": true,
+    "amd_uuids": [
+        "e0b97bcc-375e-4b54-a6f4-43eb2f91f139"
+    ],
+    "tgt_uuid": "9ad69225-1d8a-4f7d-ae39-cf30a0fd5b96",
+    "tgt_vvids": [
+        "07768b32-8471-422d-be8b-8d77d817dc86",
+        "86c06cd2-141b-46aa-87dc-4a4aa0c3ff7e",
+        "5ba11386-4da8-4ffd-96aa-87a544b87402",
+        "b07bb83a-b4bb-4277-993e-91499cd401b1"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point b",
+    "tgt_title": "Annex III, sixth paragraph, point (b)",
+    "certainty": 0.9727,
+    "match": true,
+    "amd_uuids": [
+        "aae04e93-069f-412e-a442-e09d762a1a9c",
+        "e2b101f4-45cc-4fd9-8f1a-fd5038456610",
+        "f7c078cf-8485-4e63-bc14-3c17cc89ef69",
+        "a9512d21-48e8-41e1-9c98-9d8c34f758f1",
+        "63281abb-d414-4bce-939c-0cae1f748a5a",
+        "fab3340e-2ae6-402a-a73a-1182dceec396",
+        "22fe2d65-8dfb-44c3-943e-583addf70851",
+        "89dc5bd8-31b2-41b4-a529-66ad9c070be5",
+        "6873529e-59b8-41c9-8227-e2f0b598536c"
+    ],
+    "tgt_uuid": "d45c08f9-9cf6-4094-aae0-f160e4cbb377",
+    "tgt_vvids": [
+        "92da2b9e-a03d-4ca9-b19f-e335e8ffe45b",
+        "978d4d17-f9b4-4fec-a436-18e13a807bbc",
+        "1b1ebaf4-80b3-4528-b09b-c40c833254f1",
+        "8945023d-2ab9-4b08-8628-fd12cf94cc32"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point c",
+    "tgt_title": "Annex III, sixth paragraph, point (c)",
+    "certainty": 0.974,
+    "match": true,
+    "amd_uuids": [
+        "98df2fee-5cca-4332-9b28-7ab12c888953",
+        "57f56c44-5a7e-40e3-a812-ee14b4ebf19c",
+        "28af76e6-58e1-4ab4-ba3b-76a7df246ff1",
+        "9368b466-8a07-455b-b669-183b6d121104"
+    ],
+    "tgt_uuid": "da77f114-7573-4b6e-a0ff-4aa42aeec457",
+    "tgt_vvids": [
+        "1a20b653-5eb6-4f46-b101-2276900fc4a5",
+        "7f9b7465-a52a-44cf-8c14-326ae04c183c",
+        "f4fec21a-9bad-4c88-9fd5-fe55b5120576",
+        "aec0e5b2-ccfc-413e-981c-5c39fb9b2e06"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point d",
+    "tgt_title": "Annex III, eighth paragraph, point (d)",
+    "certainty": 0.9617,
+    "match": true,
+    "amd_uuids": [
+        "ba0acfb3-bd63-4b8f-8b4d-ab3d6bf4fb7a",
+        "913fca9d-964a-4fb5-bb86-d82f6c8e1f50",
+        "7c22e737-f899-4b81-8238-f3836a480fd9",
+        "7bfbfb8b-43f1-417c-95a5-2b17dc086faa"
+    ],
+    "tgt_uuid": "04405f64-3360-4f72-a4e7-019ad91a2267",
+    "tgt_vvids": [
+        "8948af15-63bf-4794-939c-ada40b1be935",
+        "7a011b91-2a69-4348-a3e4-70b2b29fa90a",
+        "b101ed78-fd02-4663-bac0-a80f9855020a",
+        "f8bdd661-e594-4335-be9d-f3b90f577fb3"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point e",
+    "tgt_title": "Annex III, seventh paragraph, point (e)",
+    "certainty": 0.9673,
+    "match": true,
+    "amd_uuids": [
+        "c381d0ad-cf98-4f29-b8f7-14c71d1dd121",
+        "eef01b16-df2d-4abb-a18d-33ad1502e613",
+        "eff12f1e-e322-412f-adae-0b26a1385327",
+        "d5fdb0e8-48c5-4e6d-8071-0e7c5f356014",
+        "9d07b4f6-69f7-4c57-8117-61fb10cb54bd",
+        "e78de82e-4631-47ea-b784-69e9dd359934",
+        "900a373e-dbf7-4058-af2c-25346f0fa077"
+    ],
+    "tgt_uuid": "77a5e222-bdec-4837-9f13-6475ed50b47f",
+    "tgt_vvids": [
+        "337248de-de5d-47ce-bc72-44bd5b8c51c2",
+        "ebf13561-5d9d-4ee8-a9b1-ef2ad59168e3",
+        "b032b787-4840-4462-b60c-d50daae97278",
+        "d5f555cd-039f-4c79-8ab0-4db6aa779fd2"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point f",
+    "tgt_title": "Annex III, seventh paragraph, point (f)",
+    "certainty": 0.9664,
+    "match": true,
+    "amd_uuids": [
+        "43d9cbfd-19fe-401c-a8e7-995e23379378",
+        "6413f890-d983-49ad-8e2b-4d10d1d9e742",
+        "17848fd0-2d91-4358-b7ab-ca0cb2468e3d",
+        "f49d629e-1151-4f0f-a2c4-4514c411e400",
+        "a676d2cd-8940-4691-8eee-92a67adccdf1"
+    ],
+    "tgt_uuid": "77196337-5f3d-4b33-87f9-92f6731daf19",
+    "tgt_vvids": [
+        "858c47ec-b320-4691-aec5-f5c381332bac",
+        "b1898eb3-349c-45ae-b193-4963d31fb1dd",
+        "428454ef-20f7-44f7-a6ee-b81c22e30edc",
+        "1c31b1eb-3c87-42a0-b793-c92ab58100af"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 6  point g",
+    "tgt_title": "Annex III, seventh paragraph, point (g)",
+    "certainty": 0.9671,
+    "match": true,
+    "amd_uuids": [
+        "0565f8dc-ac57-4d1c-884a-893457afc6bd",
+        "acc29bb5-efd9-4886-83d5-8e3264309cab",
+        "7181e4db-dce6-4f53-ba8d-234d252bd743",
+        "697772af-ed11-4dd1-9845-1ec5e0f5f528"
+    ],
+    "tgt_uuid": "6126542a-8690-46e7-83f6-239cf0ef86d4",
+    "tgt_vvids": [
+        "ef9eebb7-d880-4444-9ad3-591644d683c5",
+        "edcd9e60-3901-4f4c-b965-ceaaaba1f726",
+        "7773dbad-a426-472e-900e-3d7c81558904",
+        "69f3afa0-a7da-4298-b559-a5ef7198773d"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 7  point a",
+    "tgt_title": "Annex III, seventh paragraph, point (a)",
+    "certainty": 0.9769,
+    "match": true,
+    "amd_uuids": [
+        "9e9b43ee-ec53-4572-a01d-8f520b4230b9",
+        "4b6927cb-108e-431b-91f7-15bfc00f68f0",
+        "e6482567-2ba6-430b-b691-ff34e9ed566f",
+        "b718af55-6b6d-4127-b671-563615e015a7",
+        "39fd08ad-79db-4f66-be9a-640ae3aadd10",
+        "02f40437-bdff-4c9f-8508-5de286a45963",
+        "3f66b28a-0583-443e-baaa-a18298f6b2d4",
+        "af8c6e9a-aaf5-4d31-99be-d0783267d37f"
+    ],
+    "tgt_uuid": "a7fc8a0f-bf63-47ad-ad13-fef24ad22f6b",
+    "tgt_vvids": [
+        "0db7ad93-6151-4d34-8402-41d1d2c4e97b",
+        "35d93ffe-c132-4adf-b25f-3558ec7e4a8c",
+        "cff4d676-2754-4a90-a2fd-2eccd2e33353",
+        "2e8b80f2-6c41-48c4-afa4-58bc6fb2f22d"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 7  point b",
+    "tgt_title": "Annex III, seventh paragraph, point (b)",
+    "certainty": 0.9733,
+    "match": true,
+    "amd_uuids": [
+        "94ec7267-41ce-4ac7-873e-b9a96f892dc8",
+        "da2d14c2-8b78-41b3-94e6-cda33697f245",
+        "9ae38a74-0d2a-41ac-a4f9-288e2b4bb356",
+        "01ed1f3e-791c-48c7-9b20-1c96b6153f78",
+        "e0ab592f-91be-4894-86b8-e881a8068afb",
+        "fd0d59be-392b-4bed-a965-559ca5658b30",
+        "a4e230b7-7165-460e-afe7-10311da162e2",
+        "6cc21c7a-95cb-4902-94b3-ec87a8244821",
+        "bb4b8cec-223a-4001-8302-5aaf7d90f97e"
+    ],
+    "tgt_uuid": "5e568f47-c43f-4279-912e-af5510f4439b",
+    "tgt_vvids": [
+        "5b758223-c30b-44b3-8954-949818cc8dfc",
+        "125a1055-e3e8-4a29-b6ef-e51847060740",
+        "68281750-6f1b-444d-bbd0-c2cb6b66622f",
+        "9f80db45-58dc-4749-b07a-9ce8d25b8e65"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 7  point c",
+    "tgt_title": "Annex III, seventh paragraph, point (c)",
+    "certainty": 0.9748,
+    "match": true,
+    "amd_uuids": [
+        "78e2078c-b084-4c9e-a8a1-388eb71a0703",
+        "5082f593-3569-4b30-9609-66401449863a",
+        "44d34c6c-e2a0-4a93-b523-854d9ddbe3e1"
+    ],
+    "tgt_uuid": "87c79716-7e27-42eb-a0a8-5f542a568e74",
+    "tgt_vvids": [
+        "7d592a11-8648-49b3-9e21-6166dbb2ea1d",
+        "70959afc-f0f5-4ed9-a46e-bea586104af9",
+        "06873064-65da-4f67-b902-041b35c93b21",
+        "75b27e0b-1381-423e-a4a1-4576603a1624"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 7  point d",
+    "tgt_title": "Annex III, seventh paragraph, point (d)",
+    "certainty": 0.9699,
+    "match": true,
+    "amd_uuids": [
+        "949f28f5-f0ee-4f12-ae8c-683dc79e15dd",
+        "5decb161-c1b3-4832-9de0-ecdfdd2a6375",
+        "d3d69ab2-0438-45d7-b88d-7e37aa11df98",
+        "ae36f108-50d0-4961-959d-c458bc863d6d",
+        "c807382e-3198-4aaa-b7bd-d7f94cb49997",
+        "20c6bc5c-417e-4509-b6e5-9154820cbe3f",
+        "4670bd1b-f8f7-433a-b808-5a9b45a4129c",
+        "044381c9-5ac0-4d2c-a135-74fb6f44f256"
+    ],
+    "tgt_uuid": "d51891af-3f16-4fc5-9ba1-198619dfbf9a",
+    "tgt_vvids": [
+        "896a55bf-cd62-40ce-ad3d-06039c8f7c21",
+        "3646b592-87c6-4ceb-aa61-77b174f84e9b",
+        "1422b3cb-b218-44f0-bf33-02dc20c7106a",
+        "d6edae33-d3b5-4269-8234-c32960a108df"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 7  point d a (new)",
+    "tgt_title": "Annex III, seventh paragraph, point (d)",
+    "certainty": 0.9639,
+    "match": true,
+    "amd_uuids": [
+        "64d0d2de-5462-4aad-8b6b-a4f56274bde4",
+        "667bfd67-b5da-462e-b2fb-eaae9396cec3",
+        "8682c75d-5f99-4b3b-8d6a-c47d45bdac25",
+        "660b33fe-902f-4bd8-930e-d47bbb2147d5",
+        "ed72ac99-7245-4845-942e-b6115f7be2fd"
+    ],
+    "tgt_uuid": "d51891af-3f16-4fc5-9ba1-198619dfbf9a",
+    "tgt_vvids": [
+        "896a55bf-cd62-40ce-ad3d-06039c8f7c21",
+        "3646b592-87c6-4ceb-aa61-77b174f84e9b",
+        "1422b3cb-b218-44f0-bf33-02dc20c7106a",
+        "d6edae33-d3b5-4269-8234-c32960a108df"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 7  point d b (new)",
+    "tgt_title": "Article 3, first paragraph, point (1b new)",
+    "certainty": 0.9552,
+    "match": false,
+    "amd_uuids": [
+        "da8583d5-1996-425b-9bfc-dc0f1c470026",
+        "76f7b59f-9f3d-4b7f-909b-65344767cccd",
+        "7f605174-fc03-40ae-a51c-59fa23c7c6c9",
+        "f08fc82e-cdb5-45a0-b118-52eed7886d05"
+    ],
+    "tgt_uuid": "27d3328f-6133-43f8-97da-5cea79037fc8",
+    "tgt_vvids": [
+        "7ded2f3c-7a48-4342-86b4-53b54c387268",
+        "5b714336-536b-4b71-b71a-3ff16fd6b083",
+        "752447e1-1cb4-400b-9919-eb23af7e464a",
+        "88f49555-f0c6-4d82-995c-8d08cbc255ac"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 7  point d c (new)",
+    "tgt_title": "Annex III, seventh paragraph, point (d)",
+    "certainty": 0.9618,
+    "match": true,
+    "amd_uuids": [
+        "6ad6d17c-5c89-4c97-9f3b-cf269baa7529",
+        "18caf4d5-6fe0-48a0-a4af-4847ddce39a2"
+    ],
+    "tgt_uuid": "d51891af-3f16-4fc5-9ba1-198619dfbf9a",
+    "tgt_vvids": [
+        "896a55bf-cd62-40ce-ad3d-06039c8f7c21",
+        "3646b592-87c6-4ceb-aa61-77b174f84e9b",
+        "1422b3cb-b218-44f0-bf33-02dc20c7106a",
+        "d6edae33-d3b5-4269-8234-c32960a108df"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 8 a (new)",
+    "tgt_title": "Annex III, eighth paragraph, point (a)",
+    "certainty": 0.9681,
+    "match": true,
+    "amd_uuids": [
+        "7a7c9069-625d-4296-a35d-ffefe4d904cc",
+        "d1325a4a-0698-46b0-b71e-cd11692b601f",
+        "c35bcd58-d7bf-4574-9fd1-f6e897be1fb5",
+        "46a9c4ab-82f2-4f92-a1fc-897b34e84191",
+        "0de00e62-f9a4-4e0e-94c4-c1db79bf3fe4"
+    ],
+    "tgt_uuid": "a024b365-cf74-4022-957c-e0aca90d4f79",
+    "tgt_vvids": [
+        "5a869a40-8f00-43f9-98ad-890386150863",
+        "dd4db3c4-54cb-4ce3-adc8-43c75c90d767",
+        "bf5c9cb5-34f7-49e2-840c-ac871dbfc984",
+        "5b628c40-f200-4fc4-a5e9-c373a97039be"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 8 b (new)",
+    "tgt_title": "Annex III, eighth paragraph, point (b)",
+    "certainty": 0.9653,
+    "match": true,
+    "amd_uuids": [
+        "26ff6fbd-dfc6-4ece-b6d2-78060482df3e"
+    ],
+    "tgt_uuid": "c5c7aec0-d4f2-4647-bd21-0d1f20eda968",
+    "tgt_vvids": [
+        "aed3ad70-0957-4c67-9d38-4ed30daf578d",
+        "316f83e7-39d6-44b2-a3a7-c8490c6e0de6",
+        "34ec618a-1d0d-4fce-88a3-020570a74b32",
+        "d199f5e5-1b06-4f80-8d51-1b6b2c7fc2dc"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 8  introductory part",
+    "tgt_title": "Annex III, first paragraph",
+    "certainty": 0.9576,
+    "match": false,
+    "amd_uuids": [
+        "9b7429a0-dfb3-476c-affa-b677491854b0",
+        "e53221ae-e2b1-4bc3-ba27-9af3cd614315"
+    ],
+    "tgt_uuid": "fcd92cc8-0398-401c-8728-5a8290f844f0",
+    "tgt_vvids": [
+        "d1af9b81-0a0f-4952-a9aa-8814df0f9bda",
+        "32e8be3b-b8ea-4b5a-904c-2caabcd41089",
+        "847dbe8d-f901-4c57-8ad6-c2f72172ae9b",
+        "24ff53a7-ae32-44c6-96da-21063a6c5f57"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 8  point a",
+    "tgt_title": "Annex III, eighth paragraph, point (a)",
+    "certainty": 0.9766,
+    "match": true,
+    "amd_uuids": [
+        "d1660d42-0e5a-44de-b6c3-e94ff723005e",
+        "a62fb266-7e84-4570-94a4-3626496b3acb",
+        "e3fd4eb9-7dc4-457f-8a39-0f31154ca190"
+    ],
+    "tgt_uuid": "a024b365-cf74-4022-957c-e0aca90d4f79",
+    "tgt_vvids": [
+        "5a869a40-8f00-43f9-98ad-890386150863",
+        "dd4db3c4-54cb-4ce3-adc8-43c75c90d767",
+        "bf5c9cb5-34f7-49e2-840c-ac871dbfc984",
+        "5b628c40-f200-4fc4-a5e9-c373a97039be"
+    ]
+}
+{
+    "amd_title": "Annex III  paragraph 1  point 8  point a a (new)",
+    "tgt_title": "Annex III, eighth paragraph, point (a)",
+    "certainty": 0.9693,
+    "match": true,
+    "amd_uuids": [
+        "0b5f2a72-8cc3-466e-bbf5-a86531505d04",
+        "ce4cc866-e264-46ea-b382-31c2ecd9cdc0",
+        "37dc256f-7616-457c-9bb8-435124534b32",
+        "b2c34ef8-8607-4336-84c9-61231104a6db"
+    ],
+    "tgt_uuid": "a024b365-cf74-4022-957c-e0aca90d4f79",
+    "tgt_vvids": [
+        "5a869a40-8f00-43f9-98ad-890386150863",
+        "dd4db3c4-54cb-4ce3-adc8-43c75c90d767",
+        "bf5c9cb5-34f7-49e2-840c-ac871dbfc984",
+        "5b628c40-f200-4fc4-a5e9-c373a97039be"
+    ]
+}
+{
+    "amd_title": "Annex III  title",
+    "tgt_title": "Annex III",
+    "certainty": 0.9666,
+    "match": true,
+    "amd_uuids": [
+        "99f77316-301e-4dfc-a9b0-4a407b862fac",
+        "23fc8206-d6d2-4b65-9f6d-875bf7c82a7c",
+        "039d3044-a200-4133-bd8d-826b8fcbf00b",
+        "85db1706-1679-401f-bcfa-b24918369132"
+    ],
+    "tgt_uuid": "c54afeb1-8ad5-46e2-81e1-b088f796b191",
+    "tgt_vvids": [
+        "3d1cf07f-cf6e-4ee7-bcc8-2e372bd2d209",
+        "73408a30-dda5-4268-ba18-1438a3b33a23",
+        "3266b69f-8ba3-49e6-820b-e70eb5229ea7",
+        "5eac1fe9-06ca-456c-8951-8fca5d7853d5"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point a",
+    "tgt_title": "Annex IV, second paragraph, point (a)",
+    "certainty": 0.9705,
+    "match": true,
+    "amd_uuids": [
+        "eecace41-e9c8-405d-8ee1-67d390a6267e",
+        "4c725f26-3395-4bc3-900f-4f460d0a490f",
+        "b618fb6f-6935-4ac9-8982-4f720634ae6b",
+        "b10fe77e-4035-4c48-9919-93322b960d08"
+    ],
+    "tgt_uuid": "ba79adb4-51e6-4e93-b5d2-fa035212ff68",
+    "tgt_vvids": [
+        "23794166-b2c9-4f90-8d67-f6d3f6de10fa",
+        "2621def3-d9cc-456c-9feb-36b4236c9de2",
+        "d97a48b4-70ec-465f-a462-12b06993220c",
+        "ad63e273-0809-4855-8a48-c67772e34a93"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point a a (new)",
+    "tgt_title": "Annex IV, second paragraph, point (a)",
+    "certainty": 0.9645,
+    "match": true,
+    "amd_uuids": [
+        "e044db6c-5e9f-476d-8a20-36efcc7a33ce",
+        "b55ed8b4-1e49-440a-b5f2-f7db97d3d658"
+    ],
+    "tgt_uuid": "ba79adb4-51e6-4e93-b5d2-fa035212ff68",
+    "tgt_vvids": [
+        "23794166-b2c9-4f90-8d67-f6d3f6de10fa",
+        "2621def3-d9cc-456c-9feb-36b4236c9de2",
+        "d97a48b4-70ec-465f-a462-12b06993220c",
+        "ad63e273-0809-4855-8a48-c67772e34a93"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point a b (new)",
+    "tgt_title": "Annex IV, second paragraph, point (a)",
+    "certainty": 0.9622,
+    "match": true,
+    "amd_uuids": [
+        "43ec4c71-646f-4d2d-b56b-11e658968fb4"
+    ],
+    "tgt_uuid": "ba79adb4-51e6-4e93-b5d2-fa035212ff68",
+    "tgt_vvids": [
+        "23794166-b2c9-4f90-8d67-f6d3f6de10fa",
+        "2621def3-d9cc-456c-9feb-36b4236c9de2",
+        "d97a48b4-70ec-465f-a462-12b06993220c",
+        "ad63e273-0809-4855-8a48-c67772e34a93"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point b",
+    "tgt_title": "Annex IV, second paragraph, point (b)",
+    "certainty": 0.9686,
+    "match": true,
+    "amd_uuids": [
+        "117647cf-afa6-4e77-84bf-b72d70ec2bca",
+        "53bce7aa-0770-444b-8ee0-628f7b7e2bb0",
+        "0f171e31-d464-4046-8f8a-23b181386935"
+    ],
+    "tgt_uuid": "aa483b58-132d-4789-bc19-91f7823eccb0",
+    "tgt_vvids": [
+        "6dbf593f-9d66-427a-b8c4-d0a5954f5dd0",
+        "00853c23-4d99-4090-b13d-73bbf8b7186a",
+        "4b9041cd-159e-4f43-bb30-8744b0944d2e",
+        "f02e17e5-7215-4493-96a1-84ad99e2e2d7"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point c",
+    "tgt_title": "Annex IV, second paragraph, point (c)",
+    "certainty": 0.9706,
+    "match": true,
+    "amd_uuids": [
+        "14357379-d946-4964-a1fa-d43fb991a582",
+        "fdcd9efe-6f1a-4810-af75-202207518724"
+    ],
+    "tgt_uuid": "34fd14e0-388c-4305-b546-dd146587c7eb",
+    "tgt_vvids": [
+        "05837943-954d-4316-9cc5-670b3b0f4062",
+        "48c361ac-1b63-4c1b-b412-d415001ee431",
+        "f45fa6ab-fe88-4f48-a54f-7390c0278e36",
+        "07d27c73-f882-4182-80df-d0b662bcc9c4"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point d",
+    "tgt_title": "Annex IV, second paragraph, point (d)",
+    "certainty": 0.9613,
+    "match": true,
+    "amd_uuids": [
+        "e0860c04-1b5e-4bbd-ad6c-34c6a422f6d7"
+    ],
+    "tgt_uuid": "1cfda7cd-0187-48d8-a48c-e8195801c6a1",
+    "tgt_vvids": [
+        "aa514d76-9dc5-490a-910a-c9523ab067aa",
+        "187e8f21-de9c-4338-897e-7d0872f2a090",
+        "184ae27f-50cb-47d1-b36d-66fab81cdc46",
+        "475ca241-4872-45ba-aad3-a9302bbfe3ba"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point f",
+    "tgt_title": "Annex IV, second paragraph, point (f)",
+    "certainty": 0.9705,
+    "match": true,
+    "amd_uuids": [
+        "f6f5594e-34ac-4853-8912-232615f1442a"
+    ],
+    "tgt_uuid": "350a0d6d-18d3-43de-93e0-e52982ba8df1",
+    "tgt_vvids": [
+        "ed3ac25b-a962-48ac-8eef-dc5b1c97b523",
+        "8f7fc226-1083-48c2-bfea-fa3e1d3332c0",
+        "c234cf1e-c8c7-4157-afb6-f65a058cbb79",
+        "74eaa7e1-abed-4321-afca-5de01ee7f616"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point g",
+    "tgt_title": "Annex IV, second paragraph, point (g)",
+    "certainty": 0.9721,
+    "match": true,
+    "amd_uuids": [
+        "247c49f8-9667-4e09-8b77-d55d98825950"
+    ],
+    "tgt_uuid": "fe9b1696-cf35-4edc-bbd6-879f4d192334",
+    "tgt_vvids": [
+        "570e3c2b-f889-472c-9e26-a83656413a9b",
+        "49647672-57c5-4bae-a83c-d7d44558c37e",
+        "3da9bce2-eca2-45ad-8e01-e1ddb13f7d80",
+        "4131b806-e297-4111-a59d-b64b861aff87"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 1  point g a (new)",
+    "tgt_title": "Annex IV, second paragraph, point (g)",
+    "certainty": 0.9638,
+    "match": true,
+    "amd_uuids": [
+        "3f6c75b4-7be3-47fb-bbf6-bd1d2b67451a"
+    ],
+    "tgt_uuid": "fe9b1696-cf35-4edc-bbd6-879f4d192334",
+    "tgt_vvids": [
+        "570e3c2b-f889-472c-9e26-a83656413a9b",
+        "49647672-57c5-4bae-a83c-d7d44558c37e",
+        "3da9bce2-eca2-45ad-8e01-e1ddb13f7d80",
+        "4131b806-e297-4111-a59d-b64b861aff87"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  introductory part",
+    "tgt_title": "Annex IV, first paragraph",
+    "certainty": 0.9604,
+    "match": true,
+    "amd_uuids": [
+        "06bee8d1-9a8d-4f21-b018-093cb71e4f95"
+    ],
+    "tgt_uuid": "d2c681dd-c438-49e6-a515-f6ece45fe89a",
+    "tgt_vvids": [
+        "5265fd01-3bbf-4a69-a36a-0e157ef0c60c",
+        "7982a600-a683-471a-85b8-dfc6c3644224",
+        "3e668513-6cf4-4e2e-9441-f04fe96e42bc",
+        "c3ec67cb-5247-41f2-90ca-391f634782aa"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  point a",
+    "tgt_title": "Annex IV, second paragraph, point (a)",
+    "certainty": 0.974,
+    "match": true,
+    "amd_uuids": [
+        "9f10ceea-1285-41a6-aa2c-f2f5d1cb8d83"
+    ],
+    "tgt_uuid": "ba79adb4-51e6-4e93-b5d2-fa035212ff68",
+    "tgt_vvids": [
+        "23794166-b2c9-4f90-8d67-f6d3f6de10fa",
+        "2621def3-d9cc-456c-9feb-36b4236c9de2",
+        "d97a48b4-70ec-465f-a462-12b06993220c",
+        "ad63e273-0809-4855-8a48-c67772e34a93"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  point b",
+    "tgt_title": "Annex IV, second paragraph, point (b)",
+    "certainty": 0.9733,
+    "match": true,
+    "amd_uuids": [
+        "3963450f-17d9-497e-85b7-d32c68fc34a0",
+        "9bce9604-3c81-40f5-bd24-ceaf84ad2d55",
+        "f21cb467-173f-48de-9b76-a90ad16ec4cb"
+    ],
+    "tgt_uuid": "aa483b58-132d-4789-bc19-91f7823eccb0",
+    "tgt_vvids": [
+        "6dbf593f-9d66-427a-b8c4-d0a5954f5dd0",
+        "00853c23-4d99-4090-b13d-73bbf8b7186a",
+        "4b9041cd-159e-4f43-bb30-8744b0944d2e",
+        "f02e17e5-7215-4493-96a1-84ad99e2e2d7"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  point c",
+    "tgt_title": "Annex IV, second paragraph, point (c)",
+    "certainty": 0.9738,
+    "match": true,
+    "amd_uuids": [
+        "f0d42b12-78f0-4c7e-b879-bf181f5503cc"
+    ],
+    "tgt_uuid": "34fd14e0-388c-4305-b546-dd146587c7eb",
+    "tgt_vvids": [
+        "05837943-954d-4316-9cc5-670b3b0f4062",
+        "48c361ac-1b63-4c1b-b412-d415001ee431",
+        "f45fa6ab-fe88-4f48-a54f-7390c0278e36",
+        "07d27c73-f882-4182-80df-d0b662bcc9c4"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  point d",
+    "tgt_title": "Annex IV, second paragraph, point (d)",
+    "certainty": 0.9672,
+    "match": true,
+    "amd_uuids": [
+        "5b32ad15-8ffc-4b73-89e8-868d2d789d19",
+        "7a659054-8d5e-4560-81a2-c41c6c3dc57c"
+    ],
+    "tgt_uuid": "1cfda7cd-0187-48d8-a48c-e8195801c6a1",
+    "tgt_vvids": [
+        "aa514d76-9dc5-490a-910a-c9523ab067aa",
+        "187e8f21-de9c-4338-897e-7d0872f2a090",
+        "184ae27f-50cb-47d1-b36d-66fab81cdc46",
+        "475ca241-4872-45ba-aad3-a9302bbfe3ba"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  point e",
+    "tgt_title": "Annex IV, second paragraph, point (e)",
+    "certainty": 0.9743,
+    "match": true,
+    "amd_uuids": [
+        "75e4af4d-16dc-4385-bfb5-db761b14faea"
+    ],
+    "tgt_uuid": "7e630af4-0b65-4f58-b56e-a6e473cccd1b",
+    "tgt_vvids": [
+        "299a9e4c-399e-4fcc-bbf0-f855643278e5",
+        "53183258-2331-4e59-929b-35684b7b957b",
+        "7b0069f4-f4ca-4754-95ce-bc5f1afb1dd6",
+        "b5b431dc-36e9-4699-b804-704d7cf1c4cf"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  point g",
+    "tgt_title": "Annex IV, second paragraph, point (g)",
+    "certainty": 0.976,
+    "match": true,
+    "amd_uuids": [
+        "0a0520ba-ee94-4c26-a18e-9c139c7e5369",
+        "d9d4a3e2-0edb-4b04-84ae-3514fa29241b",
+        "89098ed8-8875-402c-bef5-4894109a8d36"
+    ],
+    "tgt_uuid": "fe9b1696-cf35-4edc-bbd6-879f4d192334",
+    "tgt_vvids": [
+        "570e3c2b-f889-472c-9e26-a83656413a9b",
+        "49647672-57c5-4bae-a83c-d7d44558c37e",
+        "3da9bce2-eca2-45ad-8e01-e1ddb13f7d80",
+        "4131b806-e297-4111-a59d-b64b861aff87"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 2  point g a (new)",
+    "tgt_title": "Annex IV, second paragraph, point (g)",
+    "certainty": 0.9679,
+    "match": true,
+    "amd_uuids": [
+        "5f754122-02b0-4b55-98cc-2d910404f790"
+    ],
+    "tgt_uuid": "fe9b1696-cf35-4edc-bbd6-879f4d192334",
+    "tgt_vvids": [
+        "570e3c2b-f889-472c-9e26-a83656413a9b",
+        "49647672-57c5-4bae-a83c-d7d44558c37e",
+        "3da9bce2-eca2-45ad-8e01-e1ddb13f7d80",
+        "4131b806-e297-4111-a59d-b64b861aff87"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 3",
+    "tgt_title": "Annex IV, third paragraph, point (a)",
+    "certainty": 0.9661,
+    "match": true,
+    "amd_uuids": [
+        "392d02d9-53ef-486e-8260-f6eac2ee6c48"
+    ],
+    "tgt_uuid": "fe80a01d-94eb-4eb5-b47b-65998ac2f531",
+    "tgt_vvids": [
+        "95079e06-5b1a-4dcd-81cf-7b274772cee0",
+        "5a3be8cc-1f37-4780-9528-8b79c02afaed",
+        "a27bb827-8051-4528-87ab-0a3a2d859412",
+        "6da971b4-bd20-4b02-aeb9-61979c06908d"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 3 a (new)",
+    "tgt_title": "Annex IV, third paragraph, point (a)",
+    "certainty": 0.968,
+    "match": true,
+    "amd_uuids": [
+        "9bf70a6a-d051-4d38-90f5-ec35a1cc971d",
+        "1bbc7f1d-db29-43de-9cf5-f9ee14b539b6"
+    ],
+    "tgt_uuid": "fe80a01d-94eb-4eb5-b47b-65998ac2f531",
+    "tgt_vvids": [
+        "95079e06-5b1a-4dcd-81cf-7b274772cee0",
+        "5a3be8cc-1f37-4780-9528-8b79c02afaed",
+        "a27bb827-8051-4528-87ab-0a3a2d859412",
+        "6da971b4-bd20-4b02-aeb9-61979c06908d"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 3 b (new)",
+    "tgt_title": "Annex IV, third paragraph, point (b)",
+    "certainty": 0.9658,
+    "match": true,
+    "amd_uuids": [
+        "e84591b1-edd2-422d-aa5f-fe95dc98a3c8"
+    ],
+    "tgt_uuid": "3cc28588-7f5e-4ff0-b6aa-1724bee01726",
+    "tgt_vvids": [
+        "a35bc9f7-6458-4484-bde6-c468f538045e",
+        "6c695fa1-4e3a-447d-a74a-4f24d03daaf3",
+        "05bf35a5-6346-411a-9b49-915bde4be45a",
+        "5b18ac37-9e69-4561-8f80-23c5f2764964"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 3 c (new)",
+    "tgt_title": "Annex IV, third paragraph, point (c)",
+    "certainty": 0.9652,
+    "match": true,
+    "amd_uuids": [
+        "46abfa75-ba73-4289-9d68-c347207afc50"
+    ],
+    "tgt_uuid": "23251304-c474-4182-97b3-4b4419885755",
+    "tgt_vvids": [
+        "602803cb-2aeb-446f-964f-31010d60720a",
+        "3e31b59b-5002-4b43-a708-b80a96c9984b",
+        "96847bf9-838b-406d-8721-b3922933eafa",
+        "3be4b655-16bd-434e-8bb6-c5582cacabf8"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 4 a (new)",
+    "tgt_title": "Annex IV, second paragraph, point (a)",
+    "certainty": 0.9657,
+    "match": true,
+    "amd_uuids": [
+        "de7ac3a5-bd07-4534-909d-8cc9f3b9cbf9"
+    ],
+    "tgt_uuid": "ba79adb4-51e6-4e93-b5d2-fa035212ff68",
+    "tgt_vvids": [
+        "23794166-b2c9-4f90-8d67-f6d3f6de10fa",
+        "2621def3-d9cc-456c-9feb-36b4236c9de2",
+        "d97a48b4-70ec-465f-a462-12b06993220c",
+        "ad63e273-0809-4855-8a48-c67772e34a93"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 5",
+    "tgt_title": "Annex II, point 5.",
+    "certainty": 0.9609,
+    "match": true,
+    "amd_uuids": [
+        "8a65f825-fbf4-4951-82fb-f06719e644f8",
+        "0ec2b340-4905-44c7-9530-fba27f8e9901"
+    ],
+    "tgt_uuid": "ec7c1b2b-bece-4637-a005-493ea6ee8ba7",
+    "tgt_vvids": [
+        "66928e31-2c65-469a-b095-1771f6b9891a",
+        "2d234e51-c4f1-4e31-ba2f-54dd54a21a55",
+        "29d255e5-5af3-4ba4-922d-f47844bafe05",
+        "254c1802-882d-4502-9198-6819c63a5854"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 6",
+    "tgt_title": "Annex II, point 6.",
+    "certainty": 0.9603,
+    "match": true,
+    "amd_uuids": [
+        "1f7372aa-f2dd-4de7-ad10-bc849837e393",
+        "e34e8501-915a-453e-9b99-0dd9c957ac1f"
+    ],
+    "tgt_uuid": "4c0efc3c-407d-4b0a-a387-2675c339eca3",
+    "tgt_vvids": [
+        "42403d89-bd07-400f-9bc9-e68ea88f0da4",
+        "e7120e61-a2a4-4bd0-a762-a7d24e6d82f1",
+        "ac1ef76d-93f1-435d-83c5-0fb8f7203ded",
+        "6e9f289e-b18f-4885-9562-ca4c0f1fa17d"
+    ]
+}
+{
+    "amd_title": "Annex IV  paragraph 1  point 8 a (new)",
+    "tgt_title": "Annex VIII, point 5a (new).",
+    "certainty": 0.9614,
+    "match": true,
+    "amd_uuids": [
+        "5ded47ff-2b0b-4cd4-ae58-b664321708e5"
+    ],
+    "tgt_uuid": "c4b7bb2f-adf9-4b08-af7b-821b1e8a4349",
+    "tgt_vvids": [
+        "9dc05779-a458-473b-a386-9c19a4e46b81",
+        "0c03a8d2-b136-47b5-ba3c-98e246da1e75",
+        "a4eba1a9-cb06-44bf-94a7-56cb8bc6115c",
+        "e41d47a5-c303-44ba-b689-80f2ed5a952e"
+    ]
+}
+{
+    "amd_title": "Annex IX a (new)",
+    "tgt_title": "Annex VIII - SECTION B (new)",
+    "certainty": 0.9585,
+    "match": false,
+    "amd_uuids": [
+        "0a42e67a-3e6c-4f29-b0bb-951bf4f4a312"
+    ],
+    "tgt_uuid": "390d322e-7997-44bf-b989-be7d8ecac06f",
+    "tgt_vvids": [
+        "ee667fda-a85b-49bd-82a0-a59235f07590",
+        "5651ed31-8013-43cd-b88d-aa45fc02c12c",
+        "b68b1d64-4c80-493d-8c82-519e4ecc3305",
+        "602fe174-7d8a-4779-bb31-f36acdb12a99"
+    ]
+}
+{
+    "amd_title": "Annex IX  title",
+    "tgt_title": "Annex IX",
+    "certainty": 0.9651,
+    "match": true,
+    "amd_uuids": [
+        "5e4b3725-3faa-47cd-bddf-16a499b4a2a4"
+    ],
+    "tgt_uuid": "3a7947ae-6223-4b4a-925a-dcbb7c93762e",
+    "tgt_vvids": [
+        "3f342a82-d157-4331-b6da-a503b518c640",
+        "1f8846e1-e35f-4d34-829d-228add539a52",
+        "41595142-be1b-4e40-98d7-f331b5c15157",
+        "5e4898d2-4bf9-411f-af54-881ba19d1e24"
+    ]
+}
+{
+    "amd_title": "Annex VI",
+    "tgt_title": "Annex VI",
+    "certainty": 0.9693,
+    "match": true,
+    "amd_uuids": [
+        "31326bc0-661e-44d4-9183-c573a4717fa8"
+    ],
+    "tgt_uuid": "e66eb80c-5262-4eeb-801a-5df24f4e811b",
+    "tgt_vvids": [
+        "17628036-c089-4688-af2c-459d31b607ab",
+        "ad7b3299-b57b-42f6-8321-ad8b91e278d1",
+        "d690e21b-abf8-4704-8e80-597cea8710bc",
+        "c15133d4-4407-4452-9e84-4ea0170bda3c"
+    ]
+}
+{
+    "amd_title": "Annex VII  point 4  point 4.3",
+    "tgt_title": "Annex VII, point 4.",
+    "certainty": 0.9705,
+    "match": true,
+    "amd_uuids": [
+        "c73dfeb6-a45c-4924-97b3-402b8d0ef84c"
+    ],
+    "tgt_uuid": "5c96532e-29bf-4ad1-a577-cdc164439174",
+    "tgt_vvids": [
+        "3d8f6bab-6557-4f27-bcf2-a2e0cca5f029",
+        "2e1ae570-a6f8-41dc-9e19-0e5a660e0887",
+        "0409fd0d-7e54-4a99-b750-f40ae17d858f",
+        "2a6121c9-b584-4f0a-9882-fcc51aff8237"
+    ]
+}
+{
+    "amd_title": "Annex VII  point 4  point 4.4",
+    "tgt_title": "Annex VII, point 4.",
+    "certainty": 0.9709,
+    "match": true,
+    "amd_uuids": [
+        "a32aa369-c681-4068-be97-5d321d0042c8"
+    ],
+    "tgt_uuid": "5c96532e-29bf-4ad1-a577-cdc164439174",
+    "tgt_vvids": [
+        "3d8f6bab-6557-4f27-bcf2-a2e0cca5f029",
+        "2e1ae570-a6f8-41dc-9e19-0e5a660e0887",
+        "0409fd0d-7e54-4a99-b750-f40ae17d858f",
+        "2a6121c9-b584-4f0a-9882-fcc51aff8237"
+    ]
+}
+{
+    "amd_title": "Annex VII  point 4  point 4.5",
+    "tgt_title": "Annex VII, point 4.",
+    "certainty": 0.9657,
+    "match": true,
+    "amd_uuids": [
+        "9e55bea8-56db-446c-8920-0348180eca9b"
+    ],
+    "tgt_uuid": "5c96532e-29bf-4ad1-a577-cdc164439174",
+    "tgt_vvids": [
+        "3d8f6bab-6557-4f27-bcf2-a2e0cca5f029",
+        "2e1ae570-a6f8-41dc-9e19-0e5a660e0887",
+        "0409fd0d-7e54-4a99-b750-f40ae17d858f",
+        "2a6121c9-b584-4f0a-9882-fcc51aff8237"
+    ]
+}
+{
+    "amd_title": "Annex VII  point 4  point 4.7",
+    "tgt_title": "Annex VII, point 4.",
+    "certainty": 0.973,
+    "match": true,
+    "amd_uuids": [
+        "c5764893-1643-4ef7-9ce0-46c84c40d027"
+    ],
+    "tgt_uuid": "5c96532e-29bf-4ad1-a577-cdc164439174",
+    "tgt_vvids": [
+        "3d8f6bab-6557-4f27-bcf2-a2e0cca5f029",
+        "2e1ae570-a6f8-41dc-9e19-0e5a660e0887",
+        "0409fd0d-7e54-4a99-b750-f40ae17d858f",
+        "2a6121c9-b584-4f0a-9882-fcc51aff8237"
+    ]
+}
+{
+    "amd_title": "Annex VIII  paragraph 1",
+    "tgt_title": "Annex VIII, first paragraph",
+    "certainty": 0.9704,
+    "match": true,
+    "amd_uuids": [
+        "8daedc51-a16c-410b-8b02-cbbba7191c1c",
+        "5e232bbd-3d83-4284-a090-8c21fd2ba415",
+        "d6e24e16-00a2-469a-b8d0-d77e42a5c8da"
+    ],
+    "tgt_uuid": "399aea88-dac1-4559-979c-2bc22934b4f4",
+    "tgt_vvids": [
+        "3cfcb7ff-1947-4144-8615-2c39caeba087",
+        "65ad2e78-0cca-45e7-8fcc-736aa4b1cf51",
+        "3654a15e-cedc-4fbe-926c-b1dc0be98aee",
+        "4b32a322-db14-49d3-a296-60e16a2ed69d"
+    ]
+}
+{
+    "amd_title": "Annex VIII  paragraph 1 a (new)",
+    "tgt_title": "Annex VIII, first paragraph a",
+    "certainty": 0.9611,
+    "match": true,
+    "amd_uuids": [
+        "501aea0c-0eb1-481b-9f2a-f7742e0c8d14",
+        "436bb68d-9cc2-48cb-9da1-4a2a10ebb4b3"
+    ],
+    "tgt_uuid": "a37c5d8b-5233-4d0c-9723-7b33dfb9d849",
+    "tgt_vvids": [
+        "ee278115-9694-4108-b637-cbc25d393a19",
+        "6444a271-334a-42ee-94c7-1a6d4e83d98a",
+        "c78b4109-dc19-466d-a3dd-e38c97719f43",
+        "a0c4cad4-4590-407f-a878-b2652cbde49f"
+    ]
+}
+{
+    "amd_title": "Annex VIII  paragraph 1 b (new)",
+    "tgt_title": "Annex VIII - SECTION B (new)",
+    "certainty": 0.9733,
+    "match": true,
+    "amd_uuids": [
+        "8344a898-6274-4767-835a-41378e2ecb57"
+    ],
+    "tgt_uuid": "390d322e-7997-44bf-b989-be7d8ecac06f",
+    "tgt_vvids": [
+        "ee667fda-a85b-49bd-82a0-a59235f07590",
+        "5651ed31-8013-43cd-b88d-aa45fc02c12c",
+        "b68b1d64-4c80-493d-8c82-519e4ecc3305",
+        "602fe174-7d8a-4779-bb31-f36acdb12a99"
+    ]
+}

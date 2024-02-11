@@ -20,3 +20,7 @@ RAG backend for the RAG over the AI-act
     - 2023 Parliament (?= TA-9-2023-0236_EN_amendments.pdf )
     - 2024 leaked draft
 
+# reconciliation of all the texts - list of docs
+
+- TA-9-2023-0236_EN.pdf: amendements adopted by the parliament
+

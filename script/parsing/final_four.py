@@ -13,7 +13,7 @@ import argparse
 from tqdm import tqdm
 pd.options.display.max_columns = 120
 pd.options.display.max_rows = 60
-pd.options.display.max_colwidth = 30
+pd.options.display.max_colwidth = 120
 pd.options.display.precision = 10
 pd.options.display.width = 240
 pd.set_option("display.float_format", "{:.2f}".format)
@@ -486,7 +486,7 @@ if __name__ == "__main__":
 
     cols = ['uuid','pdf_order', 'part','i','j', 'level_1', 'level_2', 'level_3']
     mapp = data[cols].copy()
-
+    mapp['modified_at'] = None
     output_file_json = "./data/json/final_four_mapping-2024-02-06.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         mapp.to_json(f, force_ascii=False, orient="records", indent=4)

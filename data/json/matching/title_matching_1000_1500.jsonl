@@ -1,0 +1,1629 @@
+{
+    "amd_title": "Recital 4 a (new)",
+    "tgt_title": "Recital 4a",
+    "certainty": 0.9742,
+    "match": true,
+    "amd_uuids": [
+        "5662897b-3370-4fe6-9146-d47588f149d9",
+        "cac05bc9-3e80-4a61-b102-86c8e509e0a5",
+        "51c96f79-782d-4009-9021-02f612522b7a"
+    ],
+    "tgt_uuid": "48c73f04-d024-4a6d-b3f3-147ad51aefe2",
+    "tgt_vvids": [
+        "b244b551-87e0-4322-8088-a15616da4eb5",
+        "52af8000-1505-4cf1-84c7-2cf169281acb",
+        "5bd57ea0-800f-499a-8933-bb1e9ceb0529",
+        "e5f59c7c-3c85-48bb-b6b8-282f5053860a"
+    ]
+}
+{
+    "amd_title": "Recital 4 b (new)",
+    "tgt_title": "Recital 4a",
+    "certainty": 0.9657,
+    "match": true,
+    "amd_uuids": [
+        "f6df38f5-ffe1-4230-8511-edb92fcdd393",
+        "b2d4dab5-8beb-44c2-b3a3-ef36df53765c"
+    ],
+    "tgt_uuid": "48c73f04-d024-4a6d-b3f3-147ad51aefe2",
+    "tgt_vvids": [
+        "b244b551-87e0-4322-8088-a15616da4eb5",
+        "52af8000-1505-4cf1-84c7-2cf169281acb",
+        "5bd57ea0-800f-499a-8933-bb1e9ceb0529",
+        "e5f59c7c-3c85-48bb-b6b8-282f5053860a"
+    ]
+}
+{
+    "amd_title": "Recital 4 c (new)",
+    "tgt_title": "Recital 4",
+    "certainty": 0.9632,
+    "match": true,
+    "amd_uuids": [
+        "cca56cad-c03a-479a-923c-cfc808438e8a"
+    ],
+    "tgt_uuid": "dc905bc9-ffa8-4911-bc73-2788e8f9f627",
+    "tgt_vvids": [
+        "a77f9428-2713-44b3-aef0-0abeff290ea7",
+        "3790e7e6-1a25-420a-8d31-0bbb4706592e",
+        "100c6012-0c28-452a-a5b0-151b0fd9ef1f",
+        "99ec9c65-489d-48c9-95a5-40bbdb270056"
+    ]
+}
+{
+    "amd_title": "Recital 40",
+    "tgt_title": "Recital 40",
+    "certainty": 0.9943,
+    "match": true,
+    "amd_uuids": [
+        "4794b141-2fcc-486c-bf9a-597263375084",
+        "19506d5d-6f4f-47fa-a686-86bbf2936f15",
+        "b4326248-de3b-4850-81d2-622ce806f7cc",
+        "1d504640-a1b9-429a-bbe0-b57e07891b56"
+    ],
+    "tgt_uuid": "57b413b8-504c-409e-9345-8a06477892de",
+    "tgt_vvids": [
+        "2638d168-53cd-44c4-890a-6977b60bac7e",
+        "354b4450-7144-4d9a-8da9-2aedbc3f9bd7",
+        "45fa65f8-fed0-437f-89ce-e738fb2f63d4",
+        "0ef5b933-f78c-4f62-9ff5-84a0df3bf6e8"
+    ]
+}
+{
+    "amd_title": "Recital 40 a (new)",
+    "tgt_title": "Recital 40a",
+    "certainty": 0.975,
+    "match": true,
+    "amd_uuids": [
+        "37074e80-5c27-4dcf-a610-e32246e11041",
+        "d0db20a7-d0ec-42e7-9472-9b335f42abda",
+        "ef19d17c-518d-429f-9d0a-9e2b16d760c2",
+        "3fc27a1e-dde3-44fc-9761-7bab8cf602a9",
+        "39c27dba-b687-46c0-868d-7b581c0390e4",
+        "c4b008fc-7bc2-497d-b83a-2b34a662f960"
+    ],
+    "tgt_uuid": "f27bc3d0-e282-4774-90f0-fab7f86ea161",
+    "tgt_vvids": [
+        "60935ba9-c03a-42c1-a16c-aff9851c6c0f",
+        "ce6c7d49-b32f-4286-87e8-7616bd5ffc55",
+        "a801e7b3-23be-4020-9ed5-7f7f4082989d",
+        "13acf5fa-523a-4afb-8096-aaaf1141de5b"
+    ]
+}
+{
+    "amd_title": "Recital 40 b (new)",
+    "tgt_title": "Recital 40b",
+    "certainty": 0.9779,
+    "match": true,
+    "amd_uuids": [
+        "a84a0fcf-600d-45db-9ab4-9d2be12574e6",
+        "69a60b11-8e5f-4544-b48d-4b91530b09c4"
+    ],
+    "tgt_uuid": "d124af82-4f53-4fa6-9a77-7225c437b45c",
+    "tgt_vvids": [
+        "b34e847c-2206-469b-913a-1b26cc35fe6b",
+        "7ef6e353-4f6b-4425-934b-548bb784d0f7",
+        "c60d95db-96a0-4355-ab14-2d7c1ca5dcb4",
+        "4b665030-760e-473f-b866-08af0e58da18"
+    ]
+}
+{
+    "amd_title": "Recital 41",
+    "tgt_title": "Recital 41",
+    "certainty": 0.9949,
+    "match": true,
+    "amd_uuids": [
+        "e8ce4c04-dc44-4926-8ec6-e7df27959f35",
+        "f5f194ed-c285-47e5-b671-4ce42fa848b5",
+        "821bd33f-71cd-4b39-977a-9b9b6cfa0dda",
+        "5a9ace2f-bb66-4156-abd4-cae7c224149e"
+    ],
+    "tgt_uuid": "2127ee95-7f91-47a1-b7af-1f9999fac71f",
+    "tgt_vvids": [
+        "a3eeeb10-597b-49d0-a9e2-813e0bc60eab",
+        "b74de392-79e0-4fed-9030-2b82f3ecd355",
+        "0665ab0a-468a-4ece-bb36-30dadd182027",
+        "8b992702-4bd5-40e9-b758-778aa811864f"
+    ]
+}
+{
+    "amd_title": "Recital 41 a (new)",
+    "tgt_title": "Recital 41a",
+    "certainty": 0.9776,
+    "match": true,
+    "amd_uuids": [
+        "ed19eb08-ba32-41bc-8a6a-6afd41facf51"
+    ],
+    "tgt_uuid": "776fb4c0-1f5e-44e2-91db-3d6473254696",
+    "tgt_vvids": [
+        "0b3dd2f4-024c-4556-ab32-3f2d808df0d0",
+        "ceff2356-427d-4965-9830-8e25e0cf1fc5",
+        "ff3ea3e1-69b9-45a3-9702-64a654cba15a",
+        "fd256d1d-f684-4e21-bdfe-5dcc5e99cf90"
+    ]
+}
+{
+    "amd_title": "Recital 42",
+    "tgt_title": "Recital 42",
+    "certainty": 0.9951,
+    "match": true,
+    "amd_uuids": [
+        "52b3cb2b-a6da-4a29-a558-4c6de0b870c6",
+        "d369d39b-77f2-470c-9a49-caf0dd3cdae1",
+        "5adc1003-ffca-40e0-96ee-5e39733f769c",
+        "fbacf8ae-9b22-40df-aa53-302b64131f10",
+        "75ef3af0-da26-41db-b61c-bfa6c67b380a"
+    ],
+    "tgt_uuid": "bac309fc-3ac3-4506-8c18-666dc25b107c",
+    "tgt_vvids": [
+        "678507cf-5ed4-431f-9451-057d585736e3",
+        "f63fb826-c202-49fd-b9de-eda5388c5cbc",
+        "25457a4e-dbc3-4ace-ac31-1c00198d2d70",
+        "3a334cab-052c-47df-b981-cf3811fd39f3"
+    ]
+}
+{
+    "amd_title": "Recital 43",
+    "tgt_title": "Recital 43",
+    "certainty": 0.9951,
+    "match": true,
+    "amd_uuids": [
+        "f0441930-f8f7-46b6-8d95-18b298e08698",
+        "921ddefe-2e53-437e-b287-32ec407de0a6",
+        "18d201e4-eebc-4570-a11f-dd08778aea11",
+        "f53bccd5-2999-4afb-a901-4045b2bba8bc"
+    ],
+    "tgt_uuid": "62545587-f918-4e49-937e-aae675891b04",
+    "tgt_vvids": [
+        "b8a78929-9606-4b04-8300-0cebd2d73e27",
+        "9e515a6f-31b0-4e05-8384-8f715395f76f",
+        "0a33f847-69e3-4b52-969e-f385ca2d5513",
+        "1809fd43-2fea-431b-af3c-3e61706114c1"
+    ]
+}
+{
+    "amd_title": "Recital 43 a (new)",
+    "tgt_title": "Recital 43",
+    "certainty": 0.9743,
+    "match": true,
+    "amd_uuids": [
+        "047bdec0-001c-4f5b-94b9-b07a22ae7f1d"
+    ],
+    "tgt_uuid": "62545587-f918-4e49-937e-aae675891b04",
+    "tgt_vvids": [
+        "b8a78929-9606-4b04-8300-0cebd2d73e27",
+        "9e515a6f-31b0-4e05-8384-8f715395f76f",
+        "0a33f847-69e3-4b52-969e-f385ca2d5513",
+        "1809fd43-2fea-431b-af3c-3e61706114c1"
+    ]
+}
+{
+    "amd_title": "Recital 44",
+    "tgt_title": "Recital 44",
+    "certainty": 0.9947,
+    "match": true,
+    "amd_uuids": [
+        "ccbf7dcf-8ae6-4a01-b0bf-369ef5926eef",
+        "60bfeca7-ef93-4fb9-82b8-9937e6efb1dd",
+        "fbde1925-906c-4664-8613-295898364a79",
+        "7869e519-9339-4f53-b5a6-be01404e3960",
+        "b90a02c2-e2a5-49d2-8398-0a01b453df06",
+        "e4fb533f-c309-4c7b-8a8d-2fed669a2220",
+        "6b187331-215a-42dc-8114-c2a79cea869f",
+        "7eb91b11-8ea4-4e1e-8ee1-e56f661ecd66"
+    ],
+    "tgt_uuid": "776abf2b-6201-4db0-b67b-6c198c512f25",
+    "tgt_vvids": [
+        "d894c923-ab41-4cb9-8881-8f993f4af950",
+        "eb1503c4-0256-4f1d-86de-a50c907276e1",
+        "59f1e9d9-d713-493f-a63b-10f45bab69f1",
+        "9cc742c2-e2a3-4323-ab84-1218fd88e05e"
+    ]
+}
+{
+    "amd_title": "Recital 44 a (new)",
+    "tgt_title": "Recital 44a",
+    "certainty": 0.9769,
+    "match": true,
+    "amd_uuids": [
+        "c6e989cb-21aa-435c-b461-453194ba99ec"
+    ],
+    "tgt_uuid": "e02278ea-976c-44fc-9d3e-6716ede62ab8",
+    "tgt_vvids": [
+        "63c59c82-3c8c-469f-9f97-cbda64cfced2",
+        "d6811fa0-5316-400b-8d9b-a28fef761177",
+        "79177b45-671d-4fd4-824b-08ba3774b446",
+        "2b2f4f51-7bf7-46ce-b477-c200f6d896aa"
+    ]
+}
+{
+    "amd_title": "Recital 45",
+    "tgt_title": "Recital 45",
+    "certainty": 0.9947,
+    "match": true,
+    "amd_uuids": [
+        "1779c754-fef5-4b7e-88ba-e719f71c2093"
+    ],
+    "tgt_uuid": "d7f978cb-7eb4-46a9-97a1-f904f6179b64",
+    "tgt_vvids": [
+        "ebf016f6-f038-4d6a-8444-b0a2fd9c7317",
+        "9221b9d3-fea7-4385-93f1-131e99be37b2",
+        "e9339f85-d0c8-4b3e-96bf-2e7506293896",
+        "a350c2b3-57c2-412e-bc15-30722a6bb283"
+    ]
+}
+{
+    "amd_title": "Recital 46",
+    "tgt_title": "Recital 46",
+    "certainty": 0.995,
+    "match": true,
+    "amd_uuids": [
+        "af9f8e33-8040-40f5-9074-5361b3e30af7",
+        "44636972-6333-4aba-a0ed-71487d7a40dd",
+        "79431ec1-6638-492b-8ad4-ab1a3df0f01e",
+        "cb6bead7-1ec1-486b-a11c-f7087d3e5608"
+    ],
+    "tgt_uuid": "8851f698-18ca-4831-8d50-4715f8a413c8",
+    "tgt_vvids": [
+        "258572f3-3076-43cf-a758-0d85477981f4",
+        "17a2ec4e-0302-4713-ad47-1c230ca9f740",
+        "464c6c8f-b948-4104-83b5-1cb98bb77a9f",
+        "0fbff67a-a393-40f7-8aa0-8c4b15888305"
+    ]
+}
+{
+    "amd_title": "Recital 47",
+    "tgt_title": "Recital 47",
+    "certainty": 0.9953,
+    "match": true,
+    "amd_uuids": [
+        "db92492c-a39b-43aa-8eda-027f4adb44ae"
+    ],
+    "tgt_uuid": "558e61b8-9eeb-4500-b96d-3b14bb1cc5a0",
+    "tgt_vvids": [
+        "e3f7adfb-7424-4479-bca8-571370c457d0",
+        "adc1123f-8f28-4045-a2cc-669826aaad5e",
+        "dc025535-d2bf-4efd-8b72-989fb076ff56",
+        "892476e5-1567-44e0-a6aa-0a0f6724a34d"
+    ]
+}
+{
+    "amd_title": "Recital 47 a (new)",
+    "tgt_title": "Recital 47a",
+    "certainty": 0.98,
+    "match": true,
+    "amd_uuids": [
+        "fd9f0c2e-0172-4c50-82bc-a1c9cb84cb67"
+    ],
+    "tgt_uuid": "2504cac0-bab9-470a-82f8-196f4091f396",
+    "tgt_vvids": [
+        "d9372bf9-8260-4125-8b25-88cae6cbac1c",
+        "9ff96419-d400-44f6-b978-e01cfd9df2a9",
+        "01e2dc54-66d8-4601-bd11-64d3e871e899",
+        "c430473e-a769-400b-b023-324ae0e76bd5"
+    ]
+}
+{
+    "amd_title": "Recital 48",
+    "tgt_title": "Recital 48",
+    "certainty": 0.9947,
+    "match": true,
+    "amd_uuids": [
+        "45f665a3-cd98-4995-bfbb-c7548fcb85dc",
+        "fb924d49-e1a5-4068-a170-1bec2705c275",
+        "e6157584-3d53-4d05-9e05-1fe2f7d5881a",
+        "13a8acf2-4803-40e2-914a-4314ca166b27",
+        "2a0725a0-d769-4948-b9b0-58cf071f80b0"
+    ],
+    "tgt_uuid": "29ee6b65-94bc-4f27-9736-f5be223c87dc",
+    "tgt_vvids": [
+        "aa24f0e6-beae-47f1-95da-834e0cd36fc8",
+        "cbb4c01d-ed69-416f-8c92-19ede3f3d99a",
+        "8aaa71a1-77c5-4c9c-ae94-49bae089b081",
+        "ea9b0f97-49f3-45e0-8959-4ef7786cea56"
+    ]
+}
+{
+    "amd_title": "Recital 48 a (new)",
+    "tgt_title": "Recital 48",
+    "certainty": 0.9724,
+    "match": true,
+    "amd_uuids": [
+        "b8062436-11c8-4021-ba98-8121c9dafac6"
+    ],
+    "tgt_uuid": "29ee6b65-94bc-4f27-9736-f5be223c87dc",
+    "tgt_vvids": [
+        "aa24f0e6-beae-47f1-95da-834e0cd36fc8",
+        "cbb4c01d-ed69-416f-8c92-19ede3f3d99a",
+        "8aaa71a1-77c5-4c9c-ae94-49bae089b081",
+        "ea9b0f97-49f3-45e0-8959-4ef7786cea56"
+    ]
+}
+{
+    "amd_title": "Recital 49",
+    "tgt_title": "Recital 49",
+    "certainty": 0.995,
+    "match": true,
+    "amd_uuids": [
+        "d1c1d96d-b370-4b4e-aea3-840e23648375",
+        "87b089a8-3df0-4dc5-83e8-a8a6e93cefd7",
+        "69e20a07-2ef6-435e-be1c-f0865c3e098c"
+    ],
+    "tgt_uuid": "3e657298-0f07-4851-aadd-961f8de513f0",
+    "tgt_vvids": [
+        "ef656adb-d307-4b05-b7e3-ebe4b8d6b2ff",
+        "8a6b9e57-f82c-4518-ae3e-18ee752bb621",
+        "3e10c29b-43b3-4c03-a0af-2add2406b002",
+        "577d1ad8-2516-4c62-be76-f2b5a3f12c40"
+    ]
+}
+{
+    "amd_title": "Recital 5",
+    "tgt_title": "Recital 5",
+    "certainty": 0.9937,
+    "match": true,
+    "amd_uuids": [
+        "e23aaa6f-a0a1-49c4-8497-e97a6027171e",
+        "d0d911ab-7ded-46b6-a142-d7aae4baf219",
+        "e65f3ef4-70af-4947-b260-96e88f9c48e4",
+        "602851e4-934e-4139-9aa0-40dd6f9b7ca8",
+        "7247a090-d9f6-4dee-a74a-7aff4ed87b97",
+        "ef62846b-5f45-4a3a-8146-4787990ddd68",
+        "b6d21d63-9e52-41ed-928d-88cdd9509e8e",
+        "f7de9cca-0a94-4833-8eb2-27a823f7b82f"
+    ],
+    "tgt_uuid": "6f487d7c-3371-4f5b-ac4e-377a23cfc931",
+    "tgt_vvids": [
+        "bd64a01d-60ec-471c-ada9-f2b5d4ba5e50",
+        "1b84d75d-e470-4170-93bb-e33dd24a9c4b",
+        "e4d2fb76-934d-46eb-ab70-dbb103a0bbd1",
+        "ab82883e-2dc5-4980-96e0-c82aa6f221f5"
+    ]
+}
+{
+    "amd_title": "Recital 5 a (new)",
+    "tgt_title": "Recital 5a",
+    "certainty": 0.9756,
+    "match": true,
+    "amd_uuids": [
+        "0d3eb50b-33f3-4c25-bc11-bc0f61a5db20",
+        "31971fd7-1d45-4d80-9aec-bdfdd5395f98",
+        "1f9576a9-652b-4f65-b267-5a04d8ba2436",
+        "7c0b90ee-7312-4743-a84a-2e16ac855595"
+    ],
+    "tgt_uuid": "de345e41-7f44-479b-bf2c-c5e34837ae92",
+    "tgt_vvids": [
+        "7d6e0745-2582-4f07-ac93-f7b9bc18274e",
+        "39a1f3a1-3175-4110-b8d6-48893692e4e8",
+        "d4ea5e4e-a04f-4457-809a-1cda00a99172",
+        "231b7507-283a-403f-990b-b4ff5ae8f155"
+    ]
+}
+{
+    "amd_title": "Recital 5 b (new)",
+    "tgt_title": "Recital 5a",
+    "certainty": 0.9668,
+    "match": true,
+    "amd_uuids": [
+        "a68dc331-a1e3-4951-b671-8d74b23322ab"
+    ],
+    "tgt_uuid": "de345e41-7f44-479b-bf2c-c5e34837ae92",
+    "tgt_vvids": [
+        "7d6e0745-2582-4f07-ac93-f7b9bc18274e",
+        "39a1f3a1-3175-4110-b8d6-48893692e4e8",
+        "d4ea5e4e-a04f-4457-809a-1cda00a99172",
+        "231b7507-283a-403f-990b-b4ff5ae8f155"
+    ]
+}
+{
+    "amd_title": "Recital 50",
+    "tgt_title": "Recital 50",
+    "certainty": 0.9929,
+    "match": true,
+    "amd_uuids": [
+        "ab134225-2ee6-453c-9cd5-1b1006c56df9"
+    ],
+    "tgt_uuid": "b335d639-fb4f-49d4-8826-c2dbd327e226",
+    "tgt_vvids": [
+        "9c5e5d8d-32f6-478a-abcb-b3c80a81d9d3",
+        "9b81866a-a1d9-44da-9c34-4f7afe7c9889",
+        "29afe37b-4d13-4fa7-8965-d4dfebc35b34",
+        "647d8f2a-aa1f-4bf1-a90c-b4e4d94ddb0b"
+    ]
+}
+{
+    "amd_title": "Recital 51",
+    "tgt_title": "Recital 51",
+    "certainty": 0.9955,
+    "match": true,
+    "amd_uuids": [
+        "5616c780-aa5d-4fe7-80a1-5dc0facd8841",
+        "7c09f7df-e010-4ab2-846c-ef9dcff30d11",
+        "b0314b00-be47-4056-84b6-e857294a09fb",
+        "a70c7602-9a31-4724-ae8f-01f00f15a4c5",
+        "c141e2d6-8f92-447d-aa2e-a7c420aabca2",
+        "f0ea00a5-4e74-4c4c-82b8-d2698f29f020"
+    ],
+    "tgt_uuid": "ed28cbb2-803d-4c37-8883-eabfc9f74353",
+    "tgt_vvids": [
+        "d865d94f-e350-4fb2-92c3-587fba3b8500",
+        "4adebfeb-5d2e-437a-83aa-7aac1c6e5aa3",
+        "80ab8654-2768-4040-8fb0-a8f63f5fa58e",
+        "eab96434-a69c-4290-9d3f-4d07bcad1ec1"
+    ]
+}
+{
+    "amd_title": "Recital 53",
+    "tgt_title": "Recital 53",
+    "certainty": 0.9952,
+    "match": true,
+    "amd_uuids": [
+        "c928ddd0-1c05-4dac-9658-7809f7172614",
+        "f576625c-6a48-468c-9f04-f086a3b906d1"
+    ],
+    "tgt_uuid": "8f29e433-3c4b-4aad-b348-1d2032d0a228",
+    "tgt_vvids": [
+        "4e5317c3-4cc3-4c4f-8c29-644756903dbf",
+        "67eece94-509a-4e2d-98e6-809a7075fc9a",
+        "64f9ad4c-2b04-47c8-9d8d-7e3f1d3f068f",
+        "54f83db2-9d1e-4706-9295-2cd431e38c6a"
+    ]
+}
+{
+    "amd_title": "Recital 54",
+    "tgt_title": "Recital 54",
+    "certainty": 0.9947,
+    "match": true,
+    "amd_uuids": [
+        "956b0e6f-4393-45e7-bf79-9649d2660a3e",
+        "39ab7c87-8cb8-44d9-a6f9-39f54bef188f",
+        "ceb9c0e5-1a2e-4903-9b0d-d3f70fd1146b",
+        "d9fa49d2-0720-401d-835c-3895b2deb30f"
+    ],
+    "tgt_uuid": "007ae5d3-d175-4733-85a7-0f8952c3e940",
+    "tgt_vvids": [
+        "5a0c3955-982f-4e59-88be-9bd8bf888169",
+        "5721d445-f671-47f5-a2cb-9401b9fb9c72",
+        "01c8fb36-7f35-465c-a48f-16a40de1f1e5",
+        "1a179072-6cf6-4b84-93f3-3b4322b58d0b"
+    ]
+}
+{
+    "amd_title": "Recital 56",
+    "tgt_title": "Recital 56",
+    "certainty": 0.995,
+    "match": true,
+    "amd_uuids": [
+        "8dcca392-5c66-4663-af48-b2de429bb3e1",
+        "6f215804-bc45-4783-a202-ea262574c9a0"
+    ],
+    "tgt_uuid": "ff9204fc-0eb1-4752-8306-95ae96b56827",
+    "tgt_vvids": [
+        "2daaad01-9916-4600-b503-ef5841433c15",
+        "fb461380-b8d9-4905-a500-d90e911e9cb4",
+        "a8a31974-97f3-485a-a60c-198aed2befd9",
+        "0ae678f1-ed16-406a-a28c-47942acaaf91"
+    ]
+}
+{
+    "amd_title": "Recital 58",
+    "tgt_title": "Recital 58",
+    "certainty": 0.9951,
+    "match": true,
+    "amd_uuids": [
+        "0abeda95-8d3b-4192-be7a-ec201a061aac",
+        "19a5aab2-db98-4e31-9bcc-34728ef7d21b",
+        "e746c529-c8cd-42da-930b-e28233af83a7"
+    ],
+    "tgt_uuid": "f0393de4-3691-47b6-a999-80e092b95ca5",
+    "tgt_vvids": [
+        "0c183c4b-04b3-4b13-a688-3701777df01a",
+        "19c4a2e0-bfa5-48c1-bbff-9f70e463e245",
+        "c0001fb3-91d8-448d-8d3e-259670f3d225",
+        "9bc17718-d875-4a01-abde-915a362c7ed3"
+    ]
+}
+{
+    "amd_title": "Recital 58 a (new)",
+    "tgt_title": "Recital 58a",
+    "certainty": 0.9777,
+    "match": true,
+    "amd_uuids": [
+        "7bd4590f-aa2c-4e71-adad-c214306c41a3",
+        "df2490a3-9956-45b9-8843-5328cd18b735",
+        "95f3caed-9d1f-4077-a95e-b8b09a997e90"
+    ],
+    "tgt_uuid": "76b418de-e509-4206-8aee-a813e6b42b08",
+    "tgt_vvids": [
+        "0d6bfa7e-a89d-42d0-a2a8-986655c3569e",
+        "d928d855-e811-4550-9ae9-a99044efb2d9",
+        "da5d183d-c988-403d-85c9-a1bc543a573f",
+        "dcade2bc-51f6-4da4-ba56-d7b26d41c65b"
+    ]
+}
+{
+    "amd_title": "Recital 59",
+    "tgt_title": "Recital 59",
+    "certainty": 0.9948,
+    "match": true,
+    "amd_uuids": [
+        "012b96f9-71f6-42da-a007-cb7b59d66e4a",
+        "c9b48488-5444-48a5-9d68-496d58b8f054"
+    ],
+    "tgt_uuid": "1fc481f8-4e56-42e9-99e0-b24acea1aca2",
+    "tgt_vvids": [
+        "6c0a9941-a69a-4aab-a3b2-141a15ba9fb1",
+        "8736e7f2-63a2-4342-923d-a49f6a39cd1f",
+        "04e7f7a3-ed6f-4460-8598-d4078ac2c7b6",
+        "30210d52-29e3-46ee-aca6-fea88b67229b"
+    ]
+}
+{
+    "amd_title": "Recital 6",
+    "tgt_title": "Recital 6",
+    "certainty": 0.9938,
+    "match": true,
+    "amd_uuids": [
+        "ff20c5d7-0773-432b-b5e5-cd17d24c51ed",
+        "cc52ceab-674f-4cc7-8063-b6e19112f6bc",
+        "3002e583-899a-4bb5-a993-8419629a8bcd",
+        "ca089cdb-5add-47f8-bc3e-d61c42950a3f",
+        "8535a8d0-e010-465b-961e-74f360ea1e9e",
+        "f97a0316-5c47-41df-bd8e-7634f4761a1f",
+        "0231ffae-82e5-4ada-96c8-7d148709d149",
+        "6fab6283-0c8d-4cb0-84a3-3d2362967e33"
+    ],
+    "tgt_uuid": "d8a2b2c5-ebf8-4f9e-a9a3-3dde6e5779af",
+    "tgt_vvids": [
+        "9e030721-0684-4564-ab2d-f2937aca4205",
+        "2b90bbad-e79e-45bf-8089-a38f6e69588e",
+        "b67693ab-0481-44df-aab2-4585c8c61921",
+        "2f3443f4-b7ba-4a26-9f0f-2560ad968e50"
+    ]
+}
+{
+    "amd_title": "Recital 6 a (new)",
+    "tgt_title": "Recital 6a",
+    "certainty": 0.9747,
+    "match": true,
+    "amd_uuids": [
+        "0161e0cd-18ff-4353-9a82-a6ebc8674b0f"
+    ],
+    "tgt_uuid": "698ed514-fcaa-4e86-8333-18dd4253479b",
+    "tgt_vvids": [
+        "9f5416f6-4f24-43c7-887b-def149e4b081",
+        "b2c028bb-f7e5-45ba-be98-efc8aace053e",
+        "7954b9d2-865d-4503-97b0-ef0e7587b24d",
+        "a9f15a2b-02e5-4253-92df-d36766128279"
+    ]
+}
+{
+    "amd_title": "Recital 6 b (new)",
+    "tgt_title": "Recital 6b",
+    "certainty": 0.9752,
+    "match": true,
+    "amd_uuids": [
+        "2188d9df-8836-4048-8569-4047175672c4"
+    ],
+    "tgt_uuid": "3f190cac-b30c-47b4-ac40-d4387068e63d",
+    "tgt_vvids": [
+        "e78e3f88-6b8f-4532-995d-05520273fc52",
+        "b587aa8a-045f-415a-bb56-35bd2fbaaa14",
+        "08656ce0-103a-40b3-9c3f-5140cbc8e804",
+        "f5b39618-f40b-412b-b881-1341fe9f0ad0"
+    ]
+}
+{
+    "amd_title": "Recital 60",
+    "tgt_title": "Recital 60",
+    "certainty": 0.9947,
+    "match": true,
+    "amd_uuids": [
+        "5c0d544d-40b0-4390-ac49-738ff6027b94",
+        "41f01522-7f18-4dd5-bae8-b35c374c7520"
+    ],
+    "tgt_uuid": "70c4e56a-8737-4ca9-85e5-f14b69d2c71b",
+    "tgt_vvids": [
+        "69618c44-cc13-4be7-b9aa-1cadbff701e0",
+        "9d2bb794-4e56-4bfa-8e38-b6221fb6cac1",
+        "dc4cd476-16ff-4b61-96e9-6338d778d933",
+        "08a88910-d2ef-4ea9-b876-27f8b1639bde"
+    ]
+}
+{
+    "amd_title": "Recital 61",
+    "tgt_title": "Recital 61",
+    "certainty": 0.9946,
+    "match": true,
+    "amd_uuids": [
+        "0f84bc30-3377-4046-8c83-0da9ff4741df",
+        "36e69b4d-3dfe-4cb3-9731-f8f3ab003fb5",
+        "4f49720e-7c68-4f3b-be07-68b0fcd2d4d6"
+    ],
+    "tgt_uuid": "8a4a4d57-bb87-4c02-b5b4-cb94adf0959d",
+    "tgt_vvids": [
+        "ca3d171f-c737-47b4-8201-23f583c81a0f",
+        "2f38713f-870b-4a96-bc50-3c84ec7fd785",
+        "0778b21f-9a42-41a5-bc39-ac3f09c9b40d",
+        "99021e21-c561-453d-a2e3-aad6c0f32101"
+    ]
+}
+{
+    "amd_title": "Recital 61 a (new)",
+    "tgt_title": "Recital 61a",
+    "certainty": 0.9783,
+    "match": true,
+    "amd_uuids": [
+        "6a04e478-a2e7-4c2a-bb88-cd7262b69556",
+        "22e704f6-22bb-4d9a-8f90-3dd856a5c302"
+    ],
+    "tgt_uuid": "c6625945-ed52-487a-b055-cabf8c7b5818",
+    "tgt_vvids": [
+        "78dea3d7-bb63-4e84-b9a5-eaeab795241e",
+        "003190a1-c232-420e-8ff4-a79e69d83028",
+        "4820d904-a6b3-4532-9b67-a560d7de36e1",
+        "718cf1cf-a70f-4867-bcbd-d5130700c042"
+    ]
+}
+{
+    "amd_title": "Recital 62",
+    "tgt_title": "Recital 62",
+    "certainty": 0.9949,
+    "match": true,
+    "amd_uuids": [
+        "6bcf9ab2-e495-47f8-b067-e15c5c88d1ea",
+        "c2de3808-84d1-4953-ac6e-77ed3025eed8"
+    ],
+    "tgt_uuid": "e0373f20-90f2-4122-8ef5-0344dfb73431",
+    "tgt_vvids": [
+        "f61e2b61-f4c9-475c-a430-2397fc5bf9ed",
+        "30835390-0d07-4453-864b-65c686907d20",
+        "a1a5837e-219f-4b14-9051-d13a4d0d2ae5",
+        "fd62c8ff-0a00-4a9d-a585-3fba070406cc"
+    ]
+}
+{
+    "amd_title": "Recital 63",
+    "tgt_title": "Recital 63",
+    "certainty": 0.9943,
+    "match": true,
+    "amd_uuids": [
+        "94f54f88-a4d9-4ed0-8c97-b6f7a72bedb4"
+    ],
+    "tgt_uuid": "23047368-3681-4c32-bc82-14e9051d9088",
+    "tgt_vvids": [
+        "ec83334e-395c-4e5b-9cab-30470218c415",
+        "521af38c-4753-477a-970d-b215c13be230",
+        "67737e91-78bb-4749-9518-8ea98d1ad352",
+        "d696de35-83e0-4f19-9809-0e7b72ebf3c4"
+    ]
+}
+{
+    "amd_title": "Recital 64",
+    "tgt_title": "Recital 64",
+    "certainty": 0.9954,
+    "match": true,
+    "amd_uuids": [
+        "eba7b937-41bd-400e-838e-85db02d73310",
+        "73695a9a-5747-4d41-abb3-541686db2511",
+        "6e94c333-12a4-4f4e-9c1f-2f7f408aeb67",
+        "ced2be61-96b4-43b4-aaec-c082b7565f4f",
+        "0e09ff34-c145-4bc9-9953-8093e2a8fee9"
+    ],
+    "tgt_uuid": "c127cb1a-e8a9-4ae8-adff-df9f550662cb",
+    "tgt_vvids": [
+        "676906c4-0d07-47e8-a00b-d64eab381d91",
+        "dd95927b-26ac-4119-966d-b2e4d2b777a0",
+        "46a47780-938b-486b-a104-8a86c803b2d8",
+        "a76ccbc6-511d-4c00-a6b7-ca59655d4721"
+    ]
+}
+{
+    "amd_title": "Recital 65",
+    "tgt_title": "Recital 65",
+    "certainty": 0.9947,
+    "match": true,
+    "amd_uuids": [
+        "1371be14-cade-43bc-a056-db2da1a2c8eb",
+        "4bf186b3-6494-4ebe-9677-6bec549be790",
+        "7ee04b2b-e533-4534-8066-ffbb396c6c16",
+        "749932ac-c2ed-4aa1-b80e-617be2c9e78a"
+    ],
+    "tgt_uuid": "40c0d655-1ed9-4758-b943-a6090af243fe",
+    "tgt_vvids": [
+        "4e0fe71f-182e-4346-9bae-0c035bb6175c",
+        "067fdf2e-ce24-4a31-954a-8eac52c37c67",
+        "cfa1f606-143b-4031-bae0-ef6f86889bbb",
+        "c8902873-fa61-4f9b-b291-f07512de89ed"
+    ]
+}
+{
+    "amd_title": "Recital 65 a (new)",
+    "tgt_title": "Recital 65a",
+    "certainty": 0.9779,
+    "match": true,
+    "amd_uuids": [
+        "f20d1270-b134-41d7-82ae-57b42c7f134b"
+    ],
+    "tgt_uuid": "fa588102-0e62-4fad-8303-651b515eae4b",
+    "tgt_vvids": [
+        "d077049f-5ddb-4dd1-9ba8-71f378126cad",
+        "47d00010-997d-46f4-857f-431263c1ca92",
+        "e8a3f8b3-d688-49a0-8121-aecac5bd973b",
+        "6899ee43-e43a-46b1-b9d5-51de659aa864"
+    ]
+}
+{
+    "amd_title": "Recital 66",
+    "tgt_title": "Recital 66",
+    "certainty": 0.9951,
+    "match": true,
+    "amd_uuids": [
+        "06024716-7781-48d1-bdb8-813a7de6fa10",
+        "6980a831-bc45-4083-9934-6a897af739cb",
+        "b0261435-10f8-4fc8-9091-014b496ad329",
+        "436cc037-167c-4596-8723-744573775542",
+        "fc135375-5812-47ab-9d08-911566e31f30"
+    ],
+    "tgt_uuid": "42dd418f-f923-4308-af29-d52065174e66",
+    "tgt_vvids": [
+        "fbf15f60-6530-4539-80ae-24c4a683bf15",
+        "82831315-3872-40ca-9206-1a67d02c0734",
+        "2176302b-326d-4457-bd2d-984fe8340c96",
+        "d64edf98-128a-4b98-bc44-b2d5896f53f8"
+    ]
+}
+{
+    "amd_title": "Recital 66 a (new)",
+    "tgt_title": "Recital 66",
+    "certainty": 0.9721,
+    "match": true,
+    "amd_uuids": [
+        "50e8ced8-06a3-4f2d-b885-1d221c4b00ef"
+    ],
+    "tgt_uuid": "42dd418f-f923-4308-af29-d52065174e66",
+    "tgt_vvids": [
+        "fbf15f60-6530-4539-80ae-24c4a683bf15",
+        "82831315-3872-40ca-9206-1a67d02c0734",
+        "2176302b-326d-4457-bd2d-984fe8340c96",
+        "d64edf98-128a-4b98-bc44-b2d5896f53f8"
+    ]
+}
+{
+    "amd_title": "Recital 67",
+    "tgt_title": "Recital 67",
+    "certainty": 0.9949,
+    "match": true,
+    "amd_uuids": [
+        "5dc24e9c-034b-4410-9bef-53d68fc88a1b"
+    ],
+    "tgt_uuid": "5150e637-5ac2-4f04-b367-22c4419e1c26",
+    "tgt_vvids": [
+        "60ad253c-fa27-43bc-a98b-fab1379c512d",
+        "66865939-ded8-476c-8866-77d1aa32375f",
+        "86b64cfe-9e81-4033-94b4-230a3738d69a",
+        "bdd481c8-bcec-4954-878a-d31c46815087"
+    ]
+}
+{
+    "amd_title": "Recital 68",
+    "tgt_title": "Recital 68",
+    "certainty": 0.995,
+    "match": true,
+    "amd_uuids": [
+        "7e80f4e4-4108-423d-9af7-276b11974df2",
+        "04c5c8a1-a016-4572-828b-0641a206c213",
+        "1954ae8f-f0f1-465e-98d1-982a435eef73",
+        "0b45fed7-52c5-4317-bacb-7ad13ce78b05"
+    ],
+    "tgt_uuid": "41f97b95-dca8-4989-8e45-83e79de62d33",
+    "tgt_vvids": [
+        "a4116e6e-6302-4f2b-b0f1-59edb476b4b8",
+        "b91e1bbe-9159-4a3b-ad75-9271776ba33d",
+        "6b5ef17a-d95a-4916-9e27-75d57b710749",
+        "55012764-5fc5-41af-be89-ced57cd5189a"
+    ]
+}
+{
+    "amd_title": "Recital 69",
+    "tgt_title": "Recital 69",
+    "certainty": 0.9955,
+    "match": true,
+    "amd_uuids": [
+        "d3503d37-fbb1-4b6e-9696-d4507d8cec11",
+        "f49edace-18b1-4bb1-9e6e-65949d781bd8",
+        "d150456a-512f-45c2-a166-87ef7e7e606e",
+        "c6c5263c-1d81-44a4-8ead-24bee6e9dcc2",
+        "b4a1d71a-59c7-4f05-b60f-a2e9200c0d34"
+    ],
+    "tgt_uuid": "b996cddd-3a80-4ec5-8b50-1249a81301d6",
+    "tgt_vvids": [
+        "75f02173-a100-405b-b0ce-fefac5e5b6a5",
+        "b69f10ba-7bd4-4350-80e1-03e0de56ca92",
+        "8a42cb4f-c6a9-4bd9-8494-8c4bd16458ff",
+        "f2cbe08b-9800-416c-96bf-e47bdd5c9cca"
+    ]
+}
+{
+    "amd_title": "Recital 7",
+    "tgt_title": "Recital 7",
+    "certainty": 0.9939,
+    "match": true,
+    "amd_uuids": [
+        "8cd4133c-43c2-4c51-bb6b-ee10525fc45b",
+        "66e003c3-23f1-4d30-83fc-8f16ae00fd15",
+        "1cca33ab-13b0-46b5-bb93-04dba3d87980",
+        "ec627e12-0cba-4f1d-8d6b-81ff5b406134"
+    ],
+    "tgt_uuid": "0b898224-1b79-4436-a030-bd96dcf588dd",
+    "tgt_vvids": [
+        "243b7979-be4d-4517-9130-b9eb48f0d5e7",
+        "0389d26d-0925-4343-93d8-7a86e32c814b",
+        "1d09f90c-119b-43f5-a381-6979f13525f5",
+        "9651c740-721b-48ce-8935-29b96dedf0aa"
+    ]
+}
+{
+    "amd_title": "Recital 70",
+    "tgt_title": "Recital 70",
+    "certainty": 0.9947,
+    "match": true,
+    "amd_uuids": [
+        "70f1dc29-743b-4173-a20b-820177a55960",
+        "b8e386b4-6c26-457c-a8ae-c2dea718953c",
+        "8e912557-546c-4290-808f-44da3400bc27",
+        "eea6ad05-121c-4aac-bb42-f4b54203b561",
+        "32ff5ae6-28d3-4c2c-8a17-5d86aaf0875e",
+        "29d04501-1a2b-4a81-b8e8-714b279c2f49",
+        "e97dc233-6d75-493c-9af3-534b37a72006",
+        "072a28ee-e565-4ac4-ba7a-3ba55d0a4677",
+        "66da0a21-0ce9-407b-808a-c0509b398731"
+    ],
+    "tgt_uuid": "71e37e25-a6ed-4b52-97ed-7f72693c1118",
+    "tgt_vvids": [
+        "4231d381-ed5a-4ea5-8266-2e869831e54e",
+        "254cb0d6-e4a2-431c-815d-b020c74abbc1",
+        "8ec512cc-13ee-49b5-92fc-d5ab85b9600a",
+        "81c1ac5e-d3c7-425f-862e-a9f70455a953"
+    ]
+}
+{
+    "amd_title": "Recital 70 a (new)",
+    "tgt_title": "Recital 70",
+    "certainty": 0.974,
+    "match": true,
+    "amd_uuids": [
+        "d4679836-0bf2-46a9-bca9-bf21d25c1899",
+        "2aaaa10a-5058-47c9-b24e-c861267f112d"
+    ],
+    "tgt_uuid": "71e37e25-a6ed-4b52-97ed-7f72693c1118",
+    "tgt_vvids": [
+        "4231d381-ed5a-4ea5-8266-2e869831e54e",
+        "254cb0d6-e4a2-431c-815d-b020c74abbc1",
+        "8ec512cc-13ee-49b5-92fc-d5ab85b9600a",
+        "81c1ac5e-d3c7-425f-862e-a9f70455a953"
+    ]
+}
+{
+    "amd_title": "Recital 71",
+    "tgt_title": "Recital 71",
+    "certainty": 0.9943,
+    "match": true,
+    "amd_uuids": [
+        "afa0309b-7479-4023-925d-bdbb9d0a575a",
+        "2942be67-3ae9-4b55-814c-09946098183a",
+        "c854f204-5b2c-48dc-92cc-571978070a41",
+        "8303bbda-1426-49cb-8eee-c1da2ab21bbf",
+        "90cb65c2-639f-4d31-8c6d-184b1bb0f6a2",
+        "9766f9cd-f347-4011-bfc7-ff1c1e569a52"
+    ],
+    "tgt_uuid": "2794f1b3-147f-4d95-b855-6f7a312962ce",
+    "tgt_vvids": [
+        "5f0ee50e-2018-40e6-bda9-52a687932756",
+        "8609aafa-25ff-4ebb-80df-32074d4c93c4",
+        "b16e39ea-9a82-4f43-b755-c51da6c16f14",
+        "cfe4c363-dda6-412c-ae49-b1ebbcaf71e9"
+    ]
+}
+{
+    "amd_title": "Recital 72",
+    "tgt_title": "Recital 72",
+    "certainty": 0.9945,
+    "match": true,
+    "amd_uuids": [
+        "1891af2a-10d2-4ff9-91ce-a5195d90aa0f",
+        "651d25b1-dba8-473a-bf0f-e3eba5d0e96c",
+        "85afd496-fa66-4b8c-a5bd-fe213e2effef",
+        "82030136-a76a-4bd9-8e0e-e3935f67b358"
+    ],
+    "tgt_uuid": "56585fc1-df42-4b51-ac0f-61440de26313",
+    "tgt_vvids": [
+        "42633a05-e81c-493f-bc9a-747d2c22893f",
+        "d1d990c9-cabf-4c48-ade6-47f68269e143",
+        "fcd4fcbd-f200-4121-b7f9-788c4ba8051f",
+        "607e5012-043a-4352-876d-0cefc7e77481"
+    ]
+}
+{
+    "amd_title": "Recital 72 a (new)",
+    "tgt_title": "Recital 72a",
+    "certainty": 0.977,
+    "match": true,
+    "amd_uuids": [
+        "b05d82b2-34f3-4570-826a-99fbf7ec77a0"
+    ],
+    "tgt_uuid": "5fd9bf6a-5cbb-4c65-a118-394aea75d3aa",
+    "tgt_vvids": [
+        "5383372d-4efc-4cd1-9603-054a40a7d06a",
+        "8e138344-161c-4e02-99a3-6a14eefa8bb6",
+        "fd73df03-9e46-4f8b-9c4a-8fe8d0ba34af",
+        "71c94ba1-5ad6-47fa-9e4e-0634b0e25659"
+    ]
+}
+{
+    "amd_title": "Recital 73",
+    "tgt_title": "Recital 73",
+    "certainty": 0.9945,
+    "match": true,
+    "amd_uuids": [
+        "f6ffa21d-e4ff-43dc-b3f7-1f0fc4e02c35",
+        "0f98a851-9e06-4bf7-a236-b397a2348068",
+        "075aaeac-294e-40ab-a7ed-4888e56c0de3",
+        "a433a735-ad33-420f-8dea-aa6666be823a",
+        "7b491bba-201d-4221-bb7e-503c91ec690b"
+    ],
+    "tgt_uuid": "1e45b56f-9b25-41bc-bada-70b1f9173059",
+    "tgt_vvids": [
+        "97011933-5342-46d4-859b-5a23f26350b7",
+        "5ace0f09-fa4a-4bdb-9155-b718b7beafa7",
+        "5a731a27-97e5-4cb5-b1bb-2182abdffcd7",
+        "f3e75291-a615-4704-a1ee-99e2161ad8c2"
+    ]
+}
+{
+    "amd_title": "Recital 73 a (new)",
+    "tgt_title": "Recital 73a",
+    "certainty": 0.9784,
+    "match": true,
+    "amd_uuids": [
+        "511ffd14-09a1-434e-8bdf-2e9211103f46"
+    ],
+    "tgt_uuid": "53c47726-f866-4a45-be5e-8135d93976fc",
+    "tgt_vvids": [
+        "35e20d2b-682c-4a26-b0a0-fd4d3117d572",
+        "95d46ffa-b942-42d8-a5c7-2155aebcd792",
+        "cc034c98-69b8-4f8d-8f80-873dfffaab52",
+        "9c7882e2-e6db-448f-90e7-e29e60a83506"
+    ]
+}
+{
+    "amd_title": "Recital 74",
+    "tgt_title": "Recital 74",
+    "certainty": 0.9951,
+    "match": true,
+    "amd_uuids": [
+        "a98c30d9-43c0-410b-b21b-9979d67980cb",
+        "46437c54-de07-4072-a485-70cc4456fb5f",
+        "3fb710a4-f707-4198-9097-b4e4f179ee1d"
+    ],
+    "tgt_uuid": "2448f7b9-a61e-4f62-820b-febcac989232",
+    "tgt_vvids": [
+        "0b38d6af-c31d-46f5-8232-0a033bfa7639",
+        "cb4ebb9e-baa0-4f00-98a8-41d3544e90df",
+        "3f0d75e5-db4c-4cea-b5c4-2c1ff8c9a760",
+        "47423f8a-4537-4a44-b044-631901de62b7"
+    ]
+}
+{
+    "amd_title": "Recital 76",
+    "tgt_title": "Recital 76",
+    "certainty": 0.9949,
+    "match": true,
+    "amd_uuids": [
+        "581d8f05-89ef-4417-90c7-64066296e34e",
+        "546f72b9-f37d-4b9e-a1d7-65a4649230cb",
+        "69f8421c-e972-42d9-bcf4-3d5e051bbd71"
+    ],
+    "tgt_uuid": "4b81f03b-d1ab-4061-ae61-dd629e8ae537",
+    "tgt_vvids": [
+        "eb2bd74d-9a50-4a40-bdd2-0def470844bc",
+        "0510f8fd-4b71-4f42-9c5c-20b51f2ffcd9",
+        "45090fa1-0531-4044-8304-d883ce19c6ea",
+        "84566067-8aa3-4c53-bd9e-53221f207e0e"
+    ]
+}
+{
+    "amd_title": "Recital 76 a (new)",
+    "tgt_title": "Recital 76a",
+    "certainty": 0.9783,
+    "match": true,
+    "amd_uuids": [
+        "ee4a763c-845d-47ce-b586-c5c165c1dc5a",
+        "3935e4c3-3dfd-4091-a2ad-a1248a987ded",
+        "3f7cfdf6-a871-4a4e-b72e-87d006f30f8c"
+    ],
+    "tgt_uuid": "4c04e4b7-0c40-4a5d-a0d7-65fc1bd71546",
+    "tgt_vvids": [
+        "5618e172-32a6-48b1-a8d3-ad3055aac482",
+        "b5ac78bd-13f9-4b91-878f-c23e9083d9dd",
+        "47c6a341-4c37-4069-aa69-c450e68be91b",
+        "b04253c6-8480-4988-8b5d-d9c9b6a7bbea"
+    ]
+}
+{
+    "amd_title": "Recital 77",
+    "tgt_title": "Recital 77",
+    "certainty": 0.9945,
+    "match": true,
+    "amd_uuids": [
+        "10bc7b09-e840-4f1e-97d5-91ed08edae75",
+        "9f542822-2521-4f4a-be78-bb5eba5fd05d"
+    ],
+    "tgt_uuid": "6eb1d7ed-82de-4fe3-8aa7-60069df94752",
+    "tgt_vvids": [
+        "0ce3761b-8380-4c5a-b4f9-a476a7509ca4",
+        "422a0c0b-466f-4e2e-9cd7-9f03d3a49875",
+        "02895088-163b-43d2-b720-6c77007c675a",
+        "95380579-f6f8-4079-bfda-17f9711dee4a"
+    ]
+}
+{
+    "amd_title": "Recital 77 a (new)",
+    "tgt_title": "Recital 77a",
+    "certainty": 0.9778,
+    "match": true,
+    "amd_uuids": [
+        "cc263dd4-172f-49e1-b211-d6f5c2e94eb6"
+    ],
+    "tgt_uuid": "6ed116fc-8784-471d-a3ae-80c016b190ab",
+    "tgt_vvids": [
+        "f73e7195-a9d7-433c-80eb-f6d96dc357cf",
+        "341459ba-30f0-4572-a4d9-c83132bc2d3a",
+        "f16f8b2e-589e-41d8-9f3d-84c1c3cb2e97",
+        "c41741df-5d77-4c46-b5ef-fb71edc8ee27"
+    ]
+}
+{
+    "amd_title": "Recital 78",
+    "tgt_title": "Recital 78",
+    "certainty": 0.9944,
+    "match": true,
+    "amd_uuids": [
+        "99e104f1-c52c-4a49-9a13-ebf2426a671f",
+        "aa3fcaa6-e673-4f46-a81f-5c4dfa6e9bde",
+        "ac9c560b-cba8-44ed-b737-37036fc2f652"
+    ],
+    "tgt_uuid": "282d1f8e-7882-42db-b380-7d05c4decf12",
+    "tgt_vvids": [
+        "5b638fac-c7a1-4fe3-80bc-28c5be4539d7",
+        "44bb873b-293f-4fca-8565-fdf0b318a8b4",
+        "d12fccbc-d832-40d1-a1b5-b6a82e3b9f2f",
+        "953b9847-b4c6-4020-87c1-b287522b674b"
+    ]
+}
+{
+    "amd_title": "Recital 79",
+    "tgt_title": "Recital 79",
+    "certainty": 0.9942,
+    "match": true,
+    "amd_uuids": [
+        "906f9d21-a842-46bc-b9c2-0077062ae065"
+    ],
+    "tgt_uuid": "109b5670-c382-4387-a421-30900b422689",
+    "tgt_vvids": [
+        "c69c1529-1da6-4a78-aec2-29968d2f4cdb",
+        "a51ea235-a0dc-441b-b638-92d6ccd52ed7",
+        "e86f73e4-c186-4d54-aaff-89481316ef7c",
+        "2b32d377-3f39-4d93-ae45-ff0796376a91"
+    ]
+}
+{
+    "amd_title": "Recital 79 a (new)",
+    "tgt_title": "Recital 79a",
+    "certainty": 0.9793,
+    "match": true,
+    "amd_uuids": [
+        "ea5f8c38-9ef8-4688-832c-66e6af5c0f4f"
+    ],
+    "tgt_uuid": "44758ab3-7215-438c-883d-1f095d863bf5",
+    "tgt_vvids": [
+        "a8547adb-a060-4c3a-a9be-9acf6341fd0f",
+        "64e3afac-ab77-406e-ae48-decd2765830e",
+        "30b27c5b-b64e-4078-919d-cf729321bb98",
+        "db1595e8-0b2f-477c-92b3-e0fd96fcc3cc"
+    ]
+}
+{
+    "amd_title": "Recital 8",
+    "tgt_title": "Recital 8",
+    "certainty": 0.9946,
+    "match": true,
+    "amd_uuids": [
+        "819acb48-74b9-4576-8a07-5e7956f19324",
+        "0169f850-ea57-4942-bdfc-39a46cad1405",
+        "b4a80010-6e5f-45c9-81c4-a1686300f15b",
+        "7fd7e6b0-e617-4d29-aa86-8a9b99294a26",
+        "991d2a1a-aa67-4040-a63e-f6452dfea037",
+        "0232822e-4be7-4629-ab03-d136d83bcaff",
+        "65bdc143-ebe7-4c56-8951-9ded1ea34906",
+        "2e4567d3-c8d4-4e2c-90c9-cb1e48317d1f",
+        "e49aa875-d827-4c0a-88fd-e51dfe284435"
+    ],
+    "tgt_uuid": "e8516db5-8bc3-4297-95bd-591f3d8ff401",
+    "tgt_vvids": [
+        "ad9dddfc-8cc1-4dd1-a569-bcf0d1b69d0f",
+        "e36ad3f1-7e48-49b8-b09a-b3a3697f478c",
+        "2a825b2a-2dbf-4eda-8f1c-2a778307c59f",
+        "251e9c91-75f7-42ac-b8e3-c89d27d3e852"
+    ]
+}
+{
+    "amd_title": "Recital 80",
+    "tgt_title": "Recital 80",
+    "certainty": 0.9944,
+    "match": true,
+    "amd_uuids": [
+        "ec0061e0-b1fe-49e9-b4b2-bf69711d3739",
+        "99034bff-4373-499f-b637-c5a11875bf3e",
+        "26f924c0-0c5d-40b2-b494-079177ddafcd",
+        "e147e826-6767-487c-8c98-ceb046be0cb4"
+    ],
+    "tgt_uuid": "0f44e366-466e-4f9b-8040-bbd6dbc256bb",
+    "tgt_vvids": [
+        "d2271d2b-80d9-487a-8988-42fccadaa11b",
+        "9670cb9e-18b0-47e4-b2af-5539339435a2",
+        "82edd0b6-fefa-48d5-9475-df4f3f58b824",
+        "4de5d055-efa6-48cf-9d0f-9731f029ffa3"
+    ]
+}
+{
+    "amd_title": "Recital 80 a (new)",
+    "tgt_title": "Recital 80",
+    "certainty": 0.9758,
+    "match": true,
+    "amd_uuids": [
+        "1a048d44-e068-4b0f-9d77-0405ded96241"
+    ],
+    "tgt_uuid": "0f44e366-466e-4f9b-8040-bbd6dbc256bb",
+    "tgt_vvids": [
+        "d2271d2b-80d9-487a-8988-42fccadaa11b",
+        "9670cb9e-18b0-47e4-b2af-5539339435a2",
+        "82edd0b6-fefa-48d5-9475-df4f3f58b824",
+        "4de5d055-efa6-48cf-9d0f-9731f029ffa3"
+    ]
+}
+{
+    "amd_title": "Recital 81",
+    "tgt_title": "Recital 81",
+    "certainty": 0.9941,
+    "match": true,
+    "amd_uuids": [
+        "379ecb92-e8b9-4885-8d31-1ee1200deead",
+        "ff7a0cd0-48d1-4972-95bd-2466821a19fe",
+        "f0007c3e-88c1-451f-adf8-22e30bdb7cfc",
+        "894248d0-400d-4219-bbb6-7f001c85c097"
+    ],
+    "tgt_uuid": "de58bfa3-d906-4ef4-877b-b7ddd4fb2fe7",
+    "tgt_vvids": [
+        "00d6e7ab-6225-4c1a-b49e-8111c384d147",
+        "dda06874-9b19-40fa-8fc1-e422fef8ea0d",
+        "ab5e80cf-99d9-4f4d-b1fe-b23e0b2c48b5",
+        "6087961e-efd3-4276-90d5-59f5cdba47a5"
+    ]
+}
+{
+    "amd_title": "Recital 82",
+    "tgt_title": "Recital 82",
+    "certainty": 0.9944,
+    "match": true,
+    "amd_uuids": [
+        "04de2418-4fa2-45ad-8e26-e9c46517781a"
+    ],
+    "tgt_uuid": "c7c45f21-5ffe-4cb7-8ba6-b03f882de28f",
+    "tgt_vvids": [
+        "ab5a6ecc-b0ae-4766-b880-126909f99dd1",
+        "aa5b0362-5ace-4117-9682-c9239aff5ee1",
+        "2395971e-204e-4a6e-92c2-1c8627c12dad",
+        "089cc3c5-8bb7-4172-966d-4bfdf8922a1f"
+    ]
+}
+{
+    "amd_title": "Recital 83",
+    "tgt_title": "Recital 83",
+    "certainty": 0.9943,
+    "match": true,
+    "amd_uuids": [
+        "1ea86895-7a7b-421d-98ea-98c7c17d9d6c"
+    ],
+    "tgt_uuid": "7ef87473-8c8c-4f21-adf8-fac1afc69962",
+    "tgt_vvids": [
+        "01f63bbd-8870-48b2-9b62-993d8a1f2fb6",
+        "3fc7898a-3788-4fcb-86e7-ca7f6e0bf6f6",
+        "4a1cc49d-1ce6-4544-ae94-3d688b205e3f",
+        "3f7e7d71-56ab-4ad6-abec-fdc9b2c37f2b"
+    ]
+}
+{
+    "amd_title": "Recital 84",
+    "tgt_title": "Recital 84",
+    "certainty": 0.9944,
+    "match": true,
+    "amd_uuids": [
+        "fe966a5b-6295-4d5e-b560-7b06c3f4ed55"
+    ],
+    "tgt_uuid": "30d64c12-af43-4d2d-aa24-45bd210b8920",
+    "tgt_vvids": [
+        "16eedfa3-58f7-4820-ae89-ec6efd25c475",
+        "4dec1aa1-8966-4656-bf06-a1b33c5512fd",
+        "550874f5-ae64-4a15-bfc2-e20f13bde5b9",
+        "44771f08-ffe6-4db5-991b-f5986ef4ba0a"
+    ]
+}
+{
+    "amd_title": "Recital 84 a (new)",
+    "tgt_title": "Recital 84a",
+    "certainty": 0.9743,
+    "match": true,
+    "amd_uuids": [
+        "d9832677-eb11-4b0a-8a81-0824bec4dd18",
+        "4925d838-be3a-41cd-a745-b2b89fb51275",
+        "06d8739b-9543-45f4-b55b-59bb0ba65e1e"
+    ],
+    "tgt_uuid": "aff3c721-6838-4fb8-a664-97144bda0a77",
+    "tgt_vvids": [
+        "95662294-6213-43a8-bd9d-c18be7824877",
+        "cffb9129-f86d-4611-9923-a2d0e21a0653",
+        "9ffd708c-b11c-45cb-a338-af2629bfdaf0",
+        "59fb7773-9b87-4c88-966f-31b0f44189b9"
+    ]
+}
+{
+    "amd_title": "Recital 84 b (new)",
+    "tgt_title": "Recital 84b",
+    "certainty": 0.9791,
+    "match": true,
+    "amd_uuids": [
+        "9c42649c-48cc-4503-b228-1834bbeae807",
+        "27d8fe9b-ec69-4c8b-b046-5b1e08dc7354"
+    ],
+    "tgt_uuid": "28b89a71-f25f-4f73-9790-d0b3e1f96eb4",
+    "tgt_vvids": [
+        "9dd6f981-cf2a-47a3-9399-abe0fabfb9d1",
+        "605c783a-7888-4fbe-b00b-bcaa4e13deeb",
+        "b4f13183-3b53-47a9-a41d-a23e451195d2",
+        "0915a7c7-bb63-4a4b-ac40-9e2953bea027"
+    ]
+}
+{
+    "amd_title": "Recital 85",
+    "tgt_title": "Recital 85",
+    "certainty": 0.9938,
+    "match": true,
+    "amd_uuids": [
+        "9b32fd8c-719e-41b9-a9eb-d925f07a4dc0",
+        "cbf7d41d-8825-4f2b-b440-ce8450276982",
+        "1dbd791b-bc62-4f18-9762-fa3706ea3c9d",
+        "7699e3f5-ce9e-4625-95e5-d921d18c30ea",
+        "184892d5-ed56-418c-92d4-e5cf9dc6d1dc"
+    ],
+    "tgt_uuid": "d03698f3-1b55-44fb-8ae9-a6b4f9985439",
+    "tgt_vvids": [
+        "97900bb4-f004-488f-876a-6e7dd52a1227",
+        "096b362d-d1f2-4910-bf81-96b8610f34b4",
+        "58d0e581-0e9a-470b-b52f-b8f7c2fd337a",
+        "c90087cf-750d-4ba6-ad04-3e77f12e5885"
+    ]
+}
+{
+    "amd_title": "Recital 86 a (new)",
+    "tgt_title": "Recital 86",
+    "certainty": 0.9751,
+    "match": true,
+    "amd_uuids": [
+        "f4461962-ee3d-48e1-968d-d6613fd5d864",
+        "6c394c2b-9439-419d-a7c3-699275456c7f"
+    ],
+    "tgt_uuid": "46937da6-f85c-4808-b91a-79d438c94828",
+    "tgt_vvids": [
+        "f5e0aa10-1740-4e8c-8b0e-e84a2d49b8c5",
+        "f6c20cc7-a5ba-469f-aaae-d63a143ecb38",
+        "23c18c5f-b59d-4c95-a886-2b315074d4cf",
+        "757aa3dc-845c-48ce-a026-eb876ccfc515"
+    ]
+}
+{
+    "amd_title": "Recital 86 b (new)",
+    "tgt_title": "Recital 86",
+    "certainty": 0.9688,
+    "match": true,
+    "amd_uuids": [
+        "13db4f74-93c5-4b8d-8dd3-5c07b57d327d"
+    ],
+    "tgt_uuid": "46937da6-f85c-4808-b91a-79d438c94828",
+    "tgt_vvids": [
+        "f5e0aa10-1740-4e8c-8b0e-e84a2d49b8c5",
+        "f6c20cc7-a5ba-469f-aaae-d63a143ecb38",
+        "23c18c5f-b59d-4c95-a886-2b315074d4cf",
+        "757aa3dc-845c-48ce-a026-eb876ccfc515"
+    ]
+}
+{
+    "amd_title": "Recital 87 a (new)",
+    "tgt_title": "Recital 87a",
+    "certainty": 0.9797,
+    "match": true,
+    "amd_uuids": [
+        "ca4c2d41-7034-4b2c-b90e-e61f5bf2f09a"
+    ],
+    "tgt_uuid": "d20bff2f-3c22-457a-acbd-f6fd7a5061e3",
+    "tgt_vvids": [
+        "9f59b994-033f-484e-9a2b-b363503c18db",
+        "1b8109ac-3373-414a-8e1a-fe81049d3f6c",
+        "9823f897-5f94-4059-8072-010410b0410a",
+        "cebd4764-06be-4693-9622-38323aae356f"
+    ]
+}
+{
+    "amd_title": "Recital 89",
+    "tgt_title": "Recital 89",
+    "certainty": 0.9943,
+    "match": true,
+    "amd_uuids": [
+        "b51a3400-f6e3-46ed-833d-21b4d5c21ed6"
+    ],
+    "tgt_uuid": "e52bd995-3eb9-4304-b334-1bca865c82ea",
+    "tgt_vvids": [
+        "140b5022-ca7b-4ed5-a6d2-f390fa581a3e",
+        "d5f8f44d-a47a-453e-bb63-6029009465f1",
+        "8f7b52ff-403a-41c5-8c68-4c7dc6e2f9d2",
+        "aa3fe34f-a029-4e12-9558-e183746d1e01"
+    ]
+}
+{
+    "amd_title": "Recital 9",
+    "tgt_title": "Recital 9",
+    "certainty": 0.9945,
+    "match": true,
+    "amd_uuids": [
+        "43c2708d-9cc1-45ff-96cb-481eed8e7fb6",
+        "fb981ea7-4e2b-4870-822b-cdd062227a1c",
+        "282bf1a0-91c7-48b8-b742-ac928bbf3326",
+        "e8587635-e85c-42d4-b798-f90be7d48a5f",
+        "88f1ccfc-e57e-4116-b3ed-22ee5f4a6074"
+    ],
+    "tgt_uuid": "63008c7f-2fa5-49a0-832a-c93317b442e4",
+    "tgt_vvids": [
+        "89dc686d-86c3-4686-9e3c-efa1d61ddbc3",
+        "543f8237-7c35-4bc1-89f7-3392a344db87",
+        "519cd9b7-5389-45ab-94c8-d4bb09e61a3b",
+        "8783045d-bad7-43ff-a263-2d35acbbe965"
+    ]
+}
+{
+    "amd_title": "Recital 9 a (new)",
+    "tgt_title": "Recital 9a",
+    "certainty": 0.9779,
+    "match": true,
+    "amd_uuids": [
+        "492417f8-cb86-4f10-82e8-55f467c93e5c"
+    ],
+    "tgt_uuid": "6d68edd6-aaa0-4df8-82f0-42900363a6a6",
+    "tgt_vvids": [
+        "6814b860-5fc6-48a6-86d4-8248c2838b7d",
+        "533fded0-5375-4c7e-8e51-69eac50128d7",
+        "bfbc877c-bfae-4c4c-a357-5736d091c519",
+        "020f9b12-29d4-4c4d-bd67-984a35fb81ce"
+    ]
+}
+{
+    "amd_title": "Recital 9 b (new)",
+    "tgt_title": "Recital 9b",
+    "certainty": 0.9784,
+    "match": true,
+    "amd_uuids": [
+        "040a9b3d-2424-462c-98cc-d3ca7e7ad5eb"
+    ],
+    "tgt_uuid": "811a8246-e914-41f3-9a7e-a2884b308bb4",
+    "tgt_vvids": [
+        "1e337e36-a1d3-4e06-81f8-68d3c75408d9",
+        "bd633dd9-77c0-4339-b054-a4876d3ac939",
+        "cee6e9c8-b89d-4682-bc1b-0cd6352da410",
+        "e814f0f5-865b-4751-a844-e27dd3920d59"
+    ]
+}
+{
+    "amd_title": "Title II a (new)",
+    "tgt_title": "TITLE II",
+    "certainty": 0.9623,
+    "match": true,
+    "amd_uuids": [
+        "b5fd9528-1063-45fe-b932-34983a2abe25"
+    ],
+    "tgt_uuid": "a3f87ca4-9031-4d29-b595-3d8d324681fb",
+    "tgt_vvids": [
+        "162f3474-4d71-4c38-8fa7-6aed0a721075",
+        "ccdb7711-5761-464d-819d-a06ba8f92dcd",
+        "f12c7d8c-b789-47a1-a7a8-d7343006c91b",
+        "df707472-c876-4689-945a-2e876bc20103"
+    ]
+}
+{
+    "amd_title": "Title III",
+    "tgt_title": "TITLE III",
+    "certainty": 0.983,
+    "match": true,
+    "amd_uuids": [
+        "2b98ed43-7677-473d-84e6-c509f107ad22"
+    ],
+    "tgt_uuid": "b4ff7dc3-b94c-4c95-9058-581ab6b0c7e9",
+    "tgt_vvids": [
+        "e96cc84d-c743-44fe-983c-f61a9bd35eab",
+        "a8e35b64-be70-4bf0-af27-44124e875ba2",
+        "9a91d79a-0d5a-46ff-ba1f-ded88af3b172",
+        "8486fb37-4d78-4aa8-934a-750834788e1d"
+    ]
+}
+{
+    "amd_title": "Title III  Chapter 1  title",
+    "tgt_title": "TITLE III",
+    "certainty": 0.9476,
+    "match": false,
+    "amd_uuids": [
+        "7cd49898-446f-4389-bbf0-e406bc505eda"
+    ],
+    "tgt_uuid": "b4ff7dc3-b94c-4c95-9058-581ab6b0c7e9",
+    "tgt_vvids": [
+        "e96cc84d-c743-44fe-983c-f61a9bd35eab",
+        "a8e35b64-be70-4bf0-af27-44124e875ba2",
+        "9a91d79a-0d5a-46ff-ba1f-ded88af3b172",
+        "8486fb37-4d78-4aa8-934a-750834788e1d"
+    ]
+}
+{
+    "amd_title": "Title III  Chapter 3  title",
+    "tgt_title": "TITLE III",
+    "certainty": 0.9557,
+    "match": false,
+    "amd_uuids": [
+        "1aa51483-bf80-4464-8073-29dd0165d89d"
+    ],
+    "tgt_uuid": "b4ff7dc3-b94c-4c95-9058-581ab6b0c7e9",
+    "tgt_vvids": [
+        "e96cc84d-c743-44fe-983c-f61a9bd35eab",
+        "a8e35b64-be70-4bf0-af27-44124e875ba2",
+        "9a91d79a-0d5a-46ff-ba1f-ded88af3b172",
+        "8486fb37-4d78-4aa8-934a-750834788e1d"
+    ]
+}
+{
+    "amd_title": "Title IV",
+    "tgt_title": "TITLE IV",
+    "certainty": 0.9877,
+    "match": true,
+    "amd_uuids": [
+        "d45c3c8b-d86e-4de5-a3e1-0a5f1c03c2f4"
+    ],
+    "tgt_uuid": "f7cfdea8-8919-441c-9f06-5a8da779555c",
+    "tgt_vvids": [
+        "4bd3c459-1ffc-4381-b6d1-d2f8f7654ad6",
+        "2fb42a11-93aa-4ec9-8387-1e2c31a17970",
+        "0f4043ee-483f-4d89-bdac-f5df1e8f2f26",
+        "36d2bd12-2a26-43da-8303-1bde95b7c69b"
+    ]
+}
+{
+    "amd_title": "Title IV a (new)",
+    "tgt_title": "TITLE IV",
+    "certainty": 0.9618,
+    "match": true,
+    "amd_uuids": [
+        "71ab3de3-31ba-471c-9ec6-f15b03aedbcc",
+        "0b071b40-da8f-4161-bc29-ccbab6ef3c05"
+    ],
+    "tgt_uuid": "f7cfdea8-8919-441c-9f06-5a8da779555c",
+    "tgt_vvids": [
+        "4bd3c459-1ffc-4381-b6d1-d2f8f7654ad6",
+        "2fb42a11-93aa-4ec9-8387-1e2c31a17970",
+        "0f4043ee-483f-4d89-bdac-f5df1e8f2f26",
+        "36d2bd12-2a26-43da-8303-1bde95b7c69b"
+    ]
+}
+{
+    "amd_title": "Title VI  Chapter 1  title",
+    "tgt_title": "Article -56 - SECTION 1 - title",
+    "certainty": 0.9477,
+    "match": false,
+    "amd_uuids": [
+        "b1e354f1-75da-4e0d-8190-192e79a82a9d"
+    ],
+    "tgt_uuid": "aaa0645b-08c7-4c1b-a6b8-46c08ae5fe8e",
+    "tgt_vvids": [
+        "813cf0a9-bf2a-4814-9933-c98e9351d7f6",
+        "4a93a1cb-38b3-441d-b69c-b199e47a612d",
+        "e10d1078-eca9-418e-8dba-8c5b2dfde3a0",
+        "ea64faa4-93f9-426b-967c-fe402cd68eb0"
+    ]
+}
+{
+    "amd_title": "Title VI  Chapter 2 a (new)",
+    "tgt_title": "Article 6(2a new)",
+    "certainty": 0.9455,
+    "match": false,
+    "amd_uuids": [
+        "dda8dfaf-3ab6-4cde-99c3-08e8dc700cf3"
+    ],
+    "tgt_uuid": "c5f6b793-1145-4a86-a47f-bcb788f0cf28",
+    "tgt_vvids": [
+        "6dd678dc-321f-4acd-88d5-fc044b74288c",
+        "b44a891e-2507-4adf-acd1-ac4d181627cf",
+        "10679868-0f31-489a-b113-8168f6973af8",
+        "f097fee0-cf26-4f2c-a6fe-89689a813116"
+    ]
+}
+{
+    "amd_title": "Title VI  Chapter 2 b (new)",
+    "tgt_title": "Article 6(2b new)",
+    "certainty": 0.9472,
+    "match": false,
+    "amd_uuids": [
+        "303fef47-250a-4710-9e66-f445d792f261"
+    ],
+    "tgt_uuid": "d2bbd0b4-afae-4a55-a0e8-572b70bdb42c",
+    "tgt_vvids": [
+        "2c88eff0-e16e-4867-8c06-f98ef3db82e8",
+        "b4e95469-01b3-4d0b-a1a1-5cef5ceb2e05",
+        "978ad2c9-31e0-41f9-b797-62636384cf7e",
+        "7020853a-a7e8-49f8-a671-dfba0b43cc23"
+    ]
+}
+{
+    "amd_title": "Title VI  Chapter 2  title",
+    "tgt_title": "TITLE VI",
+    "certainty": 0.949,
+    "match": false,
+    "amd_uuids": [
+        "16374be5-514f-48c5-9429-56eb53372d3a",
+        "eab1e7fa-34dd-4d94-ac44-621c82eb9679"
+    ],
+    "tgt_uuid": "36d20626-a5d8-46d0-8e1c-52fa13ea0200",
+    "tgt_vvids": [
+        "3fb56c8b-e8a4-4d2d-9447-85cfd6e66483",
+        "662429a7-46ee-4f88-8bc9-9e8755eae4c0",
+        "2f9962bc-b816-4efd-8efd-170159482d12",
+        "b829b43c-bd62-4b70-abf5-6a184e8d999d"
+    ]
+}
+{
+    "amd_title": "Title VII",
+    "tgt_title": "TITLE VII",
+    "certainty": 0.9667,
+    "match": true,
+    "amd_uuids": [
+        "aa521816-40ea-499f-8a45-0d1a3459ad31",
+        "c622fad4-0918-4c43-ab65-66b30c9f2370",
+        "c63ef7e7-1deb-4d33-ac05-53a4a0d87773",
+        "f9de7421-7686-47d5-a74c-38ef823acc63"
+    ],
+    "tgt_uuid": "f514c006-a1de-4fc5-a158-c49a57cee17b",
+    "tgt_vvids": [
+        "78833c75-e9f5-454d-bc29-00c4961ab27f",
+        "7776bd11-d73b-47fd-b400-c1adecaca8dd",
+        "90494a96-9c8e-45ad-a111-405f4e621464",
+        "dd25976e-9d07-4341-b299-61ef86746b89"
+    ]
+}
+{
+    "amd_title": "Title VIII  Chapter 2  title",
+    "tgt_title": "TITLE VIII",
+    "certainty": 0.9504,
+    "match": false,
+    "amd_uuids": [
+        "31dd0edb-96b7-478f-9e01-66534400d11c"
+    ],
+    "tgt_uuid": "2d0c125d-73ae-4770-87c6-b557b6464ca6",
+    "tgt_vvids": [
+        "9012efd4-074d-4c9f-a230-ac6e18855c4c",
+        "ba7b7bd7-1ea8-4ce9-8e33-5e4a0c25902a",
+        "8a1e453e-8087-49de-92c7-f0139704ef2b",
+        "c0a79eeb-8889-4013-9fec-c8417a5eeb67"
+    ]
+}
