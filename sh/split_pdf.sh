@@ -3,6 +3,7 @@
 # Name of the large PDF file
 PDF="./data/pdf/AIAct_final_four-column21012024.pdf"
 PDF="./data/pdf/AIA-trilogue-coreper/AIA-Trilogue-Coreper20240202.pdf"
+PDF="./data/pdf/ST-15698-2022-INIT_EN.pdf"
 
 # Page size for each split. has to be < 80
 PAGES_PER_CHUNK=70

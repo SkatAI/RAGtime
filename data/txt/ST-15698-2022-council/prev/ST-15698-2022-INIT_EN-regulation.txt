@@ -6,8 +6,7 @@ This Regulation lays down:
 (a)  harmonised rules for the placing on the market, the putting into service and the use of
 artificial intelligence systems (‘AI systems’) in the Union;
 (a)  prohibitions of certain artificial intelligence practices;
-(b)  specific requirements for high-risk AI systems and obligations for operators of such
-systems;
+(b)  specific requirements for high-risk AI systems and obligations for operators of such systems;
 
 
 

@@ -24,6 +24,9 @@ for pdf files with one version of the AI-act
 8. export to json
 
 # regexes
+remove page number
+\d+/\d+\sRB/ek\s\d+\sTREE\.2\.B EN
+
 - in one line
 TITLE I
 GENERAL PROVISIONS
