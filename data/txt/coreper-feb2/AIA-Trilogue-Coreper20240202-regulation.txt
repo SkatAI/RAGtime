@@ -116,7 +116,7 @@ assessing and verifying the conformity of the AI system with the requirements of
 == Article 4b: AI literacy
 1. Providers and deployers of AI systems shall take measures to ensure, to their best extent, a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on which the AI systems are to be used.
 
-## TITLE II PROHIBITED ARTIFICIAL INTELLIGENCE PRACTICES
+## TITLE II: PROHIBITED ARTIFICIAL INTELLIGENCE PRACTICES
 
 == Article 5: Prohibited Artificial Intelligence Practices
 1. The following artificial intelligence practices shall be prohibited:
@@ -146,9 +146,9 @@ The competent judicial authority or an independent administrative authority whos
 5. National market surveillance authorities and the national data protection authorities of Member States that have been notified of the use of ‘real-time’ remote biometric identification systems in publicly accessible spaces for law enforcement purposes pursuant to paragraph 3a shall submit to the Commission annual reports on such use. For that purpose, the Commission shall provide Member States and national market surveillance and data protection authorities with a template, including information on the number of the decisions taken by competent judicial authorities or an independent administrative authority whose decision is binding upon requests for authorisations in accordance with paragraph 3 and their result.
 6. The Commission shall publish annual reports on the use of ‘real-time’ remote biometric identification systems in publicly accessible spaces for law enforcement purposes based on aggregated data in Member States based on the annual reports referred to in paragraph 5, which shall not include sensitive operational data of the related law enforcement activities.
 
-## TITLE III HIGH-RISK AI SYSTEMS
+## TITLE III: HIGH-RISK AI SYSTEMS
 
-** Chapter 1 CLASSIFICATION OF AI SYSTEMS AS HIGH-RISK
+** Chapter 1: CLASSIFICATION OF AI SYSTEMS AS HIGH-RISK
 
 == Article 6: Classification rules for high-risk AI systems
 1. Irrespective of whether an AI system is placed on the market or put into service independently from the products referred to in points (a) and (b), that AI system shall be considered high-risk where both of the following conditions are fulfilled:
@@ -191,7 +191,7 @@ When adopting the delegated acts, the Commission shall ensure consistency with t
 (a) the high-risk AI system(s) concerned no longer pose any significant risks to fundamental rights, health or safety, taking into account the criteria listed in paragraph 2;
 (b) the deletion does not decrease the overall level of protection of health, safety and fundamental rights under Union law.
 
-** Chapter 2 REQUIREMENTS FOR HIGH-RISK AI SYSTEMS
+** Chapter 2: REQUIREMENTS FOR HIGH-RISK AI SYSTEMS
 
 == Article 8: Compliance with the requirements
 1. High-risk AI systems shall comply with the requirements established in this Chapter, taking into account its intended purpose as well as the generally acknowledged state of the art on AI and AI related technologies. The risk management system referred to in Article 9 shall be taken into account when ensuring compliance with those requirements.
@@ -227,7 +227,6 @@ With a view to eliminating or reducing risks related to the use of the high-risk
 (d) the formulation of assumptions, notably with respect to the information that the data are supposed to measure and represent;
 (e) an assessment of the availability, quantity and suitability of the data sets that are needed;
 (f) examination in view of possible biases that are likely to affect the health and safety of persons, negatively impact fundamental rights or lead to discrimination prohibited under Union law, especially where data outputs influence inputs for future operations;
-
 (fa) appropriate measures to detect, prevent and mitigate possible biases identified according to point (f);
 (g) the identification of relevant data gaps or shortcomings that prevent compliance with this Regulation, and how those gaps and shortcomings can be addressed.
 3. Training, validation and testing datasets shall be relevant, sufficiently representative, and to the best extent possible, free of errors and complete in view of the intended purpose. They shall have the appropriate statistical properties, including, where applicable, as regards the persons or groups of persons in relation to whom the high-risk AI system is intended to be used. These characteristics of the data sets may be met at the level of individual data sets or a combination thereof.
@@ -304,7 +303,7 @@ High-risk AI systems that continue to learn after being placed on the market or 
 The technical solutions aimed at ensuring the cybersecurity of high-risk AI systems shall be appropriate to the relevant circumstances and the risks.
 The technical solutions to address AI specific vulnerabilities shall include, where appropriate, measures to prevent, detect, respond to, resolve and control for attacks trying to manipulate the training dataset (‘data poisoning’), or pre-trained components used in training (‘model poisoning’), inputs designed to cause the model to make a mistake (‘adversarial examples’ or ‘model evasion’), confidentiality attacks or model flaws.
 
-** Chapter 3 OBLIGATIONS OF PROVIDERS AND DEPLOYERS OF HIGH RISK AI SYSTEMS AND OTHER PARTIES
+** Chapter 3: OBLIGATIONS OF PROVIDERS AND DEPLOYERS OF HIGH RISK AI SYSTEMS AND OTHER PARTIES
 
 == Article 16: Obligations of providers of high-risk AI systems
 1. Providers of high-risk AI systems shall:
@@ -666,7 +665,7 @@ Deployers of an AI system that generates or manipulates text which is published 
 4a. Upon a reasoned request of a provider whose model has been designated as a general purpose AI model with systemic risk pursuant to paragraph 4, the Commission shall take the request into account and may decide to reassess whether the general purpose AI model can still be considered to present systemic risks on the basis of the criteria set out in Annex IXc. Such request shall contain objective, concrete and new reasons that have arisen since the designation decision. Providers may request reassessment at the earliest six months after the designation decision. Where the Commission, following its reassessment, decides to maintain the designation as general-purpose AI model with systemic risk, providers may request reassessment at the earliest six months after this decision.
 5. The Commission shall ensure that a list of general purpose AI models with systemic risk is published and shall keep that list up to date, without prejudice to the need to respect and protect intellectual property rights and confidential business information or trade secrets in accordance with Union and national law.
 
-** Chapter 2 OBLIGATIONS FOR PROVIDERS OF GENERAL PURPOSE AI MODELS
+** Chapter 2: OBLIGATIONS FOR PROVIDERS OF GENERAL PURPOSE AI MODELS
 
 == Article 52c: Obligations for providers of general purpose AI models
 1. Providers of general purpose AI models shall:
@@ -696,7 +695,7 @@ obligations pursuant to this Regulation; and
 4. The authorised representative shall terminate the mandate if it considers or has reason to consider that the provider acts contrary to its obligations under this Regulation. In such a case, it shall also immediately inform the AI Office about the termination of the mandate and the reasons thereof.
 5. The obligation set out in this article shall not apply to providers of general purpose AI models that are made accessible to the public under a free and open source licence that allows for the access, usage, modification, and distribution of the model, and whose parameters, including the weights, the information on the model architecture, and the information on model usage, are made publicly available, unless the general purpose AI models present systemic risks.
 
-** Chapter 3 OBLIGATIONS FOR PROVIDERS OF GENERAL PURPOSE AI MODELS WITH SYSTEMIC RISK
+** Chapter 3: OBLIGATIONS FOR PROVIDERS OF GENERAL PURPOSE AI MODELS WITH SYSTEMIC RISK
 == Article 52d: Obligations for providers of general purpose AI models with systemic risk
 1. In addition to the obligations listed in Article 52c, providers of general purpose AI models with systemic risk shall:
 (a) perform model evaluation in accordance with standardised protocols and tools reflecting the state of the art, including conducting and documenting adversarial testing of the model with a view to identify and mitigate systemic risk;
@@ -833,13 +832,13 @@ This provision shall be without prejudice to Union or national law for the testi
 2b. Microenterprises as defined in Article 2(3) of the Annex to the Commission Recommendation 2003/361/EC concerning the definition of micro, small and medium sized enterprises, provided those enterprises do not have partner enterprises or linked enterprises as defined in Article 3 of the same Annex may fulfil certain elements of the quality management system required by Article 17 of this Regulation in a simplified manner. For this purpose, the Commission shall develop guidelines on the elements of the quality management system which may be fulfilled in a simplified manner considering the needs of micro enterprises without affecting the level of protection and the need for compliance with the requirements for high-risk AI systems.
 2c. Paragraph 1 shall not be interpreted as exempting those operators from fulfilling any other requirements and obligations laid down in this Regulation, including those established in Articles 9, 10, 11, 12, 13, 14, 15, 61 and 62.
 
-## TITLE VI GOVERNANCE
+## TITLE VI: GOVERNANCE
 
 == Article 55b: Governance at Union level
 1. The Commission shall develop Union expertise and capabilities in the field of artificial intelligence. For this purpose, the Commission has established the European AI Office by Decision […].
 2. Member States shall facilitate the tasks entrusted to the AI Office, as reflected in this Regulation.
 
-** Chapter 1 EUROPEAN ARTIFICIAL INTELLIGENCE BOARD
+** Chapter 1: EUROPEAN ARTIFICIAL INTELLIGENCE BOARD
 
 == Article 56: Establishment and structure of the European Artificial Intelligence Board
 1. A ‘European Artificial Intelligence Board’ (the ‘Board’) is established.
@@ -892,7 +891,7 @@ The Board may establish other standing or temporary sub-groups as appropriate fo
 9. The advisory forum may establish standing or temporary subgroups as appropriate for the purpose of examining specific questions related to the objectives of this Regulation.
 10. The advisory forum shall prepare an annual report of its activities. That report shall be made publicly available.
 
-** Chapter 1a SCIENTIFIC PANEL OF INDEPENDENT EXPERTS
+** Chapter 1a: SCIENTIFIC PANEL OF INDEPENDENT EXPERTS
 
 == Article 58b: Scientific panel of independent experts
 1. The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the ‘scientific panel’) intended to support the enforcement activities under this Regulation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 74(2).
@@ -919,7 +918,7 @@ The Commission, in consultation with the AI Board, shall determine the number of
 2. The Member States may be required to pay fees for the advice and support by the experts. The structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article 58b(1), taking into account the objectives of the adequate implementation of this Regulation, cost-effectiveness and the necessity to ensure an effective access to experts by all Member States.
 3. The Commission shall facilitate timely access to the experts by the Member States, as needed, and ensure that the combination of support activities carried out by EU AI testing support pursuant to Article 68a and experts pursuant to this Article is efficiently organised and provides the best possible added value.
 
-** Chapter 2 NATIONAL COMPETENT AUTHORITIES
+** Chapter 2: NATIONAL COMPETENT AUTHORITIES
 
 == Article 59: Designation of national competent authorities and single point of contact
 2. Each Member State shall establish or designate at least one notifying authority and at least one market surveillance authority for the purpose of this Regulation as national competent authorities. These national competent authorities shall exercise their powers independently, impartially and without bias so as to safeguard the principles of objectivity of their activities and tasks and to ensure the application and implementation of this Regulation. The members of these authorities shall refrain from any action incompatible with their duties. Provided that those principles are respected, such activities and tasks may be performed by one or several designated authorities, in accordance with the organisational needs of the Member State.
@@ -953,7 +952,7 @@ The Commission, in consultation with the AI Board, shall determine the number of
 4. For high-risk AI systems covered by the legal acts referred to in Annex II, Section A, where a post-market monitoring system and plan is already established under that legislation, in order to ensure consistency, avoid duplications and minimise additional burdens, providers shall have a choice to integrate, as appropriate, the necessary elements described in paragraphs 1, 2 and 3 using the template referred in paragraph 3 into already existing system and plan under the Union harmonisation legislation listed in Annex II, Section A, provided it achieves an equivalent level of protection.
 The first subparagraph shall also apply high-risk AI systems referred to in point 5 of Annex III placed on the market or put into service by financial institutions that are subject to requirements regarding their internal governance, arrangements or processes under Union financial services legislation.
 
-** Chapter 2 SHARING OF INFORMATION ON SERIOUS INCIDENTS
+** Chapter 2: SHARING OF INFORMATION ON SERIOUS INCIDENTS
 
 == Article 62: Reporting of serious incidents
 1. Providers of high-risk AI systems placed on the Union market shall report any serious incident to the market surveillance authorities of the Member States where that incident occurred.
@@ -969,7 +968,7 @@ The first subparagraph shall also apply high-risk AI systems referred to in poin
 3a. For high-risk AI systems which are safety components of devices, or are themselves devices, covered by Regulation (EU) 2017/745 and Regulation (EU) 2017/746 the notification of serious incidents shall be limited to those referred to in Article 3(44)(c) and be made to the national competent authority chosen for this purpose by the Member States where that incident occurred.
 3a. National competent authorities shall immediately notify the Commission of any serious incident, whether or not it has taken action on it, in accordance with Article 20 of Regulation 2019/1020.
 
-** Chapter 3 ENFORCEMENT
+** Chapter 3: ENFORCEMENT
 
 == Article 63: Market surveillance and control of AI systems in the Union market
 1. Regulation (EU) 2019/1020 shall apply to AI systems covered by this Regulation. However, for the purpose of the effective enforcement of this Regulation:
@@ -1066,7 +1065,7 @@ The market surveillance authority shall inform the relevant notified body accord
 1. The Commission shall designate one or more EU AI testing support structures to perform the tasks listed under Article 21(6) of Regulation (EU) 1020/2019 in the area of artificial intelligence.
 2. Without prejudice to the tasks referred to in paragraph 1, EU AI testing support structure shall also provide independent technical or scientific advice at the request of the Board, the Commission, or market surveillance authorities.
 
-** Chapter 3b REMEDIES
+** Chapter 3b: REMEDIES
 
 == Article 68a: Right to lodge a complaint with a market surveillance authority
 1. Without prejudice to other administrative or judicial remedies, complaints to the relevant market surveillance authority may be submitted by any natural or legal person having grounds to consider that there has been an infringement of the provisions of this Regulation.
@@ -1084,7 +1083,7 @@ The market surveillance authority shall inform the relevant notified body accord
 1. Directive (EU) 2019/1937 of the European Parliament and of the Council shall apply to the reporting of breaches of this Regulation and the protection of persons reporting such breaches.
 30 Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 4.12.2020, p. 1).
 
-** Chapter 3c SUPERVISION, INVESTIGATION, ENFORCEMENT AND MONITORING IN RESPECT OF PROVIDERS OF GENERAL PURPOSE AI MODELS
+** Chapter 3c: SUPERVISION, INVESTIGATION, ENFORCEMENT AND MONITORING IN RESPECT OF PROVIDERS OF GENERAL PURPOSE AI MODELS
 
 == Article 68f: Enforcement of obligations on providers of general purpose AI models
 1. The Commission shall have exclusive powers to supervise and enforce Chapter/Title [general purpose AI models] taking into account the procedural guarantees by virtue of Article 68m. The Commission shall entrust the implementation of these tasks to the European AI Office, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties.
@@ -1136,7 +1135,7 @@ The market surveillance authority shall inform the relevant notified body accord
 == Article 68m: Procedural rights of economic operators of the general purpose AI model
 1. The Article 18 of the Regulation (EU) 2019/1020 apply by analogy to the providers of the general purpose AI model without prejudice to more specific procedural rights provided for in this Regulation.
 
-## TITLE IX CODES OF CONDUCT
+## TITLE IX: CODES OF CONDUCT
 
 == Article 69: Codes of conduct for voluntary application of specific requirements
 1. The AI Office, and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to AI systems other than high-risk AI systems of some or all of the requirements set out in Title III, Chapter 2 of this Regulation taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
@@ -1149,7 +1148,7 @@ techniques for efficient design, training and use of AI;
 3. Codes of conduct may be drawn up by individual providers or deployers of AI systems or by organisations representing them or by both, including with the involvement of deployers and any interested stakeholders and their representative organisations, including civil society organisations and academia. Codes of conduct may cover one or more AI systems taking into account the similarity of the intended purpose of the relevant systems.
 4. The AI Office, and the Member States shall take into account the specific interests and needs of SMEs, including start-ups, when encouraging and facilitating the drawing up of codes of conduct.
 
-## TITLE XCONFIDENTIALITY AND PENALTIES
+## TITLE X: CONFIDENTIALITY AND PENALTIES
 
 == Article 70: Confidentiality
 1. The Commission, market surveillance authorities and notified bodies and any other natural or legal person involved in the application of this Regulation shall, in accordance with Union or national law, respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular:
@@ -1224,7 +1223,7 @@ In fixing the amount of the fine or periodic penalty payment, regard shall be ha
 3. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions whereby the Commission has fixed a fine. It may cancel, reduce or increase the fine imposed.
 4. The Commission shall adopt implementing acts concerning the modalities and practical arrangements for the proceedings in view of possible adoptions of decisions pursuant to paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 74(2).
 
-## TITLE XI DELEGATION OF POWER AND COMMITTEE PROCEDURE
+## TITLE XI: DELEGATION OF POWER AND COMMITTEE PROCEDURE
 
 == Article 73: Exercise of the delegation
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
@@ -1237,7 +1236,7 @@ In fixing the amount of the fine or periodic penalty payment, regard shall be ha
 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 
-## TITLE XII FINAL PROVISIONS
+## TITLE XII: FINAL PROVISIONS
 
 == Article 75: Amendment to Regulation (EC) No 300/2008
 1. In Article 4(3) of Regulation (EC) No 300/2008, the following subparagraph is added:

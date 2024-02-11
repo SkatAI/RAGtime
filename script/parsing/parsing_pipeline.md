@@ -18,6 +18,7 @@ for pdf files with one version of the AI-act
 7. 2. split into sections: intro, recitals, regulation, annex
 7. 3. markup the titles
 
-* ^=== Article (\d+)\s => === Article $1:
+* articles: ^=== Article (\d+)\s => === Article $1:
+* paragraphs: ^\d+[a-z]{0,2}\. =>
 
 8. export to json
