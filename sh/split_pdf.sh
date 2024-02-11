@@ -4,9 +4,10 @@
 PDF="./data/pdf/AIAct_final_four-column21012024.pdf"
 PDF="./data/pdf/AIA-trilogue-coreper/AIA-Trilogue-Coreper20240202.pdf"
 PDF="./data/pdf/ST-15698-2022-INIT_EN.pdf"
+PDF="./data/pdf/TA-9-2023-0236-EP-amendments/TA-9-2023-0236_EN_amendments.pdf"
 
 # Page size for each split. has to be < 80
-PAGES_PER_CHUNK=70
+PAGES_PER_CHUNK=72
 
 # Total number of pages in the PDF
 TOTAL_PAGES=$(pdftk "$PDF" dump_data | grep NumberOfPages | awk '{print $2}')
