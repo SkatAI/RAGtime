@@ -22,3 +22,28 @@ for pdf files with one version of the AI-act
 * paragraphs: ^\d+[a-z]{0,2}\. =>
 
 8. export to json
+
+# regexes
+- in one line
+TITLE I
+GENERAL PROVISIONS
+
+-> ## TITLE I: GENERAL PROVISIONS
+
+^TITLE ([I,V,X]+)\n => ## TITLE $1:
+
+- same for article
+
+Article 1
+Subject matter
+-> \n== Article 1: Subject matter
+
+^Article (\d+[a-z]{0,1})\n => == Article $1:
+
+ANNEX I
+ARTIFICIAL INTELLIGENCE TECHNIQUES AND APPROACHES
+
+^ANNEX ([I,V,X]+)\n => ## ANNEX $1:
+
+1.abcde => 1. abcde
+^(\d+)\.([a-zA-Z]) => $1. $2
