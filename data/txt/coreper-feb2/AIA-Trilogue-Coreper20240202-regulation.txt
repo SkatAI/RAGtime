@@ -7,7 +7,9 @@
 (b) prohibitions of certain artificial intelligence practices;
 (c) specific requirements for high-risk AI systems and obligations for operators of such systems;
 (d) harmonised transparency rules for certain AI systems;
-(da) harmonised rules for the placing on the market of general-purpose AI models; (e) rules on market monitoring, market surveillance governance and enforcement; (ea) measures to support innovation, with a particular focus on SMEs, including start-ups.
+(da) harmonised rules for the placing on the market of general-purpose AI models;
+(e) rules on market monitoring, market surveillance governance and enforcement;
+(ea) measures to support innovation, with a particular focus on SMEs, including start-ups.
 
 == Article 2: Scope
 1. This Regulation applies to:
@@ -16,7 +18,8 @@
 (c) providers and deployers of AI systems that have their place of establishment or who are located in a third country, where the output produced by the system is used in the Union;
 (ca) importers and distributors of AI systems;
 (cb) product manufacturers placing on the market or putting into service an AI system together with their product and under their own name or trademark;
-(cc) authorised representatives of providers, which are not established in the Union. (cc) affected persons that are located in the Union.
+(cc) authorised representatives of providers, which are not established in the Union.
+(cc) affected persons that are located in the Union.
 
 2. For AI systems classified as high-risk AI systems in accordance with Articles 6(1) and 6(2) related to products covered by Union harmonisation legislation listed in Annex II, section B only Article 84 of this Regulation shall apply. Article 53 shall apply only insofar as the requirements for high-risk AI systems under this Regulation have been integrated under that Union harmonisation legislation.
 3. This Regulation shall not apply to areas outside the scope of EU law and in any event shall not affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States to carry out the tasks in relation to those competences.
@@ -86,7 +89,8 @@ For the purpose of this Regulation, the following definitions apply:
 (44) ‘serious incident’ means any incident or malfunctioning of an AI system that directly or indirectly leads to any of the following:
 (a) the death of a person or serious damage to a person’s health;
 (b) a serious and irreversible disruption of the management and operation of critical infrastructure;
-(ba) breach of obligations under Union law intended to protect fundamental rights; (bb) serious damage to property or the environment.
+(ba) breach of obligations under Union law intended to protect fundamental rights;
+(bb) serious damage to property or the environment.
 (44a) 'personal data' means personal data as defined in Article 4, point (1) of Regulation (EU) 2016/679;
 (44c) ‘non-personal data’ means data other than personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;
 (be) ‘profiling’ means any form of automated processing of personal data as defined in point (4) of Article 4 of Regulation (EU) 2016/679; or in the case of law enforcement authorities – in point 4 of Article 3 of Directive (EU) 2016/680 or, in the case of Union institutions, bodies, offices or agencies, in point 5 Article 3 of Regulation (EU) 2018/1725;
@@ -254,7 +258,8 @@ The technical documentation shall be drawn up in such a way to demonstrate that 
 (iii) monitoring of the operation of high-risk AI systems referred to in Article 29(4).
 4. For high-risk AI systems referred to in paragraph 1, point (a) of Annex III, the logging capabilities shall provide, at a minimum:
 (a) recording of the period of each use of the system (start date and time and end date and time of each use);
-(b) the reference database against which input data has been checked by the system; (c) the input data for which the search has led to a match;
+(b) the reference database against which input data has been checked by the system;
+(c) the input data for which the search has led to a match;
 (d) the identification of the natural persons involved in the verification of the results, as referred to in Article 14 (5).
 
 == Article 13: Transparency and provision of information to deployers
@@ -309,7 +314,8 @@ The technical solutions to address AI specific vulnerabilities shall include, wh
 1. Providers of high-risk AI systems shall:
 (a) ensure that their high-risk AI systems are compliant with the requirements set out in Chapter 2 of this Title;
 (aa) indicate their name, registered trade name or registered trade mark, the address at which they can be contacted on the high-risk AI system or, where that is not possible, on its packaging or its accompanying documentation, as applicable;
-(b) have a quality management system in place which complies with Article 17; (c) keep the documentation referred to in Article 18;
+(b) have a quality management system in place which complies with Article 17;
+(c) keep the documentation referred to in Article 18;
 (d) when under their control, keep the logs automatically generated by their high-risk AI systems as referred to in Article 20;
 (e) ensure that the high-risk AI system undergoes the relevant conformity assessment procedure as referred to in Article 43, prior to its placing on the market or putting into service;
 (ea) draw up an EU declaration of conformity in accordance with Article 48;
@@ -343,7 +349,8 @@ The technical solutions to address AI specific vulnerabilities shall include, wh
 (a) the technical documentation referred to in Article 11;
 (b) the documentation concerning the quality management system referred to in Article 17;
 (c) the documentation concerning the changes approved by notified bodies where applicable;
-(d) the decisions and other documents issued by the notified bodies where applicable; (e) the EU declaration of conformity referred to in Article 48.
+(d) the decisions and other documents issued by the notified bodies where applicable;
+(e) the EU declaration of conformity referred to in Article 48.
 1a. Each Member State shall determine conditions under which the documentation referred to in paragraph 1 remains at the disposal of the national competent authorities for the period indicated in that paragraph for the cases when a provider or its authorised representative established on its territory goes bankrupt or ceases its activity prior to the end of that period.
 2. Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services legislation shall maintain the technical documentation as part of the documentation kept under the relevant Union financial services legislation.
 
@@ -748,7 +755,10 @@ Upon request of the provider or prospective provider of the AI system, the compe
 6. The Commission shall develop a single and dedicated interface containing all relevant information related to sandboxes to allow stakeholders to interact with regulatory sandboxes and to raise enquiries with competent authorities, and to seek non-binding guidance on the conformity of innovative products, services, business models embedding AI technologies, in accordance with Article 55(1)(c). The Commission shall proactively coordinate with national competent authorities, where relevant.
 
 == Article 53a: Modalities and functioning of AI regulatory sandboxes
-1. In order to avoid fragmentation across the Union, the Commission shall adopt an implementing act detailing the modalities for the establishment, development, implementation, operation and supervision of the AI regulatory sandboxes. The implementing act shall include common principles on the following issues: (a) eligibility and selection for participation in the AI regulatory sandbox; (b) procedure for the application, participation, monitoring, exiting from and termination of the AI regulatory sandbox, including the sandbox plan and the exit report; (c) the terms and conditions applicable to the participants.
+1. In order to avoid fragmentation across the Union, the Commission shall adopt an implementing act detailing the modalities for the establishment, development, implementation, operation and supervision of the AI regulatory sandboxes. The implementing act shall include common principles on the following issues:
+(a) eligibility and selection for participation in the AI regulatory sandbox;
+(b) procedure for the application, participation, monitoring, exiting from and termination of the AI regulatory sandbox, including the sandbox plan and the exit report;
+(c) the terms and conditions applicable to the participants.
 The implementing acts shall ensure that:
 (a) regulatory sandboxes are open to any applying prospective provider of an AI system who fulfils eligibility and selection criteria. The criteria for accessing to the regulatory sandbox are transparent and fair and establishing authorities inform applicants of their decision within 3 months of the application;
 (b) regulatory sandboxes allow broad and equal access and keep up with demand for participation; prospective providers may also submit applications in partnerships with users and other relevant third parties;
@@ -875,7 +885,8 @@ The Board may establish other standing or temporary sub-groups as appropriate fo
 (i) contribute to the effective cooperation with the competent authorities of third countries and with international organisations;
 (j) assist national competent authorities and the Commission, in developing the organisational and technical expertise required for the implementation of this Regulation, including by contributing to the assessment of training needs for staff of Member States involved in implementing this Regulation;
 (j1) assist the AI Office in supporting national competent authorities in the establishment and development of regulatory sandboxes and facilitate cooperation and information sharing among regulatory sandboxes;
-(k) contribute and provide relevant advice in the development of guidance documents; (l) advise the Commission in relation to international matters on artificial intelligence;
+(k) contribute and provide relevant advice in the development of guidance documents;
+(l) advise the Commission in relation to international matters on artificial intelligence;
 (m) provide opinions to the Commission on the qualified alerts regarding general purpose AI models;
 (n) receive opinions by the Member states on the qualified alerts regarding general purpose AI models and on national experiences and practices on the monitoring and enforcement of the AI systems, in particular systems integrating the general purpose AI models.
 
@@ -1058,7 +1069,8 @@ The market surveillance authority shall inform the relevant notified body accord
 (c) the EU declaration of conformity has not been drawn up;
 (d) the EU declaration of conformity has not been drawn up correctly;
 (ea) the registration in the EU database has not been carried out;
-(eb) where applicable, the authorised representative has not been appointed; (ec) the technical documentation is not available.
+(eb) where applicable, the authorised representative has not been appointed;
+(ec) the technical documentation is not available.
 2. Where the non-compliance referred to in paragraph 1 persists, the market surveillance authority of the Member State concerned shall take appropriate and proportionate measures to restrict or prohibit the high-risk AI system being made available on the market or ensure that it is recalled or withdrawn from the market without delay.
 
 == Article 68a: EU AI testing support structures in the area of artificial intelligence
@@ -1139,7 +1151,8 @@ The market surveillance authority shall inform the relevant notified body accord
 
 == Article 69: Codes of conduct for voluntary application of specific requirements
 1. The AI Office, and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to AI systems other than high-risk AI systems of some or all of the requirements set out in Title III, Chapter 2 of this Regulation taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
-2. The AI Office and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by deployers, of specific requirements to all AI systems, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to: (a) applicable elements foreseen in European ethic guidelines for trustworthy AI;
+2. The AI Office and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by deployers, of specific requirements to all AI systems, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to:
+(a) applicable elements foreseen in European ethic guidelines for trustworthy AI;
 (b) assessing and minimizing the impact of AI systems on environmental sustainability, including as regards energy-efficient programming and
 techniques for efficient design, training and use of AI;
 (c) promoting AI literacy, in particular of persons dealing with the development, operation and use of AI;
@@ -1285,7 +1298,8 @@ In fixing the amount of the fine or periodic penalty payment, regard shall be ha
 1. The Commission shall develop guidelines on the practical implementation of this Regulation, and in particular on:
 (a) the application of the requirements and obligations referred to in Articles 8 - 15 and Article 28;
 (b) the prohibited practices referred to in Article 5;
-(c) the practical implementation of the provisions related to substantial modification; (d) the practical implementation of transparency obligations laid down in Article 52;
+(c) the practical implementation of the provisions related to substantial modification;
+(d) the practical implementation of transparency obligations laid down in Article 52;
 (e) detailed information on the relationship of this Regulation with the legislation referred to in Annex II of this Regulation as well as other relevant Union law, including as regards consistency in their enforcement;
 (f) the application of the definition of an AI system as set out in Article 3(1).
 When issuing such guidelines, the Commission shall pay particular attention to the needs of SMEs including start-ups, local public authorities and sectors most likely to be affected by this Regulation.

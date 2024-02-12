@@ -24,6 +24,7 @@ log/*.log
 # notes
 next.md
 todo.md
+doing.md
 
 # data
 *.csv

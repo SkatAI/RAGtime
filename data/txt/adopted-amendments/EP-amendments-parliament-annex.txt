@@ -1,0 +1,302 @@
+Amendment 708
+Annex I: deleted
+
+Amendment 709
+Annex III – paragraph 1 – introductory part
+The AI systems specifically refered to in under points 1 to 8a stand for critical use cases and are each considered to be high-risk AI systems pursuant to Article 6(2), provided that they fulfil the criteria set out in that Article:
+
+Amendment 710
+Annex III – paragraph 1 – point 1 – introductory part
+1. Biometric and biometrics-based systems
+
+Amendment 711
+Annex III – paragraph 1 – point 1 – point a
+(a) AI systems intended to be used for biometric identification of natural persons, with the exception of those mentioned in Article 5;
+
+Amendment 712
+Annex III – paragraph 1 – point 1 – point a a (new)
+(a a) AI systems intended to be used to make inferences about personal characteristics of natural persons on the basis of biometric or biometrics-based data, including emotion recognition systems, with the exception of those mentioned in Article 5;
+
+Point 1 shall not include AI systems intended to be used for biometric verification whose sole purpose is to confirm that a specific natural person is the person he or she claims to be.
+
+Amendment 713
+Annex III – paragraph 1 – point 2 – point a
+(a) AI systems intended to be used as safety components in the management and operation of road, rail and air traffic unless they are regulated in harmonisation or sectoral law.
+
+Amendment 714
+Annex III – paragraph 1 – point 2 – point a a (new)
+(a a) AI systems intended to be used as safety components in the management and operation of the supply of water, gas, heating, electricity and critical digital infrastructure;
+
+Amendment 715
+Annex III – paragraph 1 – point 3 – point a
+(a) AI systems intended to be used for the purpose of determining access or materially influence decisions on admission or assigning natural persons to educational and vocational training institutions;
+
+Amendment 716
+Annex III – paragraph 1 – point 3 – point b
+(b) AI systems intended to be used for the purpose of assessing students in educational and vocational training institutions and for assessing participants in tests commonly required for admission to those institutions;
+
+Amendment 717
+Annex III – paragraph 1 – point 3 – point b a (new)
+(b a) AI systems intended to be used for the purpose of assessing the appropriate level of education for an individual and materially influencing the level of education and vocational training that individual will receive or will be able to access;
+
+Amendment 718
+Annex III – paragraph 1 – point 3 – point b b (new)
+(b b) AI systems intended to be used for monitoring and detecting prohibited behaviour of students during tests in the context of/within education and vocational training institutions;
+
+Amendment 719
+Annex III – paragraph 1 – point 4 – point a
+(a) AI systems intended to be used for recruitment or selection of natural persons, notably for placing targeted job advertisements screening or filtering applications, evaluating candidates in the course of interviews or tests;
+
+Amendment 720
+Annex III – paragraph 1 – point 4 – point b
+(b) AI systems intended to be used to make or materially influence decisions affecting the initiation, promotion and termination of work-related contractual relationships, task allocation based on individual behaviour or personal traits or characteristics, or for monitoring and evaluating performance and behavior of persons in such relationships;
+
+Amendment 721
+Annex III – paragraph 1 – point 5 – point a
+(a) AI systems intended to be used by or on behalf of public authorities to evaluate the eligibility of natural persons for public assistance benefits and services, including healthcare services and essential services, including but not limited to housing, electricity, heating/cooling and internet, as well as to grant, reduce, revoke, increase or reclaim such benefits and services;
+
+Amendment 722
+Annex III – paragraph 1 – point 5 – point b
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons or establish their credit score , with the exception of AI systems used for the purpose of detecting financial fraud;
+
+Amendment 723
+Annex III – paragraph 1 – point 5 – point b a (new)
+(b a) AI systems intended to be used for making decisions or materially influencing decisions on the eligibility of natural persons for health and life insurance;
+
+Amendment 724
+Annex III – paragraph 1 – point 5 – point c
+(c) AI systems intended to evaluate and classify emergency calls by natural persons or to be used to dispatch, or to establish priority in the dispatching of emergency first response services, including by police and law enforcement, firefighters and medical aid, as well as of emergency healthcare patient triage systems;
+
+Amendment 725
+Annex III – paragraph 1 – point 6 – point a
+deleted
+
+Amendment 726
+Annex III – paragraph 1 – point 6 – point b
+(b) AI systems intended to be used by or on behalf of law enforcement authorities, or by Union agencies, offices or bodies in support of law enforcement authorities as polygraphs and similar tools, insofar as their use is permitted under relevant Union and national law;
+
+Amendment 727
+Annex III – paragraph 1 – point 6 – point c
+deleted
+
+Amendment 728
+Annex III – paragraph 1 – point 6 – point d
+(d) AI systems intended to be used by or on behalf of law enforcement authorities, or by Union agencies, offices or bodies in support of law enforcement authorities to evaluate the reliability of evidence in the course of investigation or prosecution of criminal offences;
+
+Amendment 729
+Annex III – paragraph 1 – point 6 – point e
+deleted
+
+Amendment 730
+Annex III – paragraph 1 – point 6 – point f
+(f) AI systems intended to be used by or on behalf of law enforcement authorities or by Union agencies, offices or bodies in support of law enforcement authorities for profiling of natural persons as referred to in Article 3(4) of Directive (EU) 2016/680 in the course of detection, investigation or prosecution of criminal offences or, in the case of Union agencies, offices or bodies, as referred to in Article 3(5) of Regulation (EU) 2018/1725;
+
+Amendment 731
+Annex III – paragraph 1 – point 6 – point g
+(g) AI systems intended to be used by or on behalf of law enforcement authorities or by Union agencies, offices or bodies in support of law enforcement authorities for crime analytics regarding natural persons, allowing law enforcement authorities to search complex related and unrelated large data sets available in different data sources or in different data formats in order to identify unknown patterns or discover hidden relationships in the data.
+
+Amendment 732
+Annex III – paragraph 1 – point 7 – point a
+(a) AI systems intended to be used by or on behalf of competent public authorities or by Union agencies, offices or bodies as polygraphs and similar tools insofar as their use is permitted under relevant Union or national law
+
+Amendment 733
+Annex III – paragraph 1 – point 7 – point b
+(b) AI systems intended to be used by or on behalf of competent public authorities or by Union agencies, offices or bodies to assess a risk, including a security risk, a risk of irregular immigration, or a health risk, posed by a natural person who intends to enter or has entered into the territory of a Member State;
+
+Amendment 734
+Annex III – paragraph 1 – point 7 – point c
+(c) AI systems intended to be used by or on behalf of competent public authorities or by Union agencies, offices or bodies for the verification of the authenticity of travel documents and supporting documentation of natural persons and detect non-authentic documents by checking their security features;
+
+Amendment 735
+Annex III – paragraph 1 – point 7 – point d
+(d) AI systems intended to be used by or on behalf of competent public authorities or by Union agencies, offices or bodies to assist competent public authorities for the examination and assessment of the veracity of evidence in relation to applications for asylum, visa and residence permits and associated complaints with regard to the eligibility of the natural persons applying for a status;
+
+Amendment 736
+Annex III – paragraph 1 – point 7 – point d a (new)
+(d a) AI systems intended to be used by or on behalf of competent public authorities or by Union agencies, offices or bodies in migration, asylum and border control management to monitor, surveil or process data in the context of border management activities, for the purpose of detecting, recognising or identifying natural persons;
+
+Amendment 737
+Annex III – paragraph 1 – point 7 – point d b (new)
+(d b) AI systems intended to be used by or on behalf of competent public authorities or by Union agencies, offices or bodies in migration, asylum and border control management for the forecasting or prediction of trends related to migration movement and border crossing;
+
+Amendment 738
+Annex III – paragraph 1 – point 8 – point a
+(a) AI systems intended to be used by a judicial authority ot administrative body or on their behalf to assist a judicial authority or administrative body in researching and interpreting facts and the law and in applying the law to a concrete set of facts or used in a similar way in alternative dispute resolution.
+
+Amendment 739
+Annex III – paragraph 1 – point 8 – point a a (new)
+(a a) AI systems intended to be used for influencing the outcome of an election or referendum or the voting behaviour of natural persons in the exercise of their vote in elections or referenda. This does not include AI systems whose output natural persons are not directly exposed to, such as tools used to organise, optimise and structure political campaigns from an administrative and logistic point of view.
+
+Amendment 740
+Annex III – paragraph 1 – point 8 – point a b (new)
+(a b) AI systems intended to be used by social media platforms that have been designated as very large online platforms within the meaning of Article 33 of Regulation EU 2022/2065, in their recommender systems to recommend to the recipient of the service user-generated content available on the platform.
+
+Amendment 741
+Annex IV – paragraph 1 – point 1 – point a
+(a) its intended purpose, the name of the provider and the version of the system reflecting its relation to previous and, where applicable, more recent, versions in the succession of revisions;
+
+Amendment 742
+Annex IV – paragraph 1 – point 1 – point a a (new)
+(a a) the nature of data likely or intended to be processed by the system and, in the case of personal data, the categories of natural persons and groups likely or intended to be affected;
+
+Amendment 743
+Annex IV – paragraph 1 – point 1 – point b
+(b) how the AI system can interact or can be used to interact with hardware or software, including other AI systems, that are not part of the AI system itself, where applicable;
+
+Amendment 744
+Annex IV – paragraph 1 – point 1 – point c
+(c) the versions of relevant software or firmware and, where applicable, information for the deployer on any requirement related to version update;
+
+Amendment 745
+Annex IV – paragraph 1 – point 1 – point d
+(d) the description of the various configurations and variants of the AI system which are intended to be placed on the market or put into service;
+
+Amendment 746
+Annex IV – paragraph 1 – point 1 – point f a (new)
+(f a) the description of the deployer interface;
+
+Amendment 747
+Annex IV – paragraph 1 – point 1 – point g
+(g) instructions of use for the deployer in accordance with Article 13(2) and (3) as well as 14(4)(e) and, where applicable installation instructions;
+
+Amendment 748
+Annex IV – paragraph 1 – point 1 – point g a (new)
+(g a) a detailed and easily intellegible description of the system’s main optimisation goal or goals;
+
+Amendment 749
+Annex IV – paragraph 1 – point 1 – point g b (new)
+(g b) a detailed and easily intellegible description of the system’s expected output and expected output quality;
+
+Amendment 750
+Annex IV – paragraph 1 – point 1 – point g c (new)
+(g c) detailed and easily intellegible instructions for interpreting the system’s output;
+
+Amendment 751
+Annex IV – paragraph 1 – point 1 – point g d (new)
+(g d) examples of scenarios for which the system should not be used;
+
+Amendment 752
+Annex IV – paragraph 1 – point 2 – point b
+(b) a description of the architecture, design specifications, algorithms and the data structures including a decomposition of its components and interfaces, how they relate to one another and how they provide for the overall processing or logic of the AI system; the key design choices including the rationale and assumptions made, also with regard to persons or groups of persons on which the system is intended to be used; the main classification choices; what the system is designed to optimise for and the relevance of the different parameters; the decisions about any possible trade-off made regarding the technical solutions adopted to comply with the requirements set out in Title III, Chapter 2;
+
+Amendment 753
+Annex IV – paragraph 1 – point 2 – point c
+(c) deleted
+
+Amendment 754
+Annex IV – paragraph 1 – point 2 – point e
+(e) assessment of the human oversight measures needed in accordance with Article 14, including an assessment of the technical measures needed to facilitate the interpretation of the outputs of AI systems by the deployers, in accordance with Articles 13(3)(d);
+
+Amendment 755
+Annex IV – paragraph 1 – point 2 – point g
+(g) the validation and testing procedures used, including information about the validation and testing data used and their main characteristics; metrics used to measure accuracy, robustness and compliance with other relevant requirements set out in Title III, Chapter 2 as well as potentially discriminatory impacts; test logs and all test reports dated and signed by the responsible persons, including with regard to pre-determined changes as referred to under point (f).
+
+Amendment 756
+Annex IV – paragraph 1 – point 2 – point g a (new)
+(g a) cybersecurity measures put in place.
+
+Amendment 757
+Annex IV – paragraph 1 – point 3
+3. Detailed information about the monitoring, functioning and control of the AI system, in particular with regard to: its capabilities and limitations in performance, including the degrees of accuracy for specific persons or groups of persons on which the system is intended to be used and the overall expected level of accuracy in relation to its intended purpose; the foreseeable unintended outcomes and sources of risks to health and safety, fundamental rights and discrimination in view of the intended purpose of the AI system; the human oversight measures needed in accordance with Article 14, including the technical measures put in place to facilitate the interpretation of the outputs of AI systems by the deployers; specifications on input data, as appropriate;
+
+Amendment 758
+Annex IV – paragraph 1 – point 3 a (new)
+3 a. A description of the appropriateness of the performance metrics for the specific AI system;
+
+Amendment 759
+Annex IV – paragraph 1 – point 3 b (new)
+3 b. Information about the energy consumption of the AI system during the development phase and the expected energy consumption during use, taking into account, where applicable, relevant Union and national law;
+
+Amendment 760
+Annex IV – paragraph 1 – point 5
+5. A description of any relevant change made by providers to the system through its lifecycle ;
+
+Amendment 761
+Annex IV – paragraph 1 – point 6
+6. A list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union; where no such harmonised standards have been applied, a detailed description of the solutions adopted to meet the requirements set out in Title III, Chapter 2, including a list of other relevant standards or common specifications applied;
+
+Amendment 762
+Annex V – paragraph 1 – point 4 a (new)
+4 a. Where an AI system involves the processing of personal data, a statement that that AI system complies with Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680.
+
+Amendment 763
+Annex V – paragraph 1 – point 7
+7. Place and date of issue of the declaration, signature, name and function of the person who signed it as well as an indication for, and on behalf of whom, that person signed, signature.
+
+Amendment 764
+Annex VII – point 4 – point 4.5
+4.5. Where necessary to assess the conformity of the high-risk AI system with the requirements set out in Title III, Chapter 2, after all other reasonable ways to verify conformity have been exhausted and have proven to be insufficient, and upon a reasoned request, the notified body shall also be granted access to the training and trained models of the AI system, including its relevant parameters. Such access shall be subject to existing Union law on the protection of intellectual property and trade secrets. They shall take technical and organisational measures to ensure the protection of intellectual property and trade secrets.
+
+Amendment 765
+Annex VIII – paragraph 1
+Section A - The following information shall be provided and thereafter kept up to date with regard to high-risk AI systems to be registered in accordance with Article 51 (1).
+
+Amendment 766
+Annex VIII – point 4 a (new)
+4 a. Foundation model trade name and any additional unambiguous refernce allowing identification and traceability
+
+Amendment 767
+Annex VIII – point 5
+5. A simple and comprehensible description of
+
+a. the intended purpose of the AI system;
+
+b. the components and functions supported through AI;
+
+c. a basic explanation of the logic of the AI system
+
+Amendment 768
+Annex VIII – point 5 a (new)
+5 a. where applicable, the categories and nature of data likely or foreseen to be processed by the AI system.
+
+Amendment 769
+Annex VIII – point 11
+deleted
+
+Amendment 770
+ANNEX VIII – SECTION B (new)
+SECTION B - The following information shall be provided and thereafter kept up to date with regard to high-risk AI systems to be registered in accordance with Article 51 (1a) (a) and (1b).
+
+1. the name, address and contact details of the deployer ;
+
+2. the name, address and contact details of the person submitting information on behalf of the deployer ;
+
+3. the high risk AI system trade name and any additional unambiguous reference allowing identification and traceability of the AI system used;
+
+4. a) A simple and comprehensible description of the intended use of the AI system, including the specific outcomes sought through the use of the systemn, the geographic and temporal scope of application
+
+b. Where applicable, the categories and nature of data to be processed by the AI system;
+
+c. Arrangements for human oversight and governance
+
+d. Where relevant, the bodies or natural persons responsible for decisions taken or supported by the AI system;
+
+5. a summary of the findings of the fundamental rights impact assessment conducted in accordance with Article 29a
+
+6. The URL of the entry of the AI system in the EU database by its provider
+
+7. A summary of the data protection impact assessment carried out in accordance with Article 35 of Regulation (EU) 2016/679 or Article 27 of Directive (EU) 2016/680 as specified in paragraph 6 of Article 29 of this Regulation, where applicable.
+
+Amendment 771
+Annex VIII – Section C (new)
+Section C - The following information shall be provided and thereafter kept up to date with regard to foundation models to be registered in accordance with Article 28b (e).
+
+1. Name, address and contact details of the provider;
+
+2. Where submission of information is carried out by another person on behalf of the provider, the name, address and contact details of that person;
+
+3. Name, address and contact details of the authorised representative, where applicable;
+
+4. Trade name and any additional unambiguous reference allowing the identification of the foundation model
+
+5. Description of the data sources used in the development of the foundational model
+
+6. Description of the capabilities and limitations of the foundation model, including the reasonably foreseeable risks and the measures that have been taken to mitigate them as well as remaining non-mitigated risks with an explanation on the reason why they cannot be mitigated
+
+7. Description of the training resources used by the foundation model including computing power required, training time, and other relevant information related to the size and power of the model 8. Description of the model’s performance, including on public benchmarks or state of the art industry benchmarks
+
+8. Description of the results of relevant internal and external testing and optimisation of the model
+
+9. Member States in which the foundation model is or has been placed on the market, put into service or made available in the Union;
+
+10. URL for additional information (optional).
