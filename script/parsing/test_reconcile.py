@@ -7,7 +7,7 @@ import time, datetime
 from datetime import timedelta
 from tqdm import tqdm
 import typing as t
-from reconcile import Line, Rgx, format_order
+from reconcile import Line, Rgx
 
 
 if __name__ == "__main__":
@@ -29,9 +29,12 @@ if __name__ == "__main__":
     assert Line("Recital -12b").first_number_from_title == '-12b'
 
 
-    assert format_order('1') == '001'
-    assert format_order('1a') == '001a'
-    assert format_order('-1a') == '001-a'
-    assert format_order('-1') == '001-'
+    assert Rgx.format_number('1') == '001'
+    assert Rgx.format_number('1a') == '001a'
+    assert Rgx.format_number('-1a') == '001-a'
+    assert Rgx.format_number('-1') == '001-'
+    assert Rgx.format_number('80z+1') == '080z+1'
+    assert Rgx.format_number('80-x') == '080-x'
+
 
 
