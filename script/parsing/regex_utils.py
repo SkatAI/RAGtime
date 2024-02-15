@@ -29,7 +29,7 @@ class Rgx(object):
 
     @classmethod
     def extract_article_title_number(cls, text: str) -> re.Match:
-        rgx = r"^Article\s(\d+[a-z]{0,2})\s*:.*$"
+        rgx = r"^Article\s(\d+[a-z]{0,2})\s*[:]{0,1}.*$"
         return re.search(rgx, text)
 
     @classmethod
@@ -38,7 +38,11 @@ class Rgx(object):
         rgx = r"^Article \d+ - paragraph (\d+).*$"
         return re.search(rgx,text)
 
-
+    @classmethod
+    def extract_subparagraph_number_from_loc(cls, text: str) -> t.Optional[str]:
+        # Article 3 - paragraph 1 - point 44c (new)
+        rgx = r"^Article \d+[a-z]{0,2} - paragraph \d*[a-z]{0,2} - point (\d*[a-z]{0,2}).*$"
+        return re.search(rgx,text)
 
     @classmethod
     def extract_paragraph_number(cls, text: str) -> re.Match:
@@ -47,13 +51,13 @@ class Rgx(object):
 
     @classmethod
     def extract_subparagraph_number(cls, text: str) -> re.Match:
-        rgx = r"^\(([a-z]{0,3})\).*$"
+        rgx = r"^\(([a-z]{0,4})\).*$"
         return re.search(rgx, text)
 
     @classmethod
     def extract_bulletpoint_number(cls, text: str) -> re.Match:
-        # rgx = r"^\((ⅰ|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|xiii)\).*$"
-        rgx = r"^\(([ivx]{1,3})\).*$"
+        # rgx = r"^\((ⅰ|ii|iii|iiia|iv|v|vi|vii|viii|ix|x|xi|xii|xiii)\).*$"
+        rgx = r"^\(([ivx]{1,3}[a]{0,1})\).*$"
         return re.search(rgx, text)
 
     @classmethod
@@ -95,11 +99,11 @@ class Rgx(object):
 
     @classmethod
     def is_subparagraph(cls, text: str) -> re.Match:
-        rgx = r"^\(([a-z]{0,3})\).*$"
+        rgx = r"^\(([a-z]{0,4})\).*$"
         return re.search(rgx,text)
 
     @classmethod
     def is_bulletpoint(cls, text: str) -> re.Match:
-        # rgx = r"^\((ⅰ|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|xiii)\).*$"
-        rgx = r"^\(([ivx]{1,3})\).*$"
+        # rgx = r"^\((ⅰ|ii|iii|iiia|iv|v|vi|vii|viii|ix|x|xi|xii|xiii)\).*$"
+        rgx = r"^\(([ivx]{1,3}[a]{0,1})\).*$"
         return re.search(rgx,text)

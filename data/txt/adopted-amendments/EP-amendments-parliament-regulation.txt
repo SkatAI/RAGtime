@@ -300,7 +300,7 @@ loc: Article 4
 4. deleted
 
 Amendment 213
-loc: Article 4a (new)
+loc: Article 4a - paragraph 1 (new)
 == Article 4a: General principles applicable to all AI systems
 1. All operators falling under this Regulation shall make their best efforts to develop and use AI systems or foundation models in accordance with the following general principles establishing a high-level framework that promotes a coherent human-centric European approach to ethical and trustworthy Artificial Intelligence, which is fully in line with the Charter as well as the values on which the Union is founded:
 (a) ‘human agency and oversight’ means that AI systems shall be developed and used as a tool that serves people, respects human dignity and personal autonomy, and that is functioning in a way that can be appropriately controlled and overseen by humans;
@@ -797,12 +797,12 @@ loc: Article 15 - paragraph 4 - subparagraph 3
 The technical solutions to address AI specific vulnerabilities shall include, where appropriate, measures to prevent, detect, respond to, resolve and control for attacks trying to manipulate the training dataset (‘data poisoning’), or pre-trained components used in training (‘model poisoning’) , inputs designed to cause the model to make a mistake (‘adversarial examples’ or ‘model evasion’), confidentiality attacks or model flaws, which could lead to harmful decision-making.
 
 Amendment 330
-Title III - Chapter 3 - title
-OBLIGATIONS OF PROVIDERS AND DEPLOYERS OF HIGH-RISK AI SYSTEMS AND OTHER PARTIES
+loc: TITLE III - Chapter 3 - title
+## TITLE III: OBLIGATIONS OF PROVIDERS AND DEPLOYERS OF HIGH-RISK AI SYSTEMS AND OTHER PARTIES
 
 Amendment 331
 loc: Article 16 - title
-Obligations of providers and deployers of high-risk AI systems and other parties
+== Article 16: Obligations of providers and deployers of high-risk AI systems and other parties
 
 Amendment 332
 loc: Article 16 - paragraph 1 - point a
@@ -897,7 +897,7 @@ loc: Article 18 - paragraph 2
 2. deleted
 
 Amendment 355
-Article 19
+loc: Article 19
 19. deleted
 
 Amendment 356
@@ -1080,7 +1080,7 @@ loc: Article 28 - paragraph 2b (new)
 2b. For the purposes of this Article, trade secrets shall be preserved and shall only be disclosed provided that all specific necessary measures pursuant to Directive (EU) 2016/943 are taken in advance to preserve their confidentiality, in particular with respect to third parties. Where necessary, appropriate technical and organizational arrangements can be agreed to protect intellectual property rights or trade secrets.
 
 Amendment 398
-Article 28a (new)
+loc: Article 28a (new)
 == Article 28a: Unfair contractual terms unilaterally imposed on an SME or startup
 1. A contractual term concerning the supply of tools, services, components or processes that are used or integrated in a high risk AI system or the remedies for the breach or the termination of related obligations which has been unilaterally imposed by an enterprise on a SME or startup shall not be binding on the latter enterprise if it is unfair.
 2. A contractual term is not to be considered unfair where it arises from applicable Union law.
@@ -1095,7 +1095,7 @@ Article 28a (new)
 8. Given the rapidity in which innovations occur in the markets, the list of unfair contractual terms within Article 28a shall be reviewed regularly by the Commission and be updated to new business practices if necessary.
 
 Amendment 399
-Article 28b (new)
+loc: Article 28b (new)
 == Article 28b: Obligations of the provider of a foundation model
 1. A provider of a foundation model shall, prior to making it available on the market or putting it into service, ensure that it is compliant with the requirements set out in this Article, regardless of whether it is provided as a standalone model or embedded in an AI system or a product, or provided under free and open source licences, as a service, as well as other distribution channels.
 2. For the purpose of paragraph 1, the provider of a foundation model shall:
@@ -1120,9 +1120,9 @@ loc: Article 29 - paragraph 1
 Amendment 401
 loc: Article 29 - paragraph 1a (new)
 1a. To the extent deployers exercise control over the high-risk AI system, they shall
-(i) implement human oversight according to the requirements laid down in this Regulation
-(ii) ensure that the natural persons assigned to ensure human oversight of the high-risk AI systems are competent, properly qualified and trained, and have the necessary resources in order to ensure the effective supervision of the AI system in accordance with Article 14
-(iii) ensure that relevant and appropriate robustness and cybersecurity measures are regularly monitored for effectiveness and are regularly adjusted or updated.
+- (i) implement human oversight according to the requirements laid down in this Regulation
+- (ii) ensure that the natural persons assigned to ensure human oversight of the high-risk AI systems are competent, properly qualified and trained, and have the necessary resources in order to ensure the effective supervision of the AI system in accordance with Article 14
+- (iii) ensure that relevant and appropriate robustness and cybersecurity measures are regularly monitored for effectiveness and are regularly adjusted or updated.
 
 Amendment 402
 loc: Article 29 - paragraph 2
@@ -1169,7 +1169,7 @@ loc: Article 29 - paragraph 6b (new)
 6b. Deployers shall cooperate with the relevant national competent authorities on any action those authorities take in relation with the high-risk system in order to implement this Regulation.
 
 Amendment 413
-Article 29a (new)
+loc: Article 29a (new)
 == Article 29a: Fundamental rights impact assessment for high-risk AI systems
 1. Prior to putting a high-risk AI system as defined in Article 6(2) into use, with the exception of AI systems intended to be used in area 2 of Annex III, deployers shall conduct an assessment of the systems’ impact in the specific context of use. This assessment shall include, at a minimum, the following elements:
 (a) a clear outline of the intended purpose for which the system will be used;
@@ -1250,7 +1250,7 @@ loc: Article 34 - paragraph 4
 
 Amendment 429
 loc: Article 35 - title
-Identification numbers and lists of notified bodies
+== Article 35: Identification numbers and lists of notified bodies
 
 Amendment 430
 loc: Article 36 - paragraph 1
@@ -1472,7 +1472,8 @@ loc: Article 51 - paragraph 1c (new)
 1c. An updated registration entry must be completed immediately following each substantial modification.
 
 Amendment 482
-## Title IV: TRANSPARENCY OBLIGATIONS
+loc: TITLE IV
+## TITLE IV: TRANSPARENCY OBLIGATIONS
 
 Amendment 483
 loc: Article 52 - title
@@ -1568,7 +1569,7 @@ loc: Article 53 - paragraph 6a (new)
 6a. For the purpose of paragraph 1 and 1a, the Commission shall play a complementary role, enabling Member States to build on their expertise and, on the other hand, assisting and providing technical understanding and resources to those Member States that seek guidance on the set-up and running of these regulatory sandboxes;
 
 Amendment 505
-Article 53a (new)
+loc: Article 53a (new)
 == Article 53a: Modalities and functioning of AI regulatory sandboxes
 1. In order to avoid fragmentation across the Union, the Commission, in consultation with the AI office, shall adopt a delegated act detailing the modalities for the establishment, development, implementation, functioning and supervision of the AI regulatory sandboxes, including the eligibility criteria and the procedure for the application, selection, participation and exiting from the sandbox, and the rights and obligations of the participants based on the provisions set out in this Article;
 2. The Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 73, no later than 12 months following the entry into force of this Regulation and shall ensure that:
@@ -1626,7 +1627,7 @@ loc: Article 54 - paragraph 1 - point j
 (j) a short summary of the AI system developed in the sandbox, its objectives, hypotheses, and expected results, published on the website of the competent authorities;
 
 Amendment 516
-Article 54a (new)
+loc: Article 54a (new)
 == Article 54a: Promotion of AI research and development in support of socially and environmentally beneficial outcomes
 1. Member States shall promote research and development of AI solutions which support socially and environmentally beneficial outcomes, including but not limited to development of AI-based solutions to increase accessibility for persons with disabilities, tackle socio-economic inequalities, and meet sustainability and environmental targets, by:
 (a) providing relevant projects with priority access to the AI regulatory sandboxes to the extent that they fulfil the eligibility conditions;
@@ -1680,7 +1681,7 @@ loc: Article 56 - paragraph 2a (new)
 2a. The seat of the AI Office shall be in Brussels.
 
 Amendment 528
-Article 56a (new)
+loc: Article 56a (new)
 == Article 56a: Structure
 1. The administrative and management structure of the AI Office shall comprise:
 (a) a management board, including a chair
@@ -1688,7 +1689,7 @@ Article 56a (new)
 (c) an advisory forum.
 
 Amendment 529
-Article 56b (new)
+loc: Article 56b (new)
 == Article 56b: Tasks of the AI Office
 1. The AI Office shall carry out the following tasks:
 (a) support, advise, and cooperate with Member States, national supervisory authorities, the Commission and other Union institutions, bodies, offices and agencies with regard to the implementation of this Regulation;
@@ -1699,7 +1700,8 @@ Article 56b (new)
 (f) contribute to the effective cooperation with the competent authorities of third countries and with international organisations,
 (g) collect and share Member States’ expertise and best practices and to assist Member States national supervisory authorities and the Commission in developing the organizational and technical expertise required for the implementation of this Regulation, including by means of facilitating the creation and maintenance of a Union pool of experts
 (h) examine, on its own initiative or upon the request of its management board or the Commission, questions relating to the implementation of this Regulation and to issue opinions, recommendations or written contributions including with regard to:
-(i) technical specifications or existing standards; (ii) the Commission’s guidelines
+(i) technical specifications or existing standards;
+(ii) the Commission’s guidelines
 (iii) codes of conduct and the application thereof, in close cooperation with industry and other relevant stakeholders;
 (iv) the possible revision of the Regulation, the preparation of the delegated acts, and possible alignments of this Regulation with the legal acts listed in Annex II;
 (v) trends, such as European global competitiveness in artificial intelligence, the uptake of artificial intelligence in the Union, the development of digital skills, and emerging systemic threats relating to artificial intelligence
@@ -1719,7 +1721,7 @@ Article 56b (new)
 (s) promote AI literacy pursuant to Article 4b.
 
 Amendment 530
-Article 56c (new)
+loc: Article 56c (new)
 == Article 56c: Accountability, independence, and transparency
 1. The AI Office shall:
 a. be accountable to the European Parliament and to the Council in accordance with this Regulation;
@@ -1732,7 +1734,7 @@ loc: Chapter 2 - title
 ** Chapter 2: Management Board
 
 Amendment 532
-Article 57a (new)
+loc: Article 57a (new)
 == Article 57a: Composition of the management board
 1. The management board shall be composed of the following members:
 (a) one representative of each Member State’s national supervisory authority;
@@ -1786,7 +1788,7 @@ loc: Article 57 - paragraph 4
 
 Amendment 540
 loc: Article 58 - Chapter 4 - title
-Chapter: Advisory Forum
+** Chapter 4: Advisory Forum
 
 Amendment 541
 loc: Article 58 - paragraph 1 - introductory part
@@ -1833,7 +1835,7 @@ loc: Chapter 5 - title
 ** Chapter 5: European Authorities on benchmarking
 
 Amendment 552
-Article 58a (new)
+loc: Article 58a (new)
 == Article 58a: Benchmarking
 1. The European authorities on benchmarking referred to in Article 15 (1a) and the AI Office shall, in close cooperation with international partners, jointly develop cost-effective guidance and capabilities to measure and benchmark aspects of AI systems and AI components, and in particular of foundation models relevant to the compliance and enforcement of this Regulation based on the generally acknowledged state of the art, including as reflected in relevant harmonized standards.
 
@@ -1886,7 +1888,7 @@ loc: Article 59 - paragraph 8
 8. When Union institutions, agencies and bodies fall within the scope of this Regulation, the European Data Protection Supervisor shall act as the competent authority for their supervision and coordination.
 
 Amendment 565
-Article 59a (new)
+loc: Article 59a (new)
 == Article 59a: Cooperation mechanism between national supervisory authorities in cases involving two or more Member States
 1. Each national supervisory authority shall perform its tasks and powers conferred on in accordance with this Regulation on the territory of its own Member State.
 2. In the event of a case involving two or more national supervisory authorities, the national supervisory authority of the Member State where the infringement took place shall be considered the lead supervisory authority.
@@ -1894,7 +1896,7 @@ Article 59a (new)
 
 Amendment 566
 loc: title VII
-## Title VII: EU DATABASE FOR HIGH-RISK AI SYSTEMS
+## TITLE VII: EU DATABASE FOR HIGH-RISK AI SYSTEMS
 
 Amendment 567
 loc: Article 60 - title
@@ -1935,7 +1937,7 @@ loc: Article 61 - paragraph 3
 
 Amendment 576
 loc: Article 62 - title
-Reporting of serious incidents
+== Article 62: Reporting of serious incidents
 
 Amendment 577
 loc: Article 62 - paragraph 1 - introductory part
@@ -2080,7 +2082,7 @@ loc: Article 66 - paragraph 2
 2. If the national measure is considered justified, all national supervisory authorities designated under this Regulation shall take the measures necessary to ensure that the non-compliant AI system is withdrawn from their market without delay, and shall inform the Commission and the AI Office accordingly. If the national measure is considered unjustified, the national supervisory authority of the Member State concerned shall withdraw the measure.
 
 Amendment 612
-Article 66a (new)
+loc: Article 66a (new)
 == Article 66a: Joint investigations
 1. Where a national supervisory authority has reasons to suspect that the infringement by a provider or a deployer of a high-risk AI system or foundation model to this Regulation amount to a widespread infringement with a Union dimension, or affects or is likely affect at least 45 million individuals, in more than one Member State, that national supervisory authority shall inform the AI Office and may request the national supervisory authorities of the Member States where such infringement took place to start a joint investigation. The AI Office shall provide central coordination to the joint investigation. Investigation powers shall remain within the competence of the national supervisory authorities.
 
@@ -2145,13 +2147,13 @@ loc: Article 68 - Chapter 3a (new)
 3a. Remedies
 
 Amendment 628
-Article 68a (new)
+loc: Article 68a (new)
 == Article 68a: Right to lodge a complaint with a national supervisory authority
 1. Without prejudice to any other administrative or judicial remedy, every natural persons or groups of natural persons shall have the right to lodge a complaint with a national supervisory authority, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringement if they consider that the AI system relating to him or her infringes this Regulation.
 2. The national supervisory authority with which the complaint has been lodged shall inform the complainant on the progress and the outcome of the complaint including the possibility of a judicial remedy pursuant to Article 78.
 
 Amendment 629
-Article 68b (new)
+loc: Article 68b (new)
 == Article 68b: Right to an effective judicial remedy against a national supervisory authority
 1. Without prejudice to any other administrative or non-judicial remedy, each natural or legal person shall have the right to an effective judicial remedy against a legally binding decision of a national supervisory authority concerning them.
 2. Without prejudice to any other administrative or non-judicial remedy, each natural or legal person shall have the right to a an effective judicial remedy where the national supervisory authority which is competent pursuant to Articles 59 does not handle a complaint or does not inform the data subject within three months on the progress or outcome of the complaint lodged pursuant to Article 68a.
@@ -2159,22 +2161,22 @@ Article 68b (new)
 4. Where proceedings are brought against a decision of a national supervisory authority which was preceded by an opinion or a decision of the Commission in the union safeguard procedure, the supervisory authority shall forward that opinion or decision to the court.
 
 Amendment 630
-Article 68c (new)
+loc: Article 68c (new)
 == Article 68c: A right to explanation of individual decision-making
 1. Any affected person subject to a decision which is taken by the deployer on the basis of the output from an high-risk AI system which produces legal effects or similarly significantly affects him or her in a way that they consider to adversely impact their health, safety, fundamental rights, socio-economic well-being or any other of the rights deriving from the obligations laid down in this Regulation, shall have the right to request from the deployer clear and meaningful explanation pursuant to Article 13(1) on the role of the AI system in the decision-making procedure, the main parameters of the decision taken and the related input data.
 2. Paragraph 1 shall not apply to the use of AI systems for which exceptions from, or restrictions to, the obligation under paragraph 1 follow from Union or national law are provided in so far as such exception or restrictions respect the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society.
 3. This Article shall apply without prejudice to Articles 13, 14, 15, and 22 of the Regulation 2016/679.
 
 Amendment 631
-Article 68d (new)
+loc: Article 68d (new)
 == Article 68d: Amendment: to Directive (EU) 2020/1828
-In Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council 1a, the following point is added:
+1. In Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council 1a, the following point is added:
 “(67a) Regulation xxxx/xxxx of the European Parliament and of the Council [laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts (OJ L ...)]”.
 
 Amendment 632
-Article 68e (new)
+loc: Article 68e (new)
 == Article 68e: Reporting of breaches and protection of reporting persons
-Directive (EU) 2019/1937 of the European Parliament and of the Council shall apply to the reporting of breaches of this Regulation and the protection of persons reporting such breaches.
+1. Directive (EU) 2019/1937 of the European Parliament and of the Council shall apply to the reporting of breaches of this Regulation and the protection of persons reporting such breaches.
 
 Amendment 633
 loc: Article 69 - paragraph 1
@@ -2385,19 +2387,19 @@ loc: Article 73 - paragraph 3a (new)
 Once the Commission decides to draft a delegated act, it shall notify the European Parliament of this fact. This notification does not place an obligation on the Commission to adopt the said act.
 
 Amendment 683
-Article 81a (new)
+loc: Article 81a (new)
 == Article 81a: Amendment: to Regulation (EU) 2019/1020
 1. Regulation (EU) 2019/1020 is amended as follows:
 in Article 14(4), the following paragraph is added:
 “(l). the power to implement the powers provided for in this Article remotely, where applicable;”
 
 Amendment 684
-Article 82a (new)
+loc: Article 82a (new)
 == Article 82a: Better Regulation
 1. in taking into account the requirements of this Regulation pursuant to the Amendments in Articles 75, 76, 77, 78, 79, 80, 81, and 82, the Commission shall conduct an analysis and consult relevant stakeholders to determine potential gaps as well as overlaps between existing sectoral legislation and the provisions of this Regulation.
 
 Amendment 685
-Article 82b (new)
+loc: Article 82b (new)
 == Article 82b: Guidelines from the Commission on the implementation of this Regulation
 1. The Commission shall develop, in consultation with the AI office, guidelines on the practical implementation of this Regulation, and in particular on:
 (a) the application of the requirements referred to in Articles 8 - 15 and Article 28 to 28b;

@@ -2,6 +2,7 @@
 '''
 
 # usual libs
+import pandas as pd
 import os, re, json, glob
 import time, datetime
 from datetime import timedelta
@@ -9,6 +10,15 @@ from tqdm import tqdm
 import typing as t
 from reconcile import Line, Rgx
 
+# check that order works
+def assert_order(df: pd.DataFrame) ->t.List:
+    missorder = []
+    for i,j in zip(df.index, df.sort_values(by = 'order').index):
+        if i != j:
+            missorder.append((i,j))
+    if len(missorder) > 0:
+        print("{len(missorder)} in missorder\n{missorder[:10]}")
+    return missorder
 
 if __name__ == "__main__":
 
