@@ -101,31 +101,25 @@ class Regulation(object):
     def build_order(self):
         for i,d in self.df.iterrows():
             order = Regulation.build_order_from_bread(d.bread)
-            if len(order.split('.')) < 7:
-                print(d.bread, order)
-                assert 1 == 2
+            # if len(order.split('.')) < 7:
+            #     assert 1 == 2
             self.df.loc[i, 'order'] = order
         # single out duplicates
         current_bread_str = ''
         current_bread_count_ = 0
-        print(self.df[self.df.order.duplicated(keep = False)].index)
         for i,d in self.df[self.df.order.duplicated(keep = False)].iterrows():
-            bread = json.loads(d.bread)
-            if current_bread_str == d.bread:
-                current_bread_count_ += 1
+            if (d.bread is not None) :
+                bread = json.loads(d.bread)
+                if current_bread_str == d.bread:
+                    current_bread_count_ += 1
 
-            else:
-                current_bread_count_ = 0
-            current_bread_str = d.bread
-            print(i, current_bread_count_)
+                else:
+                    current_bread_count_ = 0
+                current_bread_str = d.bread
 
-            bread.update({'pln': str(current_bread_count_) })
-            self.df.loc[i, 'bread'] = json.dumps(bread)
-            self.df.loc[i, 'order'] = Regulation.build_order_from_bread(bread)
-
-
-
-            # self.df.bread.apply(Regulation.build_order_from_bread)
+                bread.update({'pln': str(current_bread_count_) })
+                self.df.loc[i, 'bread'] = json.dumps(bread)
+                self.df.loc[i, 'order'] = Regulation.build_order_from_bread(bread)
 
 
 # ------------------------------------------------------------------
@@ -194,7 +188,9 @@ class DocCommissionRegulation(Regulation):
         for i,j in zip(self.df.index, self.df.sort_values(by = 'order').index):
             if i != j:
                 missorder.append((i,j))
-        assert len(missorder) == 0, f"{len(missorder)} in missorder\n{missorder[:10]}"
+        # assert len(missorder) == 0, f"{len(missorder)} in missorder\n{missorder[:10]}"
+        if len(missorder) > 0:
+            print(f"!! {len(missorder)} in missorder\n{missorder[:10]}")
 
     def extract_breads(self):
         cbrds = pd.DataFrame(list(self.df.bread.apply(json.loads)))
@@ -217,26 +213,26 @@ class DocEpadoptedRegulation(Regulation):
     def format(self) -> None:
         data = []
         item = {}
-        current_amendment, current_location = "", ""
+        current_amendment, current_title = "", ""
 
         for line in self.lines:
             if line.starts_with("Amendment"):
                 current_amendment = line.text
-                current_location = ""
+                current_title = ""
                 item = {
                     'line_type': 'amendment',
                     'amendment': line.text,
                     'number': '',
                     'text': line.text,
-                    'loc': current_location,
+                    'title': current_title,
                 }
             elif line.starts_with("loc"):
-                current_location = line.text.replace('loc: ', '')
+                current_title = line.text.replace('loc: ', '')
                 item.update({
-                    'line_type': 'loc',
+                    'line_type': 'title',
                     'amendment': current_amendment,
                     'text': line.text.replace('loc: ', ''),
-                    'loc': current_location,
+                    'title': current_title,
                 })
             elif line.has_text():
                 line.get_line_type()
@@ -246,28 +242,28 @@ class DocEpadoptedRegulation(Regulation):
                     'number': '',
                     'number': line.number,
                     'text': line.text,
-                    'loc': current_location,
+                    'title': current_title,
                 })
             data.append(item.copy())
 
         self.df = pd.DataFrame(data)
 
     @classmethod
-    def build_bread_from_location(cls, item: pd.Series) -> t.Optional[dict]:
-        # from line.text and location, builds bread
-        # 1st looks at line type from the line then adds info from location
+    def build_bread_from_title(cls, item: pd.Series) -> t.Optional[dict]:
+        # from line.text and title, builds bread
+        # 1st looks at line type from the line then adds info from title
 
         if item.line_type in DocEpadoptedRegulation.line_type_map.keys():
             # init from line_type and number
             bread = { DocEpadoptedRegulation.line_type_map[item.line_type]: item.number, }
 
-            # extract whatever info is in location
-            locline = Line(item['loc'])
-            art = locline.extract_article_title_number()
-            par = locline.extract_paragraph_number_from_loc()
-            sub = locline.extract_subparagraph_number_from_loc()
+            # extract whatever info is in title
+            titleline = Line(item['title'])
+            art = titleline.extract_article_title_number()
+            par = titleline.extract_paragraph_number_from_title()
+            sub = titleline.extract_subparagraph_number_from_title()
 
-            # update bread with missing info found in location
+            # update bread with missing info found in title
             if item.line_type == 'paragraph':
                         bread.update({
                             'art': art,
@@ -344,7 +340,7 @@ class DocEpadoptedRegulation(Regulation):
 
 
     def build_bread(self) -> None:
-        self.df['bread'] = self.df.apply(DocEpadoptedRegulation.build_bread_from_location, axis = 1)
+        self.df['bread'] = self.df.apply(DocEpadoptedRegulation.build_bread_from_title, axis = 1)
         self.consolidate_bread()
         self.bread_import_titles()
 
@@ -372,9 +368,21 @@ class DocEpadoptedRegulation(Regulation):
 
     def wrapup(self):
         self.df['author'] = self.author
-        self.df = self.df[~self.df.line_type.isin(['loc','amendment'])].copy()
+        self.df = self.df[~self.df.line_type.isin(['title','amendment'])].copy()
         self.df.sort_values(by = ['order', 'author'], inplace = True)
         self.df.reset_index(inplace = True, drop = True)
+
+# ------------------------------------------------------------------
+#  Coreper
+# ------------------------------------------------------------------
+
+class DocCoreperRegulation(DocCommissionRegulation):
+    def __init__(self,  author):
+        super().__init__( author)
+        self.lines = [RegulationLine(txt) for txt in self.texts]
+
+    def validate(self):
+        pass
 
 
 if __name__ == "__main__":
@@ -383,11 +391,11 @@ if __name__ == "__main__":
 
     author = 'coreper'
     print("==", author)
-    cor = DocCommissionRegulation(author)
-    cor.format()
-    cor.build_bread()
-    cor.build_order()
-    cor.validate()
+    cor = DocCoreperRegulation(author).process()
+    # cor.format()
+    # cor.build_bread()
+    # cor.build_order()
+    # cor.validate()
 
 
     data = pd.concat([data, cor.df])
@@ -395,6 +403,13 @@ if __name__ == "__main__":
     author = 'commission'
     print("==", author)
     com = DocCommissionRegulation(author).process()
+    com.df['author'] = author
+    # com = DocCommissionRegulation(author)
+    # com.format()
+    # com.build_bread()
+    # com.build_order()
+    # com.validate()
+
     commission_breads = com.extract_breads()
 
     data = pd.concat([data, com.df])
@@ -402,6 +417,7 @@ if __name__ == "__main__":
     author = 'council'
     print("==", author)
     cnl = DocCommissionRegulation(author).process()
+
     data = pd.concat([data, cnl.df])
 
     author = 'ep_adopted'

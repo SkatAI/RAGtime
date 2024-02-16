@@ -98,24 +98,21 @@ class Line(object):
         match = Rgx.extract_paragraph_number(self.text)
         return match.group(1).strip() if match else None
 
-    def extract_paragraph_number_from_loc(self) -> t.Optional[str]:
-        match = Rgx.extract_paragraph_number_from_loc(self.text)
+    def extract_paragraph_number_from_title(self) -> t.Optional[str]:
+        match = Rgx.extract_paragraph_number_from_title(self.text)
         return match.group(1).strip() if match else None
 
     def extract_subparagraph_number(self) -> t.Optional[str]:
         match = Rgx.extract_subparagraph_number(self.text)
         return match.group(1).strip() if match else None
 
-    def extract_subparagraph_number_from_loc(self) -> t.Optional[str]:
-        match = Rgx.extract_subparagraph_number_from_loc(self.text)
+    def extract_subparagraph_number_from_title(self) -> t.Optional[str]:
+        match = Rgx.extract_subparagraph_number_from_title(self.text)
         return match.group(1).strip() if match else None
 
     def extract_bulletpoint_number(self) -> t.Optional[str]:
         match = Rgx.extract_bulletpoint_number(self.text)
         return match.group(1).strip() if match else None
-
-    def parse_loc(self) -> t.Dict:
-        return {}
 
 class RecitalLine(Line):
     def __init__(self, line):

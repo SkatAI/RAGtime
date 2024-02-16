@@ -1,0 +1,1818 @@
+Amendment 3010
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex I
+deleted
+
+Amendment 3011
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Cornelia Ernst
+Annex I
+deleted
+
+Amendment 3012
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López Aguilar,
+Annex I
+deleted
+
+Amendment 3013
+ECR - European Conservatives and Reformists Group
+Carlo Fidanza
+Annex I - point b
+deleted
+
+Amendment 3014
+EPP - Group of the European Peoples Party (Christian Democrats)
+Geoffroy Didier
+Annex I - point b
+deleted
+
+Amendment 3015
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune
+Annex I - point b
+deleted
+
+Amendment 3016
+EPP - Group of the European Peoples Party (Christian Democrats)
+Karlo Ressler
+Annex I - point b
+deleted
+
+Amendment 3017
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Morten Løkkegaard, Vlad-Marius Botoş, Moritz Körner,
+Annex I - point b
+deleted
+
+Amendment 3018
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Eugen Jurzyca, Patryk Jaki, Adam Bielan
+Annex I - point b
+(b) Other data-driven approaches, including search and optimization methods.
+
+Amendment 3019
+ECR - European Conservatives and Reformists Group
+Carlo Fidanza
+Annex I - point c
+deleted
+
+Amendment 3020
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune
+Annex I - point c
+deleted
+
+Amendment 3021
+EPP - Group of the European Peoples Party (Christian Democrats)
+Jörgen Warborn, Arba Kokalari, Tomas Tobé
+Annex I - point c
+deleted
+
+Amendment 3022
+EPP - Group of the European Peoples Party (Christian Democrats)
+Karlo Ressler
+Annex I - point c
+deleted
+
+Amendment 3023
+EPP - Group of the European Peoples Party (Christian Democrats)
+Geoffroy Didier
+Annex I - point c
+deleted
+
+Amendment 3024
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Morten Løkkegaard, Vlad-Marius Botoş, Moritz Körner,
+Annex I - point c
+deleted
+
+Amendment 3025
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Eugen Jurzyca, Patryk Jaki, Adam Bielan
+Annex I - point c a (new)
+(c) Statistical approaches, Bayesian estimation, if they are used to extract decisions from data in an automated way and search.
+
+Amendment 3026
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex I - point c a (new)
+(c a) Approaches based on neural network imitation and neuro-robotic networks;
+
+Amendment 3027
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex I - point c b (new)
+(c b) Machine learning tasks on graphs for repetition tasks or pattern recognition;
+
+Amendment 3028
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex I - point c c (new)
+(c c) Natural language programming techniques, including emotion detection and recognition systems, using interactions between human language and computer language;
+
+Amendment 3029
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex I - point c d (new)
+(c d) Artificial vision for pattern recognition, including graphical analysis or digital signature identification;
+
+Amendment 3030
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex I - point c e (new)
+(c e) Interactive systems related to mechatronics, robotics and automation systems.
+
+Amendment 3031
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex II - Part A - point 6
+deleted
+
+Amendment 3032
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex II - Part A - point 11
+deleted
+
+Amendment 3033
+EPP - Group of the European Peoples Party (Christian Democrats)
+Deirdre Clune, Axel Voss, Andreas Schwab
+Annex II - Part A - point 11
+deleted
+
+Amendment 3034
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex II - Part A - point 12
+deleted
+
+Amendment 3035
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex II - Part A - point 12 a (new)
+12 a. Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L96/357, 29.3.2014).
+
+Amendment 3036
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex II - Part A - point 12 a (new)
+12a. [REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a Single Market For Digital Services (Digital Services Act) and amending Directive 2000/31/EC]
+
+Amendment 3037
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex II - Part A - point 12 b (new)
+12b. [REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on contestable and fair markets in the digital sector (Digital Markets Act)].
+
+Amendment 3038
+EPP - Group of the European Peoples Party (Christian Democrats)
+Deirdre Clune, Axel Voss, Andreas Schwab
+Annex II - Part B - point 7 a (new)
+7 a. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117,5.5.2017, p. 1;
+
+Amendment 3039
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex II - Part B - point 7 a (new)
+7 a. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1;
+
+Amendment 3040
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex II - Part B - point 7 a (new)
+7 a. Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products.
+
+Amendment 3041
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex II - Part B - point 7 b (new)
+7 b. Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176).
+
+Amendment 3042
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - title
+INDICATIVE LIST OF HIGH-RISK AI SYSTEMS REFERRED TO IN ARTICLE 6(2)
+
+Amendment 3043
+EPP - Group of the European Peoples Party (Christian Democrats)
+Geoffroy Didier
+Annex III - title
+HIGH-RISK USES OF AI SYSTEMS REFERRED TO IN ARTICLE 6(2)
+
+Amendment 3044
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - title
+CRITICAL USE CASES REFERRED TO IN ARTICLE 6(2)
+
+Amendment 3045
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Morten Løkkegaard, Vlad-Marius Botoş, Moritz Körner,
+Annex III - title
+CRITICAL AREAS REFERRED TO IN ARTICLE 6(2)
+
+Amendment 3046
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - introductory part
+The AI systems specifically mentioned under points 1-8 stand for critical use cases and are each considered to be high-risk AI systems pursuant to Article 6(2), when - according to their instructions to use - their intended purpose and specific use pose a significant risk of harm to the health and safety or a risk of adverse impact on fundamental rights:
+
+Amendment 3047
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 1 - introductory part
+1. 1.Biometric and biometrics-based systems:', '(a) AI systems intended to be used for the ‘real-time’ and ‘post’ remote biometric identification of natural persons;', '(b) AI systems intended to be used for the remote biometric categorisation of natural persons in publicly-accessible spaces;', '(c) AI systems intended to be used for emotion recognition in natural persons;
+
+Amendment 3048
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune
+Annex III - paragraph 1 - point 1 - introductory part
+1. Biometric identification systems, excluding biometric authentication or verification, intended to be used for the ‘real-time’ and ‘post’ remote biometric identification or categorisation of natural persons (i.e., revealing their identity or tracking their behaviour) without their expressed or implied consent and causing legal effects or discrimination against the affected person;
+
+Amendment 3049
+ECR - European Conservatives and Reformists Group
+Rob Rooken
+Annex III - paragraph 1 - point 1 - introductory part
+1. Biometric or biometrics-based profiling, including identification and categorisation of natural persons:
+
+Amendment 3050
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 1 - introductory part
+1. Biometric identification, biometrics-based data and categorisation of natural persons:
+
+Amendment 3051
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Patryk Jaki, Eugen Jurzyca, Adam Bielan
+Annex III - paragraph 1 - point 1 - introductory part
+1. Biometrics systems identification and categorisation of natural persons
+
+Amendment 3052
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - introductory part
+1. AI systems which use biometric or biometrics-based data:
+
+Amendment 3053
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 1 - introductory part
+1. AI systems which use biometric or biometrics-based data:
+
+Amendment 3054
+EPP - Group of the European Peoples Party (Christian Democrats)
+Krzysztof Hetman, Adam Jarubas, Andrzej Halicki, Jerzy Buzek, Janusz Lewandowski,
+Annex III - paragraph 1 - point 1 - introductory part
+1. Biometric identification of natural persons:
+
+Amendment 3055
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune
+Annex III - paragraph 1 - point 1 - point a
+deleted
+
+Amendment 3056
+Renew - Renew Europe Group
+Dragoş Tudorache
+Annex III - paragraph 1 - point 1 - point a
+deleted
+
+Amendment 3057
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 1 - point a
+deleted
+
+Amendment 3058
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Andreas Schieder, Alex Agius Saliba, Bettina Vollath, Tsvetelina
+Annex III - paragraph 1 - point 1 - point a
+deleted
+
+Amendment 3059
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Morten Løkkegaard, Vlad-Marius Botoş, Moritz Körner,
+Annex III - paragraph 1 - point 1 - point a
+(a) AI systems intended to be used for the ‘real-time’ and ‘post’ remote biometric identification of natural persons, excluding verification/authentification systems whose sole purpose is to confirm that a specific natural person is the person he or she claims to be, and systems that are used to confirm the identity of a natural person for the sole purpose of having access to a service, a device or premises;
+
+Amendment 3060
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 1 - point a
+(a) AI systems that are or may be used for the biometric identification of natural persons, including in workplaces, in educational settings and in border surveillance, or for the provision of public or essential services;
+
+Amendment 3061
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 1 - point a
+(a) AI systems intended to be used for the ‘real-time’ and ‘post’ remote biometric identification of natural persons, within the strict limits of the exemption from the general prohibition on their use laid down in Article 5;
+
+Amendment 3062
+EPP - Group of the European Peoples Party (Christian Democrats)
+Krzysztof Hetman, Adam Jarubas, Andrzej Halicki, Jerzy Buzek, Janusz Lewandowski,
+Annex III - paragraph 1 - point 1 - point a
+(a) AI systems intended to be used for the ‘real-time’ and ‘post’ remote biometric identification of natural persons without their agreement, including remote biometric identification;
+
+Amendment 3063
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Patryk Jaki, Eugen Jurzyca
+Annex III - paragraph 1 - point 1 - point a
+(a) AI biometric identification systems intended to be used for the ‘real time’ and ‘post’ remote biometric identification of natural persons without their agreement;
+
+Amendment 3064
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a
+(a) AI systems that are or may be used for the ‘real-time’ and ‘post’ remote biometric identification of natural persons;
+
+Amendment 3065
+ECR - European Conservatives and Reformists Group
+Rob Rooken
+Annex III - paragraph 1 - point 1 - point a
+(a) AI systems used for the ‘real-time’ and ‘post’ biometric identification of natural persons;
+
+Amendment 3066
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Karen Melchior, Vlad-Marius Botoş, Abir Al-Sahlani, Moritz
+Annex III - paragraph 1 - point 1 - point a a (new)
+(a a) AI systems intended to be used to make inferences on the basis of biometric data, including emotion recognition systems, or biometrics-based data, including speech patterns, tone of voice, lip-reading and body language analysis, that produces legal effects or affects the rights and freedoms of natural persons.
+
+Amendment 3067
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 1 - point a a (new)
+(a a) AI systems that are or may be used for the detection of a person’s presence, in workplaces, in educational settings, and in border surveillance, including in the virtual / online version of these spaces, on the basis of their biometric or biometrics-based data;
+
+Amendment 3068
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a a (new)
+(a a) AI systems that are or may be used for the biometric identification of natural persons in publicly accessible spaces, as well as in workplaces, in educational settings and in border surveillance, or in the provision of public or essential services;
+
+Amendment 3069
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 1 - point a a (new)
+(a a) AI systems that may be or are intended to be used for the ‘real-time’ and ‘post’ non-remote biometric identification of natural persons in publicly accessible spaces, as well as in workplaces, in educational settings and in border surveillance;
+
+Amendment 3070
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 1 - point a a (new)
+(a a) AI systems intended to be used by autonomous devices, drones or vehicles to transport or collect natural persons;
+
+Amendment 3071
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a a (new)
+(a a) AI systems that are or may be used for biometric verification in publicly accessible spaces, as well as in workplaces and in educational settings;
+
+Amendment 3072
+ECR - European Conservatives and Reformists Group
+Rob Rooken
+Annex III - paragraph 1 - point 1 - point a a (new)
+(a a) AI categorisation systems using biometric or biometrics-based data;
+
+Amendment 3073
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a b (new)
+(a b) AI systems that are or may be used for the detection of a person’s presence, in workplaces, in educational settings, and in border surveillance, including in the virtual / online version of these spaces, on the basis of their biometric or biometrics-based data;
+
+Amendment 3074
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 1 - point a b (new)
+(a b) AI systems that may be or are intended to be used for the ‘real-time’ and ‘post’ non-remote biometric identification of natural persons in publicly accessible spaces, as well as in workplaces, in educational settings and in border surveillance;
+
+Amendment 3075
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 1 - point a b (new)
+(a b) AI systems that are or may be used for monitoring compliance with health and safety measures or inferring alertness /attentiveness for safety purposes, on the basis of biometric or biometrics-based data;
+
+Amendment 3076
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a b (new)
+(a b) AI systems that are or may be used for biometric verification in publicly accessible spaces, as well as in workplaces and in educational settings;
+
+Amendment 3077
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a b (new)
+(a b) AI systems that are or may be used for categorisation on the basis of biometric or biometrics-based data;
+
+Amendment 3078
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a c (new)
+(a c) AI systems that are or may be used for monitoring compliance with health and safety measures or inferring alertness / attentiveness for safety purposes, on the basis of biometric or biometrics-based data;
+
+Amendment 3079
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 1 - point a c (new)
+(a c) AI systems that are or may be used for ‘real-time’ and ‘post’ biometric verification in publicly accessible spaces, as well as in workplaces and in educational settings;
+
+Amendment 3080
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 1 - point a c (new)
+(a c) AI systems that are or may be used to diagnose or support diagnosis of medical conditions or medical emergencies on the basis of biometric or biometrics-based data;
+
+Amendment 3081
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a c (new)
+(a c) AI systems that are or may be used to diagnose or support diagnosis of medical conditions or medical emergencies on the basis of biometric or biometrics-based data;
+
+Amendment 3082
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a c (new)
+(a c) AI systems that are or may be used for categorisation on the basis of biometric or biometrics-based data;
+
+Amendment 3083
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 1 - point a d (new)
+(a d) AI systems that are or may be used for the ‘real-time’ and ‘post’ detection of a person’s presence, in workplaces, in educational settings, and in border surveillance, including in the virtual or online version of these spaces, on the basis of their physical, physiological or behavioural data, including biometric data;
+
+Amendment 3084
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a d (new)
+(a d) AI systems that are or may be used for the detection of a person’s presence, in workplaces, in educational settings, and in border surveillance, including in the virtual / online version of these spaces, on the basis of their biometric or biometrics-based data;
+
+Amendment 3085
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 1 - point a e (new)
+(a e) AI systems intended to be used by or on behalf of competent authorities in ‘real-time’ and ‘post’ migration, asylum and border control management for the forecasting or prediction of trends related to migration, movement and border crossings.
+
+Amendment 3086
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 1 - point a e (new)
+(a e) AI systems that are or may be used for monitoring compliance with health and safety measures or inferring alertness / attentiveness for safety purposes, on the basis of biometric or biometrics-based data;
+
+Amendment 3087
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 2 - introductory part
+2. Management, operation, generation and supply of critical infrastructure, technology and energy:
+
+Amendment 3088
+EPP - Group of the European Peoples Party (Christian Democrats)
+Andrea Caroppo, Salvatore De Meo
+Annex III - paragraph 1 - point 2 - point a
+2. Critical infrastructure and protection of environment:
+
+Amendment 3089
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Cornelia Ernst
+Annex III - paragraph 1 - point 2 - point a
+(a) AI systems intended to be used as a component, the failure or malfunctioning of which endangers the health, safety or fundamental rights of persons or the safety of property, in the management, operation, generation and/or supply of the telecom, internet, and financial infrastructure, road, rail, air and water traffic, and the operation, management an/or supply of water, gas, heating, and electricity and energy (including nuclear power).
+
+Amendment 3090
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Eugen Jurzyca, Patryk Jaki, Adam Bielan, Vincenzo Sofo
+Annex III - paragraph 1 - point 2 - point a
+(a) AI systems intended to be used as safety components in the management and operation of road traffic and the supply of water, gas, heating and electricity, whose failure or malfunctioning would directly cause significant harm to the health, natural environment or safety of natural persons.
+
+Amendment 3091
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 2 - point a
+(a) AI systems that may be or are intended to be used as safety components in the management and operation of road traffic and the supply of water, gas, heating and electricity and entities falling under [Directive XXXX/XXX/EU (‘NIS 2 Directive’)].
+
+Amendment 3092
+EPP - Group of the European Peoples Party (Christian Democrats)
+Jörgen Warborn, Arba Kokalari, Tomas Tobé
+Annex III - paragraph 1 - point 2 - point a
+(a) AI systems intended to be used as safety components in the management and operation of road traffic and the supply of water, gas, heating and electricity, unless these are regulated in harmonisation legislation or sectorial regulation.
+
+Amendment 3093
+EPP - Group of the European Peoples Party (Christian Democrats)
+Andrea Caroppo, Salvatore De Meo
+Annex III - paragraph 1 - point 2 - point a
+(a) AI systems intended to be used as safety components in the management and operation of road traffic, digital infrastructure and the supply of water, gas, heating and electricity.
+
+Amendment 3094
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 2 - point a
+(a) AI systems used as safety or security components in the management and operation of road traffic to the extent that they are not embedded in a vehicle;
+
+Amendment 3095
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 2 - point a a (new)
+(a a) AI systems intended to be used as safety or security components in the management and operation of the supply of water, gas, heating and electricity, provided the failure of the AI system is highly likely to lead to an imminent threat to such supply.
+
+Amendment 3096
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+René Repasi, Marc Angel, Andreas Schieder, Paul Tang, Maria-Manuel Leitão- Marques
+Annex III - paragraph 1 - point 2 a (new)
+2 a. Vulnerable groups:', 'a) AI systems intended to be used by children in a way that may seriously affect a child’s personal development, such as by educating the child in a broad range of areas not limited to areas which parents or guardians can reasonably foresee at the time of the purchase;', 'b) AI systems, such as virtual assistants, intended to be used by natural persons for taking decisions with regard to their private lives that have legal effects or similarly significantly affect the natural persons;
+
+Amendment 3097
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 3 - point a
+(a) AI systems intended to be used for the purpose of determining or materially influence decision on the admission of natural persons to educational and vocational training institutions;
+
+Amendment 3098
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 3 - point a
+(a) AI systems that may be or are intended to be used for the purpose of determining access or assigning natural persons to educational and vocational training institutions;
+
+Amendment 3099
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex III - paragraph 1 - point 3 - point b
+(b) AI systems intended to be used for the purpose of assessing students in educational and vocational training institutions and for assessing participants in tests commonly required for admission to educational institutions or monitoring of students during exams, for determining learning objectives, and for allocating personalised learning tasks to students;
+
+Amendment 3100
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 3 - point b
+(b) AI systems that may be or are intended to be used for the purpose of assessing students in educational and vocational training institutions or for assessing participants in tests commonly required for admission to educational institutions.
+
+Amendment 3101
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 3 - point b
+(b) AI systems intended to be used for the purpose of assessing the learning outcome of students in educational and vocational training institutions and for assessing participants in tests commonly required for admission to these institutions.
+
+Amendment 3102
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Morten Løkkegaard, Sandro Gozi, Vlad-Marius Botoş,
+Annex III - paragraph 1 - point 3 - point b
+(b) AI systems intended to be used for the purpose of assessing students in educational and vocational training institutions and for assessing participants in tests commonly required for admission to those institutions.
+
+Amendment 3103
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 3 - point b a (new)
+(b a) AI systems that may be or are intended to be used for the purpose of assessing the appropriate level of education for an individual with potential effects for the methods or level of education that individual will recieve or will be able to access.
+
+Amendment 3104
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 3 - point b a (new)
+(b a) AI systems intended to be used for the optimization of individual learning processes based on a student's learning data.
+
+Amendment 3105
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 4 - introductory part
+4. Employment and work-related contractual relationships', 'AI systems intended to be used to make or materially influence decisions on:', '(i) recruitment or selection of natural persons, specifically for screening or filtering applications, evaluating candidates in the course of interviews or tests;', '(ii) promotion and termination of work-related contractual relationships;', '(iii) task allocation based on individual behaviour or personal traits or characteristics;or', '(iv) monitoring and evaluating the performance and behaviour of persons.', 'where those decisions are likely to pose a significant risk of adversely impacting fundamental rights or threatening harm to health and safety.
+
+Amendment 3106
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 4 - point a
+deleted
+
+Amendment 3107
+EPP - Group of the European Peoples Party (Christian Democrats)
+Jörgen Warborn, Arba Kokalari, Tomas Tobé
+Annex III - paragraph 1 - point 4 - point a
+(a) AI systems intended to be used to make final decisions for recruitment or selection of natural persons.
+
+Amendment 3108
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Karen Melchior, Morten Løkkegaard, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 4 - point a
+(a) AI systems intended to make autonomous decisions or materially influence decisions about recruitment or selection of natural persons, notably for screening or filtering applications, evaluating candidates in the course of interviews or tests;
+
+Amendment 3109
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 4 - point a
+(a) AI systems that may be or are intended intended to be used for recruitment or selection of natural persons, notably for advertising vacancies, screening or filtering applications, evaluating candidates in the course of interviews or tests;
+
+Amendment 3110
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 4 - point a
+(a) AI systems intended to be used in recruitment for advertising vacancies, screening or filtering applications, or evaluating candidates in the course of interviews or tests;
+
+Amendment 3111
+EPP - Group of the European Peoples Party (Christian Democrats)
+Krzysztof Hetman, Adam Jarubas, Andrzej Halicki, Jerzy Buzek, Janusz Lewandowski,
+Annex III - paragraph 1 - point 4 - point a
+(a) AI systems intended to be used for recruitment or selection of natural persons, screening or filtering applications, evaluating candidates in the course of interviews or tests;
+
+Amendment 3112
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 4 - point b
+deleted
+
+Amendment 3113
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Patryk Jaki, Adam Bielan, Vincenzo Sofo
+Annex III - paragraph 1 - point 4 - point b
+(b) AI systems intended to be used to make decisions on promotion and termination of work-related contractual relationships, based on individual behaviour or personal traits or characteristics, and for monitoring and evaluating performance and behaviour of persons in such relationships that have a likelihood of causing harm to the physical health and safety or adversely impact on the fundamental rights or have given rise to significant concerns in relation to the materialisation of such harm or adverse impact.
+
+Amendment 3114
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 4 - point b
+(b) AI that may be or are intended to be used to assist decision-making affecting the initiation, establishment, implementation and termination of an employment relationship, including AI systems intended to support collective legal and regulatory matters, particularly work-related relationships, for task allocation and for monitoring, measuring and evaluating performance and behavior of persons in such relationships.
+
+Amendment 3115
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex III - paragraph 1 - point 4 - point b
+(b) AI intended to be used for making decisions affecting the initiation, establishment, implementation, promotion and termination of an employment relationship, including AI systems intended to support collective legal and regulatory matters, particularly for task allocation and for monitoring and evaluating performance and behavior of persons or in matters of training or further education in such relationships.
+
+Amendment 3116
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 4 - point b
+(b) AI intended to be used for making decisions affecting the initiation, establishment, implementation and termination of an employment relationship, including AI systems intended to support collective legal and regulatory matters, particularly for task allocation and for monitoring and evaluating performance and behavior of persons in such relationships
+
+Amendment 3117
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 4 - point b
+(b) AI systems intended to be used for making decisions or to assist in making decisions on promotion and termination of work-related contractual relationships; for personalized task allocation based on biometrics, biometrics-based, or personal data; and for monitoring and evaluating performance and behaviour of natural persons in such relationships.
+
+Amendment 3118
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Karen Melchior, Morten Løkkegaard, Sandro Gozi, Vlad- Marius Botoş, Moritz Körner, Ondřej Kovařík, Jan-Christoph Oetjen
+Annex III - paragraph 1 - point 4 - point b
+(b) AI intended to make autonomous decisions or materially influence decisions on promotion and termination of work-related contractual relationships, for monitoring and evaluating performance and behavior of persons in such relationships.
+
+Amendment 3119
+EPP - Group of the European Peoples Party (Christian Democrats)
+Nathalie Colin-Oesterlé
+Annex III - paragraph 1 - point 4 - point b
+(b) AI intended to be used for making decisions on promotion and termination of work-related contractual relationships, and for monitoring and evaluating performance and behavior of persons in such relationships.
+
+Amendment 3120
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+René Repasi, Marc Angel, Andreas Schieder, Maria-Manuel Leitão-Marques
+Annex III - paragraph 1 - point 5 - introductory part
+5. Access to and enjoyment of essential private services and public services and benefits, including access to products:
+
+Amendment 3121
+Renew - Renew Europe Group
+Sophia in t Veld, Michal Šimečka
+Annex III - paragraph 1 - point 5 - point a
+deleted
+
+Amendment 3122
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 5 - point a
+(a) AI systems intended to be used by or on behalf of (semi-)public authorities or private parties to evaluate or predict the lawful use by, or the eligibility of, natural persons, including the self employed and micro-enterprises, for public assistance, benefits and services and essential private services including but not limited to housing, electricity, heating/cooling, finance, insurance and internet, as well as to grant reduce, revoke, or reclaim such benefits and services or set payment obligations related to these services;
+
+Amendment 3123
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 5 - point a
+(a) AI systems that may be or are intended to be used by public authorities or on behalf of public authorities to evaluate the eligibility of natural persons for public assistance benefits and services, as well as to grant, reduce, revoke, or reclaim such benefits and services;
+
+Amendment 3124
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 5 - point a
+(a) AI systems intended to be used by public authorities or on behalf of public authorities to evaluate and decide on the eligibility of natural persons for public assistance benefits and services, as well as to grant, reduce, revoke, or reclaim such benefits and services;
+
+Amendment 3125
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 5 - point a
+(a) AI systems intended to be used by public authorities or on behalf of public authorities to evaluate the eligibility of natural persons for public assistance benefits and services, as well as to grant, reduce, revoke, increase, or reclaim such benefits and services;
+
+Amendment 3126
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 5 - point b
+deleted
+
+Amendment 3127
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 5 - point b
+deleted
+
+Amendment 3128
+EPP - Group of the European Peoples Party (Christian Democrats)
+Andrea Caroppo, Salvatore De Meo
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons or establish their credit score in order to determine their access to credit or to other essential services. Ancillary applications such as AI applications used for the acceleration of the credit disbursement process, in the valuation of collateral, or for the internal process efficiency, as well as other subsequent applications based on the credit scoring which do not create high risks for individuals are not included in those systems;
+
+Amendment 3129
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+René Repasi, Marc Angel, Andreas Schieder, Maria-Manuel Leitão-Marques
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems intended to be used
+
+Amendment 3130
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Patryk Jaki
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons or assessment of insurance risk, with the exception of AI systems put into service by small scale providers for their own use or AI systems related to low-value credits for the purchase of moveables;
+
+Amendment 3131
+EPP - Group of the European Peoples Party (Christian Democrats)
+Krzysztof Hetman, Adam Jarubas, Andrzej Halicki, Jerzy Buzek, Janusz Lewandowski,
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons or establish their credit score, with the exception of AI systems put into service by small scale providers for their own use; or AI systems related to low-value credits for the purchase of movables;
+
+Amendment 3132
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons or establish their credit score;
+
+Amendment 3133
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems that may be or are intended to be used to evaluate the creditworthiness of natural persons or establish their credit score, with the exception of AI systems put into service by small scale providers for their own use;
+
+Amendment 3134
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems that may be or are intended to be used to evaluate the creditworthiness of natural persons or establish their credit score, with the exception of AI systems put into service by small scale providers for their own use;
+
+Amendment 3135
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Maria-Manuel Leitão-Marques, Eva Kaili
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons, establish their credit score, or predict human medical conditions and health-related outcomes
+
+Amendment 3136
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Morten Løkkegaard, Sandro Gozi, Vlad-Marius Botoş,
+Annex III - paragraph 1 - point 5 - point b
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons or establish their credit score, with the exception of AI systems put into service by SMEs and start-ups for their own use;
+
+Amendment 3137
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+René Repasi, Marc Angel, Andreas Schieder, Maria-Manuel Leitão-Marques
+Annex III - paragraph 1 - point 5 - point b - point i (new)
+i) to evaluate the creditworthiness of natural persons or establish their credit score,
+
+Amendment 3138
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+René Repasi, Marc Angel, Andreas Schieder, Maria-Manuel Leitão-Marques
+Annex III - paragraph 1 - point 5 - point b - point ii (new)
+ii) to evaluate the behaviour of natural persons such as with regard to complaints or the exercise of statutory or contractual rights in order to draw conclusions for their future access to private or public services,
+
+Amendment 3139
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+René Repasi, Marc Angel, Andreas Schieder, Maria-Manuel Leitão-Marques
+Annex III - paragraph 1 - point 5 - point b - point iii (new)
+iii) for making individual risk assessments of natural persons in the context of access to essential private and public services, including insurance contracts, or
+
+Amendment 3140
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+René Repasi, Marc Angel, Andreas Schieder, Maria-Manuel Leitão-Marques
+Annex III - paragraph 1 - point 5 - point b - point iv (new)
+iv) for personalized pricing within the meaning of Article 6 (1) (ea) of Directive 2011/83/EU, with the exception of AI systems put into service by small scale providers of AI systems for their own use;
+
+Amendment 3141
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 5 - point c
+(c) AI systems intended to be used, without taking any decisions on the matter, to dispatch, or to establish priority in the dispatching of emergency first response services, including by firefighters and medical aid.
+
+Amendment 3142
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 5 - point c
+(c) AI systems that may be or are intended to be used to dispatch, or to establish priority in the dispatching of emergency first response services, including by firefighters and medical aid.
+
+Amendment 3143
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 5 - point c a (new)
+(c a) AI systems that may be used or are intended to be used for making individual risk assessments of natural persons in the context of access to private and public services, including determining the amounts of insurance premiums.
+
+Amendment 3144
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Patryk Jaki
+Annex III - paragraph 1 - point 5 - point c a (new)
+(c a) AI systems intended to be used for insurance premium setting, underwritings and claims assessments, with the exception of AI systems related to low-value property insurance.
+
+Amendment 3145
+EPP - Group of the European Peoples Party (Christian Democrats)
+Krzysztof Hetman, Adam Jarubas, Andrzej Halicki, Jerzy Buzek, Janusz Lewandowski,
+Annex III - paragraph 1 - point 5 - point c a (new)
+(c a) AI systems intended to be used for insurance premium setting, underwritings and claims assessments, with the exception of AI systems related to low-value property insurance.
+
+Amendment 3146
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 5 - point c b (new)
+(c b) AI systems that may be used or are intended to be used in the context of payment and debt collection services.
+
+Amendment 3147
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 5 a (new)
+5 a. Use by vulnerable groups or in situations that imply vulnerability', '(a) AI systems intended to be used by children in a way that may seriously affect a child’s personal development, such as by educating the child in a broad range of areas not limited to areas which parents or guardians can reasonably foresee at the time of the purchase;', '(b) AI systems, such as virtual assistants, intended to be used by natural persons for taking decisions with regard to their private lives that have legal effects or similarly significantly affect the natural persons;', '(c) AI systems intended to be used for personalised pricing within the meaning of Article 6 (1) (ea) of Directive 2011/83/EU.
+
+Amendment 3148
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 6 - point a
+deleted
+
+Amendment 3149
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 6 - point a
+deleted
+
+Amendment 3150
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 6 - point a
+deleted
+
+Amendment 3151
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point a
+deleted
+
+Amendment 3152
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point a
+deleted
+
+Amendment 3153
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 6 - point a
+(a) AI systems intended to be used by law enforcement authorities or on their behalf for making individual risk assessments of natural persons in order to assess the risk for a natural person for offending or reoffending or the risk for a natural person to become a potential victim of criminal offences;
+
+Amendment 3154
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Sandro Gozi, Vlad-Marius Botoş, Abir
+Annex III - paragraph 1 - point 6 - point a
+(a) AI systems intended to be used by law enforcement authorities or on their behalf for making individual risk assessments of natural persons in order to assess the risk of a natural person for offending or reoffending or the risk for potential victims of criminal offences;
+
+Amendment 3155
+EPP - Group of the European Peoples Party (Christian Democrats)
+Jörgen Warborn, Arba Kokalari, Tomas Tobé
+Annex III - paragraph 1 - point 6 - point a a (new)
+(a a) AI systems designed for real-time remote biometric identification in publicly accessible locations for law enforcement purposes.
+
+Amendment 3156
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 6 - point b
+deleted
+
+Amendment 3157
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Andreas Schieder, Alex Agius Saliba, Bettina Vollath, Tsvetelina
+Annex III - paragraph 1 - point 6 - point b
+deleted
+
+Amendment 3158
+Renew - Renew Europe Group
+Sophia in t Veld, Michal Šimečka
+Annex III - paragraph 1 - point 6 - point b
+deleted
+
+Amendment 3159
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point b
+deleted
+
+Amendment 3160
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 6 - point b
+deleted
+
+Amendment 3161
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point b
+deleted
+
+Amendment 3162
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 6 - point b
+deleted
+
+Amendment 3163
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 6 - point b
+(b) AI systems intended to be used by law enforcement authorities or on behalf of law enforcement authorities as polygraphs and similar tools or to detect the emotional state of a natural person;
+
+Amendment 3164
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 6 - point b
+(b) AI systems intended to be used by law enforcement authorities or on their behalf as polygraphs and similar tools or to detect the emotional state of a natural person;
+
+Amendment 3165
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex III - paragraph 1 - point 6 - point c
+(c) AI systems intended to be used by law enforcement authorities or on their behalf to detect deep fakes as referred to in article 52(3) and in point 8a(a) and (b) of this Annex;
+
+Amendment 3166
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 6 - point c
+(c) AI systems intended to be used by law enforcement authorities or on behalf of law enforcement authorities to detect deep fakes as referred to in article 52(3);
+
+Amendment 3167
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 6 - point c
+(c) AI systems that may be or are intended to be used by law enforcement authorities to detect deep fakes as referred to in article 52(3);
+
+Amendment 3168
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 6 - point c
+(c) AI systems intended to be used by law enforcement authorities or on their behalf to detect deep fakes as referred to in article 52(3);
+
+Amendment 3169
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 6 - point d
+(d) AI systems intended to be used by law enforcement authorities or on behalf of law enforcement authorities for evaluation of the reliability of evidence in the course of investigation or prosecution of criminal offences;
+
+Amendment 3170
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex III - paragraph 1 - point 6 - point d
+(d) AI systems intended to be used by law enforcement authorities or on their behalf for evaluation of the reliability of evidence in the course of investigation or prosecution of criminal offences;
+
+Amendment 3171
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 6 - point d
+(d) AI systems that may be or are intended to be used by law enforcement authorities for evaluation of the reliability of evidence in the course of investigation or prosecution of criminal offences;
+
+Amendment 3172
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 6 - point d
+(d) AI systems intended to be used by law enforcement authorities or on their behalf for evaluation of the reliability of evidence in the course of investigation or prosecution of criminal offences;
+
+Amendment 3173
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 6 - point e
+deleted
+
+Amendment 3174
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point e
+deleted
+
+Amendment 3175
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point e
+deleted
+
+Amendment 3176
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 6 - point e
+deleted
+
+Amendment 3177
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Vlad-Marius Botoş,
+Annex III - paragraph 1 - point 6 - point e
+deleted
+
+Amendment 3178
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 6 - point e
+deleted
+
+Amendment 3179
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 6 - point e
+(e) AI systems intended to be used by law enforcement authorities for predicting the occurrence or reoccurrence of an actual or potential criminal offence based on profiling of natural persons as referred to in Article 3(4) of Directive (EU) 2016/680 or assessing personality traits and characteristics or past criminal behaviour of natural persons or groups, with the exception of AI systems used for compliance with applicable counterterrorism and anti-money laundering legislation;
+
+Amendment 3180
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 6 - point f
+deleted
+
+Amendment 3181
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point f
+deleted
+
+Amendment 3182
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 6 - point f
+(f) AI systems intended to be used by law enforcement authorities or on behalf of law enforcement authorities for profiling of natural persons as referred to in Article 3(4) of Directive (EU)2016/680 in the course of detection, investigation or prosecution of criminal offences;
+
+Amendment 3183
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 6 - point f
+(f) AI systems that may be or are intended to be used by law enforcement authorities for profiling of natural persons as referred to in Article 3(4) of Directive (EU) 2016/680 in the course of detection, investigation or prosecution of criminal offences;
+
+Amendment 3184
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 6 - point f
+(f) AI systems intended to be used by law enforcement authorities or on their behalf for profiling of natural persons as referred to in Article 3(4) of Directive (EU) 2016/680 in the course of detection, investigation or prosecution of criminal offences;
+
+Amendment 3185
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 6 - point g
+deleted
+
+Amendment 3186
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 6 - point g
+deleted
+
+Amendment 3187
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 6 - point g
+deleted
+
+Amendment 3188
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 6 - point g
+(g) AI systems intended to be used by law enforcement authorities or on their behalf for crime analytics regarding natural persons, allowing to search complex related and unrelated large data sets available in different data sources or in different data formats in order to identify unknown patterns or discover hidden relationships in the data.
+
+Amendment 3189
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 7 - point a
+deleted
+
+Amendment 3190
+Renew - Renew Europe Group
+Sophia in t Veld, Michal Šimečka
+Annex III - paragraph 1 - point 7 - point a
+deleted
+
+Amendment 3191
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point a
+deleted
+
+Amendment 3192
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point a
+deleted
+
+Amendment 3193
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Andreas Schieder, Alex Agius Saliba, Bettina Vollath, Tsvetelina
+Annex III - paragraph 1 - point 7 - point a
+deleted
+
+Amendment 3194
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 7 - point a
+deleted
+
+Amendment 3195
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 7 - point a
+(a) AI systems intended to be used by competent public authorities or on their behalf as polygraphs and similar tools or to detect the emotional state of a natural person;
+
+Amendment 3196
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 7 - point a
+(a) AI systems intended to be used by competent public authorities or on their behalf as polygraphs and similar tools or to detect the emotional state of a natural person;
+
+Amendment 3197
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 7 - point b
+deleted
+
+Amendment 3198
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point b
+deleted
+
+Amendment 3199
+Renew - Renew Europe Group
+Sophia in t Veld, Michal Šimečka
+Annex III - paragraph 1 - point 7 - point b
+deleted
+
+Amendment 3200
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Andreas Schieder, Alex Agius Saliba, Bettina Vollath, Tsvetelina
+Annex III - paragraph 1 - point 7 - point b
+deleted
+
+Amendment 3201
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 7 - point b
+(b) AI systems that may be or are intended to be used by competent public authorities, or third parties on their behalf, to assess a risk, including, but not limited to, a security risk, a risk of irregular immigration, or a health risk, posed by a natural person who intends to enter or has entered into the territory of a Member State;
+
+Amendment 3202
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point b
+(b) AI systems intended to be used by competent public authorities, or by third parties acting on their behalf, to assess a risk, including but not limited to a security risk, a risk of irregular immigration, or a health risk, posed by a natural person who intends to enter or has entered into the territory of a Member State;
+
+Amendment 3203
+Renew - Renew Europe Group
+Salima Yenbou, Samira Rafaela, Monica Semedo, Karen Melchior, Peter Pollák
+Annex III - paragraph 1 - point 7 - point b
+(b) AI systems intended to be used by competent public authorities or by third parties acting on their behalf to assess a risk, including but not limited to a security risk, a risk of irregular immigration, or a health risk, posed by a natural person who intends to enter or has entered into the territory of a Member State;
+
+Amendment 3204
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 7 - point b
+(b) AI systems intended to be used by competent public authorities or on their behalf to assess a risk, including a security risk, a risk of irregular immigration, or a health risk, posed by a natural person who intends to enter or has entered into the territory of a Member State;
+
+Amendment 3205
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 7 - point b
+(b) AI systems intended to be used by competent public authorities or on their behalf to assess a risk, including a security risk, a risk of irregular immigration, or a health risk, posed by a natural person who intends to enter or has entered into the territory of a Member State;
+
+Amendment 3206
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 7 - point c
+(c) AI systems that may be or are intended to be used by competent public authorities for the verification of the authenticity of travel documents and supporting documentation of natural persons and detect non-authentic documents by checking their security features;
+
+Amendment 3207
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 7 - point c
+(c) AI systems intended to be used by competent public authorities or on their behalf for the verification of the authenticity of travel documents and supporting documentation of natural persons and detect non-authentic documents by checking their security features;
+
+Amendment 3208
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 7 - point c
+(c) AI systems intended to be used by competent public authorities or on their behalf for the verification of the authenticity of travel documents and supporting documentation of natural persons and detect non-authentic documents by checking their security features;
+
+Amendment 3209
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Andreas Schieder, Alex Agius Saliba, Bettina Vollath, Tsvetelina
+Annex III - paragraph 1 - point 7 - point d
+deleted
+
+Amendment 3210
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex III - paragraph 1 - point 7 - point d
+deleted
+
+Amendment 3211
+Renew - Renew Europe Group
+Salima Yenbou, Samira Rafaela, Monica Semedo, Karen Melchior, Peter Pollák
+Annex III - paragraph 1 - point 7 - point d
+(d) AI systems intended to assist competent public authorities for the examination and assessment of the veracity of evidence and claims in relation to applications for asylum, visa and residence permits and associated complaints with regard to the eligibility of the natural persons applying for a status.
+
+Amendment 3212
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point d
+(d) AI systems intended to assist competent public authorities for the examination and assessment of the veracity of evidence and claims in relation to applications for asylum, visa and residence permits and associated complaints with regard to the eligibility of the natural persons applying for a status.
+
+Amendment 3213
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 7 - point d
+(d) AI systems intended to be used by competent public authorities or on their behalf or to assist competent public authorities in the examination of applications for asylum, visa and residence permits and associated complaints with regard to the eligibility of the natural persons applying for a status.
+
+Amendment 3214
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 7 - point d
+(d) AI systems intended to assist competent public authorities or on their behalf for the examination of applications for asylum, visa and residence permits and associated complaints with regard to the eligibility of the natural persons applying for a status.
+
+Amendment 3215
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 7 - point d
+(d) AI systems that may be or are intended to assist competent public authorities for the examination of applications for asylum, visa and residence permits and associated complaints with regard to the eligibility of the natural persons applying for a status.
+
+Amendment 3216
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Sandro Gozi, Vlad-Marius Botoş, Abir
+Annex III - paragraph 1 - point 7 - point d
+(d) AI systems intended to be used by competent public authorities for the examination of applications for asylum, visa and residence permits and associated complaints with regard to the eligibility of the natural persons applying for a status.
+
+Amendment 3217
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 7 - point d a (new)
+(d a) AI systems that may be or are intended to be used by competent public authorities for border management and immigration authorities to monitor, surveil or process data for the purpose of detecting, verifying or identifying natural persons.
+
+Amendment 3218
+Renew - Renew Europe Group
+Sophia in t Veld, Michal Šimečka
+Annex III - paragraph 1 - point 7 - point d a (new)
+(d a) AI systems intended to be used by or on behalf of competent authorities in migration, asylum and border control management for the forecasting or prediction of trends related to migration, movement and border crossings;
+
+Amendment 3219
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point d a (new)
+(d a) AI systems intended to be used by or on behalf of competent authorities in migration, asylum and border control management for the forecasting or prediction of trends related to migration, movement and border crossings;
+
+Amendment 3220
+Renew - Renew Europe Group
+Salima Yenbou, Samira Rafaela, Monica Semedo, Karen Melchior, Peter Pollák
+Annex III - paragraph 1 - point 7 - point d a (new)
+(d a) AI systems intended to be used by or on behalf of competent authorities in migration, asylum and border control management for the forecasting or prediction of trends related to migration, movement and border crossings;
+
+Amendment 3221
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point d a (new)
+(d a) AI systems that are or may be used by or on behalf of competent authorities in law enforcement, migration, asylum and border control management for the biometric identification of natural persons;
+
+Amendment 3222
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 7 - point d b (new)
+(d b) AI systems that may be or are intended to be used for migration analytics regarding natural persons or groups, allowing immigration authorities or related entities to search complex related and unrelated large data sets available in different data sources or in different data formats in order to identify unknown patterns or discover hidden relationships in the data.
+
+Amendment 3223
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point d b (new)
+(d b) AI systems intended to be used by, or on behalf of, competent authorities in migration, asylum and border control management to monitor, surveil, or process data in the context of border management activities for the purpose of recognizing or detecting objects and natural persons;
+
+Amendment 3224
+Renew - Renew Europe Group
+Salima Yenbou, Samira Rafaela, Monica Semedo, Karen Melchior, Peter Pollák
+Annex III - paragraph 1 - point 7 - point d b (new)
+(d b) AI systems that are or may be used by or on behalf of competent authorities in law enforcement, migration, asylum and border control management for the biometric identification of natural persons;
+
+Amendment 3225
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point d b (new)
+(d b) AI systems that are or may be used by or on behalf of competent authorities in law enforcement, migration, asylum and border control management for the biometric identification of natural persons;
+
+Amendment 3226
+Renew - Renew Europe Group
+Salima Yenbou, Samira Rafaela, Monica Semedo, Karen Melchior, Peter Pollák
+Annex III - paragraph 1 - point 7 - point d c (new)
+(d c) AI systems intended to be used by or on behalf of competent authorities in migration, asylum and border control management to monitor, surveil or process data in the context of border management activities for the purpose of recognising or detecting objects and natural persons;
+
+Amendment 3227
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex III - paragraph 1 - point 7 - point d c (new)
+(d c) AI systems intended to be used by, or on behalf of, competent authorities in migration, asylum and border control management to monitor, surveil or process data in the context of border management activities for the purpose of recognizing or detecting objects and natural persons;
+
+Amendment 3228
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex III - paragraph 1 - point 8 - introductory part
+deleted
+
+Amendment 3229
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune
+Annex III - paragraph 1 - point 8 - introductory part
+8. Administration of justice:
+
+Amendment 3230
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 8 - point a
+(a) AI systems intended to be used by a judicial authority or administrative body or on their behalf or to assist a judicial authority or administrative body in researching and interpreting facts or the law and in applying the law to a concrete set of facts.
+
+Amendment 3231
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 8 - point a
+(a) AI systems which may be or are intended to assist a judicial authority in researching and interpreting facts and the law and in applying the law or used in a similar way in alternative dispute resolution.
+
+Amendment 3232
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex III - paragraph 1 - point 8 - point a
+(a) AI systems intended to be used by a judicial authority, administrative body or on their behalf for in researching and interpreting facts and the law and for applying the law to a concrete set of facts.
+
+Amendment 3233
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Karen Melchior, Sandro Gozi, Vlad-
+Annex III - paragraph 1 - point 8 - point a a (new)
+(a) AI systems intended to be used by judicial authorities or on their behalf in interpreting facts or the law for applying the law to a concrete set of facts.
+
+Amendment 3234
+Renew - Renew Europe Group
+Sophia in t Veld
+Annex III - paragraph 1 - point 8 - point a a (new)
+(a a) AI systems intended to be used by electoral constituencies for the purpose of protecting democracy and predicting the risk of a candidate for political office, in particular the position of head of government, being homophobic, sexist, dictatorial, kleptocratic and/or having other toxic personality traits;
+
+Amendment 3235
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 8 - point a a (new)
+(a a) AI systems used by political parties, political candidates, public authorities, or on their behalf for influencing natural persons in the exercise of their vote in local, national, or European Parliament elections;
+
+Amendment 3236
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 8 - point a a (new)
+(a a) AI systems that may or are intended to assist in democratic processes, the casting or counting of votes, such as in elections.
+
+Amendment 3237
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex III - paragraph 1 - point 8 a (new)
+8 a. Other applications:', '(a) AI systems intended to be used to generate, on the basis of limited human input, complex text content that would falsely appear to a person to be human generated and authentic, such as news articles, opinion articles, novels, scripts, and scientific articles, with the exception of AI systems used exclusively for content that undergoes human review and for the publication of which a natural or legal person established in the Union is liable or holds editorial responsibility;', '(b) AI systems intended to be used to generate or manipulate audio or video content that features existing natural persons appearing to say or do something they have never said or done, with the exception of AI systems used exclusively for content that forms part of an evidently artistic, creative or fictional cinematographic and analogous work;', '(c)AI systems that deploy subliminal techniques for scientific research and for therapeutical purposes;
+
+Amendment 3238
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex III - paragraph 1 - point 8 a (new)
+8 a. Other applications:', '(a) AI systems intended to be used to generate, on the basis of limited human input, complex text content that would falsely appear to a person to be human-generated and authentic, such as news articles, opinion articles, novels, scripts, and scientific articles, except where the content forms part of an evidently artistic, creative or fictional and analogous work;', '(b) AI systems intended to be used to generate or manipulate audio or video content that appreciably resembles existing natural persons, in a manner that significantly distorts or fabricates the original situation, meaning, content, or context and would falsely appear to a person to be authentic, except where the content forms part of an evidently artistic, creative or fictional cinematographic and analogous work.
+
+Amendment 3239
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Cornelia Ernst
+Annex III - paragraph 1 - point 8 a (new)
+8 a. Use in online platforms such as social media and search engines:', 'a) AI systems intended to recommend content to users of online intermediaries such as social media platforms and search engines', 'b) AI systems intended to assist the moderation of content produced by users of online intermediaries such as social media platforms.
+
+Amendment 3240
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 8 a (new)
+8 a. Media', '(a). Recommender systems, meaning AI systems used by an online platform to suggest in its online interface specific information to recipients of the service, including as a result of a search initiated by the recipient or otherwise determining the relative order or prominence of information displayed.
+
+Amendment 3241
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Maria-Manuel Leitão-Marques, Paul Tang, Tiemo Wölken, Biljana Borzan, Lina Gálvez Muñoz, Birgit Sippel, Martin Schirdewan, Christel Schaldemose, Alex Agius Saliba, Karen Melchior, René Repasi, Eva Kaili, Sylvie Guillaume
+Annex III - paragraph 1 - point 8 a (new)
+8 a. Others', 'a) AI systems intended to be used for the delivery of online advertising to internet users
+
+Amendment 3242
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex III - paragraph 1 - point 8 b (new)
+8 b. Health and Healthcare', '(a) AI systems intended to be used inside or outside of the national healthcare system the outputs of which can influence individuals’ health, for example through impacting health diagnostics, treatments or medical prescriptions.', '(b) AI systems intended to be used to facilitate administrative, planning, and health insurance processes within the healthcare system which could influence the distribution of healthcare resources, health insurance or access to healthcare.', '(c) AI systems intended to be used by pharmaceutical companies and medical technology companies to facilitate research and development, as well as for pharmacovigilance, market optimisation and pharmaceutical marketing.
+
+Amendment 3243
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 1 - point a
+(a) its intended purpose, the person/s developing the system the date and the version of the system, reflecting its relation to previous and, where applicable, more recent, versions in the succession of revisions;
+
+Amendment 3244
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex IV - paragraph 1 - point 1 - point a
+(a) its intended purpose or reasonably foreseeable use, the person/s developing the system, the date and the version of the system;
+
+Amendment 3245
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex IV - paragraph 1 - point 1 - point a
+(a) its intended purpose or reasonably foreseeable use , the person/s developing the system the date and the version of the system;
+
+Amendment 3246
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex IV - paragraph 1 - point 1 - point a
+(a) its intended purpose or reasonably foreseeable use, the person/s developing the system the date and the version of the system;
+
+Amendment 3247
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 1 - point a a (new)
+(a) its intended purpose, the name of the provider and the version of the system;
+
+Amendment 3248
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 1 - point a a (new)
+(a a) the categories of natural persons and groups likely or foreseen to be affected;
+
+Amendment 3249
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 1 - point a b (new)
+(a b) the categories and nature of data likely or foreseen to be processed;
+
+Amendment 3250
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 1 - point b
+(b) how the AI system interacts or can be used to interact with hardware or software, including other AI systems that are not part of the AI system itself, where applicable;
+
+Amendment 3251
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex IV - paragraph 1 - point 1 - point b
+(b) how the AI system interacts or can be used to interact with hardware or software, including other AI systems, that are not part of the AI system itself, where applicable;
+
+Amendment 3252
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 1 - point b
+(b) how the AI system is intended to be used with hardware or software that is not part of the AI system itself, where applicable;
+
+Amendment 3253
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 1 - point c
+(c) the versions of relevant software or firmware and any requirement related to development, maintenance and version update;
+
+Amendment 3254
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 1 - point c
+(c) the versions of relevant software or firmware and version update information for the user, where applicable;
+
+Amendment 3255
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 1 - point d
+(d) the description or list of the various configurations and variants of the AI system which are intended to be made available on the market or put into service;
+
+Amendment 3256
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 1 - point f
+(f) descriptions and, if applicable, photographs or illustrations of the user interface;
+
+Amendment 3257
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 1 - point g
+(g) instructions of use for the deployer and, where applicable installation instructions;
+
+Amendment 3258
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 1 - point g a (new)
+(g a) instructions on the intervention in case of emergency, interrupting the system through a “stop” button or a similar procedure that allows the system to come to a halt in a safe state;
+
+Amendment 3259
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 2 - introductory part
+2. Provided that no confidential information or trade secrets are disclosed, a detailed description of the AI system and of the process for its development, including:
+
+Amendment 3260
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Eugen Jurzyca, Patryk Jaki, Adam Bielan
+Annex IV - paragraph 1 - point 2 - point a
+(a) provided that no confidential information or trade secrets are disclosed, the methods and steps performed for the development of the AI system, including, where relevant, recourse to pre-trained systems or tools provided by third parties and how these have been used, integrated or modified by the provider;
+
+Amendment 3261
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 2 - point b
+(b) the architecture and design specifications: a description of the AI system architecture, with a decomposition of its components and interfaces, how they relate to one another and how they provide for the overall processing or logic of the AI system; the key design choices including the rationale and assumptions made, also with regard to persons or groups of persons on which the system is intended to be used; the main classification choices; what the system is designed to optimise for and the relevance of the different parameters; the decisions about any possible trade-off made regarding the technical solutions adopted to comply with the requirements set out in Title III, Chapter 2;
+
+Amendment 3262
+ECR - European Conservatives and Reformists Group
+Kosma Złotowski, Eugen Jurzyca, Patryk Jaki, Adam Bielan
+Annex IV - paragraph 1 - point 2 - point b
+(b) provided that no confidential information or trade secrets are disclosed, the design specifications of the system, namely the general logic of the AI system and of the algorithms; the key design choices including the rationale and assumptions made, also with regard to persons or groups of persons on which the system is intended to be used; the main classification choices; what the system is designed to optimise for and the relevance of the different parameters; the decisions about any possible trade-off made regarding the technical solutions adopted to comply with the requirements set out in Title III, Chapter 2;
+
+Amendment 3263
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 2 - point b
+(b) the design specifications of the system, namely the general logic of the AI system, of the algorithms and of data structures; the key design choices including the rationale and assumptions made, also with regard to persons or groups of persons on which the system is intended to be used; the main classification choices; what the system is designed to optimise for and the relevance of the different parameters; the decisions about any possible trade-off made regarding the technical solutions adopted to comply with the requirements set out in Title III, Chapter 2;
+
+Amendment 3264
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 2 - point c
+deleted
+
+Amendment 3265
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 2 - point d
+deleted
+
+Amendment 3266
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 2 - point d
+(d) where relevant, the data requirements in terms of datasheets describing the training methodologies and techniques and the training data sets used, including information about the provenance of those data sets, their scope and main characteristics; how the data was obtained, selected and prepared; labelling procedures (e.g. for supervised learning), data cleaning methodologies (e.g. outliers detection), and methods applied to prevent bias;
+
+Amendment 3267
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 2 - point e
+(e) assessment of the human oversight measures needed in accordance with Article 14, including an assessment of the technical measures needed to facilitate the interpretation of the outputs of AI systems by the deployers, in accordance with Articles 13(3)(d);
+
+Amendment 3268
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 2 - point g
+(g) the validation and testing procedures used, including information about the machine-learning validation and testing data used and their main characteristics; information used to measure accuracy, robustness, and compliance with other relevant requirements set out in Title III, Chapter 2 as well as potentially discriminatory impacts; test logs and all test reports dated and signed by the responsible persons, including with regard to pre-determined changes as referred to under point (f);
+
+Amendment 3269
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López Aguilar,
+Annex IV - paragraph 1 - point 2 - point g
+(g) the validation and testing procedures used, including information about the validation and testing data used and their main characteristics; metrics used to measure performance, robustness, cybersecurity and compliance with other relevant requirements set out in Title III, Chapter 2 as well as potentially discriminatory impacts; test logs and all test reports dated and signed by the responsible persons, including with regard to pre-determined changes as referred to under point (f).
+
+Amendment 3270
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex IV - paragraph 1 - point 2 - point g
+(g) the validation and testing procedures used, including information about the validation and testing data used and their main characteristics; metrics used to measure performance, robustness, cybersecurity and compliance with other relevant requirements set out in Title III, Chapter 2 as well as potentially discriminatory impacts; test logs and all test reports dated and signed by the responsible persons, including with regard to pre-determined changes as referred to under point (f).
+
+Amendment 3271
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 2 - point g a (new)
+(g a) cybersecurity measures put in place.
+
+Amendment 3272
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex IV - paragraph 1 - point 3
+3. Detailed information about the monitoring, functioning and control of the AI system, in particular with regard to: its capabilities and limitations in performance, including the degrees of accuracy for specific persons or groups of persons on which the system is intended to be used and the overall expected level of accuracy in relation to its intended purpose or reasonably foreseeable use ; the foreseeable unintended outcomes and sources of risks to health and safety, fundamental rights and discrimination in view of the intended purpose or reasonably foreseeable use of the AI system; the human oversight measures needed in accordance with Article 14, including the technical measures put in place to facilitate the interpretation of the outputs of AI systems by the users; specifications on input data, as appropriate;
+
+Amendment 3273
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex IV - paragraph 1 - point 3 a (new)
+3 a. A description of the appropriateness of the performance metrics for the specific AI system;
+
+Amendment 3274
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex IV - paragraph 1 - point 3 a (new)
+3 a. A description of the appropriateness of the performance metrics for the specific AI system.
+
+Amendment 3275
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina Vollath, Tsvetelina Penkova, Petar Vitanov, René Repasi, Birgit Sippel, Maria Grapini, Adriana Maldonado López, Maria-Manuel Leitão-Marques, Marc Angel
+Annex IV - paragraph 1 - point 3 b (new)
+3 b. Detailed information about the carbon footprint and the energy efficiency of the AI system, in particular with regard to the development of hardware, computational resources, as well as algorithm design and training processes;
+
+Amendment 3276
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Brando Benifei, Christel Schaldemose, Andreas Schieder, Alex Agius Saliba, Bettina
+Annex IV - paragraph 1 - point 3 c (new)
+3 c. Information about the computational resources required for the functioning of the AI system and its expected energy consumption during its use;
+
+Amendment 3277
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex IV - paragraph 1 - point 4 a (new)
+4 a. A detailed description of the system’s environmental impact in accordance with Article 10a.
+
+Amendment 3278
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IV - paragraph 1 - point 5
+deleted
+
+Amendment 3279
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Morten Løkkegaard, Vlad-Marius Botoş,
+Annex IV - paragraph 1 - point 5
+5. A description of relevant changes made by providers to the system through its lifecycle;
+
+Amendment 3280
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex IV - paragraph 1 - point 6
+5. A description of any relevant change made to the system through its lifecycle;
+
+Amendment 3281
+Renew - Renew Europe Group
+Svenja Hahn, Dragoş Tudorache, Nicola Beer, Morten Løkkegaard, Sandro Gozi, Vlad-
+Annex IV - paragraph 1 - point 6
+6. A list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union; where no such harmonised standards have been applied, a detailed description of the solutions adopted to meet the requirements set out in Title III, Chapter 2, including a list of common specifications or other relevant standards and technical specifications applied;
+
+Amendment 3282
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex IV - paragraph 1 - point 8 a (new)
+8 a. Without prejudice to Article 9(2), a detailed description of the economic and social implications and potential risks for health, and in particular mental health, safety and fundamental rights arising from the hypothetical widespread usage of the AI system or of similar systems in society, with reference to past incidents that occurred using similar systems and associated mitigating measures.
+
+Amendment 3283
+ID - Identity and Democracy Group
+Jean-Lin Lacapelle, Virginie Joron, Markus Buchheit, Hélène Laporte, Jean-Paul
+Annex VI
+deleted
+
+Amendment 3284
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex VII - point 4 - point 4.3
+4.3. The technical documentation shall be examined by the notified body. To this purpose, the notified body shall be granted full access to the testing datasets used by the provider, including through application programming interfaces (API) or other appropriate means and tools enabling remote access.
+
+Amendment 3285
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex VII - point 4 - point 4.4
+4.4. In examining the technical documentation, the notified body may require that the provider supplies further evidence or carries out further tests so as to enable a proper assessment of conformity of the AI system with the requirements set out in Title III, Chapter 2.
+
+Amendment 3286
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex VII - point 4 - point 4.5
+4.5. Where necessary to assess the conformity of the high-risk AI system with the requirements set out in Title III, Chapter 2, after all other reasonable ways to verify conformity have been exhausted and have proven to be insufficient, and upon a reasoned request, the notified body shall also be granted access to the source code of the AI system. Such access shall be subject to existing Union law on the protection of intellectual property and trade secrets.
+
+Amendment 3287
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex VII - point 4 - point 4.7
+4.7. Any change to the AI system that could affect the compliance of the AI system with the requirements or its intended purpose or reasonably foreseeable use shall be approved by the notified body which issued the EU technical documentation assessment certificate. The provider shall inform such notified body of its intention to introduce any of the above-mentioned changes or if it becomes otherwise aware of the occurrence of such changes. The intended changes shall be assessed by the notified body which shall decide whether those changes require a new conformity assessment in accordance with Article 43(4) or whether they could be addressed by means of a supplement to the EU technical documentation assessment certificate. In the latter case, the notified body shall assess the changes, notify the provider of its decision and, where the changes are approved, issue to the provider a supplement to the EU technical documentation assessment certificate.
+
+Amendment 3288
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex VIII - title
+INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF HIGH-RISK AI SYSTEMS AND OF CERTAIN AI SYSTEMS, USES THEREOF, AND USES OF AI SYSTEMS BY PUBLIC AUTHORITIES IN ACCORDANCE WITH ARTICLE 51
+
+Amendment 3289
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex VIII - title
+INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF AI SYSTEMS IN ACCORDANCE WITH ARTICLE 60
+
+Amendment 3290
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex VIII - paragraph 1
+The following information shall be provided and thereafter kept up to date by the provider with regard to high-risk AI systems referred to in Article 6(2) and to any AI system referred to in Article 52 1(b) and (2) to be registered in accordance with Article 51(1).
+
+Amendment 3291
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - paragraph 1
+The following information shall be provided and thereafter kept up to date with regard to AI systems to be registered in accordance with Article 51.
+
+Amendment 3292
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex VIII - paragraph 1
+The following information shall be provided and thereafter kept up to date with regard to AI systems to be registered in accordance with Article 60.
+
+Amendment 3293
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex VIII - paragraph 1 a (new)
+The following information shall be provided and thereafter kept up to date by the user with regard to uses of high-risk AI systems referred to in Article 6(2) and any AI system referred to in Article 52 1(b) and (2) to be registered in accordance with Article 51(2).', '(a) Name, address and contact details of the user;', '(b) Where submission of information is carried out by another person on behalf of the user, the name, address and contact details of that person;', '(c) Name, address and contact details of the authorised representative, where applicable;', '(d) URL of the entry of the AI system in the EU database by its provider, or, where unavailable, AI system trade name and any additional unambiguous reference allowing identification and traceability of the AI system;', '(e) Description of the intended purpose of the intended use of the AI system;', '(f) Description of the context and the geographical and temporal scope of application, geographic and temporal, of the intended use of the AI system;', '(g) Basic explanation of design specifications of the system, namely the general logic of the AI system and of the algorithms;the key design choices including the rationale and assumptions made, also with regard to categories persons or groups of persons on which the system is intended to be used;the main classification choices;and what the system is designed to optimise for and the relevance of the different parameters.', '(h) For high-risk AI systems and for systems referred to in Article 52 1(b) and (2), designation of persons foreseeably impacted by the intended use of the AI system as required by Article X;', '(i) For high-risk AI systems, results of the impact assessment on the use of the AI system that is conducted under obligations imposed by Article XX of this Regulation.Where full public disclosure of these results cannot be granted for reasons of privacy and data protection, disclosure must be granted to the national supervisory authority, which in turn must be indicated in the EU database.', '(j) A description of how the relevant accessibility requirements set out in Annex I to Directive 2019/882 are met by the use of the AI system.
+
+Amendment 3294
+Renew - Renew Europe Group
+Dragoş Tudorache, Olivier Chastel, Vlad Gheorghe, Nicolae Ştefănuță, Ramona
+Annex VIII - paragraph 1 a (new)
+1a.The following information shall be provided and updated with regard to high risk AI systems to be registered in accordance with Article 51(2) by users who are or act on behalf of public authorities or Union institutions, bodies, offices or agencies:', '1. the name, address and contact details of the user;', '2. the name, address and contact details of any person submitting information on behalf of the user;', '3. the high-risk AI system trade name and any additional unambiguous reference allowing identification and traceability of the AI system used;', '4. description of the intended use of the AI system, including the specific outcomes sought through the use of the system;', '5. a summary of the findings of the fundamental rights impact assessment conducted in accordance with the obligation of public authorities or Union institutions, agencies, offices or bodies set out in this Regulation;', '6. a summary of the data protection impact assessment carried out in accordance with Article 35 of Regulation (EU) 2016/679 or Article 27 of Directive (EU) 2016/680 as specified in paragraph 6 of Article 29 of this Regulation, where applicable; 6. a declaration of conformity with the applicable data protection rules.
+
+Amendment 3295
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex VIII - paragraph 1 b (new)
+The following information shall be provided and thereafter kept up to date by the user with regard to uses of AI systems by public authorities to be registered in accordance with Article 51(3).', '(a) Name, address and contact details of the user;(b) Where submission of information is carried out by another person on behalf of the user, the name, address and contact details of that person;', '(c) Name, address and contact details of the authorised representative, where applicable;', '(d) For high-risk AI systems, URL of the entry of the AI system in the EU database by its provider, or, for non-high risk systems, AI system trade name and any additional unambiguous reference allowing identification and traceability of the AI system;', '(e) Description of the intended purpose of the intended use of the AI system;', '(f) Description of the context and the geographical and temporal scope of application, geographic and temporal, of the intended use of the AI system;', '(g) Basic explanation of design specifications of the system, namely the general logic of the AI system and of the algorithms;the key design choices including the rationale and assumptions made, also with regard to categories persons or groups of persons on which the system is intended to be used;the main classification choices;and what the system is designed to optimise for and the relevance of the different parameters.', '(h) Designation of persons foreseeably impacted by the intended use of the AI system;', '(i) If available, results of any impact assessment or due diligence process regarding the use of the AI system that the user has conducted;', '(j) Assessment of the foreseeable impact on the environment, including but not limited to energy consumption, resulting from the use of the AI system over its entire lifecycle, and of the methods to reduce such impact;', '(k) A description of how the relevant accessibility requirements set out in Annex I to Directive 2019/882 are met by the use of the AI system.
+
+Amendment 3296
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - point 1
+1. Name, address and contact details of the provider or deployer;
+
+Amendment 3297
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - point 2
+2. Where submission of information is carried out by another person on behalf of the provider or deployer, the name, address and contact details of that person;
+
+Amendment 3298
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López Aguilar,
+Annex VIII - point 5
+3. Name, address and contact details of the legal representative, where applicable;
+
+Amendment 3299
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - point 5
+5. Descriptions of:', '(a) the intended purpose of the AI system;', '(b) the components and functions supported through AI;', '(c) the main parameters the AI system takes into account;', '(d) arrangements for human oversight and responsible natural persons for decisions made or influenced by the AI system;
+
+Amendment 3300
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Pernando Barrena Arza, Kateřina Konečná, Cornelia Ernst, Elena Kountoura
+Annex VIII - point 5
+5. Description of the intended purpose or reasonably foreseeable use of the AI system;
+
+Amendment 3301
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - point 5 a (new)
+5 a. Where applicable, the categories of natural persons and groups likely or foreseen to be affected;
+
+Amendment 3302
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - point 5 b (new)
+5 b. Where applicable, the categories and nature of data likely or foreseen to be processed by the AI system;
+
+Amendment 3303
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - point 5 c (new)
+5 c. For each deployment, the deployer’s assessments of the assessment of the systems’ impact in the context of use throughout the entire lifecycle as conducted by the deployer under Article 9a;
+
+Amendment 3304
+Renew - Renew Europe Group
+Sophia in t Veld, Michal Šimečka
+Annex VIII - point 6 a (new)
+6 a. where the user is obliged to register an AI system under Article 29, the human rights impact assessment must also be registered and publicly available;
+
+Amendment 3305
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex VIII - point 11
+deleted
+
+Amendment 3306
+Greens/EFA - Group of the Greens/European Free Alliance
+Kim Van Sparrentak, Sergey Lagodinsky
+Annex VIII - point 11
+11. Electronic instructions for use.
+
+Amendment 3307
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex VIII - point 11
+11. Electronic instructions for use as listed in Article 13(3) and basic explanation of the general logic and key design as listed in Annex IV point 2(b) and of optimization choices as listed in Annex IV point (3).
+
+Amendment 3308
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex VIII - point 11 a (new)
+11 a. Assessment of the environmental impact, including but not limited to resource consumption, resulting from the design, data management and training, and underlying infrastructures of the AI system, and of the methods to reduce such impact;
+
+Amendment 3309
+GUE/NGL - The Left group in the European Parliament - GUE/NGL
+Kateřina Konečná, Pernando Barrena Arza, Cornelia Ernst, Elena Kountoura
+Annex VIII - point 11 b (new)
+11 b. A description of how the system meets the relevant accessibility requirements of Annex I to Directive 2019/882.
+
+Amendment 3310
+S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament
+Petar Vitanov, Birgit Sippel, Bettina Vollath, Tsvetelina Penkova, Juan Fernando López
+Annex VIII - point 12 a (new)
+12 a. The list of users of the AI systems
+
+Amendment 3311
+EPP - Group of the European Peoples Party (Christian Democrats)
+Axel Voss, Deirdre Clune, Eva Maydell
+Annex IX - title
+4. The sandboxing programme shall, in a later development phase, look at helping Member States develop and manage two types of regulatory sandboxes: Physical Regulatory Sandboxes for AI systems embedded in physical products or services and Cyber Regulatory Sandboxes for AI systems operated and used on a stand-alone basis, not embedded in physical products or services.
+
+Amendment 3312
+Renew - Renew Europe Group
+Svenja Hahn, Nicola Beer, Sandro Gozi, Vlad-Marius Botoş, Moritz Körner, Ondřej
+Annex IX a (new)
+ANNEX IXa:  MODALITIES FOR AN EU AI REGULATORY SANDBOXING PROGRAMME', '1.The European Commission shall establish the EU AI Regulatory Sandboxing Programme (‘sandboxing programme’) in collaboration with Member States and other competent entities such as regions or universities.', '2.The Commission shall play a complementary role, allowing those entities with demonstrated experience with sandboxing to build on their expertise and, on the other hand, assisting and providing technical understanding and resources to those Member States and regions that seek guidance on the set-up of these regulatory sandboxes.', '3.Participants in the sandboxing programme, in particular start-ups and SMEs, are granted access to pre-deployment services, such as preliminary registration of their AI system, compliance R&D support services, and to all the other relevant elements of the Union’s AI ecosystem and other Digital Single Market initiatives such as Testing &Experimentation Facilities, Digital Hubs, Centres of Excellence, and EU benchmarking capabilities;and to other value-adding services such as standardisation documents and certification, an online social platform for the community, contact databases, existing portal for tenders and grant making and lists of EU investors.', '4.Foreign providers, in particular start-ups and SMEs, are eligible to take part in the sandboxes to incubate and refine their products incompliance with this Regulation.', '5.Individuals such as researchers, entrepreneurs, innovators and other pre-market ideas owners are eligible to pre-register into the sandboxing programme to incubate and refine their products in compliance with this Regulation.', '6.The sandboxing programme and its benefits shall be available from a single portal established by the European Commission.', '7.The sandboxing programme shall develop and manage two types of regulatory sandboxes:Physical Regulatory Sandboxes for AI systems embedded in physical products or services and Cyber Regulatory Sandboxes for AI systems operated and used on a stand-alone basis, not embedded in physical products or services.', '8.The sandboxing programme shall work with the already established Digital Innovation Hubs in Member States to provide a dedicated point of contact for entrepreneurs to raise enquiries with competent authorities and to seek non-binding guidance on the conformity of innovative products, services or business models embedding AI technologies.', '9.One of the objectives of the sandboxing programme is to enable firms’ compliance with this Regulation at the design stage of the AI system (‘compliance-by-design’).To do so, the programme shall facilitate the development of software tools and infrastructure for testing, benchmarking, assessing and explaining dimensions of AI systems relevant to sandboxes, such as accuracy, robustness and cybersecurity.', '10.The sandboxing programme shall include a Reg Tech lab, to help authorities experiment and develop enforcement tools and protocols for enforcing this Regulation.', '11. The sandboxing programme shall be rolled out in a phased fashion, with the various phases launched by the Commission upon success of the previous phase. The sandboxing programme will have a built-in impact assessment procedure to facilitate the review of cost-effectiveness against the agreed-upon objectives. This assessment shall be drafted with input from Member States based on their experiences and shall be included as part of the Annual Report submitted by the Commission to the European Artificial Intelligence Board.
+
