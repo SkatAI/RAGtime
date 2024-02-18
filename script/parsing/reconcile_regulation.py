@@ -16,7 +16,6 @@ pd.set_option("display.float_format", "{:.2f}".format)
 import numpy as np
 import typing as t
 from regex_utils import Rgx
-# from test_reconcile import assert_order
 from lines import Line, RecitalLine, RegulationLine
 
 class Regulation(object):
@@ -429,4 +428,6 @@ if __name__ == "__main__":
     data.sort_values(by = ['order', 'author'], inplace = True)
     data.reset_index(inplace = True, drop = True)
 
-
+    output_file_json = "./data/json/regulation.json"
+    with open(output_file_json, "w", encoding="utf-8") as f:
+        data.to_json(f, force_ascii=False, orient="records", indent=4)
