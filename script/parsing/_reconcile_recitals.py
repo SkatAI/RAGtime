@@ -1,4 +1,5 @@
 '''
+draft to refactor  recital.py for recitals
 '''
 
 # usual libs

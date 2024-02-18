@@ -149,12 +149,9 @@ if __name__ == "__main__":
     ax.tick_params(bottom=False)
 
     plt.title('Keywords Visualization based on Similarity and Frequency')
-    # plt.legend(loc='upper right', title='Keywords')
-    # plt.grid()
     sns.despine(left=True, bottom=True)
     plt.tight_layout()
     plt.show()
-
 
     # --------------------------------------------
     #  TSNE

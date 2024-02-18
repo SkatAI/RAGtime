@@ -1,12 +1,5 @@
 import os, re, json, glob
-import time, datetime
 import pandas as pd
-pd.options.display.max_columns = 100
-pd.options.display.max_rows = 60
-pd.options.display.max_colwidth = 100
-pd.options.display.precision = 10
-pd.options.display.width = 160
-pd.set_option("display.float_format", "{:.4f}".format)
 import numpy as np
 
 # streamlit
@@ -26,69 +19,73 @@ from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
 
 # local
-from  weaviate_utils_copy import *
-
+from  streamlit_weaviate_utils import *
 
 class Retrieve(object):
 
-    def __init__(self, query, search_type, gen_model, number_elements, temperature, author, topic):
-        cluster_location = "cloud-cluster"
+    # def __init__(self, query, search_type, model, number_elements, temperature, author):
+    def __init__(self, query, search_params):
+        # collection_name = "AIActKnowledgeBase"
+        self.authors = {'all versions': None,
+            '2024 coreper':'coreper', '2022 council':'council', '2021 commission': 'commission'}
+        collection_name = "AIAct_240218"
+        cluster_location = "local"
         self.client = connect_client(cluster_location)
         assert self.client is not None
         assert self.client.is_live()
 
         # retrieval
         self.vectorizer = which_vectorizer("OpenAI")
-        self.collection = self.client.collections.get("AIActKnowledgeBase")
-        self.search_type = search_type
-        self.gen_model = gen_model
-        self.response_count_ = number_elements
-        self.temperature = temperature
-        self.author = author
-        self.topic = topic
-        if self.topic == '--':
-            self.query = query
-        else:
-            self.query = query.replace("?", ' ') + f", related to {self.topic} ?"
-
-
+        self.collection = self.client.collections.get(collection_name)
+        # TODO safeguard query
+        self.query = query
+        self.author = self.authors.get(search_params.get('author'))
+        self.model = search_params.get('model')
+        self.search_type = search_params.get('search_type')
+        self.response_count_ = search_params.get('number_elements')
+        self.temperature = search_params.get('temperature')
+        print(self.__dict__)
         # generative
 
         self.prompt_generative_context =ChatPromptTemplate.from_template(
-'''You are a political analyst, expert on both AI regulation and European policy making.
-# Task
-Given a question and a context, your task is to answer the question based on the information contained in the context.
+'''You are a journalist from Euractiv who is an expert on both Artifical Intelligence, the AI-act regulation from the European Union and European policy making.
+Your goal is to make it easier for people to understand the AI-Act from the UE.
+
+You are given a query and context information.
+Your specific task is to answer the query based on the context information.
 
 # make sure:
-- If the context does not provide an answer to the question, you can then use your global knowledge to answer the question but clearly state that the context does not provide information with regard to the question.
-- Focus on the differences in the text between the European union entities: commission, council, parliament as well as the political groups and committees.
+- If the context does not provide an answer to the query, use your global knowledge to write an answer.
+- If the context is not related to the query, clearly state that the context does not provide information with regard to the query.
 - Your answer must be short and concise.
+- Important: if you don't have the necessary information, say so clearly. Do not try to imagine an answer
 
 --- Context:
 {context}
---- Question:
-{question}''')
+--- Query:
+{query}''')
 
         self.prompt_generative_bare = ChatPromptTemplate.from_template(
-'''You are a political analyst, expert on both AI regulation and European policy making.
-# Task
-Your task is to answer the question below.
+'''You are a journalist from Euractiv who is an expert on both Artifical Intelligence, the AI-act regulation from the European Union and European policy making.
+Your goal is to make it easier for people to understand the AI-Act from the UE.
 
-# make sure:
-- clearly state if you can't find the answer to the question. Do not try to invent an answer.
+# make sure to:
+- clearly state if you can't find the answer to the query. Do not try to invent an answer.
 - Focus on the differences in the text between the European union entities: commission, council, parliament as well as the political groups and committees.
 - Your answer must be short and concise. One line if possible
---- Question:
-{question}''')
+- Do not try to imagine a fake answer if you don't have the necessary information
+
+--- Query:
+{query}''')
 
 
 
-        self.llm = ChatOpenAI(temperature=self.temperature, model=self.gen_model)
+        self.llm = ChatOpenAI(temperature=self.temperature, model=self.model)
         self.context_chain   = LLMChain(llm=self.llm, prompt=self.prompt_generative_context,  output_key="answer_context", verbose=False)
 
         self.overall_context_chain = SequentialChain(
             chains=[self.context_chain],
-            input_variables=["context", "question"],
+            input_variables=["context", "query"],
             output_variables=["answer_context"],
             verbose=True
         )
@@ -97,16 +94,16 @@ Your task is to answer the question below.
 
         self.overall_bare_chain = SequentialChain(
             chains=[self.bare_chain],
-            input_variables=["question"],
+            input_variables=["query"],
             output_variables=["answer_bare"],
             verbose=True
         )
 
     def search(self):
-        if self.author!= "--":
+        filters = None
+        if self.author is not None:
             filters = Filter("author").equal(self.author)
-        else:
-            filters = None
+
         if self.search_type == "hybrid":
             self.response = self.collection.query.hybrid(
                     query=self.query,
@@ -115,7 +112,7 @@ Your task is to answer the question below.
                     limit=self.response_count_,
                     return_metadata = ['score', 'explain_score', 'is_consistent'],
                 )
-        if self.search_type == "near_text":
+        elif self.search_type == "near_text":
             self.response = self.collection.query.near_text(
                     query= self.query,
                     filters= filters,
@@ -125,11 +122,11 @@ Your task is to answer the question below.
         self.get_context()
 
     def generate_answer_with_context(self):
-        self.response_context = self.overall_context_chain({ "context": self.context, "question": self.query })
+        self.response_context = self.overall_context_chain({ "context": self.context, "query": self.query })
         self.answer_with_context = self.response_context['answer_context']
 
     def generate_answer_bare(self):
-        self.response_bare = self.overall_bare_chain({ "question": self.query })
+        self.response_bare = self.overall_bare_chain({ "query": self.query })
         self.answer_bare = self.response_bare['answer_bare']
 
     def get_context(self):
@@ -137,9 +134,15 @@ Your task is to answer the question below.
         for i in range(self.response_count_):
             prop = self.response.objects[i].properties
             text = "---"
-            text += ' - '.join([prop['title'], prop['numbering'], prop['author'] ])
+            if prop.get('section') == 'recitals':
+                location = prop.get('rec')
+            if prop.get('section') == 'articles':
+                location = [prop.get(lct) for lct in ['ttl', 'art', 'par'] if prop.get(lct) is not None ]
+                location = ">> ".join(location)
+
+            text += ' - '.join([location, prop.get('author') ])
             text += "\n"
-            text += prop['text']
+            text += prop.get('text')
 
             texts.append(text)
         self.context = '\n'.join(texts)
@@ -154,10 +157,22 @@ Your task is to answer the question below.
         st.write(metadata_str)
 
     def retrieved_title(self, i):
+        # TODO: duplicated code with get_context
         prop = self.response.objects[i].properties
         # headlinize
         # title = prop['text'].split('\n')[0].strip()
-        title = ' - '.join([prop['title'], prop['numbering'], prop['author'] ])
+        # title = ' - '.join([prop['title'], prop['numbering'], prop['author'] ])
+        print('---')
+        print(prop)
+        print('---')
+        if prop.get('section') == 'recitals':
+            location = prop.get('rec')
+        if prop.get('section') == 'articles':
+            location = [prop.get(lct) for lct in ['ttl', 'art', 'par'] if prop.get(lct) is not None ]
+            location = " >> ".join(location)
+
+        title = ' - '.join([location, prop.get('author') ])
+
         return  f"**{title}**"
 
     def format_properties(self, i):
@@ -183,7 +198,7 @@ Your task is to answer the question below.
         os.write(1,bytes("--"*20 + "\n", 'utf-8'))
         os.write(1,bytes(f"query: {self.query}\n" , 'utf-8'))
         os.write(1,bytes(f"search_type: {self.search_type}\n" , 'utf-8'))
-        os.write(1,bytes(f"gen_model: {self.gen_model}\n" , 'utf-8'))
+        os.write(1,bytes(f"model: {self.model}\n" , 'utf-8'))
         os.write(1,bytes(f"response_count_: {self.response_count_}\n" , 'utf-8'))
         os.write(1,bytes(f"temperature: {self.temperature}\n" , 'utf-8'))
         os.write(1,bytes(f"author: {self.author}\n" , 'utf-8'))
@@ -192,7 +207,7 @@ Your task is to answer the question below.
         pass
 
 
-def perform_search(query, search_type, gen_model):
+def perform_search(query, search_type, model):
     '''
     - vectorize query
         - client, vectorizer etc
@@ -201,7 +216,7 @@ def perform_search(query, search_type, gen_model):
     - prompt
     - answer generation
     '''
-    retr = Retrieve(query, search_type, gen_model)
+    retr = Retrieve(query, search_type, model)
     retr.search()
 
     return retr

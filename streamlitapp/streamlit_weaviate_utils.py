@@ -8,10 +8,7 @@ import weaviate.classes as wvc
 
 
 def count_collection(collection):
-
-    count_ = collection.aggregate.over_all(total_count=True).total_count
-    print(f" {collection.name}: {count_} records ")
-    return count_
+    return collection.aggregate.over_all(total_count=True).total_count
 
 def list_collections(client):
     for collection_name in client.collections.list_all().keys():
@@ -19,6 +16,7 @@ def list_collections(client):
         collection = client.collections.get(collection_name)
         count_ = collection.aggregate.over_all(total_count=True).total_count
         print(f"* {collection_name} [{count_}]: \n\t {props}")
+
 
 def which_text_splitter(cfg):
     # ------------------------------------
@@ -62,9 +60,10 @@ def which_vectorizer(vectorizer_name):
     return vectorizer
 
 def connect_client(location = 'local'):
-
+    assert location in ['local', 'cloud'], f"location: {location} is not local or cloud"
     if location == 'local':
         # connect to weaviate client (on local)
+        print("connection to local")
         client = weaviate.connect_to_local(
                 port=8080,
                 grpc_port=50051,
@@ -73,7 +72,8 @@ def connect_client(location = 'local'):
                 }
             )
 
-    if location == 'cloud-cluster':
+    if location == 'cloud':
+        print("connection to wcs")
         client = weaviate.connect_to_wcs(
                     cluster_url=os.environ["WEAVIATE_CLUSTER_URL"],
                     auth_credentials=weaviate.AuthApiKey(os.environ["WEAVIATE_KEY"]),
@@ -82,8 +82,6 @@ def connect_client(location = 'local'):
                     }
             )
     return client
-
-
 
 def create_collection(client, collection_name, vectorizer, properties, replace = True, stopwords = None ):
     # create collection

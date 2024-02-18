@@ -1,0 +1,62 @@
+[
+  {
+    "name": "text",
+    "dataType": "text",
+    "skip_vectorization": false,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "uuid",
+    "dataType": "uuid",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "section",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "rec",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "ttl",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "art",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "par",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "author",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "amendment",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "line_type",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  }
+]

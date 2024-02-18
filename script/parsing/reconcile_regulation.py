@@ -24,7 +24,7 @@ class Regulation(object):
         'commission':'./data/txt/52021-PC0206-commission/52021PC0206-regulation.txt',
         'council':'./data/txt/ST-15698-2022-council/ST-15698-regulation.txt',
         # 'final_four':'./data/txt/final_four/AIAct-final-four-simple-recitals.txt',
-        'ep_adopted':'./data/txt/adopted-amendments/EP-amendments-parliament-regulation.txt',
+        # 'ep_adopted':'./data/txt/adopted-amendments/EP-amendments-parliament-regulation.txt',
         'coreper':'data/txt/coreper-feb2/AIA-Trilogue-Coreper20240202-regulation.txt',
     }
 
@@ -196,7 +196,6 @@ class DocCommissionRegulation(Regulation):
         cbrds.fillna('', inplace = True)
         cbrds = cbrds[['TTL', 'cha', 'art']].drop_duplicates().copy()
         return cbrds
-
 
 
 # ------------------------------------------------------------------
@@ -383,7 +382,6 @@ class DocCoreperRegulation(DocCommissionRegulation):
     def validate(self):
         pass
 
-
 if __name__ == "__main__":
 
     data = pd.DataFrame()
@@ -403,12 +401,6 @@ if __name__ == "__main__":
     print("==", author)
     com = DocCommissionRegulation(author).process()
     com.df['author'] = author
-    # com = DocCommissionRegulation(author)
-    # com.format()
-    # com.build_bread()
-    # com.build_order()
-    # com.validate()
-
     commission_breads = com.extract_breads()
 
     data = pd.concat([data, com.df])
@@ -419,15 +411,24 @@ if __name__ == "__main__":
 
     data = pd.concat([data, cnl.df])
 
-    author = 'ep_adopted'
-    print("==", author)
-    epa = DocEpadoptedRegulation(author, commission_breads).process()
-    data = pd.concat([data, epa.df])
+    if False:
+        # ep_adopted are not included in the rag data
+        author = 'ep_adopted'
+        print("==", author)
+        epa = DocEpadoptedRegulation(author, commission_breads).process()
+        data = pd.concat([data, epa.df])
 
     data.fillna('', inplace = True)
     data.sort_values(by = ['order', 'author'], inplace = True)
     data.reset_index(inplace = True, drop = True)
 
-    output_file_json = "./data/json/regulation.json"
+    # extract title, art and paragraphs
+    # data['dbrd'] = data.bread.apply(json.loads)
+    # data['ttl']  = data.dbrd.apply(lambda b : f"TITLE {str(b.get('TTL')).zfill(4)}" if b.get('TTL') else '' )
+    # data['art']  = data.dbrd.apply(lambda b : f"Article {str(b.get('art')).zfill(4)}" if b.get('art') else '' )
+    # data['par']  = data.dbrd.apply(lambda b : f"paragraph {str(b.get('par')).zfill(4)}" if b.get('par') else '' )
+
+
+    output_file_json = "./data/rag/regulation-20240218.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         data.to_json(f, force_ascii=False, orient="records", indent=4)

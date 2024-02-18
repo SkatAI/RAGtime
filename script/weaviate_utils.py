@@ -8,10 +8,7 @@ import weaviate.classes as wvc
 
 
 def count_collection(collection):
-
-    count_ = collection.aggregate.over_all(total_count=True).total_count
-    print(f" {collection.name}: {count_} records ")
-    return count_
+    return collection.aggregate.over_all(total_count=True).total_count
 
 def list_collections(client):
     for collection_name in client.collections.list_all().keys():
@@ -74,7 +71,7 @@ def connect_client(location = 'local'):
                 }
             )
 
-    if location == 'cloud-cluster':
+    if location == 'cloud':
         print("connection to wcs")
         client = weaviate.connect_to_wcs(
                     cluster_url=os.environ["WEAVIATE_CLUSTER_URL"],
