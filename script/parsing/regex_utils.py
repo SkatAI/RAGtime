@@ -22,10 +22,29 @@ class Rgx(object):
         return re.search(rgx, text)
 
     @classmethod
+    def extract_annex_title_number(cls, text: str) -> re.Match:
+        rgx = r"^ANNEX\s([I,X,V,A]+)\s*:.*$"
+        return re.search(rgx, text, re.IGNORECASE)
+
+    @classmethod
     def extract_chapter_title_number(cls, text: str) -> re.Match:
         # Chapter 1: CLASSIFICATION OF AI SYSTEMS AS HIGH-RISK
-        rgx = r"^Chapter\s*(\d+[a-zA-Z]{0,2})\s*:.*$"
-        return re.search(rgx, text)
+        # Part I: Section A. List of Union harmonisation
+        # Section A: Information to be submitted
+        rgx_chap = r"^Chapter\s*(\d+[a-zA-Z]{0,2})\s*:.*$"
+        return re.search(rgx_chap, text)
+
+    @classmethod
+    def extract_annex_part_number(cls, text: str) -> re.Match:
+        # Part I: Section A. List of Union harmonisation
+        rgx_part = r"^Part\s([I,X,V,A,b]+)\s*:.*$"
+        return re.search(rgx_part, text)
+
+    @classmethod
+    def extract_annex_section_number(cls, text: str) -> re.Match:
+        # Part I: Section A. List of Union harmonisation
+        rgx_sect = r"^Section\s([A-Z]+)\s*:.*$"
+        return re.search(rgx_sect, text)
 
     @classmethod
     def extract_article_title_number(cls, text: str) -> re.Match:
@@ -78,6 +97,11 @@ class Rgx(object):
         return re.search(rgx,text)
 
     @classmethod
+    def is_annex_title(cls, text: str) -> re.Match:
+        rgx = r"^## ANNEX"
+        return re.search(rgx,text, re.IGNORECASE)
+
+    @classmethod
     def is_section_title(cls, text: str) -> re.Match:
         rgx = r"^## TITLE"
         return re.search(rgx,text)
@@ -85,6 +109,16 @@ class Rgx(object):
     @classmethod
     def is_chapter_title(cls, text: str) -> re.Match:
         rgx = r"^\*\* chapter"
+        return re.search(rgx,text, re.IGNORECASE)
+
+    @classmethod
+    def is_annex_part(cls, text: str) -> re.Match:
+        rgx = r"^\*\* Part"
+        return re.search(rgx,text, re.IGNORECASE)
+
+    @classmethod
+    def is_annex_section(cls, text: str) -> re.Match:
+        rgx = r"^\*\* Section"
         return re.search(rgx,text, re.IGNORECASE)
 
     @classmethod

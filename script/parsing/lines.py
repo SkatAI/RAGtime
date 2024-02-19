@@ -39,6 +39,10 @@ class Line(object):
             self.line_type = 'section_title'
             self.text = self.text.replace('##','').strip()
             self.number = self.extract_section_title_number()
+        elif self.is_annex_title():
+            self.line_type = 'annex_title'
+            self.text = self.text.replace('##','').strip()
+            self.number = self.extract_annex_title_number()
         elif self.is_article_title():
             self.line_type = 'article_title'
             self.text = self.text.replace('==','').strip()
@@ -47,6 +51,14 @@ class Line(object):
             self.line_type = 'chapter_title'
             self.text = self.text.replace('**','').strip()
             self.number = self.extract_chapter_title_number()
+        elif self.is_annex_part():
+            self.line_type = 'annex_part'
+            self.text = self.text.replace('**','').strip()
+            self.number = self.extract_annex_part_number()
+        elif self.is_annex_section():
+            self.line_type = 'annex_section'
+            self.text = self.text.replace('**','').strip()
+            self.number = self.extract_annex_section_number()
         elif self.is_paragraph():
             self.line_type = 'paragraph'
             self.text = self.text.strip()
@@ -70,8 +82,20 @@ class Line(object):
         match = Rgx.is_section_title(self.text)
         return match.group(0).replace('##','').strip() if match else None
 
+    def is_annex_title(self) -> t.Optional[str]:
+        match = Rgx.is_annex_title(self.text)
+        return match.group(0).replace('##','').strip() if match else None
+
     def is_chapter_title(self) -> t.Optional[str]:
         match = Rgx.is_chapter_title(self.text)
+        return match.group(0).replace('**','').strip() if match else None
+
+    def is_annex_part(self) -> t.Optional[str]:
+        match = Rgx.is_annex_part(self.text)
+        return match.group(0).replace('**','').strip() if match else None
+
+    def is_annex_section(self) -> t.Optional[str]:
+        match = Rgx.is_annex_section(self.text)
         return match.group(0).replace('**','').strip() if match else None
 
     def is_article_title(self) -> t.Optional[str]:
@@ -86,12 +110,24 @@ class Line(object):
         match = Rgx.extract_section_title_number(self.text)
         return match.group(1).strip() if match else None
 
+    def extract_annex_title_number(self) -> t.Optional[str]:
+        match = Rgx.extract_annex_title_number(self.text)
+        return match.group(1).strip() if match else None
+
     def extract_article_title_number(self) -> t.Optional[str]:
         match = Rgx.extract_article_title_number(self.text)
         return match.group(1).strip() if match else None
 
     def extract_chapter_title_number(self) -> t.Optional[str]:
         match = Rgx.extract_chapter_title_number(self.text)
+        return match.group(1).strip() if match else None
+
+    def extract_annex_part_number(self) -> t.Optional[str]:
+        match = Rgx.extract_annex_part_number(self.text)
+        return match.group(1).strip() if match else None
+
+    def extract_annex_section_number(self) -> t.Optional[str]:
+        match = Rgx.extract_annex_section_number(self.text)
         return match.group(1).strip() if match else None
 
     def extract_paragraph_number(self) -> t.Optional[str]:
@@ -122,6 +158,11 @@ class RecitalLine(Line):
 
 
 class RegulationLine(Line):
+    def __init__(self, line):
+        super().__init__(line)
+        self.get_line_type()
+
+class AnnexLine(Line):
     def __init__(self, line):
         super().__init__(line)
         self.get_line_type()

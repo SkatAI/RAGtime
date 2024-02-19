@@ -422,13 +422,6 @@ if __name__ == "__main__":
     data.sort_values(by = ['order', 'author'], inplace = True)
     data.reset_index(inplace = True, drop = True)
 
-    # extract title, art and paragraphs
-    # data['dbrd'] = data.bread.apply(json.loads)
-    # data['ttl']  = data.dbrd.apply(lambda b : f"TITLE {str(b.get('TTL')).zfill(4)}" if b.get('TTL') else '' )
-    # data['art']  = data.dbrd.apply(lambda b : f"Article {str(b.get('art')).zfill(4)}" if b.get('art') else '' )
-    # data['par']  = data.dbrd.apply(lambda b : f"paragraph {str(b.get('par')).zfill(4)}" if b.get('par') else '' )
-
-
     output_file_json = "./data/rag/regulation-20240218.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         data.to_json(f, force_ascii=False, orient="records", indent=4)

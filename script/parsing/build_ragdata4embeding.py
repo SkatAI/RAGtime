@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
     # uuid
     # data['uuid'] = [ str(uuid.uuid4()) for i in range(len(data))  ]
-    # aggregate at teh paragraph level and at the aricle level
+    # aggregate at the paragraph level and at the aricle level
     data['dbrd'] = data.bread.apply(json.loads)
     data['rec']  = data.dbrd.apply(lambda b : f"Recital {str(b.get('rec')).zfill(6)}" if b.get('rec') else '' )
     data['ttl']  = data.dbrd.apply(lambda b : f"TITLE {str(b.get('TTL')).zfill(5)}" if b.get('TTL') else '' )
@@ -63,18 +63,21 @@ if __name__ == "__main__":
     arts = data.groupby(by = ['rec','ttl','art','author','section','amendment'], as_index=False).agg({'text': '\n'.join}  )
     pars = data.groupby(by = ['rec','ttl','art', 'par','author','section','amendment'], as_index=False).agg({'text': '\n'.join}  )
 
-    arts.loc[arts.art == '', 'line_type'] = 'other'
-    arts.loc[arts.art != '', 'line_type'] = 'article'
+    arts.loc[(arts.art == '') & (arts.rec == ''), 'line_type'] = 'other'
+    arts.loc[(arts.art == '') & (arts.rec == ''), 'line_type'] = 'recital'
+    arts.loc[(arts.art != '') & (arts.rec == ''),  'line_type'] = 'article'
 
-    pars.loc[pars.par == '', 'line_type'] = 'other'
-    pars.loc[pars.par != '', 'line_type'] = 'paragraph'
+    pars.loc[(pars.par == '') & (pars.rec == ''), 'line_type'] = 'other'
+    pars.loc[(pars.par == '') & (pars.rec != ''), 'line_type'] = 'recital'
+    pars.loc[(pars.par != '') & (pars.rec == ''), 'line_type'] = 'paragraph'
 
     ragdata = pd.concat([pars, arts])
     ragdata.fillna('', inplace = True)
     ragdata.reset_index(inplace=True, drop = True)
     ragdata['uuid'] = [ str(uuid.uuid4()) for i in range(len(ragdata))  ]
 
-    output_file_json = "./data/rag/ragtime_20240218.json"
+    assert 1 == 2
+    output_file_json = "./data/rag/ragtime_20240219.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         ragdata.to_json(f, force_ascii=False, orient="records", indent=4)
 
