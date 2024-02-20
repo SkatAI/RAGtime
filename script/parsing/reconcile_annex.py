@@ -18,14 +18,15 @@ from lines import Line, RecitalLine,  AnnexLine
 class Annex(object):
     # order of files is important: must get commission before ep-adopted for reconciliation
     files = {
-        # 'commission':'./data/txt/52021-PC0206-commission/52021PC0206-regulation.txt',
-        # 'council':'./data/txt/ST-15698-2022-council/ST-15698-regulation.txt',
+        'commission':'./data/txt/52021-PC0206-commission/52021PC0206-annex.txt',
+        'council':'./data/txt/ST-15698-2022-council/ST-15698-annex.txt',
         # 'final_four':'./data/txt/final_four/AIAct-final-four-simple-recitals.txt',
         # 'ep_adopted':'./data/txt/adopted-amendments/EP-amendments-parliament-regulation.txt',
         'coreper':'data/txt/coreper-feb2/AIA-Trilogue-Coreper20240202-annex.txt',
     }
 
-    roman_to_num = {'I': 1, 'II': 2,'IIa': '2a', 'III': 3, 'IV': 4,'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8,'VIIIa': '8a','IX': 9, 'IXa': '9a', 'IXb': '9b', 'X': 10, 'XI': 11, 'XII': 12}
+    roman_to_num = {'I': 1, 'II': 2,'IIa': '2a', 'III': 3, 'IV': 4,'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8,'VIIIa': '8a','IX': 9, 'IXa': '9a', 'IXb': '9b', 'X': 10, 'XI': 11, 'IXb': '11b', 'IXc': '11c', 'XII': 12}
+    letters_to_num = {'A': 1, 'B': 2, 'C': 3}
 
     def __init__(self, author) -> None:
         self.author = author
@@ -64,20 +65,22 @@ class Annex(object):
 
         if isinstance(bread, str):
             bread = json.loads(bread)
-        try:
-            order = [str(Annex.roman_to_num[bread['anx']]).zfill(3)]
-        except:
-            print(bread['anx'])
-            print(Annex.roman_to_num)
 
+        order = [str(Annex.roman_to_num[bread['anx']]).zfill(3)]
 
         if bread.get('prt'):
-            order.append(str(bread.get('prt')).zfill(2) )
+            order.append(
+                str(Annex.roman_to_num[bread['prt']]).zfill(2)
+                # str(bread.get('prt')).zfill(2)
+            )
         else:
             order.append('00')
 
         if bread.get('sct'):
-            order.append(str(bread.get('sct')).zfill(2))
+            order.append(
+                str(Annex.letters_to_num[bread['sct']]).zfill(2)
+                # str(bread.get('sct')).zfill(2)
+            )
         else:
             order.append('00')
 
@@ -228,15 +231,23 @@ if __name__ == "__main__":
 
     data = pd.DataFrame()
 
+    author = 'commission'
+    print("==", author)
+    com = DocCoreperRegulation(author)
+    com.process()
+    data = pd.concat([data, com.df])
+
+    author = 'council'
+    print("==", author)
+    cnl = DocCoreperRegulation(author)
+    cnl.process()
+
+    data = pd.concat([data, cnl.df])
+
     author = 'coreper'
     print("==", author)
     cor = DocCoreperRegulation(author)
-    # cor.process()
-    cor.format()
-    cor.build_bread()
-    cor.build_order()
-    assert 1 == 2
-    cor.validate()
+    cor.process()
 
 
     data = pd.concat([data, cor.df])
@@ -245,6 +256,6 @@ if __name__ == "__main__":
     data.sort_values(by = ['order', 'author'], inplace = True)
     data.reset_index(inplace = True, drop = True)
 
-    output_file_json = "./data/rag/annex-coreper-20240219.json"
+    output_file_json = "./data/rag/annex-20240219.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         data.to_json(f, force_ascii=False, orient="records", indent=4)

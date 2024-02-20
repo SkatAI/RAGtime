@@ -18,12 +18,12 @@ class Rgx(object):
 
     @classmethod
     def extract_section_title_number(cls, text: str) -> re.Match:
-        rgx = r"^TITLE\s([I,X,V,A]+)\s*:.*$"
+        rgx = r"^TITLE\s([I,X,V,A,b,c]+)\s*:.*$"
         return re.search(rgx, text)
 
     @classmethod
     def extract_annex_title_number(cls, text: str) -> re.Match:
-        rgx = r"^ANNEX\s([I,X,V,A]+)\s*:.*$"
+        rgx = r"^ANNEX\s([I,X,V,A,b,c]+)\s*:.*$"
         return re.search(rgx, text, re.IGNORECASE)
 
     @classmethod
@@ -37,7 +37,7 @@ class Rgx(object):
     @classmethod
     def extract_annex_part_number(cls, text: str) -> re.Match:
         # Part I: Section A. List of Union harmonisation
-        rgx_part = r"^Part\s([I,X,V,A,b]+)\s*:.*$"
+        rgx_part = r"^Part\s([I,X,V,A,b,c]+)\s*:.*$"
         return re.search(rgx_part, text)
 
     @classmethod
