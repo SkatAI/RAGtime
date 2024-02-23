@@ -5,9 +5,9 @@ Steps to get data in the RAG
 ## parse original docs from txt
 
 With scripts in parsing
-- parse_regulation
-- parse_recital
-- parse_annex
+- reconcile_regulation
+- reconcile_recital
+- reconcile_annex
 
 this creates json files in ./data/rag
 recital|regulation|annex_{date}.json

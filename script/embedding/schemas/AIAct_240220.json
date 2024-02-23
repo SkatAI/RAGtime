@@ -1,0 +1,38 @@
+[
+  {
+    "name": "text",
+    "dataType": "text",
+    "skip_vectorization": false,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "title",
+    "dataType": "text",
+    "skip_vectorization": false,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "author",
+    "dataType": "text",
+    "skip_vectorization": false,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "uuid",
+    "dataType": "uuid",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "section",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  },
+  {
+    "name": "content_type",
+    "dataType": "text",
+    "skip_vectorization": true,
+    "vectorize_property_name": false
+  }
+]

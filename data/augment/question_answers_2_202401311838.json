@@ -1,8 +1,10 @@
+[
 {
     "question": "What actions can a Member State's market surveillance authority take if it finds non-compliance with conformity marking and EU declaration of conformity?",
-    "answer": [
-        "{\n    'short': 'The market surveillance authority can require the provider to fix the non-compliance.',\n    'expert': 'According to the Artificial Intelligence Act, if a Member State's market surveillance authority finds non-compliance with conformity marking and EU declaration of conformity, it can require the relevant provider to put an end to the non-compliance. This includes situations where the conformity marking has been affixed in violation of Article 49, the marking has not been affixed, the EU declaration of conformity has not been drawn up, or the identification number of the notified body has not been affixed.' \n}"
-    ],
+    "answer": {
+        "short": "The market surveillance authority can require the provider to fix the non-compliance.",
+        "expert": "According to the Artificial Intelligence Act, if a Member State's market surveillance authority finds non-compliance with conformity marking and EU declaration of conformity, it can require the relevant provider to put an end to the non-compliance. This includes situations where the conformity marking has been affixed in violation of Article 49, the marking has not been affixed, the EU declaration of conformity has not been drawn up, or the identification number of the notified body has not been affixed."
+    },
     "ground_truth_context": [
         "1. Where the market surveillance authority of a Member State makes one of the following findings, it shall require the relevant provider to put an end to the non-compliance concerned: (a) the conformity marking has been affixed in violation of Article 49; (b) the conformity marking has not been affixed; (c) the EU declaration of conformity has not been drawn up; (d) the EU declaration of conformity has not been drawn up correctly; (e) the identification number of the notified body, which is involved in the conformity assessment procedure, where applicable, has not been affixed;"
     ],
@@ -11,7 +13,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Are notified bodies for high-risk AI systems required to be independent of the providers and other operators with economic interests in the system?",
     "answer": {
@@ -26,12 +28,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What is the preferred policy option for regulating AI systems according to the European Commission's impact assessment?",
-    "answer": [
-        "{\n    'short': 'The preferred option is to regulate high-risk AI systems only.',\n    'expert': 'According to the European Commission's impact assessment, the preferred policy option for regulating AI systems is option 3+, which focuses on creating a regulatory framework specifically for high-risk AI systems. This framework would include mandatory requirements for data, documentation, traceability, provision of information, transparency, human oversight, and robustness and accuracy. Non-high-risk AI systems would have the option to follow a code of conduct.' \n}"
-    ],
+    "answer": {
+        "short": "The preferred option is to regulate high-risk AI systems only.",
+        "expert": "According to the European Commission's impact assessment, the preferred policy option for regulating AI systems is option 3+, which focuses on creating a regulatory framework specifically for high-risk AI systems. This framework would include mandatory requirements for data, documentation, traceability, provision of information, transparency, human oversight, and robustness and accuracy. Non-high-risk AI systems would have the option to follow a code of conduct."
+    },
     "ground_truth_context": [
         "The preferred option is option 3+, a regulatory framework for high-risk AI systems only, with the possibility for all providers of non-high-risk AI systems to follow a code of conduct. The requirements will concern data, documentation and traceability, provision of information and transparency, human oversight and robustness and accuracy and would be mandatory for high-risk AI systems."
     ],
@@ -40,7 +43,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "How should Member States facilitate coordination between market surveillance authorities and other relevant national authorities for high-risk AI systems in the Union market?",
     "answer": {
@@ -55,7 +58,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What liability do participants in the AI regulatory sandbox have for harm caused to third parties during experimentation?",
     "answer": {
@@ -70,7 +73,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What actions must the market surveillance authority take if an AI system is found to not comply with the requirements and obligations laid down in the Regulation?",
     "answer": {
@@ -85,7 +88,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Can AI system certificates be extended beyond five years?",
     "answer": {
@@ -100,7 +103,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What role do the European Data Protection Supervisor and the European Data Protection Board play in EU policy?",
     "answer": {
@@ -115,7 +118,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What is the Commission empowered to do in order to introduce necessary elements of conformity assessment procedures in light of technical progress?",
     "answer": {
@@ -130,7 +133,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What are the conditions for processing personal data in the AI regulatory sandbox for developing innovative AI systems in the public interest?",
     "answer": {
@@ -145,7 +148,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "How is the European Union addressing the benefits and risks of artificial intelligence systems at the Union level, as requested by the European Parliament and the European Council?",
     "answer": {
@@ -160,7 +163,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What are the obligations of users of high-risk AI systems regarding the maintenance of logs?",
     "answer": {
@@ -175,7 +178,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What does the EU Regulation on artificial intelligence systems cover?",
     "answer": {
@@ -190,7 +193,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "How should the risk management measures for high-risk AI systems consider the combined effects of the requirements in Chapter 2?",
     "answer": {
@@ -205,7 +208,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What actions can the Commission take if a notified body does not meet the requirements for AI systems?",
     "answer": {
@@ -220,7 +223,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What mechanisms will be put in place to monitor and evaluate the effects of high-risk AI applications in the EU?",
     "answer": {
@@ -235,7 +238,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Do Member States need to provide adequate resources to national competent authorities for regulating artificial intelligence?",
     "answer": {
@@ -250,7 +253,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What does 'conformity assessment' mean in relation to AI systems according to the European Commission?",
     "answer": {
@@ -265,7 +268,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Can market surveillance authorities authorize the use of high-risk AI systems for specific reasons of public security, protection of life and health, environmental protection, and protection of key industrial and infrastructural assets?",
     "answer": {
@@ -280,7 +283,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What are the requirements for data governance and management practices for training, validation, and testing data sets of high-risk AI systems?",
     "answer": {
@@ -296,3 +299,4 @@
     "question_type": "simple",
     "episode_done": true
 }
+]

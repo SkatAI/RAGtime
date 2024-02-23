@@ -133,6 +133,6 @@ if __name__ == "__main__":
     data = data[data.author.isin(['commission', 'council', 'coreper'])].copy()
     data.reset_index(inplace=True, drop = True)
 
-    output_file_json = "./data/rag/recital-20240218.json"
+    output_file_json = "./data/rag/recital-20240220.json"
     with open(output_file_json, "w", encoding="utf-8") as f:
         data.to_json(f, force_ascii=False, orient="records", indent=4)

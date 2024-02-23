@@ -1,0 +1,10 @@
+CREATE TABLE characters (
+    id SERIAL PRIMARY KEY,
+    play_id INT NOT NULL,
+    name TEXT,
+    bio TEXT,
+    long_bio TEXT,
+    avatar TEXT,
+
+    CONSTRAINT fk_play_id FOREIGN KEY (play_id) REFERENCES plays(id)
+);

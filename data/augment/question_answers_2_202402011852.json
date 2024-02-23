@@ -1,8 +1,9 @@
-{
+[{
     "question": "What are the requirements for the post-market monitoring plan for high-risk AI systems in the EU?",
-    "answer": [
-        "{\n    'short': 'The post-market monitoring plan for high-risk AI systems in the EU must be part of the technical documentation and follow detailed provisions set by the Commission.',\n    'expert': 'The requirements for the post-market monitoring plan for high-risk AI systems in the EU are that it must be based on a post-market monitoring plan, which is part of the technical documentation referred to in Annex IV. The Commission will adopt an implementing act laying down detailed provisions establishing a template for the post-market monitoring plan and the list of elements to be included in the plan.' \n}"
-    ],
+    "answer": {
+        "short": "The post-market monitoring plan for high-risk AI systems in the EU must be part of the technical documentation and follow detailed provisions set by the Commission.",
+        "expert": "The requirements for the post-market monitoring plan for high-risk AI systems in the EU are that it must be based on a post-market monitoring plan, which is part of the technical documentation referred to in Annex IV. The Commission will adopt an implementing act laying down detailed provisions establishing a template for the post-market monitoring plan and the list of elements to be included in the plan."
+    },
     "ground_truth_context": [
         "1. The post-market monitoring system shall be based on a post-market monitoring plan.\n2. The post-market monitoring plan shall be part of the technical documentation referred to in Annex IV.\n3. The Commission shall adopt an implementing act laying down detailed provisions establishing a template for the post-market monitoring plan and the list of elements to be included in the plan."
     ],
@@ -11,7 +12,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Does the classification of an AI system as high risk under this Regulation mean that its use is automatically lawful under other Union or national laws?",
     "answer": {
@@ -26,12 +27,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What are the rules and process for participating in the AI regulatory sandboxes?",
-    "answer": [
-        "{\n    'short': 'The rules and process for participating in AI regulatory sandboxes are set out in implementing acts.',\n    'expert': 'The rules and process for participating in AI regulatory sandboxes, including eligibility criteria, application procedure, selection, participation, and exiting, as well as rights and obligations of participants, are detailed in implementing acts. These acts are adopted in accordance with the examination procedure referred to in Article 74(2) of the Artificial Intelligence Act.'\n}"
-    ],
+    "answer": {
+        "short": "The rules and process for participating in AI regulatory sandboxes are set out in implementing acts.",
+        "expert": "The rules and process for participating in AI regulatory sandboxes, including eligibility criteria, application procedure, selection, participation, and exiting, as well as rights and obligations of participants, are detailed in implementing acts. These acts are adopted in accordance with the examination procedure referred to in Article 74(2) of the Artificial Intelligence Act."
+    },
     "ground_truth_context": [
         "- The modalities and the conditions of the operation of the AI regulatory sandboxes, including the eligibility criteria and the procedure for the application, selection, participation and exiting from the sandbox, and the rights and obligations of the participants shall be set out in implementing acts.\n- Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 74(2)."
     ],
@@ -40,12 +42,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What rules do Member States have to follow when imposing administrative fines on public authorities and bodies?",
-    "answer": [
-        "{\n    'short': 'Member States have to decide on rules for imposing fines on public authorities.',\n    'expert': 'According to the Artificial Intelligence Act, each Member State is required to establish rules governing the imposition of administrative fines on public authorities and bodies within their jurisdiction. These rules should outline the circumstances under which fines may be imposed and the extent to which they may be applied.' \n}"
-    ],
+    "answer": {
+        "short": "Member States have to decide on rules for imposing fines on public authorities.",
+        "expert": "According to the Artificial Intelligence Act, each Member State is required to establish rules governing the imposition of administrative fines on public authorities and bodies within their jurisdiction. These rules should outline the circumstances under which fines may be imposed and the extent to which they may be applied."
+    },
     "ground_truth_context": [
         "1. Each Member State shall lay down rules on whether and to what extent administrative fines may be imposed on public authorities and bodies established in that Member State."
     ],
@@ -54,7 +57,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What information does the Member State need to provide to the Commission and other Member States regarding compliant AI systems that present a risk?",
     "answer": {
@@ -69,7 +72,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What are the requirements for establishing a risk management system for high-risk AI systems?",
     "answer": {
@@ -84,7 +87,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What was the process for gathering expertise and stakeholder input for the Commission's Strategy on Artificial Intelligence?",
     "answer": {
@@ -99,7 +102,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Who is responsible for making decisions regarding the notification of conformity assessment bodies under the organization of notifying authorities?",
     "answer": {
@@ -114,7 +117,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Should AI systems providing social scoring of natural persons for general purpose by public authorities or on their behalf be prohibited due to the potential for discriminatory outcomes and violation of the right to dignity and non-discrimination?",
     "answer": {
@@ -129,12 +132,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "How will the effectiveness of national competent authorities in enforcing this Regulation be evaluated and reviewed?",
-    "answer": [
-        "{\n    'short': \"They will look at how well the national authorities are doing their job.\",\n    'expert': \"The effectiveness of national competent authorities in enforcing the Regulation will be evaluated and reviewed based on the status of their financial and human resources, as well as the application of penalties and administrative fines by Member States for infringements of the Regulation's provisions, as outlined in Article 71(1).\"\n}"
-    ],
+    "answer": {
+        "short":"They will look at how well the national authorities are doing their job.",
+        "expert": "The effectiveness of national competent authorities in enforcing the Regulation will be evaluated and reviewed based on the status of their financial and human resources, as well as the application of penalties and administrative fines by Member States for infringements of the Regulation's provisions, as outlined in Article 71(1)."
+    },
     "ground_truth_context": [
         "1. The reports referred to in paragraph 2 shall devote specific attention to the following: (a) the status of the financial and human resources of the national competent authorities in order to effectively perform the tasks assigned to them under this Regulation; \n2. (b) the state of penalties, and notably administrative fines as referred to in Article 71(1) , applied by Member States to infringements of the provisions of this Regulation."
     ],
@@ -143,7 +147,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What does \"performance of an AI system\" refer to?",
     "answer": {
@@ -158,12 +162,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What documents and certifications are required for a conformity assessment body to apply for notification under the EU's High-Risk AI Systems regulations?",
-    "answer": [
-        "{\n    'short': 'The conformity assessment body needs to provide a description of their activities, an accreditation certificate, and any relevant existing designations.',\n    'expert': 'According to the EU's High-Risk AI Systems regulations, a conformity assessment body applying for notification must submit a description of their activities, an accreditation certificate issued by a national accreditation body, and any valid document related to existing designations under Union harmonisation legislation.'\n}"
-    ],
+    "answer": {
+        "short": "The conformity assessment body needs to provide a description of their activities, an accreditation certificate, and any relevant existing designations.",
+        "expert": "According to the EU's High-Risk AI Systems regulations, a conformity assessment body applying for notification must submit a description of their activities, an accreditation certificate issued by a national accreditation body, and any valid document related to existing designations under Union harmonisation legislation."
+    },
     "ground_truth_context": [
         "1. The application for notification shall be accompanied by a description of the conformity assessment activities, the conformity assessment module or modules and the artificial intelligence technologies for which the conformity assessment body claims to be competent.\n2. The application for notification shall be accompanied by an accreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 33.\n3. Any valid document related to existing designations of the applicant notified body under any other Union harmonisation legislation shall be added."
     ],
@@ -172,7 +177,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What is the purpose of Title IX in the EU's AI policy?",
     "answer": {
@@ -187,12 +192,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What is the definition of a 'biometric categorisation system' in the context of AI and EU policy?",
-    "answer": [
-        "{\n    'short': 'A biometric categorisation system is an AI system that categorizes people based on their biometric data like age, sex, and ethnicity.',\n    'expert': 'In the context of AI and EU policy, a 'biometric categorisation system' refers to an AI system that uses biometric data to assign individuals to specific categories such as sex, age, hair color, eye color, tattoos, ethnic origin, or sexual or political orientation. This definition is provided in the Artificial Intelligence Act, which is a regulation proposed by the European Commission to regulate AI systems and their applications in the EU.'\n}"
-    ],
+    "answer": {
+        "short": "A biometric categorisation system is an AI system that categorizes people based on their biometric data like age, sex, and ethnicity.",
+        "expert": "In the context of AI and EU policy, a 'biometric categorisation system' refers to an AI system that uses biometric data to assign individuals to specific categories such as sex, age, hair color, eye color, tattoos, ethnic origin, or sexual or political orientation. This definition is provided in the Artificial Intelligence Act, which is a regulation proposed by the European Commission to regulate AI systems and their applications in the EU."
+    },
     "ground_truth_context": [
         "- 'biometric categorisation system' means an AI system for the purpose of assigning natural persons to specific categories, such as sex, age, hair colour, eye colour, tattoos, ethnic origin or sexual or political orientation, on the basis of their biometric data;"
     ],
@@ -201,7 +207,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "Can high-risk AI systems conforming to common specifications be presumed to meet the requirements set out in Chapter 2 of this Title?",
     "answer": {
@@ -216,7 +222,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What factors are considered when determining the amount of an administrative fine for a violation of EU policy?",
     "answer": {
@@ -231,12 +237,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What information is required for dealing with AI systems presenting a risk at the national level?",
-    "answer": [
-        "{\n    'short': 'Details about the non-compliant AI system and the national measures taken.',\n    'expert': 'The information required for dealing with AI systems presenting a risk at the national level includes details such as the identification of the non-compliant AI system, its origin, the nature of the non-compliance alleged, the risk involved, the nature and duration of the national measures taken, and the arguments put forward by the relevant operator. Market surveillance authorities also need to indicate whether the non-compliance is due to failure to meet requirements set out in Title III, Chapter 2, or shortcomings in harmonised standards or common specifications.'\n}"
-    ],
+    "answer": {
+        "short": "Details about the non-compliant AI system and the national measures taken.",
+        "expert": "The information required for dealing with AI systems presenting a risk at the national level includes details such as the identification of the non-compliant AI system, its origin, the nature of the non-compliance alleged, the risk involved, the nature and duration of the national measures taken, and the arguments put forward by the relevant operator. Market surveillance authorities also need to indicate whether the non-compliance is due to failure to meet requirements set out in Title III, Chapter 2, or shortcomings in harmonised standards or common specifications."
+    },
     "ground_truth_context": [
         "The information referred to in paragraph 5 shall include all available details, in particular the data necessary for the identification of the non-compliant AI system, the origin of the AI system, the nature of the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to one or more of the following: (a) a failure of the AI system to meet requirements set out in Title III, Chapter 2; (b) shortcomings in the harmonised standards or common specifications referred to in Articles 40 and 41 conferring a presumption of conformity."
     ],
@@ -245,12 +252,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "What accuracy requirements must be declared for high-risk AI systems?",
-    "answer": [
-        "{\n    'short': 'The accuracy requirements for high-risk AI systems must be declared in the instructions.',\n    'expert': 'According to the Artificial Intelligence Act, the levels of accuracy and relevant accuracy metrics for high-risk AI systems must be declared in the accompanying instructions of use. This is to ensure transparency and accountability in the deployment of AI technology.' \n}"
-    ],
+    "answer": {
+        "short": "The accuracy requirements for high-risk AI systems must be declared in the instructions.",
+        "expert": "According to the Artificial Intelligence Act, the levels of accuracy and relevant accuracy metrics for high-risk AI systems must be declared in the accompanying instructions of use. This is to ensure transparency and accountability in the deployment of AI technology."
+    },
     "ground_truth_context": [
         "1. The levels of accuracy and the relevant accuracy metrics of high-risk AI systems shall be declared in the accompanying instructions of use."
     ],
@@ -259,12 +267,13 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "How does the European Artificial Intelligence Board adopt its rules of procedure?",
-    "answer": [
-        "{\n    'short': 'The Board adopts its rules by majority vote after getting the Commission's consent.',\n    'expert': 'The European Artificial Intelligence Board adopts its rules of procedure through a simple majority vote of its members, with the consent of the Commission. These rules outline the operational aspects related to the execution of the Board's tasks as listed in Article 58.'\n}"
-    ],
+    "answer": {
+        "short": "The Board adopts its rules by majority vote after getting the Commission's consent.",
+        "expert": "The European Artificial Intelligence Board adopts its rules of procedure through a simple majority vote of its members, with the consent of the Commission. These rules outline the operational aspects related to the execution of the Board's tasks as listed in Article 58."
+    },
     "ground_truth_context": [
         "1. The Board shall adopt its rules of procedure by a simple majority of its members, following the consent of the Commission.\n2. The rules of procedure shall also contain the operational aspects related to the execution of the Board's tasks as listed in Article 58."
     ],
@@ -273,7 +282,7 @@
     ],
     "question_type": "simple",
     "episode_done": true
-}
+},
 {
     "question": "How do Member States' competent authorities coordinate and cooperate within the European Artificial Intelligence Board for AI regulatory sandboxes?",
     "answer": {
@@ -289,3 +298,4 @@
     "question_type": "simple",
     "episode_done": true
 }
+]

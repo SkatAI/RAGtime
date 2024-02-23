@@ -128,7 +128,7 @@ loc: Article 3 - paragraph 1 - point 3
 
 Amendment 172
 loc: Article 3 - paragraph 1 - point 4
-4. ‘deployer means any natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;
+4. ‘deployer’ means any natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;
 
 Amendment 173
 loc: Article 3 - paragraph 1 - point 8
