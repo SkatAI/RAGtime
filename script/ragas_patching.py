@@ -3,8 +3,9 @@ from __future__ import annotations
 import typing as t
 import warnings
 from collections import defaultdict, namedtuple
-from dataclasses import dataclass,  asdict
+from dataclasses import dataclass, asdict
 import json
+
 try:
     from llama_index.indices.query.embedding_utils import get_top_k_embeddings
     from llama_index.node_parser import SimpleNodeParser
@@ -12,8 +13,7 @@ try:
     from llama_index.schema import BaseNode
 except ImportError:
     raise ImportError(
-        "llama_index must be installed to use this function. "
-        "Please, install it with `pip install llama_index`."
+        "llama_index must be installed to use this function. " "Please, install it with `pip install llama_index`."
     )
 
 import numpy as np
@@ -102,14 +102,15 @@ class TestDatasetPatched:
         return pd.DataFrame.from_records(data_samples)
 
     def to_jsonl(self, filename: str) -> None:
-        with open(filename, 'w') as file:
+        with open(filename, "w") as file:
             for data in self.test_data:
                 json_str = json.dumps(asdict(data), indent=4)
-                file.write(json_str + '\n')
+                file.write(json_str + "\n")
 
 
 from ragas.testset.utils import load_as_score
 from ragas.utils import load_as_json
+
 
 def _filter_question_patched(self, question: str) -> bool:
     print(f"q: {question}")
@@ -119,9 +120,10 @@ def _filter_question_patched(self, question: str) -> bool:
     results = self.critic_llm.generate(prompts=[prompt])
     results = results.generations[0][0].text.strip()
     json_results = load_as_json(results)
-    if json_results.get("verdict") == 'No':
+    if json_results.get("verdict") == "No":
         print(f"question not valid: \n {question} \n reason: {json_results.get('reason')} ")
     return json_results.get("verdict") != "No"
+
 
 def _seed_question_patched(self, context: str) -> str:
     human_prompt = NEW_SEED_QUESTION.format(context=context)
@@ -129,11 +131,9 @@ def _seed_question_patched(self, context: str) -> str:
     results = self.generator_llm.generate(prompts=[prompt])
     return results.generations[0][0].text.strip()
 
+
 def _generate_answer_patched(self, question: str, context: t.List[str]) -> t.List[str]:
-    return [
-        self._qc_template(NEW_ANSWER_FORMULATE, qstn, context[i])
-        for i, qstn in enumerate(question.split("\n"))
-    ]
+    return [self._qc_template(NEW_ANSWER_FORMULATE, qstn, context[i]) for i, qstn in enumerate(question.split("\n"))]
 
 
 def generate_patched(
@@ -142,24 +142,16 @@ def generate_patched(
     test_size: int,
 ) -> TestDatasetPatched:
     if not isinstance(documents[0], (LlamaindexDocument, LangchainDocument)):
-        raise ValueError(
-            "Testset Generatation only supports LlamaindexDocuments or LangchainDocuments"  # noqa
-        )
+        raise ValueError("Testset Generatation only supports LlamaindexDocuments or LangchainDocuments")  # noqa
 
     if isinstance(documents[0], LangchainDocument):
         # cast to LangchainDocument since its the only case here
         documents = t.cast(t.List[LangchainDocument], documents)
-        documents = [
-            LlamaindexDocument.from_langchain_format(doc) for doc in documents
-        ]
+        documents = [LlamaindexDocument.from_langchain_format(doc) for doc in documents]
     # Convert documents into nodes
-    node_parser = SimpleNodeParser.from_defaults(
-        chunk_size=self.chunk_size, chunk_overlap=0, include_metadata=True
-    )
+    node_parser = SimpleNodeParser.from_defaults(chunk_size=self.chunk_size, chunk_overlap=0, include_metadata=True)
     documents = t.cast(t.List[LlamaindexDocument], documents)
-    document_nodes: t.List[BaseNode] = node_parser.get_nodes_from_documents(
-        documents=documents
-    )
+    document_nodes: t.List[BaseNode] = node_parser.get_nodes_from_documents(documents=documents)
     # maximum 1 seed question per node
     if test_size > len(document_nodes):
         raise ValueError(
@@ -229,11 +221,7 @@ def generate_patched(
         # functions from question_deep_map
         else:
             evolve_fun = question_deep_map.get(evolve_type)
-            question = (
-                getattr(self, evolve_fun)(seed_question, text_chunk)
-                if evolve_fun
-                else seed_question
-            )
+            question = getattr(self, evolve_fun)(seed_question, text_chunk) if evolve_fun else seed_question
 
         # compress question or convert into conversational questions
         if evolve_type != "simple":
@@ -248,13 +236,9 @@ def generate_patched(
             context = self._generate_context(question, text_chunk)
             is_conv = len(context) > 1
             answer = self._generate_answer(question, context)
-            for i, (qstn, ctx, ans) in enumerate(
-                zip(question.split("\n"), context, answer)
-            ):
+            for i, (qstn, ctx, ans) in enumerate(zip(question.split("\n"), context, answer)):
                 episode_done = False if is_conv and i == 0 else True
-                samples.append(
-                    DataRowPatched(qstn, [ctx], [ans], [text_chunk], evolve_type, episode_done)
-                )
+                samples.append(DataRowPatched(qstn, [ctx], [ans], [text_chunk], evolve_type, episode_done))
             count += 1
             pbar.update(count)
 

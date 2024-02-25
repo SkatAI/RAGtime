@@ -1,12 +1,13 @@
-'''
+"""
 use ragas to create a test set of questions answers
-'''
+"""
 import os, re, json, glob
 import time, datetime
 from datetime import timedelta
 import pandas as pd
 import hashlib
 from tqdm import tqdm
+
 pd.options.display.max_columns = 160
 pd.options.display.max_rows = 60
 pd.options.display.max_colwidth = 160
@@ -15,6 +16,7 @@ pd.options.display.width = 160
 pd.set_option("display.float_format", "{:.4f}".format)
 import numpy as np
 import random
+
 random.seed(800)
 import argparse
 
@@ -54,10 +56,11 @@ TestsetGenerator.generate = generate_patched
 from datasets import Dataset
 
 import warnings
-warnings.simplefilter(action='ignore', category=UserWarning)
 
-model = 'gpt-4-0125-preview'
-model = 'gpt-3.5-turbo-1106'
+warnings.simplefilter(action="ignore", category=UserWarning)
+
+model = "gpt-4-0125-preview"
+model = "gpt-3.5-turbo-1106"
 test_size = 4
 docs_concatenate = 2
 max_documents = 10
@@ -68,12 +71,11 @@ from loading import (
 )
 
 if __name__ == "__main__":
+    document_path = "data/json/"
+    documents_filename = os.path.join(document_path, "documents.json")
 
-    document_path = 'data/json/'
-    documents_filename = os.path.join(document_path, 'documents.json')
-
-    files = glob.glob(os.path.join(document_path, '*.json'))
-    files.pop( files.index(documents_filename)    )
+    files = glob.glob(os.path.join(document_path, "*.json"))
+    files.pop(files.index(documents_filename))
 
     snips = Snips(files)
 
@@ -84,14 +86,19 @@ if __name__ == "__main__":
     assert len(documents) >= test_size, f"not enough documents {len(documents)} for test_size {test_size}"
 
     # only generate simple questions
-    testset_distribution = {'simple': 1.0, 'reasoning': 0.0, 'multi_context': 0.0, 'conditional': 0.0}
+    testset_distribution = {
+        "simple": 1.0,
+        "reasoning": 0.0,
+        "multi_context": 0.0,
+        "conditional": 0.0,
+    }
 
     testsetgenerator = TestsetGenerator.from_default(
-        openai_generator_llm = model,
-        openai_filter_llm = model,
-        chat_qa = 0.0,
-        chunk_size = 2048,
-        testset_distribution = testset_distribution
+        openai_generator_llm=model,
+        openai_filter_llm=model,
+        chat_qa=0.0,
+        chunk_size=2048,
+        testset_distribution=testset_distribution,
     )
 
     testset = testsetgenerator.generate(documents, test_size=test_size)
@@ -114,20 +121,17 @@ if __name__ == "__main__":
     #         json.dump(entry, file, indent=4)
     #         file.write("\n")
 
-
     # for d in df.head().to_dict(orient = "records"):
     #     try:
     #         d['answer'] = json.loads(d['answer'][0])
     #     except:
     #         d['answer'] = d['answer'][0]
 
-
     #     print("\n","--"*20)
     #     print(f"question: {d['question']}")
     #     print(f"-- answer: \n{d['answer']}")
     #     print(f"\n--answer context:  \n{d['ground_truth_context'][0]}")
     #     print(f"\n--context:  \n{d['context'][0]}")
-
 
     # mdc = pd.read_json('data/json/documents.json').to_dict(orient = 'records')[0]
     # footer = f"Author: {mdc['issuer']}, {mdc['date_published']}"
@@ -159,4 +163,3 @@ if __name__ == "__main__":
     # encoding = tiktoken.get_encoding("cl100k_base")
     # tokens_ = [len(encoding.encode(txt)) for txt in chunks]
     # print(f"tokens: mean {np.mean(tokens_)} median  {np.median(tokens_)} stdf  {np.std(tokens_)}")
-

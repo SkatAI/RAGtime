@@ -2,9 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 browser_market_share = {
-    'browsers': ['firefox', 'chrome', 'safari', 'edge', 'ie', 'opera'],
-    'market_share': [8.61, 69.55, 8.36, 4.12, 2.76, 2.43],
-    'color': ['#5A69AF', '#579E65', '#F9C784', '#FC944A', '#F24C00', '#00B825']
+    "browsers": ["firefox", "chrome", "safari", "edge", "ie", "opera"],
+    "market_share": [8.61, 69.55, 8.36, 4.12, 2.76, 2.43],
+    "color": ["#5A69AF", "#579E65", "#F9C784", "#FC944A", "#F24C00", "#00B825"],
 }
 
 
@@ -38,24 +38,20 @@ class BubbleChart:
         length = np.ceil(np.sqrt(len(self.bubbles)))
         grid = np.arange(length) * self.maxstep
         gx, gy = np.meshgrid(grid, grid)
-        self.bubbles[:, 0] = gx.flatten()[:len(self.bubbles)]
-        self.bubbles[:, 1] = gy.flatten()[:len(self.bubbles)]
+        self.bubbles[:, 0] = gx.flatten()[: len(self.bubbles)]
+        self.bubbles[:, 1] = gy.flatten()[: len(self.bubbles)]
 
         self.com = self.center_of_mass()
 
     def center_of_mass(self):
-        return np.average(
-            self.bubbles[:, :2], axis=0, weights=self.bubbles[:, 3]
-        )
+        return np.average(self.bubbles[:, :2], axis=0, weights=self.bubbles[:, 3])
 
     def center_distance(self, bubble, bubbles):
-        return np.hypot(bubble[0] - bubbles[:, 0],
-                        bubble[1] - bubbles[:, 1])
+        return np.hypot(bubble[0] - bubbles[:, 0], bubble[1] - bubbles[:, 1])
 
     def outline_distance(self, bubble, bubbles):
         center_distance = self.center_distance(bubble, bubbles)
-        return center_distance - bubble[2] - \
-            bubbles[:, 2] - self.bubble_spacing
+        return center_distance - bubble[2] - bubbles[:, 2] - self.bubble_spacing
 
     def check_collisions(self, bubble, bubbles):
         distance = self.outline_distance(bubble, bubbles)
@@ -105,14 +101,10 @@ class BubbleChart:
                         # calculate orthogonal vector
                         orth = np.array([dir_vec[1], -dir_vec[0]])
                         # test which direction to go
-                        new_point1 = (self.bubbles[i, :2] + orth *
-                                      self.step_dist)
-                        new_point2 = (self.bubbles[i, :2] - orth *
-                                      self.step_dist)
-                        dist1 = self.center_distance(
-                            self.com, np.array([new_point1]))
-                        dist2 = self.center_distance(
-                            self.com, np.array([new_point2]))
+                        new_point1 = self.bubbles[i, :2] + orth * self.step_dist
+                        new_point2 = self.bubbles[i, :2] - orth * self.step_dist
+                        dist1 = self.center_distance(self.com, np.array([new_point1]))
+                        dist2 = self.center_distance(self.com, np.array([new_point2]))
                         new_point = new_point1 if dist1 < dist2 else new_point2
                         new_bubble = np.append(new_point, self.bubbles[i, 2:4])
                         if not self.check_collisions(new_bubble, rest_bub):
@@ -135,26 +127,20 @@ class BubbleChart:
             Colors of the bubbles.
         """
         for i in range(len(self.bubbles)):
-            circ = plt.Circle(
-                self.bubbles[i, :2], self.bubbles[i, 2], color=colors[i])
+            circ = plt.Circle(self.bubbles[i, :2], self.bubbles[i, 2], color=colors[i])
             ax.add_patch(circ)
-            ax.text(*self.bubbles[i, :2], labels[i],
-                    horizontalalignment='center', verticalalignment='center')
+            ax.text(*self.bubbles[i, :2], labels[i], horizontalalignment="center", verticalalignment="center")
 
 
-bubble_chart = BubbleChart(
-    area=browser_market_share['market_share'],
-    bubble_spacing=0.1
-    )
+bubble_chart = BubbleChart(area=browser_market_share["market_share"], bubble_spacing=0.1)
 
 bubble_chart.collapse()
 
 fig, ax = plt.subplots(subplot_kw=dict(aspect="equal"))
-bubble_chart.plot(
-    ax, browser_market_share['browsers'], browser_market_share['color'])
+bubble_chart.plot(ax, browser_market_share["browsers"], browser_market_share["color"])
 ax.axis("off")
 ax.relim()
 ax.autoscale_view()
-ax.set_title('Browser market share')
+ax.set_title("Browser market share")
 
 plt.show()

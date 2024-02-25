@@ -171,6 +171,3 @@ Context:
 Score:
 """  # noqa: E501
 )
-
-
-

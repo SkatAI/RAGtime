@@ -1,15 +1,16 @@
-'''
+"""
 TODO:
 - add initial_source
 - when getting pids, filter by source
 - dependency on limit for fetch_objects
-'''
+"""
 import os, re, json, glob
 import time, datetime
 from datetime import timedelta
 import pandas as pd
 import argparse
 from tqdm import tqdm
+
 pd.options.display.max_columns = 100
 pd.options.display.max_rows = 60
 pd.options.display.max_colwidth = 100
@@ -38,14 +39,14 @@ from langchain.chains import LLMChain
 
 from langchain.chains import SequentialChain
 
+
 def postize(title, authors, text):
-    return f'''{title}
+    return f"""{title}
 {','.join(authors)}
-{text}'''
+{text}"""
 
 
 if __name__ == "__main__":
-
     # connect to weaviate
     cluster_location = "local"
     cluster_location = "cloud-cluster"
@@ -67,7 +68,7 @@ if __name__ == "__main__":
         pass
 
     if (not create_new_collection) & (collection_exists):
-        print('Are you sure you want to re create it ? (type the collection name to continue)')
+        print("Are you sure you want to re create it ? (type the collection name to continue)")
         x = input()
         if x == collection_name:
             create_new_collection = True
@@ -76,23 +77,25 @@ if __name__ == "__main__":
         # create collection
         vectorizer = which_vectorizer("OpenAI")
         schema = [
-            wvc.Property(name='uuid', data_type=wvc.DataType.UUID, skip_vectorization=True),
-            wvc.Property(name='author_full', data_type=wvc.DataType.TEXT, skip_vectorization=True),
-            wvc.Property(name='token_count', data_type=wvc.DataType.INT, skip_vectorization=True),
-
-            wvc.Property(name='author', data_type=wvc.DataType.TEXT, vectorize_property_name = True),
-            wvc.Property(name='title', data_type=wvc.DataType.TEXT, vectorize_property_name = False),
-            wvc.Property(name='numbering',data_type=wvc.DataType.TEXT, vectorize_property_name = False),
-            wvc.Property(name='text', data_type=wvc.DataType.TEXT, vectorize_property_name = False),
+            wvc.Property(name="uuid", data_type=wvc.DataType.UUID, skip_vectorization=True),
+            wvc.Property(name="author_full", data_type=wvc.DataType.TEXT, skip_vectorization=True),
+            wvc.Property(name="token_count", data_type=wvc.DataType.INT, skip_vectorization=True),
+            wvc.Property(name="author", data_type=wvc.DataType.TEXT, vectorize_property_name=True),
+            wvc.Property(name="title", data_type=wvc.DataType.TEXT, vectorize_property_name=False),
+            wvc.Property(
+                name="numbering",
+                data_type=wvc.DataType.TEXT,
+                vectorize_property_name=False,
+            ),
+            wvc.Property(name="text", data_type=wvc.DataType.TEXT, vectorize_property_name=False),
         ]
 
-
         collection = create_collection(
-                client,
-                collection_name,
-                vectorizer,
-                schema,
-            )
+            client,
+            collection_name,
+            vectorizer,
+            schema,
+        )
     collection = client.collections.get(collection_name)
     print(f"collection {collection_name} has :")
     count_collection(collection)

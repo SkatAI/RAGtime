@@ -1,9 +1,10 @@
-'''
+"""
 - topics etc
 
-'''
+"""
 import os, re, json, glob
 import pandas as pd
+
 pd.options.display.max_columns = 120
 pd.options.display.max_rows = 60
 pd.options.display.precision = 10
@@ -14,8 +15,9 @@ import typing as t
 from tqdm import tqdm
 
 import sys
-sys.path.append('./script')
-sys.path.append('./script/parsing')
+
+sys.path.append("./script")
+sys.path.append("./script/parsing")
 from regex_utils import Rgx
 import matplotlib
 import matplotlib.pyplot as plt
@@ -24,12 +26,15 @@ import seaborn as sns
 from collections import Counter
 
 import spacy
+
 nlp = spacy.load("en_core_web_md")
 from nltk.corpus import stopwords
-stopwords = stopwords.words('english') + ['shall']
+
+stopwords = stopwords.words("english") + ["shall"]
 from string import punctuation
-punctuation += '‘’'
-punctuation = punctuation.replace('-', '')
+
+punctuation += "‘’"
+punctuation = punctuation.replace("-", "")
 
 from keybert import KeyBERT
 import openai
@@ -50,35 +55,37 @@ political_groups = {
     "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament": "S&D",
 }
 
-def get_embeddings(texts: t.List[str], model: str ="text-embedding-3-small") -> t.List[float]:
-    texts =[ txt.replace("\n", " ") for txt in texts]
-    stuff = client.embeddings.create(input = texts, model=model)
-    embeds = np.array(
-        [d.embedding for d in stuff.data]
-    )
+
+def get_embeddings(texts: t.List[str], model: str = "text-embedding-3-small") -> t.List[float]:
+    texts = [txt.replace("\n", " ") for txt in texts]
+    stuff = client.embeddings.create(input=texts, model=model)
+    embeds = np.array([d.embedding for d in stuff.data])
     return embeds
 
+
 def rm_punct(text: str) -> str:
-    return ''.join([txt for txt in text if txt not in punctuation])
+    return "".join([txt for txt in text if txt not in punctuation])
+
 
 def extract_noun_chunks(text: str) -> t.List[str]:
-    text = text.replace('\n',' ').strip()
-    text = re.sub(r"\d+\.|\([a-z]{1,3}\)", '', text)
-    text = re.sub(r"\s+", ' ', text).strip()
+    text = text.replace("\n", " ").strip()
+    text = re.sub(r"\d+\.|\([a-z]{1,3}\)", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
     doc = nlp(text)
     ncs = []
     for chunk in doc.noun_chunks:
         chk = chunk.text.lower().strip()
-        chk = ' '.join( [ tk for tk in chk.split(' ') if tk not in stopwords  ]    )
+        chk = " ".join([tk for tk in chk.split(" ") if tk not in stopwords])
         chk = rm_punct(chk)
-        if len(chk) >2:
+        if len(chk) > 2:
             chk_doc = nlp(chk)
-            chk = ' '.join([token.lemma_ for token in chk_doc])
-            chk = re.sub(r"\s-\s", '-', chk)
+            chk = " ".join([token.lemma_ for token in chk_doc])
+            chk = re.sub(r"\s-\s", "-", chk)
             ncs.append(chk)
 
     ncs = sorted(set(ncs))
     return ncs
+
 
 if __name__ == "__main__":
     kw_model = KeyBERT()
@@ -92,31 +99,31 @@ if __name__ == "__main__":
     # coreper regulation
     data_file = "./data/json/regulation_full.json"
     data = pd.read_json(data_file)
-    data = data[data.author == 'coreper'].copy()
-    data.reset_index(inplace = True, drop = True)
+    data = data[data.author == "coreper"].copy()
+    data.reset_index(inplace=True, drop=True)
 
     # extract title, art and paragraphs
-    data['dbrd'] = data.bread.apply(json.loads)
-    data['ttl']  = data.dbrd.apply(lambda b : f"TITLE {str(b.get('TTL')).zfill(4)}" if b.get('TTL') else '' )
-    data['art']  = data.dbrd.apply(lambda b : f"Article {str(b.get('art')).zfill(4)}" if b.get('art') else '' )
-    data['par']  = data.dbrd.apply(lambda b : f"paragraph {str(b.get('par')).zfill(4)}" if b.get('par') else '' )
+    data["dbrd"] = data.bread.apply(json.loads)
+    data["ttl"] = data.dbrd.apply(lambda b: f"TITLE {str(b.get('TTL')).zfill(4)}" if b.get("TTL") else "")
+    data["art"] = data.dbrd.apply(lambda b: f"Article {str(b.get('art')).zfill(4)}" if b.get("art") else "")
+    data["par"] = data.dbrd.apply(lambda b: f"paragraph {str(b.get('par')).zfill(4)}" if b.get("par") else "")
 
     # group by articles
-    arts = data.groupby(by = ['ttl','art'], as_index=False).agg({'text': '\n'.join}  )
-    pars = data.groupby(by = ['ttl','art', 'par'], as_index=False).agg({'text': '\n'.join}  )
+    arts = data.groupby(by=["ttl", "art"], as_index=False).agg({"text": "\n".join})
+    pars = data.groupby(by=["ttl", "art", "par"], as_index=False).agg({"text": "\n".join})
 
     print("-- extract noun chunks articles")
-    arts['keywords'] = arts.text.apply(lambda txt : ';'.join(extract_noun_chunks(txt)))
-    arts['keywords'] = arts.keywords.str.split(';')
-    arts['keywords_count'] = arts.keywords.apply(lambda lst : len(lst))
+    arts["keywords"] = arts.text.apply(lambda txt: ";".join(extract_noun_chunks(txt)))
+    arts["keywords"] = arts.keywords.str.split(";")
+    arts["keywords_count"] = arts.keywords.apply(lambda lst: len(lst))
 
     print("-- extract noun chunks paragraphs")
-    pars['keywords'] = pars.text.apply(lambda txt : ';'.join(extract_noun_chunks(txt)))
-    pars['keywords'] = pars.keywords.str.split(';')
-    pars['keywords_count'] = pars.keywords.apply(lambda lst : len(lst))
+    pars["keywords"] = pars.text.apply(lambda txt: ";".join(extract_noun_chunks(txt)))
+    pars["keywords"] = pars.keywords.str.split(";")
+    pars["keywords_count"] = pars.keywords.apply(lambda lst: len(lst))
 
     # aggregate all kw
-    keywords = [   ]
+    keywords = []
     for i, d in pars.iterrows():
         keywords += d.keywords
 
@@ -132,15 +139,21 @@ if __name__ == "__main__":
     scaler = MinMaxScaler(feature_range=(50, 5000))  # Scale frequencies to suitable sizes for bubbles
     scaled_frequencies = scaler.fit_transform(np.array(frequencies).reshape(-1, 1)).flatten()
 
-    tsne = TSNE(n_components=2, random_state=0, perplexity = 30)
+    tsne = TSNE(n_components=2, random_state=0, perplexity=30)
     reduced_embeddings = tsne.fit_transform(embeds)
 
     sns.set(style="white")
 
-    fig, ax = plt.subplots(1,1, figsize=(12, 8))
+    fig, ax = plt.subplots(1, 1, figsize=(12, 8))
     # plt.figure(figsize=(12, 8))
     for i, keyword in enumerate(tokens[:100]):
-        plt.scatter(reduced_embeddings[i, 0], reduced_embeddings[i, 1], s=scaled_frequencies[i], label=keyword, alpha = 0.5)
+        plt.scatter(
+            reduced_embeddings[i, 0],
+            reduced_embeddings[i, 1],
+            s=scaled_frequencies[i],
+            label=keyword,
+            alpha=0.5,
+        )
         plt.text(reduced_embeddings[i, 0], reduced_embeddings[i, 1], keyword, fontsize=9)
 
     # plt.xlabel('t-SNE Feature 1')
@@ -148,7 +161,7 @@ if __name__ == "__main__":
 
     ax.tick_params(bottom=False)
 
-    plt.title('Keywords Visualization based on Similarity and Frequency')
+    plt.title("Keywords Visualization based on Similarity and Frequency")
     sns.despine(left=True, bottom=True)
     plt.tight_layout()
     plt.show()
@@ -158,16 +171,16 @@ if __name__ == "__main__":
     # --------------------------------------------
     from sklearn.manifold import TSNE
 
-    df = pd.read_csv('output/embedded_1k_reviews.csv')
+    df = pd.read_csv("output/embedded_1k_reviews.csv")
     matrix = df.ada_embedding.apply(eval).to_list()
 
     # Create a t-SNE model and transform the data
-    tsne = TSNE(n_components=2, perplexity=15, random_state=42, init='random', learning_rate=200)
+    tsne = TSNE(n_components=2, perplexity=15, random_state=42, init="random", learning_rate=200)
     vis_dims = tsne.fit_transform(matrix)
 
     colors = ["red", "darkorange", "gold", "turquiose", "darkgreen"]
-    x = [x for x,y in vis_dims]
-    y = [y for x,y in vis_dims]
+    x = [x for x, y in vis_dims]
+    y = [y for x, y in vis_dims]
     color_indices = df.Score.values - 1
 
     colormap = matplotlib.colors.ListedColormap(colors)
@@ -177,26 +190,28 @@ if __name__ == "__main__":
     # extract noun chunks with spacy
     print()
     kws = []
-    for k in range(1,3):
-        ngrams = (k,k)
-        kws += kw_model.extract_keywords(text,
-                keyphrase_ngram_range=ngrams,
-                stop_words='english',
-                use_mmr=True, diversity=0.1,
-                top_n = 10
-            )
-    tokens = sorted([ kw[0] for kw   in  kws if (kw[1] > 0.25)])
+    for k in range(1, 3):
+        ngrams = (k, k)
+        kws += kw_model.extract_keywords(
+            text,
+            keyphrase_ngram_range=ngrams,
+            stop_words="english",
+            use_mmr=True,
+            diversity=0.1,
+            top_n=10,
+        )
+    tokens = sorted([kw[0] for kw in kws if (kw[1] > 0.25)])
     kws = []
     for token in tokens:
-        token = ' '.join( [ tk for tk in token.split(' ') if tk not in stopwords    ]    )
-        if len(token) >1:
+        token = " ".join([tk for tk in token.split(" ") if tk not in stopwords])
+        if len(token) > 1:
             kws.append(token)
 
     kws = sorted(list(set(kws)))
 
     tokens = sorted(set(ncs + kws))
 
-    arts.loc[i,'kw'] = ';'.join(sorted(list(set(ncs + kws))))
+    arts.loc[i, "kw"] = ";".join(sorted(list(set(ncs + kws))))
 
     kws = sorted(list(set(ncs + kws)))
     kw_embeddings = [get_embedding(kw) for kw in tokens]
@@ -211,32 +226,28 @@ if __name__ == "__main__":
     top_n = 20  # Adjust based on your needs
     top_n_chunks = sorted_chunks[:top_n]
 
-
-
     # --------------------------------------------------------------------------------
     # Keyword extraction with KeyBert
     # --------------------------------------------------------------------------------
     for i, art in arts.iterrows():
         kws = []
-        for k in range(1,4):
-            ngrams = (k,k)
-            kws += kw_model.extract_keywords(art.text,
-                    keyphrase_ngram_range=ngrams,
-                    stop_words='english',
-                    use_mmr=True, diversity=0.7,
-                    top_n = 20
-                )
-        arts.loc[i,'kws'] = ';'.join([ kw[0] for kw   in  kws  ])
-
-
-
+        for k in range(1, 4):
+            ngrams = (k, k)
+            kws += kw_model.extract_keywords(
+                art.text,
+                keyphrase_ngram_range=ngrams,
+                stop_words="english",
+                use_mmr=True,
+                diversity=0.7,
+                top_n=20,
+            )
+        arts.loc[i, "kws"] = ";".join([kw[0] for kw in kws])
 
     # --------------------------------------------------------------------------------
     # rank noun chunks with embeddings similarity
     # --------------------------------------------------------------------------------
 
     # Load the model
-
 
     # Process the text
     text = arts.loc[7].text
@@ -269,11 +280,6 @@ if __name__ == "__main__":
     for chunk, score in top_n_chunks:
         print(f"{chunk}: {score}")
 
-
-
-
-
-
     import gensim
     import nltk
     from gensim import corpora
@@ -293,8 +299,7 @@ if __name__ == "__main__":
         return result
 
     def preprocess(doc):
-        return ' '.join( [token.text for token in doc if token.pos_ in ('NOUN', 'ADJ', 'VERB') and not token.is_stop])
-
+        return " ".join([token.text for token in doc if token.pos_ in ("NOUN", "ADJ", "VERB") and not token.is_stop])
 
     def get_topic_lists(texts, num_topics, words_per_topic):
         # Preprocess the documents
@@ -304,12 +309,7 @@ if __name__ == "__main__":
         corpus = [dictionary.doc2bow(doc) for doc in texts]
 
         # Build the LDA model
-        lda_model = LdaModel(
-                corpus,
-                num_topics=num_topics,
-                id2word=dictionary,
-                passes=25
-            )
+        lda_model = LdaModel(corpus, num_topics=num_topics, id2word=dictionary, passes=25)
 
         # Retrieve the topics and their corresponding words
         topics = lda_model.print_topics(num_words=words_per_topic)
@@ -318,14 +318,12 @@ if __name__ == "__main__":
         topics_ls = []
         for topic in topics:
             words = topic[1].split("+")
-            topic_words = [word.split("*")[1].replace('"', '').strip() for word in words]
+            topic_words = [word.split("*")[1].replace('"', "").strip() for word in words]
             topics_ls.append(topic_words)
 
         return topics_ls
 
-
     def topics_summary(llm, topics):
-
         string_lda = ""
         for list in topics:
             string_lda += str(list) + "\n"
@@ -353,11 +351,9 @@ if __name__ == "__main__":
         # LLM call
         prompt_template = ChatPromptTemplate.from_template(template_string)
         chain = LLMChain(llm=llm, prompt=prompt_template)
-        response = chain.invoke({ "string_lda" : string_lda, "num_topics" : num_topics })
+        response = chain.invoke({"string_lda": string_lda, "num_topics": num_topics})
 
         return response
-
-
 
     texts = arts.text.values
 

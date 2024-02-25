@@ -1,11 +1,12 @@
-'''
+"""
 embeds final four
 # TODO
-'''
+"""
 import os, re, json, glob
 from datetime import timedelta
 import pandas as pd
 from tqdm import tqdm
+
 pd.options.display.max_columns = 100
 pd.options.display.max_rows = 60
 pd.options.display.max_colwidth = 100
@@ -16,9 +17,11 @@ import numpy as np
 import typing as t
 import argparse
 import uuid
+
 # Local
 import sys
-sys.path.append('./script')
+
+sys.path.append("./script")
 from weaviate_utils import *
 
 # weaviate
@@ -27,14 +30,14 @@ import weaviate.classes as wvc
 from weaviate.classes import Filter
 
 import warnings
+
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 warnings.filterwarnings("ignore", category=ResourceWarning)
 
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser()
-    parser.add_argument("--location", help="local or cloud", default = 'local')
+    parser.add_argument("--location", help="local or cloud", default="local")
     parser.add_argument("--collection_name", help="collection_name")
     parser.add_argument("--dataset", help="dataset in ./data/rag/*.json")
     args = parser.parse_args()
@@ -49,9 +52,8 @@ if __name__ == "__main__":
         print(f"client is live and ready on {cluster_location}")
     assert client.is_live() & client.is_ready(), "client is not live or not ready"
 
-
     data = pd.read_json(input_file)
-    print("-- loaded ",data.shape[0], "items")
+    print("-- loaded ", data.shape[0], "items")
 
     collection = client.collections.get(collection_name)
     print(f"collection {collection_name} has :{count_collection(collection)} records")
@@ -60,10 +62,8 @@ if __name__ == "__main__":
     step = 1000
     while start < data.shape[0]:
         print(start)
-        rng = range(start, min([start+ step,data.shape[0]]))
-        batch_result = collection.data.insert_many(
-            data.loc[rng].to_dict(orient = 'records')
-        )
+        rng = range(start, min([start + step, data.shape[0]]))
+        batch_result = collection.data.insert_many(data.loc[rng].to_dict(orient="records"))
         if batch_result.has_errors:
             print(list(batch_result.errors))
 
