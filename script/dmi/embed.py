@@ -65,8 +65,6 @@ if __name__ == "__main__":
     data["uuid"] = [str(uuid.uuid4()) for i in range(len(data))]
     data = data[["uuid", "author_full", "token_count", "title", "numbering", "author", "text"]].copy()
 
-    assert 1 == 2
-
     # wvc.Property(name='author_full', data_type=wvc.DataType.TEXT_ARRAY, skip_vectorization=True),
     # wvc.Property(name='token_count', data_type=wvc.DataType.INT, skip_vectorization=True),
     # wvc.Property(name='title', data_type=wvc.DataType.TEXT, vectorize_property_name = False),

@@ -7,7 +7,6 @@ question = "Can you summarize this morning's meetings?"
 # This can be retrieved in a retrieval step
 context = "During this morning's meeting, we solved all world conflict."
 
-
 messages = [
     {
         "role": "system",

@@ -31,7 +31,6 @@ if __name__ == "__main__":
     )
 
     db = Database()
-    # active_connections = db.engine.pool.status().checkedout()
 
     data = pd.read_sql(
         f"""

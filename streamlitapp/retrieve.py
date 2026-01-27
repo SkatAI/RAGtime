@@ -23,9 +23,7 @@ from streamlit_weaviate_utils import *
 
 
 class Retrieve(object):
-    # def __init__(self, query, search_type, model, number_elements, temperature, author):
     def __init__(self, query, search_params):
-        # collection_name = "AIActKnowledgeBase"
         self.authors = {
             "all versions": None,
             "2024 coreper": "coreper",

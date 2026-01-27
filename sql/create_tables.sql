@@ -24,3 +24,5 @@ CREATE TABLE live_qa (
     created_at TIMESTAMP default now(),
     modified_at TIMESTAMP default now()
 );
+
+Alter table live_qa ADD COLUMN prompt TEXT default '';

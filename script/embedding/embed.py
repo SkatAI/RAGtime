@@ -58,6 +58,12 @@ if __name__ == "__main__":
     collection = client.collections.get(collection_name)
     print(f"collection {collection_name} has :{count_collection(collection)} records")
 
+    # assert collection properties exist in the dataset
+    config = collection.config.get()
+    property_names = [prop.name for prop in config.properties]
+
+    assert sorted(property_names) == sorted(data.columns)
+
     start = 0
     step = 1000
     while start < data.shape[0]:

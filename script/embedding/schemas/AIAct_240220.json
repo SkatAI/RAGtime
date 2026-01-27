@@ -34,5 +34,11 @@
     "dataType": "text",
     "skip_vectorization": true,
     "vectorize_property_name": false
+  },
+  {
+    "name": "proposers",
+    "dataType": "text",
+    "skip_vectorization": false,
+    "vectorize_property_name": false
   }
 ]

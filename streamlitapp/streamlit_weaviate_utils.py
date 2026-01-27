@@ -10,7 +10,6 @@ import weaviate.classes as wvc
 def count_collection(collection):
     return collection.aggregate.over_all(total_count=True).total_count
 
-
 def list_collections(client):
     for collection_name in client.collections.list_all().keys():
         props = [
